@@ -1,4 +1,4 @@
-# Temas test
+# Temas
 - [[#Unidad 2]]
 	- [[#Información]]
 		- [[#Concepto de información]]
