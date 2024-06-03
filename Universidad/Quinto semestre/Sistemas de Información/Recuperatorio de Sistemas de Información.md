@@ -167,13 +167,13 @@ Facilitar la gestión de los recursos de la empresa integrando y coordinando la 
 - **Capacidad de acceso a información:** cuentan con generadores de reportes avanzados que permiten el análisis y la visualización de datos. OLAP (Procesamiento Analítico en Línea) facilita el análisis multidimensional de datos.
 - **Otras herramientas:** incluyen funcionalidades de seguridad para proteger los datos y las operaciones del sistema. Ofrecen ayuda en línea para asistencia inmediata y cuentan con auditorias de bases de datos.
 ### Criterios de selección e implantación
-- Funcionalidad (módulos, carencias)
-- Criterios técnicos (plataforma, DB, XML, EDI, lenguajes y herramientas)
-- Criterios económicos (licencia, implantación, consultoría, análisis ROI)
-- Criterios organizativos (cambio áreas)
-- Facilidad de uso
-- Proveedores (fabricante + representantes)
-- Referencias de implantación (del mismo sector)
+- Funcionalidad (módulos, carencias).
+- Criterios técnicos (plataforma, DB, XML, EDI, lenguajes y herramientas).
+- Criterios económicos (licencia, implantación, consultoría, análisis ROI).
+- Criterios organizativos (cambio áreas).
+- Facilidad de uso.
+- Proveedores (fabricante + representantes).
+- Referencias de implantación (del mismo sector).
 ### Pasos para la implantación
 1. **Estudio técnico-funcional del proyecto.**
 	- Restricciones económicas.
