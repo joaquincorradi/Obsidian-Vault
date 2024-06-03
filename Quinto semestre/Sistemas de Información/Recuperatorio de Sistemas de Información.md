@@ -72,13 +72,10 @@ Datos procesados en forma significativa para el receptor, con valor real y perce
 - Economicidad.
 ### Jerarquía
 
-| Nivel jerárquico | Características | Fuentes  | Decisiones                                                                                                                                                       |          |     |
-| ---------------- | --------------- | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | --- |
-| Estratégico      |                 | Tables   | Are                                                                                                                                                              | Cool     |     |
-| col 1 is         | left-aligned    | $1600    | <table> <tr> <td class="b">Cell 1</td> <td class="i">Cell 2</td> <td>Cell 3</td> </tr> <tr> <td colspan="2">&nbsp;</td> <td>Cell 3</td> </tr> <tr></tr> </table> |          |     |
-| col 2 is         | centered        | $12      |                                                                                                                                                                  |          |     |
-| col 3 is         | right-aligned   | $1       |                                                                                                                                                                  | Externas |     |
-| Operativo        |                 | Internas |                                                                                                                                                                  |          |     |
+| Nivel jerárquico | Características                                                                                                                                                                                                                                                                                                                           | Fuentes  | Decisiones |
+| ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------- |
+| Estratégico      | <table><tr></tr><th>Alcance</th><th>Amplio</th><tr></tr><tr></tr><th>Periodo</th><th>Predictivo</th><tr></tr><tr></tr><th>Precisión</th><th>Baja</th><tr></tr><tr></tr><th>Frecuencia</th><th>Baja</th><tr></tr><tr></tr><th>Expectativa</th><th>Inesperada</th><tr></tr><tr></tr><th>Agregación</th><th>Condensada</th><tr></tr></table> | Externas |            |
+| Operativo        | <table> <tr> <td class="b">Cell 1</td> <td class="i">Cell 2</td> <td>Cell 3</td> </tr> <tr> <td colspan="2">&nbsp;</td> <td>Cell 3</td> </tr> <tr></tr> </table>                                                                                                                                                                          | Internas |            |
 
 ## Sistemas de información
 ### Concepto de sistemas de información
