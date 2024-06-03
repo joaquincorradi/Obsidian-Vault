@@ -25,4 +25,14 @@
 	- Propósito:
 		- El propósito de un sistema de información es el de procesar los datos con el fin de generar una salida que sea útil para la organización y que le permita mejorar la eficiencia, eficacia y la competitividad.
 	- Modalidades de procesamiento:
-		- 
+		- Interactivo (online, real time): Actualización automática en el momento de la trasacción. Por ejemplo, un cajero automático. 
+		- No interactivo (batch, lotes): actualización diferida por lotes cada un tiempo determinado. Por ejemplo, facturación de servicios.
+
+1. Explicar cada uno de los siguientes sistemas de información
+
+| Sistema                               | Nivel       | Objetivo |
+| ------------------------------------- | ----------- | -------- |
+| TPS (Transactional Processing system) | Operativo   |          |
+| MIS (Management Information System)   | Táctico     |          |
+| DSS (Decision Support System)         | Táctico     |          |
+| EIS (Executive Information System)    | Estratégico |          |
