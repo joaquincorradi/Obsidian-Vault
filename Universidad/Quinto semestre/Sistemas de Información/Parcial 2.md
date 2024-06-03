@@ -9,4 +9,18 @@
 | Referencia de implantación en otras empresas    | Criterio de selección             |
 
 2. Mencionar cinco sistemas ERP disponibles en el mercado.
-	1. 
+	1. Tango Gestión
+	2. SAP ERP
+	3. Odoo
+	4. ERPNext
+	5. Microsoft Dynamics 365
+
+3. Ordenar los pasos para la selección de un sistema ERP.
+
+| Orden | Pasos                                  |
+| ----- | -------------------------------------- |
+| 2     | Elección ERP                           |
+| 5     | Mantenimiento                          |
+| 3     | Desarrollo progresivo                  |
+| 4     | Tunning o parametrización              |
+| 1     | Estudio técnico-funcional del proyecto |
