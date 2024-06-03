@@ -16,7 +16,14 @@
 
 | V o F | Afirmación                                                                                                                                                                                                                                                      |
 | ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|       | Un sistemas de infomacion es un componente de un sistema administrativo                                                                                                                                                                                         |
-|       | Los primeros sistemas informáticos surgieron para dar respuesta al nivel estratégico ↑.                                                                                                                                                                         |
-|       | La función de un sistema DSS ─ es la de brindar informes, previamente diseñados, para apoyar a la toma de decisiones programadas sobre la planificación y el control de la gestión operativa de la organización, tomando como base la información de los TPS ↓. |
-|       | El atributos de la información referida a la relevancia refiere a que la información debe ser útil para quien toma dec                                                                                                                                          |
+| V     | Un sistemas de infomacion es un componente de un sistema administrativo                                                                                                                                                                                         |
+| F     | Los primeros sistemas informáticos surgieron para dar respuesta al nivel estratégico ↑.                                                                                                                                                                         |
+| F     | La función de un sistema DSS ─ es la de brindar informes, previamente diseñados, para apoyar a la toma de decisiones programadas sobre la planificación y el control de la gestión operativa de la organización, tomando como base la información de los TPS ↓. |
+| V     | El atributos de la información referida a la relevancia refiere a que la información debe ser útil para quien toma decisiones.                                                                                                                                  |
+
+4. Marcar verdadero o falso
+
+| V o F | Afirmación                                                                   |
+| ----- | ---------------------------------------------------------------------------- |
+| V     | La asignatura de Sistemas de Información acepta promoción indirecta          |
+| F     | La asignatura de Sistemas de Información acepta la modalidad de exámen libre |
