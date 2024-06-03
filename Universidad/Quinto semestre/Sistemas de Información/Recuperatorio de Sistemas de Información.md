@@ -1,4 +1,4 @@
-# Temas
+# Tabla de contenidos
 - [[#Unidad 2]]
 	- [[#Información]]
 		- [[#Concepto de información]]
@@ -13,10 +13,10 @@
 		- [[#Modalidades de procesamiento]]
 		- [[#Niveles de organización]]
 	- [[#Clasificación de los sistemas de información]]
-		- [[#TPS (Transaction Processing Systems)]]
+		- [[#ESS/EIS (Executive Support/Information Systems)]]
 		- [[#MIS (Management Information Systems)]]
 		- [[#DSS (Decision Support Systems)]]
-		- [[#ESS/EIS (Executive Support/Information Systems)]]
+		- [[#TPS (Transaction Processing Systems)]]
 - [[#Unidad 3]]
 	- [[#ERP (Enterprise Resourse Planning)]]
 		- [[#Concepto de ERP]]
@@ -28,8 +28,6 @@
 		- [[#Criterios de selección e implantación]]
 		- [[#Pasos para la implantación]]
 	- [[#Fabricantes y productos ERP]]
-- [[#Unidad 4]]
-	- Sistemas funcionales de información
 - [[#Unidad 9]]
 	- [[#SIPOC]]
 		- [[#Concepto de SIPOC]]
@@ -72,10 +70,10 @@ Datos procesados en forma significativa para el receptor, con valor real y perce
 - Economicidad.
 ### Jerarquía
 
-| Nivel jerárquico | Características                                                                                                                                                                                                                                                                     | Fuentes  | Decisiones |
-| ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------- |
-| Estratégico ↑    | <table><tr><th>Alcance</th><td>Amplio</td></tr><tr><th>Periodo</th><td>Predictivo</td></tr><tr><th>Precisión</th><td>Baja</td></tr><tr><th>Frecuencia</th><td>Baja</td></tr><tr><th>Expectativa</th><td>Inesperada</td></tr><tr><th>Agregación</th><td>Condensada</td></tr></table> | Externas |            |
-| Operativo ↓      | <table><tr><th>Alcance</th><td>Definido</td></tr><tr><th>Periodo</th><td>Histórico</td></tr><tr><th>Precisión</th><td>Alta</td></tr><tr><th>Frecuencia</th><td>Alta</td></tr><tr><th>Expectativa</th><td>Anticipada</td></tr><tr><th>Agregación</th><td>Detallada</td></tr></table> | Internas |            |
+| Nivel jerárquico  | Características                                                                                                                                                                                                                                                                     | Fuentes  | Decisiones                                                                                                                          |
+| ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| **Estratégico ↑** | <table><tr><th>Alcance</th><td>Amplio</td></tr><tr><th>Periodo</th><td>Predictivo</td></tr><tr><th>Precisión</th><td>Baja</td></tr><tr><th>Frecuencia</th><td>Baja</td></tr><tr><th>Expectativa</th><td>Inesperada</td></tr><tr><th>Agregación</th><td>Condensada</td></tr></table> | Externas | <table> <tr> <td> No programadas </td> </tr> <tr> <td> No estructuradas </td> </tr> <tr> <td> Poca información </td> </tr> </table> |
+| **Operativo ↓**   | <table><tr><th>Alcance</th><td>Definido</td></tr><tr><th>Periodo</th><td>Histórico</td></tr><tr><th>Precisión</th><td>Alta</td></tr><tr><th>Frecuencia</th><td>Alta</td></tr><tr><th>Expectativa</th><td>Anticipada</td></tr><tr><th>Agregación</th><td>Detallada</td></tr></table> | Internas | <table> <tr> <td> Programadas </td> </tr> <tr> <td> Estructuradas </td> </tr> <tr> <td> Mucha información </td> </tr> </table>      |
 
 ## Sistemas de información
 ### Concepto de sistemas de información
@@ -199,8 +197,6 @@ Facilitar la gestión de los recursos de la empresa integrando y coordinando la 
 - Odoo
 - ERPNext
 
----
-# Unidad 4
 ---
 # Unidad 9
 ## SIPOC
