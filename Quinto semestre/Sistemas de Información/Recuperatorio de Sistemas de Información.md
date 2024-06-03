@@ -72,9 +72,10 @@ Datos procesados en forma significativa para el receptor, con valor real y perce
 - Economicidad.
 ### Jerarquía
 
-|     |     |
-| --- | --- |
-|     |     |
+| Nivel jerárquico | Características   | Fuentes  | Decisiones |
+| ---------------- | ----------------- | -------- | ---------- |
+| Estratégico      | <table><></table> | Externas |            |
+| Operativo        |                   | Internas |            |
 
 ## Sistemas de información
 ### Concepto de sistemas de información
