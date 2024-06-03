@@ -6,7 +6,7 @@
 
 **Ejemplo:** Imagina que el director de una escuela quiere saber cuántos estudiantes están inscritos en cada clase y cómo están rindiendo. Un EIS le mostraría gráficos y datos clave para que pueda ver esta información de un vistazo.
 
-### 2. MIS (Management Information System) - Sistema de Información Gerencial
+### 2. MIS ─ (Management Information System) - Sistema de Información Gerencial
 
 **Qué es:** Es un sistema que ayuda a los gerentes a planificar, organizar y dirigir sus actividades.
 
@@ -14,7 +14,7 @@
 
 **Ejemplo:** Piensa en el gerente de una tienda de ropa que necesita saber cuáles son los productos más vendidos. Un MIS le daría un informe con esta información.
 
-### 3. DSS (Decision Support System) - Sistema de Apoyo a la Decisión
+### 3. DSS ─ (Decision Support System) - Sistema de Apoyo a la Decisión
 
 **Qué es:** Es un sistema que ayuda a las personas a tomar decisiones más complejas, a menudo usando modelos y análisis avanzados.
 
@@ -22,7 +22,7 @@
 
 **Ejemplo:** Imagina que un entrenador de fútbol está decidiendo cuál estrategia usar en un partido. Un DSS podría simular diferentes estrategias y mostrar cuál es la más probable que lleve al equipo a ganar.
 
-### 4. TPS (Transaction Processing System) - Sistema de Procesamiento de Transacciones
+### 4. TPS ↓ (Transaction Processing System) - Sistema de Procesamiento de Transacciones
 
 **Qué es:** Es un sistema que gestiona y registra todas las transacciones diarias de una empresa.
 
@@ -31,7 +31,7 @@
 **Ejemplo:** Piensa en el sistema de una tienda que registra cada venta que se hace en la caja. Eso es un TPS, que guarda la información de cada transacción para llevar un registro preciso de las ventas.
 
 ### Resumen Visual:
-- **EIS:** Ayuda a los jefes a ver información clave rápidamente.
+- **EIS:** Ayuda a los ejecutivos a ver información clave rápidamente.
 - **MIS:** Ayuda a los gerentes a planificar y organizar usando informes.
 - **DSS:** Ayuda a tomar decisiones complejas con análisis avanzados.
 - **TPS:** Registra y gestiona las transacciones diarias.
