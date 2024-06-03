@@ -1,5 +1,5 @@
 # Tabla de contenidos
-- [[#Unidad 2]]
+- [[#Unidad 2]] ([[Parcial 1]])
 	- [[#Información]]
 		- [[#Concepto de información]]
 		- [[#Tipos]]
@@ -17,7 +17,7 @@
 		- [[#MIS (Management Information Systems)]]
 		- [[#DSS (Decision Support Systems)]]
 		- [[#TPS (Transaction Processing Systems)]]
-- [[#Unidad 3]]
+- [[#Unidad 3]] ([[Parcial 2]])
 	- [[#ERP (Enterprise Resourse Planning)]]
 		- [[#Concepto de ERP]]
 		- [[#Objetivo]]
@@ -28,7 +28,7 @@
 		- [[#Criterios de selección e implantación]]
 		- [[#Pasos para la implantación]]
 	- [[#Fabricantes y productos ERP]]
-- [[#Unidad 9]]
+- [[#Unidad 9]] ([[Parcial 3]])
 	- [[#SIPOC]]
 		- [[#Concepto de SIPOC]]
 		- [[#¿Cuándo es útil?]]
