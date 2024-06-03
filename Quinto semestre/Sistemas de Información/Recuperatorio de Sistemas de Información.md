@@ -70,6 +70,12 @@ Datos procesados en forma significativa para el receptor, con valor real y perce
 - Oportunida.
 - Verificabilidad.
 - Economicidad.
+### Jerarquía
+
+|     |     |
+| --- | --- |
+|     |     |
+
 ## Sistemas de información
 ### Concepto de sistemas de información
 Un sistema de información se define como un conjunto de partes interrelacionadas que permite *capturar*, *procesar*, *almacenar* y *distribuir* información para apoyar las decisiones y el control de una organización.
