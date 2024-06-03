@@ -112,6 +112,8 @@ Las modalidades de procesamiento indican cómo y cuándo se actualizan los datos
 ## Clasificación de los sistemas de información
 
 ![[tipos_niveles.png]]
+
+[[Clasificación de los sitemas de información | Explicado de forma sencilla]]
 ### ESS/EIS (Executive Support/Information Systems)
 - Objetivo: Combinar DSS + SE para el proceso de toma de decisiones no programada, abordando problemas no estructurados.
 - Nivel: estratégico ↑
@@ -121,7 +123,7 @@ Sistema de información gerencial.
 - Nivel: táctico ─
 ### DSS (Decision Support Systems)
 Sistema de soporte a decisiones
-- Objetivo: manejar información para la toma de decisiones semiestructuradas.
+- Objetivo: manejar información para la toma de decisiones semiestructuradas y no programadas (no rutinarias).
 - Nivel: táctico ─
 ### TPS (Transaction Processing Systems)
 Sistema de procesamiento de transacciones.
