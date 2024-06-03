@@ -5,6 +5,7 @@
 		- [[#Tipos]]
 		- [[#Funciones de la información]]
 		- [[#Atributos de la información]]
+		- [[#Jerarquía]]
 	- [[#Sistemas de información]]
 		- [[#Concepto de sistemas de información]]
 		- [[#Componentes]]
