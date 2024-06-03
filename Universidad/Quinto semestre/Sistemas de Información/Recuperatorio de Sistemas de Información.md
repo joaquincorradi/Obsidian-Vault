@@ -74,8 +74,8 @@ Datos procesados en forma significativa para el receptor, con valor real y perce
 
 | Nivel jerárquico | Características                                                                                                                                                                                                                                                                     | Fuentes  | Decisiones |
 | ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------- |
-| Estratégico ⬆️   | <table><tr><th>Alcance</th><td>Amplio</td></tr><tr><th>Periodo</th><td>Predictivo</td></tr><tr><th>Precisión</th><td>Baja</td></tr><tr><th>Frecuencia</th><td>Baja</td></tr><tr><th>Expectativa</th><td>Inesperada</td></tr><tr><th>Agregación</th><td>Condensada</td></tr></table> | Externas |            |
-| Operativo ⬇️     | <table><tr><th>Alcance</th><td>Definido</td></tr><tr><th>Periodo</th><td>Histórico</td></tr><tr><th>Precisión</th><td>Alta</td></tr><tr><th>Frecuencia</th><td>Alta</td></tr><tr><th>Expectativa</th><td>Anticipada</td></tr><tr><th>Agregación</th><td>Detallada</td></tr></table> | Internas |            |
+| Estratégico ↑    | <table><tr><th>Alcance</th><td>Amplio</td></tr><tr><th>Periodo</th><td>Predictivo</td></tr><tr><th>Precisión</th><td>Baja</td></tr><tr><th>Frecuencia</th><td>Baja</td></tr><tr><th>Expectativa</th><td>Inesperada</td></tr><tr><th>Agregación</th><td>Condensada</td></tr></table> | Externas |            |
+| Operativo ↓      | <table><tr><th>Alcance</th><td>Definido</td></tr><tr><th>Periodo</th><td>Histórico</td></tr><tr><th>Precisión</th><td>Alta</td></tr><tr><th>Frecuencia</th><td>Alta</td></tr><tr><th>Expectativa</th><td>Anticipada</td></tr><tr><th>Agregación</th><td>Detallada</td></tr></table> | Internas |            |
 
 ## Sistemas de información
 ### Concepto de sistemas de información
@@ -114,21 +114,21 @@ Las modalidades de procesamiento indican cómo y cuándo se actualizan los datos
 ## Clasificación de los sistemas de información
 
 ![[tipos_niveles.png]]
-### TPS (Transaction Processing Systems)
-Sistema de procesamiento de transacciones.
-- Objetivo: mejorar eficacia y eficiencia en el desarrollo de las actividades rutinarias de la organización.
-- Nivel: operativo.
+### ESS/EIS (Executive Support/Information Systems)
+- Objetivo: Combinar DSS + SE para el proceso de toma de decisiones no programada, abordando problemas no estructurados.
+- Nivel: estratégico ↑
 ### MIS (Management Information Systems)
 Sistema de información gerencial.
 - Objetivo: manejar datos para la toma de decisiones programada y resolución de problemas estructurados.
-- Nivel: táctico.
+- Nivel: táctico ─
 ### DSS (Decision Support Systems)
 Sistema de soporte a decisiones
 - Objetivo: manejar información para la toma de decisiones semiestructuradas.
-- Nivel: táctico.
-### ESS/EIS (Executive Support/Information Systems)
-- Objetivo: Combinar DSS + SE para el proceso de toma de decisiones no programada, abordando problemas no estructurados.
-- Nivel: estratégico.
+- Nivel: táctico ─
+### TPS (Transaction Processing Systems)
+Sistema de procesamiento de transacciones.
+- Objetivo: mejorar eficacia y eficiencia en el desarrollo de las actividades rutinarias de la organización.
+- Nivel: operativo ↓
 
 ---
 # Unidad 3
