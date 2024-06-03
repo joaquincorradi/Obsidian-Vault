@@ -28,7 +28,7 @@
 		- Interactivo (online, real time): Actualización automática en el momento de la trasacción. Por ejemplo, un cajero automático. 
 		- No interactivo (batch, lotes): actualización diferida por lotes cada un tiempo determinado. Por ejemplo, facturación de servicios.
 
-1. Explicar cada uno de los siguientes sistemas de información
+3. Explicar cada uno de los siguientes sistemas de información
 
 | Sistema                               | Nivel       | Objetivo                                                                              |
 | ------------------------------------- | ----------- | ------------------------------------------------------------------------------------- |
@@ -36,3 +36,13 @@
 | MIS (Management Information System)   | Táctico     | Ayuda a los gerentes a planificar y organizar usando informes                         |
 | DSS (Decision Support System)         | Táctico     | Ayuda a tomar decisiones complejas con análisis avanzado.                             |
 | EIS (Executive Information System)    | Estratégico | Ayuda a los ejecutivos a ver la información clave rápidamente.                        |
+
+4. Explicar cinco criterios de selección de los sistemas ERP. 
+
+| Criterio                    | Explicación                                                                 |
+| --------------------------- | --------------------------------------------------------------------------- |
+| Funcionalidad               | Existencia de ciertos módulos y carencias.                                  |
+| Económicos                  | Costo de las licencias, consultoría.                                        |
+| Referencias de implantación | Experiencias con el software por parte de la competencia.                   |
+| Organizativo                | Capacidad para adaptarse a los cambios de la estructura en la organización. |
+| Facilidad de uso            |                                                                             |
