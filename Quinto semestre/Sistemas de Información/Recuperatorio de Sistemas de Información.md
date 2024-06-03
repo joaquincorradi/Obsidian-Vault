@@ -72,10 +72,10 @@ Datos procesados en forma significativa para el receptor, con valor real y perce
 - Economicidad.
 ### Jerarquía
 
-| Nivel jerárquico | Características   | Fuentes  | Decisiones |
-| ---------------- | ----------------- | -------- | ---------- |
-| Estratégico      | <table><></table> | Externas |            |
-| Operativo        |                   | Internas |            |
+| Nivel jerárquico | Características                                                                                                                                                                                                                                                                                                                                                                       | Fuentes  | Decisiones |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------- |
+| Estratégico      | <table>  <br>  <tr>  <br>    <th>Company</th>  <br>    <th>Contact</th>  <br>    <th>Country</th>  <br>  </tr>  <br>  <tr>  <br>    <td>Alfreds Futterkiste</td>  <br>    <td>Maria Anders</td>  <br>    <td>Germany</td>  <br>  </tr>  <br>  <tr>  <br>    <td>Centro comercial Moctezuma</td>  <br>    <td>Francisco Chang</td>  <br>    <td>Mexico</td>  <br>  </tr>  <br></table> | Externas |            |
+| Operativo        |                                                                                                                                                                                                                                                                                                                                                                                       | Internas |            |
 
 ## Sistemas de información
 ### Concepto de sistemas de información
