@@ -72,10 +72,10 @@ Datos procesados en forma significativa para el receptor, con valor real y perce
 - Economicidad.
 ### Jerarquía
 
-| Nivel jerárquico | Características                                                                                                                                                                                                                                                                                   | Fuentes  | Decisiones |
-| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------- |
-| Estratégico      | <table><tr></tr><th>Alcance</th><td>Amplio</td><tr></tr></tr><th>Periodo</th><td>Predictivo</td></tr></tr><th>Precisión</th><td>Baja</td></tr></tr><th>Frecuencia</th><td>Baja</td></tr></tr><th>Expectativa</th><td>Inesperada</td></tr></tr><th>Agregación</th><td>Condensada</td></tr></table> | Externas |            |
-| Operativo        | <table><tr></tr><th>Alcance</th><td>Definido</td><tr></tr></tr><th>Periodo</th><td>Histórico</td></tr></tr><th>Precisión</th><td>Alta</td></tr></tr><th>Frecuencia</th><td>Alta</td></tr></tr><th>Expectativa</th><td>Anticipada</td></tr></tr><th>Agregación</th><td>Detallada</td></tr></table> | Internas |            |
+| Nivel jerárquico | Características                                                                                                                                                                                                                                                                     | Fuentes  | Decisiones |
+| ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ---------- |
+| Estratégico ⬆️   | <table><tr><th>Alcance</th><td>Amplio</td></tr><tr><th>Periodo</th><td>Predictivo</td></tr><tr><th>Precisión</th><td>Baja</td></tr><tr><th>Frecuencia</th><td>Baja</td></tr><tr><th>Expectativa</th><td>Inesperada</td></tr><tr><th>Agregación</th><td>Condensada</td></tr></table> | Externas |            |
+| Operativo ⬇️     | <table><tr><th>Alcance</th><td>Definido</td></tr><tr><th>Periodo</th><td>Histórico</td></tr><tr><th>Precisión</th><td>Alta</td></tr><tr><th>Frecuencia</th><td>Alta</td></tr><tr><th>Expectativa</th><td>Anticipada</td></tr><tr><th>Agregación</th><td>Detallada</td></tr></table> | Internas |            |
 
 ## Sistemas de información
 ### Concepto de sistemas de información
