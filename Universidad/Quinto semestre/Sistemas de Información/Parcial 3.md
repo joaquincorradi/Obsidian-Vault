@@ -30,9 +30,9 @@
 
 1. Explicar cada uno de los siguientes sistemas de información
 
-| Sistema                               | Nivel       | Objetivo |
-| ------------------------------------- | ----------- | -------- |
-| TPS (Transactional Processing system) | Operativo   |          |
-| MIS (Management Information System)   | Táctico     |          |
-| DSS (Decision Support System)         | Táctico     |          |
-| EIS (Executive Information System)    | Estratégico |          |
+| Sistema                               | Nivel       | Objetivo                                                                              |
+| ------------------------------------- | ----------- | ------------------------------------------------------------------------------------- |
+| TPS (Transactional Processing system) | Operativo   | Registra y gestiona las transacciones diarias y ayuda con las actividades rutinarias. |
+| MIS (Management Information System)   | Táctico     | Ayuda a los gerentes a planificar y organizar usando informes                         |
+| DSS (Decision Support System)         | Táctico     | Ayuda a tomar decisiones complejas con análisis avanzado.                             |
+| EIS (Executive Information System)    | Estratégico | Ayuda a los ejecutivos a ver la información clave rápidamente.                        |
