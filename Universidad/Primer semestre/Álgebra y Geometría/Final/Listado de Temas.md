@@ -1,8 +1,0 @@
-- [[Sistema de ecuaciones lineales]]
-- [[Matrices]]
-- [[Determinantes]]
-- [[Vectores]]
-- [[Recta en el plano]] 
-- [[Rectas y planos]]
-- [[Espacios vectoriales]]
-- 
