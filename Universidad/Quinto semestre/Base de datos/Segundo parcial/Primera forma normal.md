@@ -6,3 +6,4 @@
 
 - Forma normal de Boyce-Codd
 	1) $(R-(\beta-\alpha))$
+	2) $(\alpha\cup\beta)$
