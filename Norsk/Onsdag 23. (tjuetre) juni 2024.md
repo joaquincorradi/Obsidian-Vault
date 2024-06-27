@@ -1,0 +1,1 @@
+I dag er onsdag. Været var kaldt. Jeg spist ris på lunsj og taco på middagen. I dag gikk jeg ikke til universitetet så jeg våknet ikke tidlig. Jeg møtte et nytt sted i byen heter Angela Tårn. Den er 
