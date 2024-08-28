@@ -30,31 +30,10 @@ Miren estas tres cuestiones ¿Quién las puede leer?
 -Profesor: ¿Qué serían los tabúes? Cuestiones de las que no se habla, cuestiones que no sean problematizan. ¿Qué tabus tenemos nuestra sociedad en torno a lo sexual? La formación la masturbación, no se habla de masturbación. Eso es un ejemplo, excelente. ¿Qué otro ejemplo de tabú? La menstruación, sí. Tendríamos que vivirlo con total naturalidad y a la persona que le pasa acompañarla, ayudarla y. punto. 
 Es algo totalmente natural pero tiene que ver con un tabú.
 ¿Qué otro tabú? La pedofilia. 
-
-10:58
-
-Fíjense que es algo que ahora está saliendo con todo el caso de Loan se está hablando de que existn redes de pederastia, mal llamadas de pornografía infantil sos federación. Trata de personas de niños. Sigue siendo un tabú porque es algo de lo que cuesta hablar, cada vez menos por suerte. Un adolescente dice 'yo me doy cuenta que me excitan los niños' ¿Qué hace la familia cuando escucha? Eso lo tapa. Lo juzga en lugar de acompañar esa niña ese niño que tal vez a temprana edad se acompañan eso se puede superar porque acuérdense que la sexualidad es una variable consecuente no antecedente.
-Yo con esto no voy a defender a la pederastia. Es un delito y hay que castigarlo como hay que castigarla, orque hay un menor de edad en el medio, pero es tan fuerte el Tabo que si hay un niño, un adolescente que lo siente no lo va a decir y si lo dice para pedir ayuda Qué vamos a hacer como sociedad lo vamos a castigar.
-
-12:32
-
-Porque no ayude esa persona que crezca que madure, ya que supere algo que es lo va a llevar un delito. Lo va a llevar algo horrible si lo habilita algún día Pero sigue siendo un tabú de eso no se habla. Es contento. El incesto es un tabú porque pasa chicos.
-
-12:52
-
-La mayor cantidad de autos se dan en el ámbito familiar o de la familia inmediata. Vecino tíos tías cariñosos cercanos Padres abuelos. Insecto sigue siendo un Caos Pero sigue pasando. Es algo de lo que no se habla de lo que fíjense. Que están fuerte el tabú. Que el niño y la niña que son abusados de niños.
-
-13:18
-
-Tienen vergüenza porque se sienten culpables por haber parecido. Eso fíjense que. La poligamia sigue siendo un Tabo. Yo cuando hablo de trabajo no estoy diciendo, es algo malo. Ni es algo. Bueno estoy escribiendo cómo lo entendemos socialmente. Voy a ver tabúes que sean delitos que sean malísimos como el incesto como eh la pederastia.
-
-13:45
-
-Sí todo eso es un tabú y a su vez un delito y está muy mal, pero podría haber tabúes como hablar de menstruación. Miguelito pero sin cierto, vean la inocente tabú no habla de delito. Que nos cuesta hablar? Cuestiones, nuestro mundo occidental estaba fuertemente marcado por la monogamia. Hay otras comunidades o sociedades poligamicas sean cómo se llama andrógino?
-
-14:18
-
-No el matrimonio de un varón con muchas mujeres androginia la poliginia androginia. No me vas a ver lo de las mujeres perdónenme Cómo Sí, pero tiene un nombre técnico. Le daré un video. Es el nombre de una tradición cultura sociedad. Esto no en otra época, capaz que el tabore lo mejor nogamia en otras culturas.
+Fíjense que es algo que ahora está saliendo con todo el caso de Loan se está hablando de que existen redes de pederastia, mal llamadas de pornografía infantil sos federación. Trata de personas de niños. Sigue siendo un tabú porque es algo de lo que cuesta hablar, cada vez menos por suerte. Un adolescente dice 'yo me doy cuenta que me excitan los niños' ¿Qué hace la familia cuando escucha? Eso lo tapa. Lo juzga en lugar de acompañar esa niña ese niño que tal vez a temprana edad se acompañan eso se puede superar porque acuérdense que la sexualidad es una variable consecuente no antecedente.
+Yo con esto no voy a defender a la pederastia. Es un delito y hay que castigarlo como hay que castigarla, porque hay un menor de edad en el medio, pero es tan fuerte el tabú que si hay un niño, un adolescente que lo siente no lo va a decir y si lo dice para pedir ayuda ¿Qué vamos a hacer como sociedad? lo vamos a castigar. No ayuda esa persona que crezca que madure, y a que supere algo que es lo va a llevar a un delito, pero sigue siendo un tabú de eso no se habla. Es contento. 
+Fijense, puse el el incesto es un tabú, pero pasa. La mayor cantidad de abusos se dan en el ámbito familiar o de la familia inmediata. Vecino tíos tías cariñosos cercanos Padres abuelos. El incesto sigue siendo un tabú, pero sigue pasando. Es algo de lo que no se habla. Es tan fuerte el tabú que el niño y la niña que son abusados de niños tienen vergüenza porque se sienten culpables por haber padecido eso. 
+La poligamia sigue siendo un tabú. Yo cuando hablo de tabú no estoy diciendo, es algo malo. Ni es algo bueno. Estoy describiendo cómo lo entendemos socialmente. Pueden haber tabúes que sean delitos que sean malísimos como el incesto como la pederastia, pero podría haber tabúes como hablar de menstruación. La noción de tabú no habla de un delito, sí habla de lo prohibido o de lo que nos cuesta hablar. Pero en fin, nuestro mundo occidental está fuertemente marcado por la monogamia. Hay otras comunidades o sociedades poligamicas. Esto sigue siendo un tabú en nuestra sociedad. En otra época capaz que el tabú era la monogamia. Le daré un video. Es el nombre de una tradición cultura sociedad. Esto no en otra época, capaz que el tabore lo mejor nogamia en otras culturas.
 
 14:46
 
