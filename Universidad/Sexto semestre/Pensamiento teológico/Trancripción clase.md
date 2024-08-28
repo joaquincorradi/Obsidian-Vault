@@ -39,31 +39,11 @@ Y otras características. El hedonismo. Hoy, ¿Cómo vivimos? Hay que habilitar 
 La hipergenitalización. ¿Por qué hay una noción de hipergenitalización? Hoy es más común, en otra época era un tabú. ¿Es mala la hipergenitalización? No es ni mala ni buena, depende cómo la vivamos. Existe.
 Feminismo. Esto está marcando fuertemente la mirada sociocultural. Los grupos feministas han ayudado a ver esto, las nociones de genero.
 Es super interesante, lo que los feminismos han planteado. Ahora como ustedes escuchan esa palabra. Yo no sé si están imaginando a una mujer con un pañuelo determinado color orinando en una catedral. O si se imaginan a la profe Luci Rivas que es teóloga feminista. Yo estoy hablando de lo positivo del movimiento. 
-Y hay mayor aceptación de las elecciones entorno de la sexualidad. La orientaciones sexuales. Nadie dice: voy a elegir ser gay. Lo que hay hoy es mayor aceptación de las diferencias sexuales. También estp, vuelvo a decir, es una descripción pero está buenísimo que pase eso. Hoy no criminalizamos las orientaciones sexuales con en otras épocas. Sí el nazismo Así se habla mucho de que nacimos mató judío, pero matábamos sexuales matalas Te digo por qué Por qué hay menos había una emoción de tremen porque si no respeto a la libertad del otro.
+Y hay mayor aceptación de las elecciones entorno de la sexualidad. La orientaciones sexuales. Nadie dice: voy a elegir ser gay. Lo que hay hoy es mayor aceptación de las diferencias sexuales. También esto, vuelvo a decir, es una descripción pero está buenísimo que pase eso. Hoy no criminalizamos las orientaciones sexuales con en otras épocas. Pero bueno, esto cambiado mucho el panorama al menos lo que yo me crié. En la tele todos los días estaba el chiste del puto, del trans. Porque era otra época, en dónde a las personas trans no se le respetaba tanto, se les decía de todo. ¿Importa qué tenés entre las piernas? Somos una persona, más allá de cómo te exponés, cómo te mostrás, qué te gusta mientras uno le hagas mal a nadie? Era otra época en donde esto se veía mal. Todo esto tiene que ver con dimensiones culturales. 
+Fíjen la punte este texto que le estoy citando acá que habla de la cuestión sociopolítica que es fundamental.
+¿Quién podría leer esto?
 
-18:56
-
-Las personas Porque si quieres libertar este. Pero bueno, esto cambiado mucho el panoraba al menos lo que yo me crié. Estaba en telefe. Pongan videitos de kinelli y todos los días el chiste del puto el trans y cuando le invitaron a Flor de la b. De todo el todo.
-
-19:21
-
-El comentario con flor de la B era sobre su pene. Son límite pertenece? Eh Qué hermosa curva pero tenés pene. Emita. Porque era otra época? No dónde la persona tramas no se le respetaba tanto se le decía todo. Hay una entrevista muy buena. Si podemos verla. Me estoy acordando ahora de vez en las trago.
-
-19:49
-
-La entrevista la primera entrevista flor de la B cuando no era nadie era conocida chico. La cosa que le dicen Mauro diario y es una Tere. No se acaba y una falta de respeto importa que tenés entre las piernas. Somos una persona más la de como exponés. Como te mostrás que te gusta mientras uno le hagas mal a nadie?
-
-20:13
-
-No Daniel nadie Bienvenido a hacer el ejercicio forma un este tipo. Vos tenés que ser? Como a mí me ocurre? Parece una locura.
-
-20:31
-
-Por momentos todo esto tiene que ver con dimensiones culturales. Algún comentario?
-
-20:45
-
-Si alguien alguien quiere que profundirse. Lo que digo. No se enrede. Dígame por. Fíjen la punte este texto que le estoy citando acá que es el que venimos intentando en todas las presentación. Habla de cuestión, la cuestión sociopolítica que fundamental en la nación. Quién podría leer esto?
+-Alumno: 
 
 21:14
 
