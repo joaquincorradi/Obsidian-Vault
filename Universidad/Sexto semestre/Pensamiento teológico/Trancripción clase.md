@@ -25,47 +25,16 @@ Yo siempre a modo de ejemplo ¿vieron la serie 'Merlí'? Cuando entra la profeso
 Fijense. Yo simplemente traje algunas cuestiones que tienen que ver con lo cultural que aparecen en un libro que ustedes tienen para para ver para leer si les interesa meterse y ver. Leer algo coherente.
 Miren estas tres cuestiones ¿Quién las puede leer?
 
--Alumno: 
+-Alumno: Prohibiciones y tabúes: incesto, etc. Monogamia, poligamia. Cuestiones de género: roles, percepción.
 
-08:20
-
-No sé Esto. Es para que te besemos juntos en sexualidad simplemente
-
-08:32
-
-Quién se ofrece? Prohibiciones ataúes incesto etcétera monogamia poligamia cuestiones de género Robles Concepción.
-
-08:50
-
-Qué sería lo está Boys Y qué tal güey fíjense que esto depende de lo social ahora. Pues yo le actitud actividad están malditas con la sociedad cuestiones de las que no se habla cuestiones que no sean problemas izan. Perfecto Kids! Qué tabus tenemos nuestra sociedad? Toma lo sexual. La formación la masturbación no se habla de masturbación.
-
-09:27
-
-Sí, pero a nivel general masculina está más legítima que la femenina al menos de los discursos actuales, ni hablarse chicos, lo que fue crecer los 90. Eso es un ejemplo Excelente. Qué otro ejemplo de tabú? La menstruación sí alguna de me imagino chica que alguna alguna vez le pasó un evento?
-
-10:01
-
-Que empezó la menstruación mientras estaban en algún evento social. Tendríamos que vivirlo con total naturalidad y a la persona de la china que le pasa acompañó me ayudó a mis puntos. No andan Ay qué pasó Cole una amiga que le pasó mientras estábamos Charlando. El se horrorizó como si hubiera sido la peor tragedia del mundo, lo que pasó con algo totalmente natural.
-
-10:32
-
-Pero tiene que ver con un tabú. Cómo le vamos a hacer claro? Nosotros Los Balones como nunca nos pasa es más fácil que nos veamos que no entendamos y no empaticemos con ese espacio.
+-Profesor: ¿Qué serían los tabúes? Cuestiones de las que no se habla, cuestiones que no sean problematizan. ¿Qué tabus tenemos nuestra sociedad en torno a lo sexual? La formación la masturbación, no se habla de masturbación. Eso es un ejemplo, excelente. ¿Qué otro ejemplo de tabú? La menstruación, sí. Tendríamos que vivirlo con total naturalidad y a la persona que le pasa acompañarla, ayudarla y. punto. 
+Es algo totalmente natural pero tiene que ver con un tabú.
+¿Qué otro tabú? La pedofilia. 
 
 10:58
 
-Fíjense que es algo que ahora está saliendo con todo el caso de Logan se está hablando el que existe en redes de pederastia más llamadas de pornografía infantil sos federación. Trata de personas de niños. Hay un caso, no sé si saben lo que ha pasado. Hace poquito se debe encontrado material pederasta en un diputado provincial de misiones.
-
-11:21
-
-Una noticia bomba esta última semana de tener Argentina. Se hicieron ocho ordenamientos en todo el país por esta red en la que se intercambian videos de sexo con señores sigue siendo un tabú porque es algo de lo que cuesta hablar cada vez menos por suerte. Un adolescente dice yo me doy cuenta que me excitan los niños.
-
-11:49
-
-Qué hace la familia cuando escucha? Eso lo tapa. Lo juzga Cállate en lugar de acompañar esa niña ese niño que tal vez a temprana edad se acompañan eso si puede superar porque acuérdense que la sexualidad una hora variable consecuente no antecedente.
-
-12:10
-
-Es un delito, le pederastia y hay que castigarlo como hay que castigarla? Porque hay un menor de edad en el medio, pero es tan fuerte el Tabo que si hay un niño, un adolescente que lo siente no lo va a decir y si lo dice para pedir ayuda Qué vamos a hacer como sociedad lo vamos a castigar.
+Fíjense que es algo que ahora está saliendo con todo el caso de Loan se está hablando de que existn redes de pederastia, mal llamadas de pornografía infantil sos federación. Trata de personas de niños. Sigue siendo un tabú porque es algo de lo que cuesta hablar, cada vez menos por suerte. Un adolescente dice 'yo me doy cuenta que me excitan los niños' ¿Qué hace la familia cuando escucha? Eso lo tapa. Lo juzga en lugar de acompañar esa niña ese niño que tal vez a temprana edad se acompañan eso se puede superar porque acuérdense que la sexualidad es una variable consecuente no antecedente.
+Yo con esto no voy a defender a la pederastia. Es un delito y hay que castigarlo como hay que castigarla, orque hay un menor de edad en el medio, pero es tan fuerte el Tabo que si hay un niño, un adolescente que lo siente no lo va a decir y si lo dice para pedir ayuda Qué vamos a hacer como sociedad lo vamos a castigar.
 
 12:32
 
