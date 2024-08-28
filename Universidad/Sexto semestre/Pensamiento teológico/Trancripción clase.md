@@ -60,31 +60,9 @@ Y por eso entra la cuestión del placer sexual.
 
 -Alumno: 'El placer sexual: se dirige a algo sensible. Y a su vez en el hombre, conocer sensiblemente es ya conocer intelectualmente. El deseo sensible esconde, por lo tanto, un deseo espiritual.'
 
--Profesor: Esto está más dicho para católicos que para otra cosa, pero está bueno que lo pensemos así. A veces hemos separado los sensible. El placer, por ejemplo que me dé placer.
-
-26:49
-
-Comer, no sé quién quién tomó helado recién que me decía. Por qué tomamos helado? No lo tomo para nutrirme? Lo tomo porque me gusta Por qué como chocolate el chocolate no me va a nutrir como me nutre, no sé. Un tarro de proteínas pero lo tomo. Porque me genera placer.
-
-27:13
-
-Con la sexualidad más Exactamente lo mismo, pero ese placer sensible que me da la sexualidad. También me muestra que el placer y que. La cuestión intelectual y la cuestión espiritual es mucho más transforma. Dicho un créolo. Las genitalidad se va a pagar en algún momento de la vida más menos.
-
-27:39
-
-En la sexualidad la gentilidad va bajando. No yo saben tres dicen que las 34 1 ya empieza envejecer si yo ya estoy envejeciendo. El placer del encuentro con otro. La posibilidad de mi sexualidad es lo que me invitas a ir vinculándome con los otros aunque no tenga genitalidad. Eh Por eso este deseo espiritual.
-
-28:03
-
-Tiene anclado un deseo sensible, no están vinculados, son como parte del mismo. Como diciendo yo no puedo hablar. Amar a Dios. Si yo no. Tengo una sensualidad. Integrada un salto. Que ve el autor. Pero. Fíjense hay una tensión entre habilitar y esperar, eso siempre lo tenemos ante el hedonismo, esto siempre exige así como antes.
-
-28:30
-
-Ante el miedo de la sexualidad había que habilitarla hoy. Nos Tendremos que decir equilibramos no cuidado con el exceso porque lo tenemos socialmente. Es el exceso. Yo tienen que ver de acuerdo al objeto placer si es un menor. Claramente por eso la pedofilia y la pederastia es mala porque el objeto de placer obviamente es alguien que no tiene libertad de elección.
-
-28:59
-
-Es alguien que está en desarrollo todas las teorías científicas van a decir absolutamente eso. Y fíjense como dos energías entre el organismo y el cudor. Son como las dos tensiones que tenemos están constantemente en nosotros. Uy el pudor que le decimos de onís ni lo conceptualizaba. Acá retoma lo del pudor porque lo del poder lo que me cuida.
+-Profesor: Esto está más dicho para católicos que para otra cosa, pero está bueno que lo pensemos así. A veces hemos separado los sensible. El placer, por ejemplo que me dé placer comer... no sé quién quién tomó helado recién que me decía. ¿Por qué tomamos helado? No lo tomo para nutrirme Lo tomo porque me gusta ¿Por qué como chocolate? el chocolate no me va a nutrir como me nutre un huevo, un tarro de proteínas pero lo tomo. Lo tomo porque me genera placer. Con la sexualidad pasa exactamente lo mismo, pero ese placer sensible que me da la sexualidad. También me muestra que el placer y que la cuestión intelectual y la cuestión espiritual es mucho más profunda. Las genitalidad se va a apagar en algún momento de la vida.
+El placer del encuentro con otro. La posibilidad de mi sexualidad es lo que me invitas a ir vinculándome con los otros aunque no tenga genitalidad. Por eso este deseo espiritual tiene anclado un deseo sensible, no están vinculados, son como parte del mismo, como diciendo yo no puedo amar a Dios si yo no tengo una sexualidad integrada, un salto que da el autor. Pero. Fíjense hay una tensión entre habilitar y esperar, eso siempre lo tenemos ante el hedonismo, esto siempre exige. Así como antes ante el miedo de la sexualidad había que habilitarla, hoy nos Tendremos que decir equilibremosnos, cuidado con el exceso porque a lo que tendemos socialmente es al exceso. Y lo bueno y lo malo tiene que ver de acuerdo al objeto placer. Claramente por eso la pedofilia y la pederastia es mala, porque el objeto de placer obviamente es alguien que no tiene libertad de elección, es alguien que está en desarrollo, todas las teorías científicas van a decir absolutamente eso. 
+Y fíjense como dos energías entre el hedonismo y el pudor son como las dos tensiones que tenemos, están constantemente en nosotros. Uy el pudor que le decimos de onís ni lo conceptualizaba. Acá retoma lo del pudor porque lo del poder lo que me cuida.
 
 29:30
 
