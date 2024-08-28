@@ -33,35 +33,10 @@ Es algo totalmente natural pero tiene que ver con un tabú.
 Fíjense que es algo que ahora está saliendo con todo el caso de Loan se está hablando de que existen redes de pederastia, mal llamadas de pornografía infantil sos federación. Trata de personas de niños. Sigue siendo un tabú porque es algo de lo que cuesta hablar, cada vez menos por suerte. Un adolescente dice 'yo me doy cuenta que me excitan los niños' ¿Qué hace la familia cuando escucha? Eso lo tapa. Lo juzga en lugar de acompañar esa niña ese niño que tal vez a temprana edad se acompañan eso se puede superar porque acuérdense que la sexualidad es una variable consecuente no antecedente.
 Yo con esto no voy a defender a la pederastia. Es un delito y hay que castigarlo como hay que castigarla, porque hay un menor de edad en el medio, pero es tan fuerte el tabú que si hay un niño, un adolescente que lo siente no lo va a decir y si lo dice para pedir ayuda ¿Qué vamos a hacer como sociedad? lo vamos a castigar. No ayuda esa persona que crezca que madure, y a que supere algo que es lo va a llevar a un delito, pero sigue siendo un tabú de eso no se habla. Es contento. 
 Fijense, puse el el incesto es un tabú, pero pasa. La mayor cantidad de abusos se dan en el ámbito familiar o de la familia inmediata. Vecino tíos tías cariñosos cercanos Padres abuelos. El incesto sigue siendo un tabú, pero sigue pasando. Es algo de lo que no se habla. Es tan fuerte el tabú que el niño y la niña que son abusados de niños tienen vergüenza porque se sienten culpables por haber padecido eso. 
-La poligamia sigue siendo un tabú. Yo cuando hablo de tabú no estoy diciendo, es algo malo. Ni es algo bueno. Estoy describiendo cómo lo entendemos socialmente. Pueden haber tabúes que sean delitos que sean malísimos como el incesto como la pederastia, pero podría haber tabúes como hablar de menstruación. La noción de tabú no habla de un delito, sí habla de lo prohibido o de lo que nos cuesta hablar. Pero en fin, nuestro mundo occidental está fuertemente marcado por la monogamia. Hay otras comunidades o sociedades poligamicas. Esto sigue siendo un tabú en nuestra sociedad. En otra época capaz que el tabú era la monogamia. Le daré un video. Es el nombre de una tradición cultura sociedad. Esto no en otra época, capaz que el tabore lo mejor nogamia en otras culturas.
-
-14:46
-
-Lo más probable es que eso sea.
-
-14:52
-
-Cuando los roles? Y en cuanto a la percepción. Eso influye muchísimo en las formas que tenemos de vincular. Después lo que hacemos con esto habrá que ver ahí podemos ver. Algo que quiere alimentaron o avanzamos en una duda alguna un comentario? Y otras características fíjensedonismo. Hoy el discurso. De las consecuencias.
-
-15:29
-
-Liberalismo a nivel político.
-
-15:36
-
-Como lleva? Así que genial, pero tiene sus consecuencias de algo de la historia hoy qué nos dice? Cómo vivimos? Hay que habilitar el placer y todo el placer. El placer no se mide. El placer no se censura. Por qué? Porque veanimos de la ley de polaridad donde las se reprime?
-
-16:00
-
-Solo es leer si vos te casaste y te hijos hasta que te mueras. Vos le dijiste este trabajo antes de morrazo punto? Hoy es Lo siento, pero no sé los dos días. No importa nada, no hay menor mamoral. Con esto el idealismo es malo, bueno normal ni bueno. Acá estamos escribiendo.
-
-16:24
-
-La hipergenitalización. En un instituto del mundo, dos alumnos chapando el medio sala 28 años no no nenitos con las hormonas full. Esto eran adultos con las bombonas.
-
-16:49
-
-Toda la noche como ves y no trae poca eso hay un tal? Más común. Es mala la hiper genitalización y este sí como la vivamos. Vuelvo a decir más ni mal. Y bueno eso existe. Esto está marcando fuertemente la mirada sociocultural. Los grupos feministas han ayudado a ver esto.
+La poligamia sigue siendo un tabú. Yo cuando hablo de tabú no estoy diciendo, es algo malo. Ni es algo bueno. Estoy describiendo cómo lo entendemos socialmente. Pueden haber tabúes que sean delitos que sean malísimos como el incesto como la pederastia, pero podría haber tabúes como hablar de menstruación. La noción de tabú no habla de un delito, sí habla de lo prohibido o de lo que nos cuesta hablar. Pero en fin, nuestro mundo occidental está fuertemente marcado por la monogamia. Hay otras comunidades o sociedades poligamicas. Esto sigue siendo un tabú en nuestra sociedad. En otra época capaz que el tabú era la monogamia. Le daré un video. Es el nombre de una tradición cultura sociedad. Esto no en otra época, capaz que el tabú ere a lo mejor la monogamia.
+Y fijense que ahí vuelven a entrar las cuestiones de genero en cuanto a los roles y en cuanto a la percepción. Eso influye muchísimo en las formas que tenemos de vincularnos. Después lo que hacemos con esto habrá que ver ahí podemos ver.
+Y otras características. El hedonismo. Hoy, ¿Cómo vivimos? Hay que habilitar el placer y todo el placer. El placer no se mide. El placer no se censura. ¿Por qué? Porque veanimos de la ley de polaridad donde el placer no se reprime. Si vos te casaste y tenés hijos, es hasta que te mueras. Vos elegiste este trabajo, hasta que te mueras. Hoy es si lo siento, renuncio los dos días. No importa nada, no hay una norma moral. Con esto el hedonismo ¿es malo o es bueno? No es malo ni bueno, acá lo estamos describiendo.
+La hipergenitalización. ¿Por qué hay una noción de hipergenitalización? Hoy es más común, en otra época era un tabú. ¿Es mala la hipergenitalización? No es ni mala ni buena, Esto está marcando fuertemente la mirada sociocultural. Los grupos feministas han ayudado a ver esto.
 
 17:20
 
