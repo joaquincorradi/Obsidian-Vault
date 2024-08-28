@@ -50,35 +50,17 @@ Pero, además, esta función debe incluir una vertiente política: “(...) las 
 -Profesor: ¿Qué quiere decir esto? Fijense que la dimensión social tiene que ver con el rol de la familia. Yo cuando estoy diciendo familia no estoy hablando de papá, mamá y los nenitos cuanto más rubios, mejor un poco el estereotipo que tenemos. Capaz que un abuelo vive con sus nietos, capaz que una Mamá soltera vive con sus dos hijos. Familia en el sentido, por supuesto, como entendemos no, pero la dimensión política es como la parte más visible de esta dimensión social de la sexualidad, todas las normas, las leyes, las cuestiones del Estado tienen que ver con esto, expresa cómo vemos o cómo se concibe a la sexualidad humana en una cultura determinada.
 Que en el DNI diga masculino, femenino o x muestra esto, que en la sociedad hay una forma de concebir la sexualidad distinta la de hace 20 años. ¿Será bueno o malo? Bueno, después podemos pensar esas cuestiones, no estoy moralizando sino describiendo. 
 El autor hace una reflexión filosófica que la trata aparte. Yo la incluí acá porque me parece que tiene que ver con la cuestión de la sexualidad.
-Fíjense lo que dice: 'Sexualidad como lenguaje: Manifiesta el significado esponsal del cuerpo y hace posible la comunión (común-unión) entre la pareja.' Uy, pero parece que un cura está hablando. Sí. Son categorías filosóficas tienen que genial. Esto Quiénes están cursando el seminario anterior? Bueno, acá lo de los gnósticos tienen que ver con.
+Fíjense lo que dice: 'Sexualidad como lenguaje: Manifiesta el significado esponsal del cuerpo y hace posible la comunión (común-unión) entre la pareja.' Uy, pero parece que un cura está hablando. Sí. Son categorías filosóficas
+Miren esto ¿Por qué la sexualidad es un lenguaje?
+¿Por qué habla de la sexualidad como lenguaje? El comportamiento es un lenguaje. Por ejemplo, lo pongo en una relación de pareja. Si hay cariño la sexualidad puede ser expresión de ese cariño. Si hay posesión, el acto sexual puede ser lenguaje signo de esa posesión. Si hay dependencia, la sexualidad va a ser la expresión de eso, como una lengua que no se habla. 
+¿Qué es lo positivo de esto? Que la cuestión corporal es la condición para todo: para amar, para encontrarse, para expresarse. Sin cuerpo no hay posibilidad de encuentro. 
+Recién le decía él lo de los gnósticos porque en el inicio de la del nacimiento del cristianismo ya existía una. Una filosofía llamada gnosticismo y los gnósticos decían que el cuerpo es malo. Por ende la sexualidad es mala. Por ende, todo placer que no sientes malo. Esa noción gnóstica se mentió también dentro de la iglesia dentro de algunas posturas. Nosotros nos damos cuenta que no es así. Que el sentir que el placer que le encuentro que el cuerpo son cosas superpositivas.
+Y por eso entra la cuestión del placer sexual.
+¿Quién podría leer?
 
-24:02
+-Alumno: 'El placer sexual: se dirige a algo sensible. Y a su vez en el hombre, conocer sensiblemente es ya conocer intelectualmente. El deseo sensible esconde, por lo tanto, un deseo espiritual.'
 
-Miren esto. Por qué la sexualidad es un lenguaje?
-
-24:13
-
-Por qué habla de la sexualidad como lenguaje? Un ejemplo. Eh como habíamos en el video ejemplo chica la mía que presionamos no hay a la onda cinco simplemente excelente como el caso de Amy. No, no hay nada en la sexualidad. Lo lo pongo en una relación de parejas si hay cariño.
-
-24:47
-
-La sexualidad puede ser expresión de secarin. Se hay posesión. El acto sexual puede ser lenguaje signo Posesión si hay dependencia la sexualidad va a ser la expresión de eso como una lengua que no se habla. Qué es lo positivo de esto? Que la cuestión corporal. Es la condición para todo para amar.
-
-25:17
-
-Para encontrarse. Para expresarse. Sin cuerpo no hay posibilidad de encuentro? Digamos le decía él lo de los gnósticos porque en el inicio de la del nacimiento del cristianismo ya existía una. Una filosofía llamada gnosticismo y los gnósticos decían que el cuerpo es malo. Por m. La sexualidad es mala.
-
-25:49
-
-Por ende, todo placer que no sientes malo. Esa noción gnóstica se mentió también dentro de la iglesia dentro de algunas posturas. Nosotros nos damos cuenta que no es así que el sentir que el placer que le encuentro que el cuerpo son cosas superpositivas. Bien y por eso entra la cuestión del placer sexual.
-
-26:15
-
-Quién podría leerlo?
-
-26:22
-
-Sí, algo sensible y a su vez en el hombre con nosotros sensiblemente es la conocer intelectualmente el deseo sensible esconde, por lo tanto un deseo espiritual. Esto está más dicho para católicos que para otra cosa, pero está bueno que lo pensemos así. A veces hemos separado los sensible. El placer, por ejemplo que me dé placer.
+-Profesor: Esto está más dicho para católicos que para otra cosa, pero está bueno que lo pensemos así. A veces hemos separado los sensible. El placer, por ejemplo que me dé placer.
 
 26:49
 
