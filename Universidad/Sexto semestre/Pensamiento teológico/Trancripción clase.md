@@ -44,30 +44,13 @@ Fíjen la punte este texto que le estoy citando acá que habla de la cuestión s
 ¿Quién podría leer esto?
 
 -Alumno: 
+“Las familias, tanto solas como asociadas, pueden y deben por tanto dedicarse a muchas obras de servicio social, especialmente a favor de los pobres y de todas aquellas personas y situaciones a las que no logra llegar la organización de previsión y asistencia de las autoridades públicas”.
+Pero, además, esta función debe incluir una vertiente política: “(...) las familias deben ser las primeras en procurar que las leyes y las instituciones del Estado no sólo no ofendan, sino que sostengan y defiendan positivamente los derechos y deberes de la familia. En este sentido las familias deben crecer en la conciencia de ser «protagonistas» de la llamada «política familiar», y asumirse la responsabilidad de transformar la sociedad”
 
-21:14
-
-Cuestiones sociopolítica las familias tanto sol es como asociadas, pueden y deben por tanto dedicarse a muchas obras de servicios sociales, especialmente a favor de los pobres y detrás aquí esas personas y situaciones a las que no logras llegando a organización de previsión y asistencia de las autoridades públicas. Pero además, esta función debe incluir una vertiente política.
-
-21:40
-
-Las familias debe ser las primeras que las veces por la instituciones del Estado no solo no ofenda, sino que sostengan y defiendan positivamente los derechos y deberes de las familias. En este sentido, la familia debe crecer en la conciencia de ser protagonistas de la llamada política, familiar y asumirse la responsabilidad de transformar la sociedad vivir.
-
-22:19
-
-Yo cuando estoy diciendo familia no estoy hablando de papá, mamá y los nenitos con Tomás rubios, mejor un poco. El estilo tipo capaz que un abuelo vive con sus nietos, capaz que una Mamá soltera vive con sus dos hijos. No sé Y vos familia en el sentido. Por supuesto, como entendemos no, pero la dimensión política es como la parte más visible de esta dimensión social de la sexualidad, todas las normas, las leyes, las cuestiones del Estado tienen que ver con esta muestra la expresan como vemos o cómo se concibe a la sexualidad humana en una cultura determinada.
-
-23:01
-
-Masculino femenino o x muestra esto que en la sociedad hay una forma de conceder la sexualidad distinta la de hacer 20 años. Será bueno malo. Bueno, después podemos pensar esas cuestiones, Pero bueno no. No estoy moralizando sino de escribir. El autor es algo genial, porque varón al menos. A mí me gusta.
-
-23:25
-
-Hace una reflexión filosófica que la trata aparte un solo incluí acá porque me parece que tiene que ver. Con la cuestión de la sexualidad.
-
-23:39
-
-Fíjense lo que hice sexualidad como lenguaje dice manifiesta el significado de esponsal del cuerpo y hace posible la comunión. Uy, pero parece que un cura está hablando. Sí son categorías filosóficas tienen que genial. Esto Quiénes están cursando el seminario anterior? Bueno, acá lo de los gnósticos tienen que ver con.
+-Profesor: ¿Qué quiere decir esto? Fijense que la dimensión social tiene que ver con el rol de la familia. Yo cuando estoy diciendo familia no estoy hablando de papá, mamá y los nenitos cuanto más rubios, mejor un poco el estereotipo que tenemos. Capaz que un abuelo vive con sus nietos, capaz que una Mamá soltera vive con sus dos hijos. Familia en el sentido, por supuesto, como entendemos no, pero la dimensión política es como la parte más visible de esta dimensión social de la sexualidad, todas las normas, las leyes, las cuestiones del Estado tienen que ver con esto, expresa cómo vemos o cómo se concibe a la sexualidad humana en una cultura determinada.
+Que en el DNI diga masculino, femenino o x muestra esto, que en la sociedad hay una forma de concebir la sexualidad distinta la de hace 20 años. ¿Será bueno o malo? Bueno, después podemos pensar esas cuestiones, no estoy moralizando sino describiendo. 
+El autor hace una reflexión filosófica que la trata aparte. Yo la incluí acá porque me parece que tiene que ver con la cuestión de la sexualidad.
+Fíjense lo que dice: 'Sexualidad como lenguaje: Manifiesta el significado esponsal del cuerpo y hace posible la comunión (común-unión) entre la pareja.' Uy, pero parece que un cura está hablando. Sí. Son categorías filosóficas tienen que genial. Esto Quiénes están cursando el seminario anterior? Bueno, acá lo de los gnósticos tienen que ver con.
 
 24:02
 
