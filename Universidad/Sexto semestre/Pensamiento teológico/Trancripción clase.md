@@ -22,7 +22,10 @@ Fíjense que hay una cuestión de características físicas que están asociadas
 Pero ven que nosotros tenemos representaciones sociales. 
 Yo siempre a modo de ejemplo ¿vieron la serie 'Merlí'? Cuando entra la profesora trans. Si yo viniera vestido como mujer, ¿qué pasaría? Yo calculo que la mitad del curso se caga de risa, pero porque tenemos estas nociones inconscientes arraigadas Que tenemos que darnos cuenta que existen, después lo que hagamos con ellas ahí podemos debatir, discutir pero están, existen.
 ¿Qué más pasa en el en el video?
-Fijense. Yo simplemente traje algunas cuestiones que tienen que ver con lo cultural que aparecen en un libro que ustedes tienen para para ver para leer si les interesa meterse y ver. Leer algo coherente, no las clases porque están las clases. Envío mucho y yo el nivel que les doy muy muy poquito porque ustedes no van a estudiar teología moral Y ustedes no van a hacer profe.
+Fijense. Yo simplemente traje algunas cuestiones que tienen que ver con lo cultural que aparecen en un libro que ustedes tienen para para ver para leer si les interesa meterse y ver. Leer algo coherente.
+Miren estas tres cuestiones ¿Quién las puede leer?
+
+-Alumno: 
 
 08:20
 
