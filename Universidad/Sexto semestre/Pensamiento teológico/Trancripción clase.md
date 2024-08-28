@@ -12,35 +12,12 @@ Pero, estas características, nosotros, al menos en nuestra cultura, en nuestra 
 
 -Alumno: asocia el deporte con lo masculino.
 
--Profesor: Excelente. Fijense que... eso sería... hobbies. Eso
-
-02:04
-
-Me había puesto deporte. Deporte, Pues el fútbol a que me hockey me parece.
-
-02:37
-
-Trabajo era fácil muy nuevo y me llaman para trabajar en un colegio. Es que yo no tenía buena imagen y la constaté cuando empezó a pagar pero necesito la hora era. Estaba recién volviendo mi vida mundana y digamos no tenía la iglesia cuando tu vida. Entonces! Crecí mucho cariño mucho ese gol.
-
-03:00
-
-Estoy muy agradecido una monja. El profe educación física cuerpazo cuerpazo bien pendejo yo ahora tenemos 25 26, 14 más grande. Creo que era más chicos. Pero con los dos varones con el preceptor. La monja no escuchaba. Yo también pelo largo en esa época. Tenía todo Rapado en costados. Dame un jamón me dijo cortarte el pelo medio.
-
-03:44
-
-Porque a mí un aviso me recomienda. Te preguntan 11. Tiene alguien que sepas filosofía sin Llamar a Fede? Se parón le dijo a la monja mujer.
-
-04:06
-
-A quién escuchaba la monja al teólogo Fernando al presentor a las mujeres? Profesoras directoras las trampeanas congeladas. Hay una misoginia, no Odio la mujer. Más o menos? Muy muy lar. No digo todas las momias son así como no conozco monjes geniales, estoy contando que es una monja real. Toda la gente que pasa por el cual sea esa es una nace.
-
-04:46
-
-Alguien se las cosas que hacía intentaba un poquito loca, pero realmente puede mojar o no se da cuenta que quería decir equilibrio psicológico por otro cuestiones, no por estos solamente.
-
-05:00
-
-De un género en segunda. Y frente a otros género es de primera. Esas son conceptualizaciones si un varón. Es inconsciente, no es que la monja agarraba el ns Ah dice m es masculino. El cliente voy a escuchar No chico. Ten consciente. Yo tenía el pelo largo. Siempre les conté lo que me decía mi profe de moral.
+-Profesor: Excelente. Fijense que... eso sería... hobbies. Puede ser fútbol, hockey sobre hielo. Esto, masculino.
+Había una monja... escuchen esto. Yo necesitaba trabajo era profe muy nuevo y me llaman para trabajar en un colegio. Es que yo no tenía buena imagen y la constaté cuando empezó a pagar pero necesito la hora era. Estaba recién volviendo mi vida mundana y no tenía la iglesia que me mantuviera. Crecí mucho, aprendí mucho en ese colegio, estoy muy agradecido.
+Entonces, una monja... escuchen esto porque es genial. 
+El profe educación física tenía un cuerpazo. Yo era más chico que él. Pero con los dos varones con el preceptor, la monja nos escuchaba. Yo tenía pelo largo en esa época. Tenía todo rapado en los costados. La monja jamás me dijo que me cortara el pelo.
+¿Por qué la monja no me decía nada? Porque a mí un obispo me recomienda, un varón. Entonces ella me escuchaba a mí, a al preceptor, al profesor de educación física ¿Y a las mujeres? No. Hay una misoginia, un odio la mujer. No digo que todas las monjas son así, conozco monjas geniales, estoy contando el caso de una monja.
+Pero que pasa que frente a un género que es de segunda. Y frente a otros género es de primera. Esas son conceptualizaciones si un varón. Es inconsciente, no es que la monja agarraba el ns Ah dice m es masculino. El cliente voy a escuchar No chico. Ten consciente. Yo tenía el pelo largo. Siempre les conté lo que me decía mi profe de moral.
 
 05:28
 
