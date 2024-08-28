@@ -36,19 +36,10 @@ Fijense, puse el el incesto es un tabú, pero pasa. La mayor cantidad de abusos 
 La poligamia sigue siendo un tabú. Yo cuando hablo de tabú no estoy diciendo, es algo malo. Ni es algo bueno. Estoy describiendo cómo lo entendemos socialmente. Pueden haber tabúes que sean delitos que sean malísimos como el incesto como la pederastia, pero podría haber tabúes como hablar de menstruación. La noción de tabú no habla de un delito, sí habla de lo prohibido o de lo que nos cuesta hablar. Pero en fin, nuestro mundo occidental está fuertemente marcado por la monogamia. Hay otras comunidades o sociedades poligamicas. Esto sigue siendo un tabú en nuestra sociedad. En otra época capaz que el tabú era la monogamia. Le daré un video. Es el nombre de una tradición cultura sociedad. Esto no en otra época, capaz que el tabú ere a lo mejor la monogamia.
 Y fijense que ahí vuelven a entrar las cuestiones de genero en cuanto a los roles y en cuanto a la percepción. Eso influye muchísimo en las formas que tenemos de vincularnos. Después lo que hacemos con esto habrá que ver ahí podemos ver.
 Y otras características. El hedonismo. Hoy, ¿Cómo vivimos? Hay que habilitar el placer y todo el placer. El placer no se mide. El placer no se censura. ¿Por qué? Porque veanimos de la ley de polaridad donde el placer no se reprime. Si vos te casaste y tenés hijos, es hasta que te mueras. Vos elegiste este trabajo, hasta que te mueras. Hoy es si lo siento, renuncio los dos días. No importa nada, no hay una norma moral. Con esto el hedonismo ¿es malo o es bueno? No es malo ni bueno, acá lo estamos describiendo.
-La hipergenitalización. ¿Por qué hay una noción de hipergenitalización? Hoy es más común, en otra época era un tabú. ¿Es mala la hipergenitalización? No es ni mala ni buena, Esto está marcando fuertemente la mirada sociocultural. Los grupos feministas han ayudado a ver esto.
-
-17:20
-
-Por ejemplo las versiones de género. Super interesante, lo que los feminismos han planteado Ahora como ustedes escuchan esa palabra. Yo no sé si están imaginando a una mujer con un pañuelo determinado color orinando en una catedral. Osísima ajenan a la profe luz y Líbano. Sé que no todos los gastos de arriba esté ahora bajo ministra clarísima te lo agarra.
-
-17:49
-
-Pero yo estoy hablando de lo positivo del movimiento. Y hay más dura aceptación de las elecciones en tono de la sexualidad que yo propuse lecciones hay cosas que se eligen. Cosas que no Violetta. Soy la elijo o se enojó el viaje? La orientaciones sexuales no se eligen nadie. Elige Bueno, voy a elegir ser gay.
-
-18:18
-
-Voy a elegir servir. Hoy voy a elegir ser hetero. Lo que hay mayor aceptaciones de las diferencias sexuales. También está vuelve a decir una descripción pero está buenísimo que pase eso hoy no? No criminalizamos las orientaciones sexuales con una tras época. Sí el nazismo Así se habla mucho de que nacimos mató judío, pero matábamos sexuales matalas Te digo por qué Por qué hay menos había una emoción de tremen porque si no respeto a la libertad del otro.
+La hipergenitalización. ¿Por qué hay una noción de hipergenitalización? Hoy es más común, en otra época era un tabú. ¿Es mala la hipergenitalización? No es ni mala ni buena, depende cómo la vivamos. Existe.
+Feminismo. Esto está marcando fuertemente la mirada sociocultural. Los grupos feministas han ayudado a ver esto, las nociones de genero.
+Es super interesante, lo que los feminismos han planteado. Ahora como ustedes escuchan esa palabra. Yo no sé si están imaginando a una mujer con un pañuelo determinado color orinando en una catedral. O si se imaginan a la profe Luci Rivas que es teóloga feminista. Yo estoy hablando de lo positivo del movimiento. 
+Y hay mayor aceptación de las elecciones entorno de la sexualidad. La orientaciones sexuales. Nadie dice: voy a elegir ser gay. Lo que hay hoy es mayor aceptación de las diferencias sexuales. También estp, vuelvo a decir, es una descripción pero está buenísimo que pase eso. Hoy no criminalizamos las orientaciones sexuales con en otras épocas. Sí el nazismo Así se habla mucho de que nacimos mató judío, pero matábamos sexuales matalas Te digo por qué Por qué hay menos había una emoción de tremen porque si no respeto a la libertad del otro.
 
 18:56
 
