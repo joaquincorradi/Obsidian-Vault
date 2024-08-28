@@ -17,31 +17,12 @@ Había una monja... escuchen esto. Yo necesitaba trabajo era profe muy nuevo y m
 Entonces, una monja... escuchen esto porque es genial. 
 El profe educación física tenía un cuerpazo. Yo era más chico que él. Pero con los dos varones con el preceptor, la monja nos escuchaba. Yo tenía pelo largo en esa época. Tenía todo rapado en los costados. La monja jamás me dijo que me cortara el pelo.
 ¿Por qué la monja no me decía nada? Porque a mí un obispo me recomienda, un varón. Entonces ella me escuchaba a mí, a al preceptor, al profesor de educación física ¿Y a las mujeres? No. Hay una misoginia, un odio la mujer. No digo que todas las monjas son así, conozco monjas geniales, estoy contando el caso de una monja.
-Pero que pasa que frente a un género que es de segunda. Y frente a otros género es de primera. Esas son conceptualizaciones si un varón. Es inconsciente, no es que la monja agarraba el ns Ah dice m es masculino. El cliente voy a escuchar No chico. Ten consciente. Yo tenía el pelo largo. Siempre les conté lo que me decía mi profe de moral.
-
-05:28
-
-Espero que me dijo en una época también pero más largo todavía. Y mi profe de moral? Averiguó si la verdad corté el pelo que me rape. Yo pasé ten el pelo largo hasta Rapado. 1. 2. No sé así sea locura que narra.
-
-06:06
-
-Una niña con el pelo larga. Fíjense que hay una cuestión. De características físicas.
-
-06:18
-
-Que están asociadas? Pelo largo pelo corto para varón. Y otra para mujer. No solo mujer sino que te dijo niña. Bueno también me dijo a mí pero es porque era muy educada. Pero ven que nosotros tenemos representaciones sociales. Yo siempre digo todo el ejemplo de la serie merlí cuando entra la profe trans.
-
-06:56
-
-Yo viniera vestido como mujer, así no Fuera fuera mi novia. Qué pasaría? Yo calculo que la mitad de justo se acaba de risa ojo. Y siéndolo así. Pero porque tenemos estas nociones? Inconscientes arraigadas Que tenemos que darnos cuenta que existe vean después lo que hagamos con ellas ahí podemos debatir discutir pero están existen.
-
-07:35
-
-Qué más pasa en el en el video? Parecía una niña toda mi gente. Mi compañero todavía no me acordaba lo mismo y Saúl salimos a ver con Sparrow contrabamos amigos entrevistas cagadas más listas.
-
-07:57
-
-Yo simplemente traje. Algunas cuestiones que tienen que ver con lo cultural que aparecen en un libro que ustedes tienen para para ver para leer si les interesa meterse y ver. Leer algo coherente, no las clases porque están las clases. Envío mucho y yo el nivel que les doy muy muy poquito porque ustedes no van a estudiar teología moral Y ustedes no van a hacer profe.
+Pero que pasa que frente a un género es de segunda y frente a otros género es de primera. Es inconsciente, no es que la monja agarraba el DNI 'Ah, dice M, es masculino'. No chicos, todo es inconsciente.
+Fíjense que hay una cuestión de características físicas que están asociadas?Pelo corto para varón, pelo largo para mujer.
+Pero ven que nosotros tenemos representaciones sociales. 
+Yo siempre a modo de ejemplo ¿vieron la serie 'Merlí'? Cuando entra la profesora trans. Si yo viniera vestido como mujer, ¿qué pasaría? Yo calculo que la mitad del curso se caga de risa, pero porque tenemos estas nociones inconscientes arraigadas Que tenemos que darnos cuenta que existen, después lo que hagamos con ellas ahí podemos debatir, discutir pero están, existen.
+¿Qué más pasa en el en el video?
+Fijense. Yo simplemente traje algunas cuestiones que tienen que ver con lo cultural que aparecen en un libro que ustedes tienen para para ver para leer si les interesa meterse y ver. Leer algo coherente, no las clases porque están las clases. Envío mucho y yo el nivel que les doy muy muy poquito porque ustedes no van a estudiar teología moral Y ustedes no van a hacer profe.
 
 08:20
 
