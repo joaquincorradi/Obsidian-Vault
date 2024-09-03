@@ -69,11 +69,8 @@ Y vamos a la última dimensión. No significa que sea la menos importante mucho 
 
 *Reproduce el video*
 
-Fijense que la dimensión espiritual, que es la que estamos viendo tiene que ver con esto de puede haber genitalidad o no pero es una de las experiencias más fuertes de la vida. Acá lo estamos viendo en una pareja pero podríamos ponerlo en una la familia amigos. Esto está capacidad de llamar que tenemos. Solo que acá Bueno lo que quiero enfocar a la cuestión de la pareja porque tiene que ver con estamos viendo de la Infantería.
-
-01:06
-
-Son el día y noche, pero tienen una capacidad de amarse tan fuerte que los une que hace que lo que Penny no tiene lo complementa con Lena y lo que Elena no tiene los complementa completo acá en algún sentido son más parecidos, pero también hay una fuerte capacidad de hablar de encuentro de respeto por el otro.
+Fijense que la dimensión espiritual, que es la que estamos viendo tiene que ver con esto de puede haber genitalidad o no pero es una de las experiencias más fuertes de la vida. Acá lo estamos viendo en una pareja pero podríamos ponerlo en una la familia, amigos. Está capacidad de amar que tenemos. Solo que acá lo que quiero enfocar a la cuestión de la pareja porque tiene que ver con estamos viendo de la genitalidad.
+Penny y Leonard son opuestos, son el día y noche, pero tienen una capacidad de amarse tan fuerte que los une que hace que lo que Penny no tiene lo complementa con Leonard y biceversa completo acá en algún sentido son más parecidos, pero también hay una fuerte capacidad de hablar de encuentro de respeto por el otro.
 
 01:27
 
