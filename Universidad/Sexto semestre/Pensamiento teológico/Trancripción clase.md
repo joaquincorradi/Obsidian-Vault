@@ -64,45 +64,7 @@ Y por eso entra la cuestión del placer sexual.
 El placer del encuentro con otro. La posibilidad de mi sexualidad es lo que me invitas a ir vinculándome con los otros aunque no tenga genitalidad. Por eso este deseo espiritual tiene anclado un deseo sensible, no están vinculados, son como parte del mismo, como diciendo yo no puedo amar a Dios si yo no tengo una sexualidad integrada, un salto que da el autor. Pero. Fíjense hay una tensión entre habilitar y esperar, eso siempre lo tenemos ante el hedonismo, esto siempre exige. Así como antes ante el miedo de la sexualidad había que habilitarla, hoy nos Tendremos que decir equilibremosnos, cuidado con el exceso porque a lo que tendemos socialmente es al exceso. Y lo bueno y lo malo tiene que ver de acuerdo al objeto placer. Claramente por eso la pedofilia y la pederastia es mala, porque el objeto de placer obviamente es alguien que no tiene libertad de elección, es alguien que está en desarrollo, todas las teorías científicas van a decir absolutamente eso. 
 Y fíjense como dos energías entre el hedonismo y el pudor son como las dos tensiones que tenemos, están constantemente en nosotros. 
 Hoy al pudor ¿que le decimos desde el hedonismo? ni lo conceptualizaba. El auto acá retoma lo del pudor porque lo del pudor es lo que me cuida. Yo le doy un ejemplo muy distinto. Muy distinto. Yo soy pudoroso en todos los aspectos de mi vida. Si vos me preguntás 'Fede contame la decisión de este año. ¿Qué decisión tenés en tu vida para crecer?' Yo lo más probable que no te la cuente. Porque para mí eso tiene que ver con mi intimidad. Y eso es el pudor es el ropaje en general, cómo uno cuida lo suyo, la propiedad intelectual, afectiva, emocional. En lo sexual es lo que cuida mi intimidad y yo le comparto solo con aquella persona que tengo confianza que tengo cercanía que tengo empatía.Pero el pudor va más allá de lo sexual. A mí me molesta que cuando he tenido que tomar decisiones importantes en mi vida que vengan de afuera y me dice ¿Qué vas a hacer? Me saca, me saca, porque tiene que ver con mi intimidad que yo la quiero compartir con quien yo quiero.
-Esto esto hay que educarlo mucho en las infancias en educación sexual integral. Una de las cuestiones tiene que ser ahí porque la gran puerta al las cuestiones de abuso tiene que ver con que no hay un un buen desarrollo del puedo. No quiero victimizar a la persona que es abusada  porque no tiene culpa, Pero el pudor es la capacidad que le va a dar para decir 'Esto está mal'. Es es algo que se que se entrena que se puede educar. Y el aparato de la trascendencia es como lo que hemos dicho. Yo no hay forma de que vincule con Dios sin mi sexualidad, no que no es lo mismo que genitalidad, pero mi apertura es lo que a mí me abre como ser humano al otro tanto individuo como al otro.
-
-31:28
-
-Es la energía de la sexualidad. Que en cada ámbito será Luna madera será de otra? Algún concepto alguna emoción? Algo que me que me olvide. Miren a ver si lo encontramos al videito. Está bueno que lo veamos eh Se dejó el que vimos.
-
-31:57
-
-Florencia de la Vega. Ten posición juicio a Flor de la B porque se llamaba de la Vega como una mujer, una mujer que le hacían bullying por tener el mismo nombre que la transa no famosa Argentina.
-
-32:18
-
-Esto a la 20 21. Vamos a ver un ratito el video. Miren miren cómo estas nociones que estamos viendo. Uno las puede ver. Las puede ver en la sociedad. Así se pensaban los 90. Mauro viales no es. No era distinto del resto eh Solo que no tenía pelo en la lengua para decir lo que la sociedad.
-
-32:43
-
-Lamentablemente pensaba en todo. Y tú te a ver. Mira cubre Jesús hubiera dicho viene una persona, no abre una puta, no sé, ya estoy hablando por andar y me te pones.
-
-33:01
-
-Esperanza, entonces escucha mucho. Si no buscamos otro tienes que ver con audio mejorado tanto Perdón perdón
-
-34:00
-
-Por favor me preguntita buena
-
-34:17
-
-Paréntesis la gente que rescalca tanto algo. Cuando una lucha hacia afuera con algo tan fuerte es porque hay habla de algo que hay adentro que no está muy claro cuando hay mucho homofobia. O es porque hay miedo patológico a ser homosexual? O es porque también puede haber una educación muy muy ese estilo diga pero a mí estos discursos tan homofóbicos me huelen a.
-
-34:52
-
-Homosexual tapado O al menos que te gustan las tranzas. Acá siete tipos de la Quiniela la razón. Por favor.
-
-35:30
-
-Síganme problemas.
-
-36:07
+Esto esto hay que educarlo mucho en las infancias en educación sexual integral. Una de las cuestiones tiene que ser ahí porque la gran puerta al las cuestiones de abuso tiene que ver con que no hay un un buen desarrollo del puedo. No quiero victimizar a la persona que es abusada  porque no tiene culpa, Pero el pudor es la capacidad que le va a dar para decir 'Esto está mal'. Es es algo que se que se entrena que se puede educar. Y el aparato de la trascendencia es como lo que hemos dicho. Yo no hay forma de que vincule con Dios sin mi sexualidad, no que no es lo mismo que genitalidad, pero mi apertura es lo que a mí me abre como ser humano al otro, tanto individuo como al otro. Es la energía de la sexualidad, que en cada ámbito será de una manera o será de otra.
 
 Varón así de varón sobaron tu nombre de varón no me acuerdo o sea trata de cachito. Muy violento tratar alguien así digamos no pero nada que ya poca. Esta es la naturaleza, la falta de razón solamente.
 
