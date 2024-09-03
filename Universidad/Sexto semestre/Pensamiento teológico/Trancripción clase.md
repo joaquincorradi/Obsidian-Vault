@@ -65,32 +65,7 @@ El placer del encuentro con otro. La posibilidad de mi sexualidad es lo que me i
 Y fíjense como dos energías entre el hedonismo y el pudor son como las dos tensiones que tenemos, están constantemente en nosotros. 
 Hoy al pudor ¿que le decimos desde el hedonismo? ni lo conceptualizaba. El auto acá retoma lo del pudor porque lo del pudor es lo que me cuida. Yo le doy un ejemplo muy distinto. Muy distinto. Yo soy pudoroso en todos los aspectos de mi vida. Si vos me preguntás 'Fede contame la decisión de este año. ¿Qué decisión tenés en tu vida para crecer?' Yo lo más probable que no te la cuente. Porque para mí eso tiene que ver con mi intimidad. Y eso es el pudor es el ropaje en general, cómo uno cuida lo suyo, la propiedad intelectual, afectiva, emocional. En lo sexual es lo que cuida mi intimidad y yo le comparto solo con aquella persona que tengo confianza que tengo cercanía que tengo empatía.Pero el pudor va más allá de lo sexual. A mí me molesta que cuando he tenido que tomar decisiones importantes en mi vida que vengan de afuera y me dice ¿Qué vas a hacer? Me saca, me saca, porque tiene que ver con mi intimidad que yo la quiero compartir con quien yo quiero.
 Esto esto hay que educarlo mucho en las infancias en educación sexual integral. Una de las cuestiones tiene que ser ahí porque la gran puerta al las cuestiones de abuso tiene que ver con que no hay un un buen desarrollo del puedo. No quiero victimizar a la persona que es abusada  porque no tiene culpa, Pero el pudor es la capacidad que le va a dar para decir 'Esto está mal'. Es es algo que se que se entrena que se puede educar. Y el aparato de la trascendencia es como lo que hemos dicho. Yo no hay forma de que vincule con Dios sin mi sexualidad, no que no es lo mismo que genitalidad, pero mi apertura es lo que a mí me abre como ser humano al otro, tanto individuo como al otro. Es la energía de la sexualidad, que en cada ámbito será de una manera o será de otra.
-
-Varón así de varón sobaron tu nombre de varón no me acuerdo o sea trata de cachito. Muy violento tratar alguien así digamos no pero nada que ya poca. Esta es la naturaleza, la falta de razón solamente.
-
-36:44
-
-No tampoco fue lo mejor conmigo que me deshacer familia. Las chicas trans eran prostitutas. Obviamente quieran excluidas, cualquier siempre digo el día que la facultad sea la Universidad Católica, realmente sea poste inclusiva, tendremos recepciones central por decir compró central. Digo porque este grupo social se excluyó porque está mal porque era feo porque era, O sea antinatural no sé.
-
-37:55
-
-Hay unidad social de esta cuestión de las cristalidades de la sexualidad. Sí podcast de nieve ganados que habla una supo desde muy chicas y que escribió en la calle mucho tiempo en una pensión. Pasando de con nada flaco pasando el plan a la hermana y prostitudes. No sé porque era lo único oportunidad laboral entre muchas comidas que podía llegar a tener porque la contratada porque era la espirado y quitar enfermedades y todo.
-
-38:33
-
-Y al mismo tiempo el morbo que hay por eh Perdón se ve no, pero por coger sea un una persona plan que es lo que le daba para comer y para poder pasar detrás de la hermana para tener una vida mejor.
-
-38:53
-
-Y te excita. Los trans. Pero por qué? Chicos y esto sino hablar con yo. No he tenido contacto con chicas trans, Pero si conozco gente que hablado Por qué es eso? Tiene económicamente el modelo de la prostitución trans porque hay gente que le consume. Yo no me quiero meter en la cuestión trans, pero sí me sirve de ejemplo para mostrarles Cómo conseguimos la sexualidad nivel social, Cómo tenemos representaciones sociales de lo que la sexualidad de que la sexualidad se consigue solo desde lo biológico o psicosocial?
-
-39:36
-
-Consideramos contemplamos la dimensión psicológica de la persona? Cómo tratámonos dirigimos a una persona por su condición o no? A mí no me interesa meterme en la cuestión trans. Al menos Ay si quieren podemos tratarla desde loqueológico más adelante, pero necesitamos como un poquito más de tiempo para tratar eso.
-
-40:04
-
-Mediodía un domingo, no sé qué días. Eso no 90 tienen pensado? Hoy hay un paradigma más de la inclusión. Eso significa que ha cambiado la reflexión en torno a los psicosocial? Y vamos a la última dimensión. No significa que sea la menos importante mucho menos. Pero vamos a ver un videíto de Sheldon Amy Ni que vamos a ver la canción de Amor les podemos ver qué significa amor.
+Y vamos a la última dimensión. No significa que sea la menos importante mucho menos. Pero vamos a ver un videíto de Sheldon y Amy en el que vamos a ver la noción de amor. Después vamos a ver qué significa amor.
 
 40:35
 
