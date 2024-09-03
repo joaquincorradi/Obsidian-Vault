@@ -65,17 +65,8 @@ El placer del encuentro con otro. La posibilidad de mi sexualidad es lo que me i
 Y fíjense como dos energías entre el hedonismo y el pudor son como las dos tensiones que tenemos, están constantemente en nosotros. 
 Hoy al pudor ¿que le decimos desde el hedonismo? ni lo conceptualizaba. El auto acá retoma lo del pudor porque lo del pudor es lo que me cuida. Yo le doy un ejemplo muy distinto. Muy distinto. Yo soy pudoroso en todos los aspectos de mi vida. Si vos me preguntás 'Fede contame la decisión de este año. ¿Qué decisión tenés en tu vida para crecer?' Yo lo más probable que no te la cuente. Porque para mí eso tiene que ver con mi intimidad. Y eso es el pudor es el ropaje en general, cómo uno cuida lo suyo, la propiedad intelectual, afectiva, emocional. En lo sexual es lo que cuida mi intimidad y yo le comparto solo con aquella persona que tengo confianza que tengo cercanía que tengo empatía.Pero el pudor va más allá de lo sexual. A mí me molesta que cuando he tenido que tomar decisiones importantes en mi vida que vengan de afuera y me dice ¿Qué vas a hacer? Me saca, me saca, porque tiene que ver con mi intimidad que yo la quiero compartir con quien yo quiero.
 Esto esto hay que educarlo mucho en las infancias en educación sexual integral. Una de las cuestiones tiene que ser ahí porque la gran puerta al las cuestiones de abuso tiene que ver con que no hay un un buen desarrollo del puedo. No quiero victimizar a la persona que es abusada  porque no tiene culpa, Pero el pudor es la capacidad que le va a dar para decir 'Esto está mal'. Es es algo que se que se entrena que se puede educar. Y el aparato de la trascendencia es como lo que hemos dicho. Yo no hay forma de que vincule con Dios sin mi sexualidad, no que no es lo mismo que genitalidad, pero mi apertura es lo que a mí me abre como ser humano al otro, tanto individuo como al otro. Es la energía de la sexualidad, que en cada ámbito será de una manera o será de otra.
-Y vamos a la última dimensión. No significa que sea la menos importante mucho menos. Pero vamos a ver un videíto de Sheldon y Amy en el que vamos a ver la noción de amor. Después vamos a ver qué significa amor.
+Y vamos a la última dimensión. No significa que sea la menos importante mucho menos. Pero vamos a ver un videíto de Sheldon y Amy en el que vamos a ver la noción de amor. Después vamos a ver qué significa amor. Después vamos a agarrar la Biblia. Les voy a les voy a mostrar. Les voy a hacer una lectura de esta noción de amor agápico Veamos el videito y pensemos ¿Qué siente Sheldon por Amy? ¿Qué siente ella por Sheldon? Y qué pasa Penny y Leonard que están como de segunda en esta escena?
 
-40:35
+*Reproduce el video*
 
-Yo se fue agarrar la Biblia. Les voy a les voy a mostrar. Les voy a hacer una lectura de esta noción de amor agápico Preguntaba ahí. Veamos el videito y pensemos Qué siente Sheldon por Amy. Qué siente ella por Sheldon? Y qué pasa entre penal? Penny y lenard que están como de segunda en esta escena subió Al aula virtual.
-
-41:10
-
-Creo que era.
-
-41:16
-
-Es un poco largo el video que crecen 7 minutos. Pero!
 
