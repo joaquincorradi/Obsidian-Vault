@@ -71,22 +71,10 @@ Y vamos a la última dimensión. No significa que sea la menos importante mucho 
 
 Fijense que la dimensión espiritual, que es la que estamos viendo tiene que ver con esto de puede haber genitalidad o no pero es una de las experiencias más fuertes de la vida. Acá lo estamos viendo en una pareja pero podríamos ponerlo en una la familia, amigos. Está capacidad de amar que tenemos. Solo que acá lo que quiero enfocar a la cuestión de la pareja porque tiene que ver con estamos viendo de la genitalidad.
 Penny y Leonard son opuestos, son el día y noche, pero tienen una capacidad de amarse tan fuerte que los une que hace que lo que Penny no tiene lo complementa con Leonard y biceversa completo acá en algún sentido son más parecidos, pero también hay una fuerte capacidad de hablar de encuentro de respeto por el otro.
+Cuando se aborda la ESI no falta este aspecto espiritual. Nosotros los cristianos lo tenemos en un aspecto trascendental Sí, pero no hace falta hacer religioso para pensar este aspecto espiritual porque el espiritualidad tiene que ver con el ser humano y no con la religión solamente. Algunos teólogos que hablan de este tema dicen que el horizonte de la sexualidad tiene que ver con la capacidad de amar y nosotros tenemos un mandamiento principal donde aparece este concepto y vuelvo a decir, ya vamos a ver qué significa amar en el evangelio y lo vamos a interpretar de otra manera, pero por ahora nos quedemos con esto.
+¿Quién podria leer?
 
-01:27
-
-Se aborde la e sí, la sexualidad no faltes de aspecto espirituales. Nosotros los cristianos lo tenemos en un aspecto trascendental Sí, pero no hace falta hacer religioso para pensar este aspecto espiritual porque el espiritualidad tiene que ver con los países humano y no con la religión solamente. El Horizonte de la sexualidad humana dice teólogo y he escuchado varios teólogos muralistas que trabajan este tema.
-
-01:56
-
-Qué piensan esto que venimos? Hablando el Horizonte de la sexualidad tiene que ver con la capacidad de amar y nosotros tenemos un mandamiento principal donde aparece este concepto que vuelva a decir. Ya vamos a ver qué significa amar en el evangelio y lo vamos a interpretar de otra manera, pero por ahora nos quedemos con esto.
-
-02:16
-
-Quién lo podría leer? Esto estaba en el Evangelio según San Mateo, capítulo 2. Quién lo puede dar?
-
-02:31
-
-Vaya el señor nuestro Dios es el único señor y tú amarás al Señor tu Dios con todo tu corazón Y con toda tu alma con todo tu espíritu y con todas tus fuerzas. El segundo es amarás a tu prójimo como a ti mismo, no hay otro mandamiento más grande que estos.
+-Alumno: Vaya el señor nuestro Dios es el único señor y tú amarás al Señor tu Dios con todo tu corazón Y con toda tu alma con todo tu espíritu y con todas tus fuerzas. El segundo es amarás a tu prójimo como a ti mismo, no hay otro mandamiento más grande que estos.
 
 02:52
 
