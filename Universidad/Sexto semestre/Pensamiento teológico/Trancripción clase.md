@@ -76,62 +76,15 @@ Cuando se aborda la ESI no falta este aspecto espiritual. Nosotros los cristiano
 
 -Alumno: Vaya el señor nuestro Dios es el único señor y tú amarás al Señor tu Dios con todo tu corazón Y con toda tu alma con todo tu espíritu y con todas tus fuerzas. El segundo es amarás a tu prójimo como a ti mismo, no hay otro mandamiento más grande que estos.
 
-02:52
-
-Puso un concepto muy fuerte que es agapetazo el verbo agrapado y cuando habla del amor de Dios dice agapetazo a gazetaz. Es vos tenés que ganar. Pero Qué significa? Yo lo vamos a hablar no? No me voy a meter ahora.
-
-03:15
-
+-Profesor: Puso un concepto muy fuerte que es agapetazo el verbo agrapado y cuando habla del amor de Dios dice agapetazo a gazetaz. Es vos tenés que ganar. Pero Qué significa? Yo lo vamos a hablar no? No me voy a meter ahora.
 Y el amor no es una cosa romántica, solamente que siento por mi pareja que siento cuando me enamoré por primera vez a mariposa, no no esto tiene que ver con otra emoción mucho más potente más profundo se puede dar como amor romántico. Sí por supuesto pero no solamente. Y acá una cita este el libro que estamos citando de Gustavo de arrazabal ética de la sexualidad.
-
-03:38
-
-Alguien podría leer como el cierre de esta mirada de las dimensiones? Cuál es la visión que tenemos de la sexualidad humana? Quién lo puede leer?
-
-03:56
-
-En esta visión, la sexualidad Se pondrá en manifiesta como fuerza de trascendente, es decir, como la energía que impulsas al ser humano a salir de sí mismo y que se despiden niveles progresivos en virtual dinamismo orientado hacia la última profundidad. En misterio que la sexualidad se depresente la comunidad con Dios y con el próximo.
-
-04:25
-
-No informa que yo a mi adiós y el próximo tengo una sexualidad maduro. Puede ser exteriormente amor a Dios del prójimo, Pero puede ser una tremendo lo que experimenta idea. Queremos acá esta fuerza de trascendencia. Esta energía que tenemos todos que me impulsa salir de mi mismo. Esa es la definición de sexualidad que manejamos.
-
-04:52
-
 Acá bien. Pueden encontrar otra definiciones, Por supuesto que sí. Yo creo que esta una de las miradas más integrales y y pensemos. No sé cuál ha sido su mirada de la sexualidad que tenemos dentro de la iglesia, pero de pensar la sexualidad como algo malo, como algo negativo, como algo que quité de miedo, como algo que solo es pecado a mirar la sexualidad en esta perspectivas muy distintas.
-
-05:29
-
 Acá cuando entendimos trascendencia lo podemos ver en una transferencia inmanente, es decir, las personas ateas. Podrían pensar de esta manera. Yo tengo que trascender y a mí lo que me hace trascender es el amor al otro. El azul la tiene al otro viene al mundo. Pienso Gandhi pienso en la madre Teresa de Calcuta.
-
-05:51
-
 Se piensa un gente que le ha hecho muy bien al mundo ha trascendido. Gente que amó el prójimo y que uno dice hasta el día de hoy. Somos diferentes por sus capacidad de transformar este. Nosotros los cristianos podríamos hablar mientras tendencia trascendente? No hay manera que me lleva después de la muerte?
-
-06:15
-
-No hay posibilidad de salir a la cama? No hay posibilidad de santidad sin la energía que me saca de Trujillo y la energía que me salga a mí en la sexualidad? Amor en el Horizon, la amor a Dios Y por supuesto el proje. Que amor, estamos hablando. Después lo vemos.
-
-06:35
-
+No hay posibilidad de salir a la cama? No hay posibilidad de santidad sin la energía que me saca de Trujillo y la energía que me salga a mí en la sexualidad? Amor en el Horizon, la amor a Dios Y por supuesto el proje. Que amor, estamos hablando. Después lo vemos
 Resumiendo Ya terminó la clase? Quién elogio podríamos tener entre un iceberg? Y la sexualidad? Me parece muy linda esta imagen que nos llevemos de todas estas dimensiones de la sexualidad. Porque nosotros vemos como una partecita. Como cuando vemos un iPad? El El capitán del Titanic vio una película se llegó puesto todo el pedazote.
-
-07:04
-
 Porque! Lo que vemos es poquito. Yo puedo ver una conducta. Pero a lo que hay que prestar atención. A ver voy un ejemplo. Una persona puede ir todos los domingos a misa. Una persona puede sacar de su el 10% de su ingreso y dárselo a gente pobre. Nosotros los cristianos no nos tenemos que conformar con la conducta externa, sino que en todo tenemos que ver las causas porque yo puedo dar plata para querer ser famoso para querer Mostrarme que soy Bueno a mí sí sentarme en los primeros bancos para decir yo soy el que más ama.
-
-07:44
-
 Jesús de hecho Jesús fue muy crítico con esas personas con los fariseos hay muchos textos que podría citar ahora.
-
-07:57
-
 Pero nosotros tenemos que tratar de ver las causas causas biológicas, psicológicas, sociales y puntuales, la sexualidad y lo que llevamos a ver en la conducta un poquito. Nosotros lo que debemos acostumbrar a ver y cada uno su vida. Qué de fondo acá? Qué de fondo para pensar que de fondo para aprender?
-
-08:22
-
 Eso es imposible llegar a ver. Somos muy complejos los seres humanos. Pero eso es lo importante. Hoy terminamos como con la introducción a la materia cuatro clases para introducir las baterías una locura, pero a mí me parece importante que perdamos tiempo en estas nociones Porque cuando yo vi otros temas van a aparecer las dimensiones y está bueno que entendamos que somos complejos no es fácil.
-
-08:48
-
 Analizar la sexualidad humana. Conceptualizarla ejemplificarla complejo No sé si hay alguna pregunta alguna consulta algún comentario? Bueno gente, nos vemos el miércoles que viene y si hay alguien que la que le tengo que poner la asistencia venga ahora.
