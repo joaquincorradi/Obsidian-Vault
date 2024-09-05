@@ -9,7 +9,7 @@ Los no funcionales no son más importantes pero son más críticos porque afecta
 ## Usabilidad
 Facilidad con que las personas pueden utilizar una herramienta particular u otro objeto fabricado por humanos con el fin de alcanzar un objetivo concreto.
 
-Es un requerimiento no funcional. 
+Es un requerimiento no funcional y un atributo de calidad
 
 La usabilidad es la cualidad que tiene un sistema por la cual permite a sus usuarios alcanzar objetivos específicos con efectividad, eficiencia y satisfacción (que el usuario se sienta cómo en la interacción con el producto).
 
@@ -21,5 +21,4 @@ La facilidad de uso está relacionada con:
 - La eficacia: logra hacer lo que tenía que hacer
 - La eficiencia: lo hace de manera más eficiente que sin el producto.
 
-
-
+La usabilidad aparece cuando nace el diseño centrado en el usuario.
