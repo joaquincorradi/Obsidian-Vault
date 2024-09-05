@@ -22,3 +22,5 @@ La facilidad de uso está relacionada con:
 - La eficiencia: lo hace de manera más eficiente que sin el producto.
 
 La usabilidad aparece cuando nace el diseño centrado en el usuario.
+
+Etnografía: cuando voy a levantar requerimiento en una organización se hacen entrevistas pero no necesariamente le creo todo, entonces la etnografía es meterme en el lugar de trabajo y ver cómo se hacen las cosas.
