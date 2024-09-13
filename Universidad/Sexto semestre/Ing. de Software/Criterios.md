@@ -1,4 +1,8 @@
 - Consistencia
 - Permite usar atajos
 - Retroalimentación
-- Textos de dialofos para cerrar procesos
+- Textos de diálogos para cerrar procesos
+- Manejo de errores
+- Permite deshacer operaciones
+- Fomentar la sensación de control
+- Reducit 
