@@ -1,0 +1,4 @@
+- Consistencia
+- Permite usar atajos
+- Retroalimentación
+- Textos de dialofos para cerrar procesos
