@@ -5,4 +5,3 @@
 - Manejo de errores
 - Permite deshacer operaciones
 - Fomentar la sensación de control
-- Reducit 

@@ -1,0 +1,5 @@
+- Megatone:
+	- Consistencia: usa iconos familiares y las diferentes paginas son iguales y usan la misma interfax.
+	- Permitir que lo usuarios frecuentes usen atajos: la página no permite el uso de atajos de teclado fuera de los que provee el propio navegador.
+	- Retroalimentación informativa: lo elementos se agregan la carrito pero la web envái
+	- 
