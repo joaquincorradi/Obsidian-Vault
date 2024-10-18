@@ -24,13 +24,13 @@
 ## Dominio
 - Usuario
 	- email institucional
-	- contraseña
 - Diagrama
-- Elemento
 - Plantilla
-- Reporte
+- Reporte requeriría funcionalidad
 - Archivo
 - Colaboración
 
 
-Administrar plantillas
+Administrar plantillas como RF
+El usuario debe ingresar por medio de un email institucional
+No usar palabra proyecto usar archivo
