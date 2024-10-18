@@ -1,10 +1,10 @@
 
 ## Casos de uso
-1. Creación de diagramas UML
-	1. << extend >> Creación diagrama casos de uso
-	2. << extend >> Creación diagrama clases
-	3. << extend >> Creación diagrama secuencia
-	4. << extend >> Creación diagramas de actividades
+1. Crear de diagramas UML
+	1. << extend >> Crear diagrama casos de uso
+	2. << extend >> Crear diagrama clases
+	3. << extend >> Crear diagrama secuencia
+	4. << extend >> Crear diagramas de actividades
 2. Editar diagramas
 	1. ¿<< extend >> Edición colaborativa?
 3. ¿Utilizar plantillas predefinidas?
@@ -16,8 +16,18 @@
 ---
 
 ## Secuencia
+- Actores
+	- Usuario
+	- Sistema
 
 
 ## Dominio
 - Usuario
-- 
+	- email institucional
+	- contraseña
+- Diagrama
+- Elemento
+- Plantilla
+- Reporte
+- Archivo
+- Colaboración
