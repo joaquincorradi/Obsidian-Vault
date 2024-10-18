@@ -31,3 +31,6 @@
 - Reporte
 - Archivo
 - Colaboración
+
+
+Administrar plantillas
