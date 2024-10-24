@@ -28,9 +28,9 @@
 - Plantilla
 - Reporte requeriría funcionalidad
 - Archivo
-- Colaboración
 
 
-Administrar plantillas como RF
+Chequear usuarios en el SRS
+Administrar plantillas como RF???
 El usuario debe ingresar por medio de un email institucional
 No usar palabra proyecto usar archivo
