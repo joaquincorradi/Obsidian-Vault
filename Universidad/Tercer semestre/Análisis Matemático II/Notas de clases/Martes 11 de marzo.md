@@ -22,3 +22,12 @@ $f(x,y)=\sqrt{25-x^2-y^{2}}$
 Para que se cumpla la función $25-x^2-y^{2}\geqslant_{0}$
 Entonces $Dom_{f}=\{ (x,y)\in R / x^2+y^2 \leqslant 25 \}$
 La ecuación de un circulo es $x^2+y^2 \leqslant a^2$ 
+La imagen de la función es $\mathrm{Im}_{f} = [0,5]$ 
+
+Otro ejemplo:
+$h:R^2\rightarrow R^3$ No se puede graficar la funcion porque m+m es mayor a 3
+$h(x,y)=(\sqrt{ 1-x^2-y^2 }, 0, 1)$ la coordenada que cambia es la $h_1$, 
+Para definir el dominio de una funcion de tres coordenadas que son tres funciones se debe buscar la intersección de los tres dominios. En este caso dos coordenadas son fijas.
+$Dom_{h}(x,y)=Dom_{f}(x,y)$ 
+$Dom_{f}(x,y)=\{(x,y)\in R /x^2+y^2 \leqslant 1\}$
+$\mathrm{Im}_{f(x,y)} =\{ (x,y,z)\in R^3 \}$
