@@ -14,4 +14,11 @@ $F(x,y,z)=(zxy^2, 3hx, 3zxy)$ va de r3 en r3
 Se puede graficar siempre que $m+m\leqslant3$ ($R^m\rightarrow R^m$)
 
 # Dominio e imagen de una función
-Dominio todos aquellos valores que pertenecen al conjunto de partida que hacen que la función tenga sentido.
+Dominio son todos aquellos valores que pertenecen al conjunto de partida que hacen que la función tenga sentido. Para determinar el dominio de la función es más fácil a veces encontrar los puntos que no pertencen:
+Por ejemplo:
+Determinar el dominio y la imagen de la siguiente función.
+$f:R^2\rightarrow R$ se puede graficar el domino porque estoy en R2 y se puede graficar la función
+$f(x,y)=\sqrt{25-x^2-y^{2}}$
+Para que se cumpla la función $25-x^2-y^{2}\geqslant_{0}$
+Entonces $Dom_{f}=\{ (x,y)\in R / x^2+y^2 \leqslant 25 \}$
+La ecuación de un circulo es $x^2+y^2 \leqslant a^2$ 
