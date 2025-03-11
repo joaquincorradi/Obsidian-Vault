@@ -35,3 +35,8 @@ $\mathrm{Im}_{f(x,y)} =\{ (x,y,z)\in R^3 / 0\leqslant x \leqslant 1, y=0 \land z
 # Representación gráfica de funciones
 Las gráficas de funciones de dos variables siempre van a ser superficies. 
 Por ejemplo $f(x,y)=x^2+y^2$ es un paraboloide.
+
+Una curva de nivel se obtiene igualando a la función en un valor constante $x=C$ para el caso de $R^2$.  $x=C$ es un plano paralelo. Con esto uno puede tener información de la función.
+
+# Límites
+
