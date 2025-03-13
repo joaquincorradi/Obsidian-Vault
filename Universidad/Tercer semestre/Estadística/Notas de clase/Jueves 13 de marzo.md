@@ -19,3 +19,7 @@ Datos. Los requisitos para la recolección de datos son:
 - Deben ser medibles.
 - Deben ser lo más exacto posibles, los errores de información conduce a errores en las conclusiones.
 - Deber se accesible, es decir, posibles de obtener en todas las muestras de observación.
+
+Los datos primarios son los que obtiene el que realiza la investigación son primarios, si se utilizar de terceros son fuentes secundarias.
+
+Cualitativo: representan atributos o propiedades que no cambian de magnitud, por ejemplo raza, religión , sexo...
