@@ -39,4 +39,5 @@ Por ejemplo $f(x,y)=x^2+y^2$ es un paraboloide.
 Una curva de nivel se obtiene igualando a la función en un valor constante $x=C$ para el caso de $R^2$.  $x=C$ es un plano paralelo. Con esto uno puede tener información de la función.
 
 # Límites
-
+El límite se puede calcular por infinitos caminos.
+- Límites iterados. Si los límites dan diferentes no existen. Si dan iguales puede existir.
