@@ -14,6 +14,13 @@ $\lim_{ x \to x_{0} }=L\iff\forall\varepsilon>0\exists\delta>0/0<||x-x_{0}||<\de
 - El valor absoluto de cualquier coordenada de un vector siembre va a ser menor o igual que la norma de ese vector.. Por ejemplo: $x=(1,2)$, $||x||=\sqrt{ 1^2+2^2 }=\sqrt{ 5 }$, $|x_{1}|<\sqrt{ 5 }$, $|x_{2}|<\sqrt{ 5 }$ 
 - Desigualdades más usadas en orden de la diapositiva $3, 4, 6, 7$
 
-Verificar un límite por definición es encontrar una relación entre $\varepsilon$ y $\delta$. Debe cumplir la relación que para un $\varepsilon>0$ el $\delta>0$, por ejemplo el caso de $\varepsilon=\sqrt{ 1+\delta }$, ya que $\delta$ puede ser 
+Verificar un límite por definición es encontrar una relación entre $\varepsilon$ y $\delta$. Debe cumplir la relación que para un $\varepsilon>0$ el $\delta>0$, por ejemplo el caso de $\varepsilon=\sqrt{ 1+\delta }$, ya que $\delta$ puede ser mayor que cero pero $\varepsilon$ puede no existir.
+
+(Se pide demostración del la unicidad del límite en el final)
+### Límites iterados o sucesivos
+En una función de $n$ variables se obtienen $n!$ límites iterados.
+Para funciones de dos variables, se tienen los siguientes límites iterado:
+$L_{1}=\lim_{ y \to y_{0} }[ \lim_{ x \to x_{0} } f(x,y) ]$
+$L_{2}=\lim_{ y \to y_{0} }[ \lim_{ x \to x_{0} } f(x,y) ]$
 
 
