@@ -24,7 +24,10 @@ $L_{1}=\lim_{ y \to y_{0} }[ \lim_{ x \to x_{0} } f(x,y) ]$
 $L_{2}=\lim_{ x \to x_{0} }[ \lim_{ y \to y_{0} } f(x,y) ]$
 Si el límite existe se lo llama límite doble.
 Si los límites iterados son distintos el límite no existe. Si son iguales puede existir, porque para acercarse a $x_{0}$ hay infinitos caminos, en el caso de iterados sólo se probaron dos. Evidentemente, no se pueden calcular todos los límites, por lo tanto, en la práctica se pueden tomar tres o cuatro caminos sencillos, y luego se aplica la definición.
+
+Un camino es utilizando una recta cuya ecuación es $y-y_{0}=m(x-x_{0})$ reemplazando en los puntos, llamándose este método camino de prueba. Si el límite depende de la pendiente entonces no existe.
+
 *Ejemplo en cuaderno*
 
-
+### Límite
 
