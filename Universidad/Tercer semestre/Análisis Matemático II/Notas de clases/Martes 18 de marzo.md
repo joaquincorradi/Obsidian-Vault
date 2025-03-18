@@ -21,6 +21,10 @@ Verificar un límite por definición es encontrar una relación entre $\varepsil
 En una función de $n$ variables se obtienen $n!$ límites iterados.
 Para funciones de dos variables, se tienen los siguientes límites iterado:
 $L_{1}=\lim_{ y \to y_{0} }[ \lim_{ x \to x_{0} } f(x,y) ]$
-$L_{2}=\lim_{ y \to y_{0} }[ \lim_{ x \to x_{0} } f(x,y) ]$
+$L_{2}=\lim_{ x \to x_{0} }[ \lim_{ y \to y_{0} } f(x,y) ]$
+Si el límite existe se lo llama límite doble.
+Si los límites iterados son distintos el límite no existe. Si son iguales puede existir, porque para acercarse a $x_{0}$ hay infinitos caminos, en el caso de iterados sólo se probaron dos. Evidentemente, no se pueden calcular todos los límites, por lo tanto, en la práctica se pueden tomar tres o cuatro caminos sencillos, y luego se aplica la definición.
+*Ejemplo en cuaderno*
+
 
 
