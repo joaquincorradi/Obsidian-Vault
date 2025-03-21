@@ -1,0 +1,1 @@
+Un firewall protege la red. Define reglas a través de 
