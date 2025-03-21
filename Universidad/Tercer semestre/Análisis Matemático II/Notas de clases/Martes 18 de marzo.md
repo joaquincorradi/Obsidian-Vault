@@ -29,5 +29,5 @@ Un camino es utilizando una recta cuya ecuación es $y-y_{0}=m(x-x_{0})$ reempla
 
 *Ejemplo en cuaderno*
 
-### Límite
-
+### Continuidad
+(*El ejemplo de límite en esta diapositiva es de exámen*)
