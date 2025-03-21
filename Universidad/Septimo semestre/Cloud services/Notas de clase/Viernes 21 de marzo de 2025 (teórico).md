@@ -1,1 +1,2 @@
-Un firewall protege la red. Define reglas a través de 
+Firewall
+Un enrutador encamina el tráfico
