@@ -1,0 +1,1 @@
+En la capa de redes se da el permiso de acceso a otras redes, por ejemplo, puedo tener los servidores en otra región
