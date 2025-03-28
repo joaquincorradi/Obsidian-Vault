@@ -14,4 +14,8 @@
 *2.14)* 
 *a.* $A \cup C = (0 , 2 , 3 , 4 , 5 , 6 , 8)$
 *b.* $A \cap C=\varnothing$
-*c.* $C^\complement $
+*c.* $C^\complement = (0 , 1 , 6 , 7 , 8 , 9)$
+*d.* $(C^\complement \cap D) \cup B = (1 , 3 , 5 , 6 , 7 , 9)$
+*e.* $(S\cap C)^\complement=(0 , 1 , 6 , 7 , 8 , 9)$
+*f.* $A \cap C \cap D^\complement =(2,4)$
+
