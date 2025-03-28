@@ -11,3 +11,7 @@
 	*e.* $S=\{\varnothing\}$
 	*f.* $S=\{(5,2),(6,2)\}$
 	*g.* 
+*2.14)* 
+*a.* $A \cup C = (0 , 2 , 3 , 4 , 5 , 6 , 8)$
+*b.* $A \cap C=\varnothing$
+*c.* $C^\complement $
