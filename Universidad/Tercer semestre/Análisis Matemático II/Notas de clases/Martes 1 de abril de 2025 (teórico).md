@@ -20,4 +20,7 @@ El límite se usa cuando las derivadas parciales no sean continuas, ya que si lo
 Ejemplo:
 $f(x,y)=\begin{cases}\frac{x^2y}{x^2+y^2} & \text{si} (x,y) \neq (0,0) \\ 0 & \text{si} (x,y) = (0,0)\end{cases}$
 $\\lim_{ (x,y) \to (0,0) } \frac{f(x,y)-f(x_{0}, y_{0})-\mathbf{D}_{(0,0)}f(x-x_{0},y-y_{0})}{\sqrt{ x^2+y^2 }}$
-$\lim_{ (x,y) \to (0,) }$
+$\lim_{ (x,y) \to (0,0) }=\frac{\frac{x^2y}{x^2+y^2}-0- \begin{bmatrix} 0 & 0 \end{bmatrix} \begin{bmatrix} x-0 \\ y-0 \end{bmatrix}}{\sqrt{ x^2+y^2 }}$
+$\dots$
+
+## Derivada direccional
