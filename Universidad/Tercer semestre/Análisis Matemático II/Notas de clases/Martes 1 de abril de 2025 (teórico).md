@@ -11,4 +11,8 @@ Si el límite da cero la función es diferenciable en el punto $a$.
 Si se toma un punto culaquiera en una superfice se puede tomar un punto y crear un plano tangente.
 
 Matriz jacobiana. 
-$J_{}\begin{bmatrix} \frac{\partial f}{\partial x}(x_{0},y_{0}) & \frac{\partial f}{\partial y}(x_{0},y_{0}) \end{bmatrix}$
+$\mathbf{J}_{f}=\begin{bmatrix} \frac{\partial f}{\partial x}(x_{0},y_{0}) & \frac{\partial f}{\partial y}(x_{0},y_{0}) \end{bmatrix}$
+
+**Se pide en el final demostrar que si una función es diferenciable entonces continua.**
+
+El límite se usa cuando las derivadas parciales no sean continuas, ya que si lo son, entonces es diferenciable y es suficiente para saberlo.
