@@ -24,3 +24,17 @@ $\lim_{ (x,y) \to (0,0) }=\frac{\frac{x^2y}{x^2+y^2}-0- \begin{bmatrix} 0 & 0 \e
 $\dots$
 
 ## Derivada direccional
+Ejemplo:
+$f(x,y)=2x+y$
+$x_{0}=(1,1)$
+$\vec{u}=\left( \frac{1}{\sqrt{ 2 }}, \frac{1}{\sqrt{ 2 }} \right)$
+$$
+\begin{align}
+f(\mathbf{x}+t\mathbf{u})&=f(\mathbf{x}_{0}+t\mathbf{u},y_{0}+t\mathbf{u}_{2}) \\
+&=f\left(1+t\frac{1}{\sqrt{ 2 }},1+t\frac{1}{\sqrt{ 2 }}\right) \\
+&=2\left( 1+t\frac{1}{\sqrt{ 2 }} \right)+1+t\frac{1}{\sqrt{ 2 }} \\
+&=2+\frac{2t}{\sqrt{ 2 }}+1+1\frac{1}{\sqrt{ 2 }} \\
+&=3+\frac{3t}{\sqrt{ 2 }}
+\end{align}
+$$
+Se toma **siempre** el teorema de la foto.
