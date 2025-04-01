@@ -9,3 +9,6 @@ $\lim_{ x \to a }\frac{f(x)-(f(x_{0})+f'(x_{0})(x-x_{0}))}{(x-a)}=0$
 Si el límite da cero la función es diferenciable en el punto $a$.
 
 Si se toma un punto culaquiera en una superfice se puede tomar un punto y crear un plano tangente.
+
+Matriz jacobiana. 
+$J_{}\begin{bmatrix} \frac{\partial f}{\partial x}(x_{0},y_{0}) & \frac{\partial f}{\partial y}(x_{0},y_{0}) \end{bmatrix}$
