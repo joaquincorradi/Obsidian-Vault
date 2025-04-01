@@ -7,3 +7,5 @@ Buena aproximación significa
 **Condición de diferenciabilidad:**
 $\lim_{ x \to a }\frac{f(x)-(f(x_{0})+f'(x_{0})(x-x_{0}))}{(x-a)}=0$
 Si el límite da cero la función es diferenciable en el punto $a$.
+
+Si se toma un punto culaquiera en una superfice se puede tomar un punto y crear un plano tangente.
