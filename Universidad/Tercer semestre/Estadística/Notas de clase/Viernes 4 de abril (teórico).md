@@ -8,4 +8,6 @@
 *2.28)* $5\times 3 \times 2 = 30$
 *2.30)* $2\times 2 \times 2\times 2 \times 2\times 2 \times 2 \times 2 \times 2 = 2^9 = 512$
 *2.32)* 
-	*a.* 
+	*a.* $6! =720$
+	*b.* $4! =$
+	*c.* $$
