@@ -13,4 +13,8 @@
 	*c.* $6!-(5!\times 2)=480$
 *2.52)* $E_{r}=500, F=210, B=258, C=216$
 	$F\cap B=122, C\cap B=83, F\cap C=97, F\cap B\cap C=52$
+	![[2.52 est.drawio.png]]
+	*a.* $P(F\cap B^\complement)=\frac{43+45}{500}=\frac{22}{125}=0,176=17,6\%$
+	*b.* $P(C\cap B\cap F^\complement)=\frac{31}{500}=0,062=6,2\%$
+	*c.* $P(F^\complement\cap C^\complement)=\frac{105+66}{500}=\frac{171}{500}=0,342=34,2\%$
 	
