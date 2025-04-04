@@ -38,3 +38,5 @@ f(\mathbf{x}+t\mathbf{u})&=f(\mathbf{x}_{0}+t\mathbf{u},y_{0}+t\mathbf{u}_{2}) \
 \end{align}
 $$
 Se toma **siempre** el teorema de la foto.
+
+## Dirección de máximo y menos crecimiento
