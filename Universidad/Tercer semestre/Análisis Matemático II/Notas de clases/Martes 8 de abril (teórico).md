@@ -35,6 +35,19 @@ Entonces,
 $$
 \mathbf{D}_{f}(\mathbf{u})\cdot \mathbf{D}_{g}(\mathbf{x})=
 \begin{bmatrix}  
-\frac{\partial \math\mathbf{}{\partial x} & 2v & -1\\
+\frac{\partial \mathbf{z}}{\partial x} & \frac{\partial \mathbf{z}}{\partial y} & \frac{\partial \mathbf{z}}{\partial z}\\
+\end{bmatrix}
+$$
+$$
+\begin{gather}
+\frac{\partial \mathbf{z}}{\partial x}=4uxy+ze^{-xz}=4x^3y^2+ze^{-xz}\\
+\frac{\partial \mathbf{z}}{\partial y}=2ux^2+4vy=2x^4y+4y^3\\
+\frac{\partial \mathbf{z}}{\partial z}=xe^{-xz}
+\end{gather}
+$$
+$$
+\mathbf{D}_{f}(\mathbf{u})\cdot \mathbf{D}_{g}(\mathbf{x})=
+\begin{bmatrix}  
+4x^3y^2+ze^{-xz} & 2x^4y+4y^3 & xe^{-xz}\\
 \end{bmatrix}
 $$
