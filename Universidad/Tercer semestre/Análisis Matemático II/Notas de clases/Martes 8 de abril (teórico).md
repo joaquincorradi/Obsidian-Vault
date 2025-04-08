@@ -1,11 +1,15 @@
 ## Regla de la cadena
 Teorema (regla de la cadena): $f\circ g$ debe ser diferenciable.
 Cómo obtener el diferencial de una función???
-Ejemplo
+El dominio de uno tiene que coincidir con la imagen de otro y ese es el orden, por ejemplo
+$f:\mathbb{R}^2 \rightarrow \mathbb{R}^2$ y $g:\mathbb{R}^2 \rightarrow \mathbb{R}^3$ se debe hacer $g\circ f$.
+
+Ejemplo 1:
 $$
 \begin{gather} \\
 f(u,v,w)=u^2+v^2-w, f:\mathbb{R}^3 \rightarrow \mathbb{R}\\
 g(x,y,z)=(x^2y,y^2,e^{-xz}), g:\mathbb{R}^3 \rightarrow \mathbb{R}^3\\
+\mathbf{x}=(x,y,z); \mathbf{u}=(u,v,w)
 \end{gather} \\
 $$
 Se pide $D(f\circ g)$
@@ -50,4 +54,18 @@ $$
 \begin{bmatrix}  
 4x^3y^2+ze^{-xz} & 2x^4y+4y^3 & xe^{-xz}\\
 \end{bmatrix}
+$$
+
+Ejemplo 2:
+Calcular $g\circ f$ en $(1,1)$ aplicando la regla de la cadena:
+$$
+\begin{gather}
+f(x,y)=(x^2+1,y^2);f:\mathbb{R}^2 \rightarrow \mathbb{R}^2 \\
+g(u,v)=(u+v,u,v^2);g:\mathbb{R}^2 \rightarrow \mathbb{R}^3 \\
+\mathbf{x}=(x,y)
+\end{gather}$$
+$$
+\begin{ga}
+
+\end{ga}
 $$
