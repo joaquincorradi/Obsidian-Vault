@@ -65,7 +65,49 @@ g(u,v)=(u+v,u,v^2);g:\mathbb{R}^2 \rightarrow \mathbb{R}^3 \\
 \mathbf{x}=(x,y)
 \end{gather}$$
 $$
-\begin{ga}
-
-\end{ga}
+\begin{gather}
+\mathbf{D}(g\circ f)=\mathbf{D}_{x}g\cdot\mathbf{D}_{x}f \\
+\mathbf{x}_{0}=(1,1) \\
+\mathbf{y}_{0}=(2,1)
+\end{gather}
 $$
+$$
+\mathbf{D}_{\mathbf{y}}g=
+\begin{bmatrix}  
+\frac{\partial g_{1}}{\partial x} & \frac{\partial g_{1}}{\partial y}\\  
+\frac{\partial g_{2}}{\partial x} & \frac{\partial g_{2}}{\partial y}\\
+\frac{\partial g_{3}}{\partial x} & \frac{\partial g_{3}}{\partial y}
+\end{bmatrix} = 
+\begin{bmatrix}  
+1 & 1\\  
+1 & 0\\
+0 & 2v
+\end{bmatrix}
+$$
+$$
+\mathbf{D}_{\mathbf{y}_{0}}g=\mathbf{D}g(2,1)=
+\begin{bmatrix}  
+1 & 1\\  
+1 & 0\\
+0 & 2
+\end{bmatrix}
+$$
+$$
+\mathbf{D}_{\mathbf{x}}f=
+\begin{bmatrix}  
+\frac{\partial f_{1}}{\partial x} & \frac{\partial f_{1}}{\partial y} \\  
+\frac{\partial f_{2}}{\partial x} & \frac{\partial f_{2}}{\partial y}
+\end{bmatrix} = 
+\begin{bmatrix}  
+2x & 0 \\  
+0 & 2y
+\end{bmatrix}
+$$
+$$
+\mathbf{D}f(1,1)=
+\begin{bmatrix}  
+2 & 0 \\  
+0 & 2
+\end{bmatrix}
+$$
+
