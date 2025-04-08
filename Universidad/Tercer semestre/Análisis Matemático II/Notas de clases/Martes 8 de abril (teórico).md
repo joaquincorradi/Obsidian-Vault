@@ -1,1 +1,2 @@
-# Extremos en funciones de varias variables
+## Regla de la cadena
+Teorema (regla de la cadena)
