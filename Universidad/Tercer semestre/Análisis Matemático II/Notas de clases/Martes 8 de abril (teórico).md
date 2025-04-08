@@ -57,7 +57,7 @@ $$
 $$
 
 Ejemplo 2:
-Calcular $g\circ f$ en $(1,1)$ aplicando la regla de la cadena:
+Calcular $g\circ f$ en $(1,1)$ aplicando la regla de la cadena (se valua el punto en el segundo componente de la composición, en este caso la $f$):
 $$
 \begin{gather}
 f(x,y)=(x^2+1,y^2);f:\mathbb{R}^2 \rightarrow \mathbb{R}^2 \\
@@ -111,3 +111,28 @@ $$
 \end{bmatrix}
 $$
 
+Ejemplo 3:
+$$
+\begin{gather}
+z=\ln{x^2+y^2} \\
+x=t^2, y=t^{-2} \\
+\frac{dz}{dt}
+\end{gather}
+$$
+Entonces
+$$
+\begin{gather}
+f(x,y)=\ln{x^2+y^2} \\
+g(t)=(t^2,t^{-2})
+\end{gather}
+$$
+$$
+\begin{align}
+\frac{dz}{dt}&=\\partial fvec{\nabla}f\cdot \dot{g}(t) \\
+&=\begin{bmatrix}
+\frac{\partial f}{\partial x} & \frac{\partial f}{\partial y}
+\end{bmatrix} \cdot \begin{bmatrix}
+\frac{\partial f}{\partial x} & \frac{\partial f}{\partial y}
+\end{bmatrix}
+\end{align}
+$$
