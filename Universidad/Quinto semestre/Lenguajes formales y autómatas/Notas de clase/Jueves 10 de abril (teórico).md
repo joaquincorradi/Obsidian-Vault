@@ -40,5 +40,15 @@ Claramente $M$ es un $AFN\lambda$ y $L(M)=(L(M_{1}))^\star=(L(e_{1}))^\star=L_{e
 *Foto ejemplo*
 
 ### Demostración (2):
-Sea $M=(Q,\Sigma,q_{0},F,\Delta)$ con $Q=\{q_{0},\dots,q_{n}\}$, entonces  ref????? $M_{i}=(Q,\Sigma,q_{i},F,\Delta)$
+Sea $M=(Q,\Sigma,q_{0},F,\Delta)$ con $Q=\{q_{0},\dots,q_{n}\}$, entonces  ref????? $M_{i}=(Q,\Sigma,q_{i},F,\Delta)$ con $i=0,\dots,n$ y $L(M_{i})=X_{i}$ y $X_{0}=L(M)$.
+Notar que cada $X_{i}$ se puede escribir de la siguiente manera,
+$$
+X_{i}=
+\begin{cases}
+\sum_{q_{i}\in \Delta(q,a)}aX_{i},\ q_{i}\not\in F \\
+\sum_{q_{i}\in \Delta(q,a)}aX_{i}+\lambda,\ q_{i}\in F
+\end{cases}
+$$
+Entonces tenemos un sistema de $n+1$ ecuaciones y $n+1$ incógnitas.
+- Lema Ardon: si $A,B\subseteq \Sigma^\star$ 
 
