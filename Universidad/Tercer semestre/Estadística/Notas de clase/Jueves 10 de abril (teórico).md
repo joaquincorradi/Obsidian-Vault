@@ -13,7 +13,8 @@
 ---
 # Unidad 4
 ## Esperanza matemática
-### Media o valor esperado
+Es el promedio de todos los posibles resultados de una variable aleatoria.
+### Media o valor esperado (esperanza)
 Sea $X$ una variable aleatoria con distribución de probabilidad $f(x)$. La media o valor esperado de $X$ es
 $$\mu=E(X)=\sum_{x}xf(x)$$
 si $X$ es discreta, y
@@ -35,3 +36,9 @@ La raíz cuadrada positiva de la varianza, $\sigma$, se llama desviación están
 ### Varianza de una variable aleatoria
 La varianza de una variable aleatoria $X$ es
 $$\sigma^2=E(X^2)-\mu^2$$
+### Media o valor esperado de $X, Y$
+Sean $X$ y $Y$ variables aleatorias con distribución de probabilidad conjunta $f(x, y)$. La media o valor esperado de la variable aleatoria $g(X, Y)$ es
+$$\mu_{g(X,Y)}=E[g(X,Y)]=\sum_{x}\sum_{y}g(x,y)f(x,y)$$
+si $X$ y $Y$ son discretas, y
+$$\mu_{g(X,Y)}=E[g(X,Y)]=\int_{-\infty}^\infty\int_{-\infty}^\infty g(x,y)f(x,y)dxdy$$
+si $X$ y $Y$ son continuas.
