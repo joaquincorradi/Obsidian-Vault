@@ -128,11 +128,18 @@ g(t)=(t^2,t^{-2})
 $$
 $$
 \begin{align}
-\frac{dz}{dt}&=\\partial fvec{\nabla}f\cdot \dot{g}(t) \\
+\frac{dz}{dt}&=\vec{\nabla}f\cdot \dot{g}(t) \\
 &=\begin{bmatrix}
 \frac{\partial f}{\partial x} & \frac{\partial f}{\partial y}
 \end{bmatrix} \cdot \begin{bmatrix}
-\frac{\partial f}{\partial x} & \frac{\partial f}{\partial y}
-\end{bmatrix}
+\dot{g}_{1}(t) & \dot{g}_{2}(t)
+\end{bmatrix} \\
+&=\begin{bmatrix}
+\frac{2x}{x^2+y_{2}} & \frac{2y}{x^2+y^2}
+\end{bmatrix} \cdot \begin{bmatrix}
+2t & \frac{-2}{t^3}
+\end{bmatrix} \\
+&=\frac{4xt}{x^2+y^2}-\frac{4y}{(x^2+y^2)t^3}=
 \end{align}
 $$
+Limite o analizar continuidad, derivada direccional o compuesta o combinado, máximos y mínimos
