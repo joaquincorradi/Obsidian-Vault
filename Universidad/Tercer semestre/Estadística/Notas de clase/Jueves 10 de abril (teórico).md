@@ -25,8 +25,13 @@ $$\mu_{g(X)}=E[g(X)]=\sum_{x}f(x)g(x)$$
 si $X$ es discreta, y
 $$\mu_{g(X)}=E[g(X)]=\int_{-\infty}^\infty f(x)g(x)dx$$
 si $X$ es continua.
-### Varianza de variable aleatorias
-- Desviación estándar: Sea $X$ una variable aleatoria con distribución de probabilidad $f(x)$ y media μ. La varianza de $X$ es
-	$$\sigma^2=E[(X-\mu)^2]=\sum_{x}(x-\mu)^2f(x)$$
-	si $X$ es discreta, y
-	$$\sigma^2=E[(X-\mu)^2]=\int_{-\infty}$$
+### Varianza de $X$
+Sea $X$ una variable aleatoria con distribución de probabilidad $f(x)$ y media μ. La varianza de $X$ es
+$$\sigma^2=E[(X-\mu)^2]=\sum_{x}(x-\mu)^2f(x)$$
+si $X$ es discreta, y
+$$\sigma^2=E[(X-\mu)^2]=\int_{-\infty}^\infty (x-\mu)^2f(x)dx$$
+si $X$ es continua.
+La raíz cuadrada positiva de la varianza, $\sigma$, se llama desviación estándar de $X$.
+### Varianza de una variable aleatoria
+La varianza de una variable aleatoria $X$ es
+$$\sigma^2=E(X^2)-\mu^2$$
