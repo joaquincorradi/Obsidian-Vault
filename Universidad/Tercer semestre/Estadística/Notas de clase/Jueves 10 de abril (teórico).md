@@ -42,3 +42,6 @@ $$\mu_{g(X,Y)}=E[g(X,Y)]=\sum_{x}\sum_{y}g(x,y)f(x,y)$$
 si $X$ y $Y$ son discretas, y
 $$\mu_{g(X,Y)}=E[g(X,Y)]=\int_{-\infty}^\infty\int_{-\infty}^\infty g(x,y)f(x,y)dxdy$$
 si $X$ y $Y$ son continuas.
+### Teorema de Chebyshev
+La probabilidad de que cualquier variable aleatoria $X$ tome un valor dentro de $k$ desviaciones estándar de la media es de al menos $1-\frac{1}{k^2}$. Es decir,
+$$P(\mu-k\sigma<X<\mu+k\sigma)\geqslant 1-\frac{1}{k^2}$$
