@@ -27,8 +27,6 @@ F=F_{2} \\
 L(M)=L(M_{1}),L(M_{2})=L(e_{1}),L(e_{2})=L(e_{1},e_{2})=L(e)
 \end{gather}
 	$$
-	
-### Demostración (2):
 Si $e=e_{1}^\star$ con $e_{1}\in ER^\Sigma$ tal que $HI\exists M_{1}=(Q_{1}, \Sigma, q_{1}, F_{1},\Delta_{1})AFN?$ tal que $L(M_{1})=L(e_{1})$ tal que podemos tomar $M=(Q,\Sigma,q_{0},F,\Delta)$ tal que,
 $$
 \begin{gather}
@@ -37,4 +35,10 @@ F=F_{1}\cup\{q_{0}\} \\
 \Delta=\Delta_{1}-\{((q,\lambda),\Delta_{1}(q,\lambda)):q\in F_{1}\}\cup \{((q,\lambda),\Delta_{1}(q,\lambda)\cup \{q_{0}\}):q\in F_{1}\}\cup\{((q,\lambda),\{q_{1}\})\}
 \end{gather}
 $$
-Claramente $M$ es un $AFN\lambda$ y $L(M)=(L(M_{1}))$
+Claramente $M$ es un $AFN\lambda$ y $L(M)=(L(M_{1}))^\star=(L(e_{1}))^\star=L_{e}$
+
+*Foto ejemplo*
+
+### Demostración (2):
+Sea $M=(Q,\Sigma,q_{0},F,\Delta)$ con $Q=\{q_{0},\dots,q_{n}\}$, entonces  ref????? $M_{i}=(Q,\Sigma,q_{i},F,\Delta)$
+
