@@ -50,5 +50,9 @@ X_{i}=
 \end{cases}
 $$
 Entonces tenemos un sistema de $n+1$ ecuaciones y $n+1$ incógnitas.
-- Lema Ardon: si $A,B\subseteq \Sigma^\star$ 
-
+Lema Arden: si $A,B\subseteq \Sigma^\star$ con $\lambda \not\in A$, entonces la ecuación $X=A\cdot X\cup B$ tiene solución única $X=A^\star \cdot B$.
+Notar que 
+- Si $A\cdot B\in LR^\Sigma$, entonces $X\in LR^\Sigma$.
+- Si $A,B,X$ son $LR^\Sigma$, entonces puedo reemplazarlo por sus expresiones correspondientes.
+Ej.: $X=aX+b^\star ab$
+Por Arden $X=$
