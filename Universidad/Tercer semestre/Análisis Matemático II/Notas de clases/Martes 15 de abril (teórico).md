@@ -14,3 +14,12 @@ f(x_{0}+\Delta x)-f(x_{0})>0\to \Delta f>0 \\
 \Delta f=f(x)-f(x_{0})=f'(x_{0})(x-x_{0})+\frac{1}{2!}f''(x_{0})(x-x_{0})^2+\dots
 \end{gather}
 $$
+
+Si la primer derivada no nula es de orden par y negativa hay máximo, en cambio, si la primer derivada es de orden par y positiva tengo un mínimo. 
+
+$$
+\begin{gather}
+f(x,y)=f(x,y)+\frac{1}{1!}\left[ \frac{\partial f}{\partial x}(x_{0},y_{0})(x-x_{0})+\frac{\partial f}{\partial y}(x_{0},y_{0})(y-y_{0}) \right]+ \\
++\frac{1}{2!}\left[ \frac{\partial ^2 f}{\partial x^2}(x_{0},y_{0})(x-x_{0})^2+\frac{\partial f}{\partial y}(x_{0},y_{0})(y-y_{0}) \right]
+\end{gather}
+$$f(x,y)=f(x,y)+\frac{1}{1!}\lef \frac{\partial f}{\partial x}(x_{0},y_{0})(x-x_{0})+[ \right]
