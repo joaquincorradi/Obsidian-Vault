@@ -39,6 +39,15 @@ En funciones de varias variables se le llama máximo o mínimo locales cuando es
 $$
 \begin{gather}
 f(x,y)=x^3+y^3-27x-12y \\
-\frac{\partial f}{\partial x}=3x^2
+\frac{\partial f}{\partial x}=3x^2-27=0 \\
+\frac{\partial f}{\partial y}=3y^2-12=0
 \end{gather}
+$$
+Implica que
+$$
+x^2=9, \ y^2=4
+$$
+Y por ello $x=\pm 3$, y $y=\pm 2$. Entonces, hay cuatro puntos críticos $(3,2)$, $(-3,2)$, $(3,-2)$ y $(-3,-2)$
+$$
+\Delta f=\frac{||\Delta \vec{r}||}{2! \frac{\partial^2f}{\partial x^2}}\left[ \left( \frac{\partial^2f}{\partial x^2}+\cos \varphi + \frac{\partial^2f}{\partial y^2}+\sin \varphi \right) \right]
 $$
