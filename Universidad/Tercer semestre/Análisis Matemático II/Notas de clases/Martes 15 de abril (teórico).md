@@ -52,7 +52,7 @@ $$
 \Delta f=\frac{||\Delta \vec{r}||}{2! \frac{\partial^2f}{\partial x^2}}\left[ \left( \frac{\partial^2f}{\partial x^2}+\cos \varphi + \frac{\partial^2f}{\partial y^2}+\sin \varphi \right) +\sin^2\varphi \left[ \frac{\partial^2 f}{\partial x^2} \frac{\partial^2 f}{\partial y^2}- \left( \frac{\partial^2 f}{\partial x \partial y} \right)^2 \right] \right]
 $$
 
-Matriz hessiana:
+### Matriz hessiana
 $$
 \mathbf{H}(x,y)=
 \begin{bmatrix}
@@ -68,4 +68,25 @@ $$
 \end{bmatrix}
 = \frac{\partial^2f}{\partial x^2} \frac{\partial^2f}{\partial y^2} - \left(\frac{\partial^2f}{\partial x \partial y}\right)^2
 $$
-1. Si $\mathbf{H}(\mathbf{x_{0}})>0$ y $\frac{\partial^2f}{\partial x^2}$
+1. Si $\mathbf{H}(\mathbf{x_{0}})>0$ y $\frac{\partial^2f}{\partial x^2}<0$ entonces $\mathbf{x}_{0}$ es un **máximo loca**l.
+2. Si $\mathbf{H}(\mathbf{x_{0}})>0$ y $\frac{\partial^2f}{\partial x^2}>0$ entonces $\mathbf{x}_{0}$ es un **mínimo local**.
+3. Si $\mathbf{H}(\mathbf{x_{0}})<0$ entonces $\mathbf{x}_{0}$ es un **punto de silla**.
+4. Si $\mathbf{H}(\mathbf{x_{0}})=0$ el criterio no puede decidir (por ejemplo $z=x^2$).
+
+*Ejemplo 2:*
+$$
+\begin{gather}
+f(x,y)=4x^2+2y^2-2xy-10y-2x \\
+\frac{\partial f}{\partial x}=8x-2y-2=0 \\
+\frac{\partial f}{\partial y}=4y-2x-10=0 \\
+\begin{cases}
+8x-2y=2 \\
+-2x+4y=10
+\end{cases}
+\end{gather}
+$$
+El punto critico es $(1,3)$.
+$$
+f_{xx}(x,y)=8,\ f_{yy}(x,y)=4,\ f_{xy}(x,y)=-2
+$$
+Y por ello $\mathbf{}$
