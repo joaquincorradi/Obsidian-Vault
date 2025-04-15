@@ -73,20 +73,11 @@ $$
 3. Si $\mathbf{H}(\mathbf{x_{0}})<0$ entonces $\mathbf{x}_{0}$ es un **punto de silla**.
 4. Si $\mathbf{H}(\mathbf{x_{0}})=0$ el criterio no puede decidir (por ejemplo $z=x^2$).
 
-*Ejemplo 2:*
+Matriz hessiana para tres variables:
 $$
-\begin{gather}
-f(x,y)=4x^2+2y^2-2xy-10y-2x \\
-\frac{\partial f}{\partial x}=8x-2y-2=0 \\
-\frac{\partial f}{\partial y}=4y-2x-10=0 \\
-\begin{cases}
-8x-2y=2 \\
--2x+4y=10
-\end{cases}
-\end{gather}
+\mathbf{H}(\mathbf{x})=
+\begin{bmatrix}
+f_{xx} & f_{xy} & f_{xz} \\
+
+\end{bmatrix}
 $$
-El punto critico es $(1,3)$.
-$$
-f_{xx}(x,y)=8,\ f_{yy}(x,y)=4,\ f_{xy}(x,y)=-2
-$$
-Y por ello $\mathbf{}$
