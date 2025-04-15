@@ -78,6 +78,7 @@ $$
 \mathbf{H}(\mathbf{x})=
 \begin{bmatrix}
 f_{xx} & f_{xy} & f_{xz} \\
-
+f_{yx} & f_{yy} & f_{yz} \\
+f_{zx} & f_{zy} & f_{zz}
 \end{bmatrix}
 $$
