@@ -34,3 +34,11 @@ $$
 En funciones de varias variables se le llama máximo o mínimo locales cuando es en un sólo punto.
 
 - Teorema (condición necesaria para la existencia de extremos) (**final**)
+
+*Ejemplo 1:*
+$$
+\begin{gather}
+f(x,y)=x^3+y^3-27x-12y \\
+\frac{\partial f}{\partial x}=3x^2
+\end{gather}
+$$
