@@ -49,5 +49,23 @@ x^2=9, \ y^2=4
 $$
 Y por ello $x=\pm 3$, y $y=\pm 2$. Entonces, hay cuatro puntos críticos $(3,2)$, $(-3,2)$, $(3,-2)$ y $(-3,-2)$
 $$
-\Delta f=\frac{||\Delta \vec{r}||}{2! \frac{\partial^2f}{\partial x^2}}\left[ \left( \frac{\partial^2f}{\partial x^2}+\cos \varphi + \frac{\partial^2f}{\partial y^2}+\sin \varphi \right) \right]
+\Delta f=\frac{||\Delta \vec{r}||}{2! \frac{\partial^2f}{\partial x^2}}\left[ \left( \frac{\partial^2f}{\partial x^2}+\cos \varphi + \frac{\partial^2f}{\partial y^2}+\sin \varphi \right) +\sin^2\varphi \left[ \frac{\partial^2 f}{\partial x^2} \frac{\partial^2 f}{\partial y^2}- \left( \frac{\partial^2 f}{\partial x \partial y} \right)^2 \right] \right]
 $$
+
+Matriz hessiana:
+$$
+\mathbf{H}(x,y)=
+\begin{bmatrix}
+\frac{\partial^2f}{\partial x^2} & \frac{\partial^2f}{\partial x \partial y} \\
+\frac{\partial^2f}{\partial y \partial x} & \frac{\partial^2f}{\partial y^2}
+\end{bmatrix}
+$$Y su determinante:
+$$
+\det \mathbf{H}(x,y)=
+\begin{bmatrix}
+\frac{\partial^2f}{\partial x^2} & \frac{\partial^2f}{\partial x \partial y} \\
+\frac{\partial^2f}{\partial y \partial x} & \frac{\partial^2f}{\partial y^2}
+\end{bmatrix}
+= \frac{\partial^2f}{\partial x^2} \frac{\partial^2f}{\partial y^2} - \left(\frac{\partial^2f}{\partial x \partial y}\right)^2
+$$
+1. Si $\mathbf{H}(\mathbf{x_{0}})>0$ y $\frac{\partial^2f}{\partial x^2}$
