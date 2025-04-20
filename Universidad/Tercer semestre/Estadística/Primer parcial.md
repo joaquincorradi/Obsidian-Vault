@@ -1,6 +1,6 @@
 
-|             | Orden | Repetición | Fórmula |
-| ----------- | ----- | ---------- | ------- |
-| Combinación | ❌     | ❌          |         |
-| Permutación | ✅     | ✅          |         |
-| Variación   | ✅     | ❌          |         |
+|             | Orden | ¿Toda los elemento? |
+| ----------- | ----- | ------------------- |
+| Combinación | ❌     | -                   |
+| Permutación | ✅     | ✅                   |
+| Variación   | ✅     | ❌                   |
