@@ -160,7 +160,9 @@ $$
 \begin{gather}
 f(\vec{u})(1,2)=\vec{\nabla}f(1,2)\cdot \vec{u} \\
 \begin{cases}
-f_{x}=12x^3
-\end{cases}
+f_{x}=12x^3-y &\to f_{x}(1,2)=10 \\
+f_{y}=-x-3y^2 &\to f_{y}(1,2)=-13
+\end{cases} \\
+f \vec{u}(1,2)=\vec{\nabla}f(1,2)\cdot \vec{u}=(10,-13)\left( \frac{1}{2}, \frac{\sqrt{ 3 }}{2} \right)=\frac{10-13\sqrt{ 2 }}{2}
 \end{gather}
 $$
