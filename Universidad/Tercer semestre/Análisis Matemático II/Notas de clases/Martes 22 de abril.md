@@ -134,4 +134,13 @@ L_{2}=\lim_{ y \to 0 } \left( \lim_{ x \to 0 } \frac{xy}{x^2+y^2}  \right)=0 \\
 y=mx \to L_{3}=\lim_{ x \to 0 } \frac{x(mx)}{x^2+(mx)^2}=\lim_{ x \to 0 } \frac{mx^2}{x^2(1+m^2)}=\frac{m}{1+m^2}  
 \end{gather}
 $$
-En $L_{3}$ no existe el límite porque depende de $m$ por lo tanto no es continua porque no existe el límite. Al no ser continua no es diferenciable.
+En $L_{3}$ no existe el límite porque depende de $m$ por lo tanto no es continua porque no existe el límite. Al no ser continua no es diferenciable (*c.*)
+
+*d.* Al no ser diferenciable, para calcular la derivada direccional se debe aplicar la definición de derivada direccional, en el caso contrario se usa el gradiente.
+$$
+\begin{gather}
+\frac{\partial f}{\partial \vec{u}}(x_{0},y_{0})=\lim_{ t \to 0 } \frac{f(x_{0}+tu_{1}),f(y_{0}+tu_{2})-f(x_{0},y_{0})}{t}  \\
+\frac{\partial f}{\partial \vec{u}}=\lim_{ t \to 0 }\frac{f(0+tu_{1}),f(0+tu_{2})-f(0,0)}{t} \\
+ 
+\end{gather}
+$$
