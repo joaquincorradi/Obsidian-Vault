@@ -141,6 +141,26 @@ $$
 \begin{gather}
 \frac{\partial f}{\partial \vec{u}}(x_{0},y_{0})=\lim_{ t \to 0 } \frac{f(x_{0}+tu_{1}),f(y_{0}+tu_{2})-f(x_{0},y_{0})}{t}  \\
 \frac{\partial f}{\partial \vec{u}}=\lim_{ t \to 0 }\frac{f(0+tu_{1}),f(0+tu_{2})-f(0,0)}{t} \\
- 
+f(0+tu_{1},0+tu_{2})=f(tu_{1},tu_{2})=\frac{t^2u_{1}u_{2}}{t^2(u_{1}^2+u_{2}^2)} \\
+\frac{\partial f}{\partial \vec{u}}(0,0)=\lim_{ t \to 0 } \frac{u_{1}u_{2}}{t(u_{1}^2+u_{2}^2)}=\infty 
+\end{gather}
+$$
+No existe la derivada direccional en 0,0 en ninguna dirección.
+
+Ejemplo 4:
+$$
+\begin{gather}
+f(x,y)=3x^4-xy-y^3 \\
+(x_{0},y_{0})=(1,2)
+\end{gather}
+$$
+Entonces $\vec{u}=(\cos60,\sin60)$ llamado cosenos directores y ya es unitario (normal igual a uno), en caso contrario habría que normalizar utilizando $\frac{\vec{v}}{||\vec{v}||}$. En este caso la función es diferenciable porque es un polinomio y es continuo en todo su dominio.
+La derivada diferencial en el punto $(1,2)$ es,
+$$
+\begin{gather}
+f(\vec{u})(1,2)=\vec{\nabla}f(1,2)\cdot \vec{u} \\
+\begin{cases}
+f_{x}=12x^3
+\end{cases}
 \end{gather}
 $$
