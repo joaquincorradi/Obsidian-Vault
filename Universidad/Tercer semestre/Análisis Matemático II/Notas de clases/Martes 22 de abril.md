@@ -110,17 +110,28 @@ $$
 *c.* La función ¿es diferenciable en $(0,0)$?
 *d.* Dar la derivada direccional en la dirección $\left( \frac{1}{\sqrt{ 2 }}, \frac{1}{\sqrt{ 2 }} \right)$
 
-*a.*
+*a.* Ver condición necesaria
 $$
 \begin{gather}
 \frac{\partial f}{\partial x}(0,0)=\lim_{ t \to 0 } \frac{f(0+t,0)-f(0,0)}{t}=0 \\
 \frac{\partial f}{\partial y}(0,0)=\lim_{ t \to 0 } \frac{f(0+t,0)-f(0,0)}{t}=0
 \end{gather}
 $$
+*(Si un límite no es finito la función no es diferenciable, sin embargo todavía no se puede asegurar que lo sea).*
+*(Justificar por qué los límites dan cero en el parcial. Puede ser con texto escrito).*
 Entonces,
 $$
 \begin{gather}
 f(0,0)=0, \ f(t,0)=\frac{t \cdot 0}{t^2+0^2}=0 \\
-f(0,t)=
+f(0,t)=\frac{0 \cdot 0}{0^2+t^2}
 \end{gather}
 $$
+*b.* Usar al menos tres caminos, y en caso de haber un exponente a la cuarta en el denominador se puede usar un ???? para tratar de demostrar que no existe.
+$$
+\begin{gather}
+L_{1}=\lim_{ x \to 0 } \left( \lim_{ y \to 0 } \frac{xy}{x^2+y^2}  \right)=0 \\
+L_{2}=\lim_{ y \to 0 } \left( \lim_{ x \to 0 } \frac{xy}{x^2+y^2}  \right)=0 \\
+y=mx \to L_{3}=\lim_{ x \to 0 } \frac{x(mx)}{x^2+(mx)^2}=\lim_{ x \to 0 } \frac{mx^2}{x^2(1+m^2)}=\frac{m}{1+m^2}  
+\end{gather}
+$$
+En $L_{3}$ no existe el límite porque depende de $m$ por lo tanto no es continua porque no existe el límite. Al no ser continua no es diferenciable.
