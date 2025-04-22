@@ -1,4 +1,4 @@
-Ejemplo de...:
+Ejemplo 1:
 $$
 \begin{gather}
 f(x,y)=x^3+y^3-3x-12y+20 \\
@@ -75,8 +75,24 @@ y,
 $$
 \begin{gather}
 \text{en} \ (1) \to \ \text{para} \ x=1 \ \text{se tiene} \\
-3x^2-6x=0 \to x(3x-6)=0 \\
-x=0 \\
-x=2
+-3+3y^2=0\to y^2=1 \to y=\pm 1 \\
+\mathbf{x}_{3}=(1,1) \\
+\mathbf{x}_{4}=(1,-1)
+\end{gather}
+$$
+Tenemos,
+$$
+\begin{gather}
+f_{xx}=6x-6,f_{yy}=6x-6,f_{xy}=f_{yx}=6y \\
+\det \mathbf{H}(x,y)=f_{xx}f_{yy}-f_{xy}^2=(6x-6)^2-36y^2
+\end{gather}
+$$
+Entonces,
+$$
+\begin{gather}
+\det \mathbf{H}(0,0)=36>0, \ f_{xx}(0,0)=-6 \Rightarrow \text{máx} \\
+\det \mathbf{H}(2,0)=36>0, \ f_{xx}(2,0)=6 \Rightarrow \text{mín} \\
+\det \mathbf{H}(1,1)=-36<0 \Rightarrow \text{silla} \\
+\det \mathbf{H}(1,-1)=-36<0 \Rightarrow \text{silla}
 \end{gather}
 $$
