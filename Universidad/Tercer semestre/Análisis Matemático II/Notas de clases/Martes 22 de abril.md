@@ -96,3 +96,31 @@ $$
 \det \mathbf{H}(1,-1)=-36<0 \Rightarrow \text{silla}
 \end{gather}
 $$
+
+Ejemplo 3 (de final):
+$$
+f(x,y)=
+\begin{cases}
+\frac{xy}{x^2+y^2}, \ & \text{si} \ (x,y)\neq(0,0) \\
+0, & \text{si} \ (x,y)=(0,0)
+\end{cases}
+$$
+*a.* Calcular las derivadas parciales en $(0,0)$.
+*b.* Analizar las continuidad en $(0,0)$.
+*c.* La función ¿es diferenciable en $(0,0)$?
+*d.* Dar la derivada direccional en la dirección $\left( \frac{1}{\sqrt{ 2 }}, \frac{1}{\sqrt{ 2 }} \right)$
+
+*a.*
+$$
+\begin{gather}
+\frac{\partial f}{\partial x}(0,0)=\lim_{ t \to 0 } \frac{f(0+t,0)-f(0,0)}{t}=0 \\
+\frac{\partial f}{\partial y}(0,0)=\lim_{ t \to 0 } \frac{f(0+t,0)-f(0,0)}{t}=0
+\end{gather}
+$$
+Entonces,
+$$
+\begin{gather}
+f(0,0)=0, \ f(t,0)=\frac{t \cdot 0}{t^2+0^2}=0 \\
+f(0,t)=
+\end{gather}
+$$
