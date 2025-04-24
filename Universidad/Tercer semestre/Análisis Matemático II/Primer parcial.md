@@ -16,4 +16,5 @@
 4. Calcular la derivada haciendo el producto punto:
 	$$\mathbf{D}_{\mathbf{\hat{u}}}f(\mathbf{x_{0}})=\nabla f(\mathbf{x_{0}})\cdot\hat{\mathbf{u}}$$
 5. Interpretar el resultado:
-	- Si 
+	- Si $\mathbf{D}_{\mathbf{\hat{u}}}f(\mathbf{x_{0}})>0$ entonces: en el punto $\mathbf{x_{0}}$ la función $f$ crece a razón de $\mathbf{D}_{\mathbf{\hat{u}}}f(\mathbf{x_{0}})$ unidades por cada unidad que se avanza en la dirección del vector $\mathbf{v}$.
+	-  Si $\mathbf{D}_{\mathbf{\hat{u}}}f(\mathbf{x_{0}})<0$ entonces: en el punto $\mathbf{x_{0}}$ la función $f$ decrece a razón de $\mathbf{D}_{\mathbf{\hat{u}}}f(\mathbf{x_{0}})$ unidades por cada unidad que se avanza en la dirección del vector $\mathbf{v}$.
