@@ -7,3 +7,4 @@
 5. Evaluar $\vec{f}$ en el punto $\vec{g}(\mathbf{x_{0}})=(\mathbf{u_{0}})$, y evaluar luego $\mathbf{J}_{\vec{f}}(\vec{g}(\mathbf{x_{0}}))=\mathbf{J}_{\vec{f}}(\mathbf{u_{0}})$.
 6. Multiplicar las dos matrices:
 	$$\mathbf{J}_{\vec{f}\circ \vec{g}}(\mathbf{x_{0}})=\mathbf{J}_{\vec{f}}(\vec{g}(\mathbf{x_{0}}))\times \mathbf{J}_{\vec{g}}(\mathbf{x_{0}})$$
+# Derivada direccional
