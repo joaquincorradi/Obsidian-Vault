@@ -8,3 +8,5 @@
 6. Multiplicar las dos matrices:
 	$$\mathbf{J}_{\vec{f}\circ \vec{g}}(\mathbf{x_{0}})=\mathbf{J}_{\vec{f}}(\vec{g}(\mathbf{x_{0}}))\times \mathbf{J}_{\vec{g}}(\mathbf{x_{0}})$$
 # Derivada direccional
+1. Normalizar el vector dirección $\mathbf{u}$ para convertirlo en vector unitario (módulo $1$):
+	$$\hat{\mathbf{u}}=\frac{\mathbf{u}}{\|\mathbf{u}\|} \ \text{con} \ \|\mathbf{u}\|=$$
