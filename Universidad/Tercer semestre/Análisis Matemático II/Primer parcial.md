@@ -12,4 +12,8 @@
 	$$\hat{\mathbf{u}}=\frac{\mathbf{v}}{\|\mathbf{v}\|} \ \text{con} \ \|\mathbf{v}\|=\sqrt{ v_{1}^2+v_{2}^2+\dots+v_{k}^2 }$$
 2. Calcular las derivadas parciales de $f$.
 3. Calcular el gradiente en el punto $x_{0}$ dado por:
-	$$$$
+	$$\nabla f(\mathbf{x_{0}})=\left( \frac{\partial f}{\partial x_{i}}(\mathbf{x_{0}}),\dots,\frac{\partial f}{\partial n_{i}}(\mathbf{x_{0}}) \right)$$
+4. Calcular la derivada haciendo el producto punto:
+	$$\mathbf{D}_{\mathbf{\hat{u}}}f(\mathbf{x_{0}})=\nabla f(\mathbf{x_{0}})\cdot\hat{\mathbf{u}}$$
+5. Interpretar el resultado:
+	- Si 
