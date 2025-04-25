@@ -31,7 +31,9 @@
 	$$\frac{\partial^2f}{\partial x^2},\ \frac{\partial^2f}{\partial y^2},\ \frac{\partial^2f}{\partial x\partial y}$$
 4. Formar la matriz hessiana:
 	$$\mathbf{H}_{f}=
-	\begin{}
-
-\end{}
+	\begin{bmatrix}
+\frac{\partial^2f}{\partial x^2} & \frac{\partial^2f}{\partial x\partial y} \\
+\frac{\partial^2f}{\partial y\partial x} & \frac{\partial^2f}{\partial y^2}
+\end{bmatrix}
 	$$
+5. 
