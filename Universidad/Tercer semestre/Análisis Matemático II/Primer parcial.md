@@ -18,3 +18,20 @@
 5. Interpretar el resultado:
 	- Si $\mathbf{D}_{\mathbf{\hat{u}}}f(\mathbf{x_{0}})>0$ entonces: en el punto $\mathbf{x_{0}}$ la función $f$ crece a razón de $\mathbf{D}_{\mathbf{\hat{u}}}f(\mathbf{x_{0}})$ unidades por cada unidad que se avanza en la dirección del vector $\mathbf{v}$.
 	-  Si $\mathbf{D}_{\mathbf{\hat{u}}}f(\mathbf{x_{0}})<0$ entonces: en el punto $\mathbf{x_{0}}$ la función $f$ decrece a razón de $\mathbf{D}_{\mathbf{\hat{u}}}f(\mathbf{x_{0}})$ unidades por cada unidad que se avanza en la dirección del vector $\mathbf{v}$.
+# Extremos
+1. Calcular las derivadas parciales.
+2. Encontrar los puntos críticos resolviendo el sistema de ecuaciones, siendo cada solución un punto crítico:
+	$$
+	\begin{cases}
+\frac{\partial f}{\partial x}=0 \\
+\frac{\partial f}{\partial y}=0
+\end{cases}
+	$$
+3. Calcular las derivadas segundas:
+	$$\frac{\partial^2f}{\partial x^2},\ \frac{\partial^2f}{\partial y^2},\ \frac{\partial^2f}{\partial x\partial y}$$
+4. Formar la matriz hessiana:
+	$$\mathbf{H}_{f}=
+	\begin{}
+
+\end{}
+	$$
