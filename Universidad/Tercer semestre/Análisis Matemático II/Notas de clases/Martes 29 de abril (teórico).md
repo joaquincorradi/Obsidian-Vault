@@ -22,5 +22,13 @@ $$
 
 arcos, logarítmicas, polinómicas.
 
-Ejempl
+Ejemplo
+$$
+\begin{split}
+\int_{2}^{2\pi}\sin{x}dx
+\end{split}
+$$
+
+Ejemplo: calcular el área de la región indicada en la figura.
+
 
