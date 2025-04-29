@@ -6,8 +6,7 @@ siendo $dA=dxdy$.
 Ejemplo:
 $$
 \begin{split}
-\int_{1}^2\int_{3}^4&(xy)dxdy=& \\
-&=\int_{1}^2\left[ \int_{3}^4(xy)dy \right]dx \\
+\int_{1}^2\int_{3}^4&(xy)dxdy&=\int_{1}^2\left[ \int_{3}^4(xy)dy \right]dx \\
 &=\int_{1}^2x\left[ \frac{y^2}{2} \right]_{3}^4dx \\
 &=\int_{1}^2 \frac{7}{2}xdx \\
 &=\frac{7}{2}\int_{1}^2 xdx \\
@@ -19,4 +18,9 @@ $$
 
 
 #Final **enunciación e interpretación gráfica del teorema de Fubini (parte dos de la presentación de integrales).**
+
+
+arcos, logarítmicas, polinómicas.
+
+Ejempl
 
