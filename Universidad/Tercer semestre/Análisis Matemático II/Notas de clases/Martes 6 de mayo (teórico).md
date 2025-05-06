@@ -39,6 +39,19 @@ $$
 &=\iint_{D^\star}r^3 dr d\theta \\
 &=\int_{0}^\pi \int_{0}^1 r^3 dr d\theta \\
 &=\int_{0}^\pi \left[ \frac{r^4}{4} \right]_{0}^1d\theta \\
+&=\int_{0}^\pi \frac{1}{4}d\theta=\frac{1}{4}[\theta]_{0}^\pi=\frac{\pi}{4}
+\end{align}
+$$
 
+*Ejemplo 2:*
+Calcular el área del círculo unitario:
+$$
+A=\iint_{D}dxdy=\int_{-1}^1dx \int_{-\sqrt{ 1-x^2 }}^{\sqrt{ 1-x^2 }}dy
+$$
+Utilizando coordenadas polares:
+$$
+\begin{align}
+A=\iint_{D^\star}r dr d\theta &=\int_{0}^{2\pi}\int_{0}^1 r dr d\theta \\
+&=\int_{0}^{2\pi} \left[ \frac{r^2}{} \right] d\theta
 \end{align}
 $$
