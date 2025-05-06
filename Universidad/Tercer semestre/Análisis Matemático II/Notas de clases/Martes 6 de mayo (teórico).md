@@ -8,4 +8,11 @@ En una variable:
 $$
 \int_{a}^b f(x)dx=\int_{c}^df(u)u'du
 $$
+### Transformación no lineal
+$$
+\begin{cases}
+x=r\cos \theta \\
+y=r\sin \theta
+\end{cases}
+$$
 
