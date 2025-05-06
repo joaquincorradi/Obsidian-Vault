@@ -52,6 +52,7 @@ Utilizando coordenadas polares:
 $$
 \begin{align}
 A=\iint_{D^\star}r dr d\theta &=\int_{0}^{2\pi}\int_{0}^1 r dr d\theta \\
-&=\int_{0}^{2\pi} \left[ \frac{r^2}{} \right] d\theta
+&=\int_{0}^{2\pi} \left[ \frac{r^2}{2} \right]_{0}^1 d\theta \\
+&=\int_{0}^{2\pi} \frac{1}{2} d\theta=\pi
 \end{align}
 $$
