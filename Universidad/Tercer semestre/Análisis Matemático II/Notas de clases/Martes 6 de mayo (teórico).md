@@ -56,3 +56,22 @@ A=\iint_{D^\star}r dr d\theta &=\int_{0}^{2\pi}\int_{0}^1 r dr d\theta \\
 &=\int_{0}^{2\pi} \frac{1}{2} d\theta=\pi
 \end{align}
 $$
+*Ejemplo 3 (coordenadas cilindricas):*
+Calcular el volumen de la región de $\mathbb{R}^3$, indicada en la figura
+$$
+\begin{gather}
+z=4-r^2 \\
+z=r
+\end{gather}
+$$
+Entonces,
+$$
+\begin{gather}
+4-r^2=r \\
+r^2+r-4=0 \begin{cases}
+r_{1}=1 \\
+r_{2}=-2
+\end{cases} \\
+0\leqslant r\leqslant 1, \ \ 0\leqslant\theta\leqslant 2\pi
+\end{gather}
+$$
