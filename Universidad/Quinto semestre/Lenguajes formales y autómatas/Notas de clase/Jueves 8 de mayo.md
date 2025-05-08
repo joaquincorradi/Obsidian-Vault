@@ -75,4 +75,10 @@ L_{2}=\{ \alpha \in \Sigma^\star:\alpha=\alpha^R \}\not\in LR^\Sigma \\
 L_{3}=\{ \alpha \alpha:\alpha\in \Sigma^\star \} \not\in LR^\Sigma
 \end{gather}
 $$
-## Pro
+## Propiedades
+Lema *pumping*: $\forall L\in LR^\Sigma$, $\exists n\in \mathbb{N}$, llamada constante de bombeo, tal que si $\alpha\in L$ con $|\alpha|\geqslant h$ entonces $\alpha$ se puede descomponer de la siguiente manera: $\alpha=\alpha_{1},\alpha_{2},\alpha_{3}$ tal que:
+1. $|\alpha_{1}\alpha_{2}|\neq h$
+2. $\alpha_{2}\neq \lambda$
+3. $\alpha_{1},\alpha_{2},\alpha_{3}\in L:\forall i \geqslant 0$
+
+Demostración *pumping*: si $L\in LR^\Sigma$ tal que $\exists M=(Q,\Sigma,q_{0},F,\delta)AFD$ tal que $L(M)=L$, y sea $h=$
