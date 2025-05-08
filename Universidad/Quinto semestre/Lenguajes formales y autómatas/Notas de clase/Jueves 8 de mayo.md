@@ -36,5 +36,23 @@ B_{k+1}\longrightarrow \lambda
 Un lenguaje es regular si es generado por una $GR$.
 
 Teorema ($GRPU^\Sigma\equiv AFN\lambda^\Sigma$):
-1. (ida) Si $G\in GRPU^\Sigma$, entonces $\exists M\in ANF\lambda^\Sigma$ tal que $L(G)\equiv L(M)$.
-	No requiere demostración ya que es trivial, una $GRPU$ es una $GR$.
+1. (ida) Si $G\in GRPU^\Sigma$, entonces $\exists M\in AFN\lambda^\Sigma$ tal que $L(G)\equiv L(M)$.
+	Sea $G=(V,\Sigma,P,S)$, entonces tomamos $M=(Q,\Sigma,q_{0},F,\Delta)$ con:
+	$$
+	\begin{gather}
+Q=V \\
+q_{0}=S \\
+F=\{ A\in V:(A\to \lambda)\in P \} \\
+\Delta(A,a)=\{ B\in V:(A\to aB)\in P \} \\
+\Delta(A,\lambda)=\{ B\in V:(A\to B)\in P \}
+\end{gather}
+	$$
+2. (vuelta) Si $G\in AFN\lambda^\Sigma$, entonces $\exists G\in GRPU^\Sigma$ tal que $L(M)\equiv L(G)$.
+	Sea $M=(Q,\Sigma,q_{0},F,\Delta)$, entonces tomamos $G=(V,\Sigma,P,S)$ tal que:
+	$$
+	\begin{gather}
+V=Q \\
+S=q_{0} \\
+P=\{ q\to aq':q'\in \Delta(q,a) \}
+\end{gather}
+	$$
