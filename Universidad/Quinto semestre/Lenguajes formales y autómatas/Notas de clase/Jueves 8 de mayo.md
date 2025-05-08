@@ -81,4 +81,8 @@ Lema *pumping*: $\forall L\in LR^\Sigma$, $\exists n\in \mathbb{N}$, llamada con
 2. $\alpha_{2}\neq \lambda$
 3. $\alpha_{1},\alpha_{2},\alpha_{3}\in L:\forall i \geqslant 0$
 
-Demostración *pumping*: si $L\in LR^\Sigma$ tal que $\exists M=(Q,\Sigma,q_{0},F,\delta)AFD$ tal que $L(M)=L$, y sea $h=$
+Demostración *pumping*: si $L\in LR^\Sigma$ tal que $\exists M=(Q,\Sigma,q_{0},F,\delta)AFD$ tal que $L(M)=L$, y sea $h=|Q|$. Si $\alpha\in L$ y $\alpha\geqslant h$, entonces existe un estado que es visitado dos veces. Sea $q$ ??? un estado repetitivo. Por lo tanto, $\alpha$ se puede descomponer en la cinta de entrada de siguiente manera...
+
+
+Para probar que $L\not\in LR^\Sigma$, hacemos:
+1. Suponemos $L\in LR^\Sigma$ y sea $
