@@ -61,3 +61,18 @@ P=\{ q\to aq':q'\in \Delta(q,a) \}\cup \{ q\to q':q'\in \Delta(q,\lambda) \}\cup
 # Lenguajes no regulares
 
 Ejemplo de lenguaje no regular:
+$$
+\begin{gather}
+\Sigma=\{ a,b \} \\
+L_{1}=\{ a^mb^m:m\geqslant 0 \}\not\in LR^\Sigma \ \text{y} \ \neq a^\star b^\star
+\end{gather}
+$$
+*En este caso necesita memoria.*
+Otros ejemplo (palíndromos, espejos):
+$$
+\begin{gather}
+L_{2}=\{ \alpha \in \Sigma^\star:\alpha=\alpha^R \}\not\in LR^\Sigma \\
+L_{3}=\{ \alpha \alpha:\alpha\in \Sigma^\star \} \not\in LR^\Sigma
+\end{gather}
+$$
+## Pro
