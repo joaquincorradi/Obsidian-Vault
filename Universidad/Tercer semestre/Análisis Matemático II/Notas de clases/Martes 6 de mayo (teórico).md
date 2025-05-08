@@ -75,3 +75,15 @@ r_{2}=-2
 0\leqslant r\leqslant 1, \ \ 0\leqslant\theta\leqslant 2\pi
 \end{gather}
 $$
+La integral queda,
+$$
+\begin{align}
+V=\iiint_{D}dx dy dz&=\iiint_{D^\star}r dr d\theta dz \\
+&=\int_{0}^{2\pi}d\theta \int_{0}^1r dr\int_{r}^{2-r^2}dz \\
+&=\int_{0}^{2\pi}d\theta \int_{0}^1 r[z]_{r}^{2-r^2}dr \\
+&=\int_{0}^{2\pi}d\theta \int_{0}^1 r(2-r^2-r) dr \\
+&=\int_{0}^{2\pi}d\theta \int_{0}^1 (2r-r^3-r^2) dr \\
+&=2\pi\left[ \frac{r^2-r^4}{4}-\frac{r^3}{3} \right]_{0}^1=\frac{5}{6}\pi
+\end{align}
+$$
+
