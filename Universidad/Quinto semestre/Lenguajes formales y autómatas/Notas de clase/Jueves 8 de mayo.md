@@ -53,6 +53,11 @@ F=\{ A\in V:(A\to \lambda)\in P \} \\
 	\begin{gather}
 V=Q \\
 S=q_{0} \\
-P=\{ q\to aq':q'\in \Delta(q,a) \}
+P=\{ q\to aq':q'\in \Delta(q,a) \}\cup \{ q\to q':q'\in \Delta(q,\lambda) \}\cup\{ q\to \lambda:q\in F \}
 \end{gather}
 	$$
+
+---
+# Lenguajes no regulares
+
+Ejemplo de lenguaje no regular:
