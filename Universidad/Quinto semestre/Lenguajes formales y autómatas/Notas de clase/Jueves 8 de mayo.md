@@ -88,4 +88,4 @@ Para probar que $L\not\in LR^\Sigma$, hacemos:
 1. Suponemos $L\in LR^\Sigma$ y sea $h$ la constante de bombeo de $L$.
 2. T??? $\alpha\in L$ arbitrariamente y convenientemente con $|\alpha|\geqslant h$.
 3. Descomponemos $\alpha$ en $\alpha_{1},\alpha_{2},\alpha_{3}$ c??? indica el pumping.
-4. Hallar $i\in\mathbb{N}$ tal que $\alpha_{1},\alpha_{2},\alpha_{3}\not\in L(ABS)$ tal que $L\not\in LR^\Sigma$.
+4. Hallar $i\in\mathbb{N}$ tal que $\alpha_{1},\alpha_{2},\alpha_{3}\not\in L(ABS)\therefore L\not\in LR^\Sigma$.
