@@ -9,4 +9,4 @@ $$
 \int_{C}f(x,y,z)ds&=\int_{a}^b f[x(t),y(t),z(t)]\|\dot{\vec{r}}(t)\|dt
 \end{align}
 $$
-Green, Gauss y ..... sólo se enuncian
+Green, Gauss y Stock? sólo se enuncian
