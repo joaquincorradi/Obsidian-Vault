@@ -11,3 +11,7 @@
 	3. Sumar las integrales de todos los tramos.
 - Teorema de Green:
 	1. Calcular $\frac{\partial Q}{\partial x}-\frac{\partial P}{\partial y}$.
+	2. Describir la región $D$ encerrada por $C$ mediante límites para $x$ e $y$.
+	3. Escribir
+		$$\oint_{C}Pdx+Qdy=\iint_{D}\left( \frac{\partial D}{\partial x}-\frac{\partial P}{\partial y} \right)dA=\int_{x=x_{min}}^{x_{max}}\int_{y=y_{min}}^{y_{max}}\left( \frac{\partial Q}{\partial x}-\frac{\partial P}{\partial P} \right)dydx$$
+	4. Resolver la integral doble
