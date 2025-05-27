@@ -91,8 +91,19 @@ h'(z)=0 \Rightarrow h=k
 Aplicación del teorema fundamental de las integrales de línea (**se suele pedir la demostración en el final**)
 
 ---
-*Ejemplo 4*:
+Una integral se puede presentar en su forma diferencial $\int_{C}P(x,y)dx+Q(x,y)dy$ que es lo mismo que decir $\int_{C}[P(x,y),Q(x,y)]\cdot(dx,dy)=\mathbb{F}\cdot d\vec{r}$
+*Ejemplo 4* (ejercicio "exagerado"):
 Use el teorema de Green para calcular la siguiente integral de línea:
 $$
-\oint_{C}(2y+\sqrt{ 9+x^3 })
+\begin{gather}
+\oint_{C}(2y+\sqrt{ 9+x^3 })dx+(5x+e^{\arctan y})dy=\iint_{D}\left( \frac{\partial Q}{\partial x}-\frac{\partial P}{\partial y} \right)dxdy \\
+\frac{\partial Q}{\partial X}=5, \quad \frac{\partial P}{\partial y}=2 \\
+\frac{\partial Q}{\partial X}-\frac{\partial P}{\partial y}=3 \\
+\end{gather}
+$$
+Entonces,
+$$
+\begin{align}
+\iint_{D}(5-2)dxdy=3\iint_{D}dxdy=3\iint_{D^\star}r\cdot dr\cdot d\theta
+\end{align}
 $$
