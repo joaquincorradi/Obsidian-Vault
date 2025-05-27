@@ -1,4 +1,4 @@
-Ejemplo:
+*Ejemplo 1*:
 1. Determinar si los siguientes campos vectoriales son conservativos. De serlo, determinar la función potencial.
 	- $F(x,y)=x^2y\vec{i}+xy\vec{j}$:
 		$$\begin{gather}
@@ -8,6 +8,7 @@ M(x,y)=x^2y, \quad N(x,y)=xy \\
 \frac{\partial M}{\partial y}\neq\frac{\partial N}{\partial x}
 \end{gather}$$
 		Entonces, el campo F no es conservativo.
+	
 	- $G(x,y)(3+2xy)\vec{i}+(x^2-3y^2)\vec{j}$:
 		$$
 		\begin{gather}
@@ -36,7 +37,15 @@ f(x,y)=3x+x^2y+g(y)
 		Calculamos $g(y)$. Derivamos $f(x,y)$ respecto de $y$:
 		$$
 		\begin{gather}
-\frac{\partial f}{}
+\frac{\partial f}{\partial y}=x^2+g'(y) \\
+\cancel{x^2}-3y^2=\cancel{x^2}+g'(y) \\
+g'(y)=-3y^2 \\
+\int-3y^2dy=-y^3+C
 \end{gather}
 		$$
+		Entonces, una función potencial es $f(x,y)=3x+x^2y-y^3+C$.
 
+
+*Ejemplo 2*:
+2. Determinar si los siguientes campos vectoriales son conservativos. De serlo, determinar la función potencial.
+	- $\mathbb{F}(x,y,z)=()$
