@@ -112,6 +112,11 @@ $$
 $$
 $$
 \begin{align}
-\int_{C}\mathbb{F}\cdot d \vec{r}&=\iint_{D}\left( \frac{\partial Q}{\partial x}- \frac{\partial P}{\partial y} \right)dxdy \\
+\int_{C}\mathbb{F}\cdot d \vec{r}=\iint_{D}\left( \frac{\partial Q}{\partial x}- \frac{\partial P}{\partial y} \right)dxdy&=\iint_{D}(2x-1)dxdy \\
+&=\int_{0}^2dx \int_{0}^{-x^2+4}(2x-1)dy \\
+&=\int_{0}^2(2x-1)[y]_{0}^{-x^2+4}dx \\
+&=\int_{0}^2(2x-1)(-x^2+4)dx \\
+&=\int_{0}^2(-2x^3+8x+x^2-4)dx \\
+&=\left[ -\frac{x^4}{2}+ \right]
 \end{align}
 $$
