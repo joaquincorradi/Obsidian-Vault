@@ -22,7 +22,21 @@ M(x,y)=3+2xy,\quad N(x,y)=x^2-3y^2 \\
 		$$
 		\begin{gather}
 \vec{\nabla}f=\frac{\partial f}{\partial x}\vec{i}+\frac{\partial f}{\partial y}\vec{j}=\left( \frac{\partial f}{\partial x}, \frac{\partial f}{\partial y} \right) \\
-
+\frac{\partial f}{\partial x}=3+2xy \; \text{(1)},\quad \frac{\partial f}{\partial y}=x^2-3y^2 \; \text{(2)} \\
+F(x,y)=(3+2xy)\vec{i}+(x^2-3y^2)\vec{j}=\frac{\partial f}{\partial x}\vec{i}+\frac{\partial f}{\partial y}\vec{j}
+\end{gather}
+		$$
+		De la expresión $\text{(1)}$, integramos con respecto de $x$:
+		$$
+		\begin{gather}
+f(x,y)=\int(3+2xy)dx \\
+f(x,y)=3x+x^2y+g(y)
+\end{gather}
+		$$
+		Calculamos $g(y)$. Derivamos $f(x,y)$ respecto de $y$:
+		$$
+		\begin{gather}
+\frac{\partial f}{}
 \end{gather}
 		$$
 
