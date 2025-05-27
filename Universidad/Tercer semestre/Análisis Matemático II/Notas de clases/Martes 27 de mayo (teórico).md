@@ -68,7 +68,19 @@ rot\mathbb{F}=\vec{\nabla}\times\mathbb{F}=\overline{0} \\
 		$\mathbb{G}$ es conservativa y $\mathbb{G}=\vec{\nabla}f=\frac{\partial f}{\partial x}\vec{i}+\frac{\partial f}{\partial y}\vec{j}+\frac{\partial f}{\partial z}\vec{k}$.
 		Entonces,
 		$$
-		
+		\begin{gather}
+\frac{\partial f}{\partial x}=y^2,\;\text{(1)}\quad\frac{\partial f}{\partial y}=2xy+e^{3z},\;\text{(2)}\quad \frac{\partial f}{\partial z}=3ye^{3z}\;\text{(3)} \\
+f(x,y,z)=\int y^2dx \\
+f(x,y,z)=y^2x+g(y,z) \\
+\frac{\partial f}{\partial y}=2xy+g_{y}(y,z) \\
+\cancel{2xy}+e^{3z}=\cancel{2xy}+g_{y}(y,z)
+\end{gather}
+		$$
+		Por lo tanto,
+		$$
+		\begin{gather}
+g_{y}(y,z)=e^{3z}\to \int e^{3z}dy=
+\end{gather}
 		$$
 
 Aplicación del teorema fundamental de las integrales de línea (**se suele pedir la demostración en el final**)
