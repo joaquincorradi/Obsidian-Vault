@@ -53,10 +53,22 @@ g'(y)=-3y^2 \\
 	\begin{gather}
 rot\mathbb{F}=\vec{\nabla}\times\mathbb{F}=\overline{0} \\
 \vec{\nabla}=\frac{\partial}{\partial x}\vec{i}+\frac{\partial}{\partial y}\vec{j}+\frac{\partial}{\partial z}\vec{k} \\
-\vec{\nabla}\times\mathbb{F}=\left( \frac{\partial R}{\partial y}-\frac{\partial Q}{\partial z} \right)\vec{i}+\left( \frac{\partial P}{\partial z}-\frac{\partial R}{\partial x} \right)\vec{j}+\left( \frac{\partial Q}{\partial x}-\frac{\partial P}{\partial y} \right)\vec{k}
+\vec{\nabla}\times\mathbb{F}=\left( \frac{\partial R}{\partial y}-\frac{\partial Q}{\partial z} \right)\vec{i}+\left( \frac{\partial P}{\partial z}-\frac{\partial R}{\partial x} \right)\vec{j}+\left( \frac{\partial Q}{\partial x}-\frac{\partial P}{\partial y} \right)\vec{k}=0\vec{i}+0\vec{j}+0\vec{k}
 \end{gather}
 	$$
-	- $\mathbb{F}(x,y,z)=(x^3y,\ 3z+x,\ y+z)$
+	*a)* $\mathbb{F}(x,y,z)=(x^3y,\ 3z+x,\ y+z)$
 		$$
 		\vec{\nabla}\times\mathbb{F}=(1-3)\vec{i}+(0-0)\vec{j}+(1-x^3)\vec{k}
 		$$
+
+	*b)* $\mathbb{G}(x,y,z)=(y^2,\ 2xy+e^{3z},\ 3ye^{3z})$
+		$$
+\vec{\nabla}\times\mathbb{F}=(3e^{3z}-3e^{3z})\vec{i}+(0-0)\vec{j}+(2y-2y)\vec{k}
+		$$
+		$\mathbb{G}$ es conservativa y $\mathbb{G}=\vec{\nabla}f=\frac{\partial f}{\partial x}\vec{i}+\frac{\partial f}{\partial y}\vec{j}+\frac{\partial f}{\partial z}\vec{k}$.
+		Entonces,
+		$$
+		
+		$$
+
+Aplicación del teorema fundamental de las integrales de línea (**se suele pedir la demostración en el final**)
