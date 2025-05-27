@@ -1,6 +1,6 @@
 *Ejemplo 1*:
 1. Determinar si los siguientes campos vectoriales son conservativos. De serlo, determinar la función potencial.
-	- $F(x,y)=x^2y\vec{i}+xy\vec{j}$:
+	*a)* $F(x,y)=x^2y\vec{i}+xy\vec{j}$:
 		$$\begin{gather}
 M(x,y)=x^2y, \quad N(x,y)=xy \\
 \frac{\partial M}{\partial y}\stackrel{?}{=}\frac{\partial N}{\partial x} \\
@@ -9,7 +9,7 @@ M(x,y)=x^2y, \quad N(x,y)=xy \\
 \end{gather}$$
 		Entonces, el campo F no es conservativo.
 	
-	- $G(x,y)(3+2xy)\vec{i}+(x^2-3y^2)\vec{j}$:
+	*b)* $G(x,y)(3+2xy)\vec{i}+(x^2-3y^2)\vec{j}$:
 		$$
 		\begin{gather}
 M(x,y)=3+2xy,\quad N(x,y)=x^2-3y^2 \\
@@ -48,4 +48,15 @@ g'(y)=-3y^2 \\
 
 *Ejemplo 2*:
 2. Determinar si los siguientes campos vectoriales son conservativos. De serlo, determinar la función potencial.
-	- $\mathbb{F}(x,y,z)=()$
+	Recordar que:
+	$$
+	\begin{gather}
+rot\mathbb{F}=\vec{\nabla}\times\mathbb{F}=\overline{0} \\
+\vec{\nabla}=\frac{\partial}{\partial x}\vec{i}+\frac{\partial}{\partial y}\vec{j}+\frac{\partial}{\partial z}\vec{k} \\
+\vec{\nabla}\times\mathbb{F}=\left( \frac{\partial R}{\partial y}-\frac{\partial Q}{\partial z} \right)\vec{i}+\left( \frac{\partial P}{\partial z}-\frac{\partial R}{\partial x} \right)\vec{j}+\left( \frac{\partial Q}{\partial x}-\frac{\partial P}{\partial y} \right)\vec{k}
+\end{gather}
+	$$
+	- $\mathbb{F}(x,y,z)=(x^3y,\ 3z+x,\ y+z)$
+		$$
+		\vec{\nabla}\times\mathbb{F}=(1-3)\vec{i}+(0-0)\vec{j}+(1-x^3)\vec{k}
+		$$
