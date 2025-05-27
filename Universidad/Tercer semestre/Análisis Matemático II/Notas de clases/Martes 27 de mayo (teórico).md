@@ -92,6 +92,7 @@ Aplicación del teorema fundamental de las integrales de línea (**se suele pedi
 
 ---
 Una integral se puede presentar en su forma diferencial $\int_{C}P(x,y)dx+Q(x,y)dy$ que es lo mismo que decir $\int_{C}[P(x,y),Q(x,y)]\cdot(dx,dy)=\mathbb{F}\cdot d\vec{r}$
+
 *Ejemplo 4* (ejercicio "exagerado"):
 Use el teorema de Green para calcular la siguiente integral de línea:
 $$
@@ -99,11 +100,18 @@ $$
 \oint_{C}(2y+\sqrt{ 9+x^3 })dx+(5x+e^{\arctan y})dy=\iint_{D}\left( \frac{\partial Q}{\partial x}-\frac{\partial P}{\partial y} \right)dxdy \\
 \frac{\partial Q}{\partial X}=5, \quad \frac{\partial P}{\partial y}=2 \\
 \frac{\partial Q}{\partial X}-\frac{\partial P}{\partial y}=3 \\
+\iint_{D}(5-2)dxdy=3\iint_{D}dxdy=3\iint_{D^\star}r\cdot dr\cdot d\theta=3\int_{0}^{3\pi}d\theta \int_{0}^2 rdr=3\int_{0}^{2\pi}d\theta\left[ \frac{r^2}{2} \right]_{0}^2=3\int_{0}^{2\pi}2d\theta \\
+=12\pi
 \end{gather}
 $$
-Entonces,
+
+*Ejemplo 5*:
+Verificar el teorema de Green para el campo $F(x,y)=(y+1,\ x^2)$ en la región indicada en la figura ($y=-x^2+4$).
+$$
+\frac{\partial Q}{\partial x}=2x, \quad \frac{\partial P}{\partial y}=1 \\
+$$
 $$
 \begin{align}
-\iint_{D}(5-2)dxdy=3\iint_{D}dxdy=3\iint_{D^\star}r\cdot dr\cdot d\theta
+\int_{C}\mathbb{F}\cdot d \vec{r}&=\iint_{D}\left( \frac{\partial Q}{\partial x}- \frac{\partial P}{\partial y} \right)dxdy \\
 \end{align}
 $$
