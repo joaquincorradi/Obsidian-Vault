@@ -106,7 +106,7 @@ $$
 $$
 
 *Ejemplo 5*:
-Verificar el teorema de Green para el campo $F(x,y)=(y+1,\ x^2)$ en la región indicada en la figura ($y=-x^2+4$).
+Verificar el teorema de Green para el campo $F(x,y)=(y+1,\ x^2)$ en la región indicada en la figura ($y=-x^2+4$). Y elegimos región tipo $\text{I}$, $0\leqslant x \leqslant 2$, $0\leqslant y\leqslant -x^2+4$.
 $$
 \frac{\partial Q}{\partial x}=2x, \quad \frac{\partial P}{\partial y}=1 \\
 $$
@@ -117,6 +117,16 @@ $$
 &=\int_{0}^2(2x-1)[y]_{0}^{-x^2+4}dx \\
 &=\int_{0}^2(2x-1)(-x^2+4)dx \\
 &=\int_{0}^2(-2x^3+8x+x^2-4)dx \\
-&=\left[ -\frac{x^4}{2}+ \right]
+&=\left[ -\frac{x^4}{2}+4x^2+\frac{x^3}{3}-4x \right]_{0}^2
 \end{align}
+$$
+Entonces,
+$$
+\begin{gather}
+\int_{C}\mathbb{F}\cdot d \vec{r}=\int_{C_{1}}\mathbb{F}\cdot d \vec{r}+\int_{C_{2}}\mathbb{F}\cdot d \vec{r}+\int_{C_{3}}\mathbb{F}\cdot d \vec{r} \\
+C_{1}\begin{cases}
+x=t \qquad 0\leqslant t\leqslant 2 \\
+y=0 \qquad 
+\end{cases}
+\end{gather}
 $$
