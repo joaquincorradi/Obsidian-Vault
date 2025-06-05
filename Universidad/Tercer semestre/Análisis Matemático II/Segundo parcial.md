@@ -15,3 +15,9 @@
 	3. Escribir
 		$$\oint_{C}Pdx+Qdy=\iint_{D}\left( \frac{\partial D}{\partial x}-\frac{\partial P}{\partial y} \right)dA=\int_{x=x_{min}}^{x_{max}}\int_{y=y_{min}}^{y_{max}}\left( \frac{\partial Q}{\partial x}-\frac{\partial P}{\partial P} \right)dydx$$
 	4. Resolver la integral doble
+
+# Optimización con restricción
+1. Identificar $f(x,y)$ y la restricción $g(x,y)=0$ 
+2. Construir el Lagrangiano: $\mathcal{L}(x,y,\lambda)=f(x,y)-\lambda g(x,y)$.
+3. Calcular derivadas parciales:
+	- $\frac{\partial \mathcal{L}}{\partial x}=\frac{\partial f}{\partial x}-\lambda \frac{\partial g}{\partial x}$
