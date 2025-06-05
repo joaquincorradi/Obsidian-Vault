@@ -21,3 +21,13 @@
 2. Construir el Lagrangiano: $\mathcal{L}(x,y,\lambda)=f(x,y)-\lambda g(x,y)$.
 3. Calcular derivadas parciales:
 	- $\frac{\partial \mathcal{L}}{\partial x}=\frac{\partial f}{\partial x}-\lambda \frac{\partial g}{\partial x}$
+	-  $\frac{\partial \mathcal{L}}{\partial y}=\frac{\partial f}{\partial y}-\lambda \frac{\partial g}{\partial y}$
+	-  $\frac{\partial \mathcal{L}}{\partial \lambda}=g(x,y)$
+4. Resolver el sistema de ecuaciones:
+	$$\begin{cases}
+\frac{\partial f}{\partial x}-\lambda \frac{\partial g}{\partial x}=0 \\
+\frac{\partial f}{\partial y}-\lambda \frac{\partial g}{\partial y}=0 \\
+g(x,y)=0
+\end{cases}$$
+5. Evaluar $f(x_{i},y_{i})$ en cada solución candidata $(x_{i},y_{i})$.
+6. 
