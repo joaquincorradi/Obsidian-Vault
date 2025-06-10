@@ -15,3 +15,4 @@
 
 4. Sea el campo vectorial
 	$$\vec{F}=x^2(y^3+z^3)\hat{i}+y^2x^3\hat{j}+z^2x^3\hat{k}$$
+	*(a)* ¿Es $\mathrm{rot}\vec{F}=\vec{0}$? Justifique su respuest
