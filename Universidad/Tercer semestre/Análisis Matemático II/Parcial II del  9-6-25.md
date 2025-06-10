@@ -15,4 +15,6 @@
 
 4. Sea el campo vectorial
 	$$\vec{F}=x^2(y^3+z^3)\hat{i}+y^2x^3\hat{j}+z^2x^3\hat{k}$$
-	*(a)* ¿Es $\mathrm{rot}\vec{F}=\vec{0}$? Justifique su respuest
+	*(a)* ¿Es $\mathrm{rot}\vec{F}=\vec{0}$? Justifique su respuesta. (10%)
+	*(b)* Encuentre un función $\Phi(x,y,z)$ tal que $\vec{F}=\nabla \Phi$. (10%)
+	*(c)* Calcule el trabajo del campo a lo largo del segmento de recta que une el origen de coordenadas con el punto $(1,-1,1)$. (5%)  
