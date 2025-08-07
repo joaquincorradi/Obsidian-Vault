@@ -7,3 +7,4 @@
 
 
 Velocidad de propagación: $v_{p}=\frac{\lambda}{T}\left( \frac{m}{seg} \right)$. Siendo que la frecuencia es la inversa de la propagación: $f=\frac{1}{T}\left( \frac{1}{seg}=Hz \right)$. Entonces $v_{p}=\lambda f$.
+

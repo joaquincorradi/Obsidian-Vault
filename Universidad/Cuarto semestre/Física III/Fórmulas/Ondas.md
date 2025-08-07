@@ -1,2 +1,3 @@
 - Frecuencia: $f=\frac{1}{T}(Hz)$
 - Velocidad de propagación: $v_{p}=\frac{\lambda}{T}\left( \frac{m}{seg} \right)=\lambda f\left( \frac{m}{seg} \right)$
+- Función de onda: $A \sin(kx-\omega t+\phi)$. Siendo $\phi$ la constante de fase.
