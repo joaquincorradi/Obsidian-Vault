@@ -20,7 +20,7 @@ Variables
 	- Discretas: 
 	- Continuas
 - Cualitativas
-	- Nominales
+	- Nominales: solamente se le puede calcular la moda.
 	- Ordinales
 
 Medidas de resumen
@@ -34,4 +34,9 @@ Medidas de resumen
 	- Varianza
 	- Desviación estándar
 
-La media, los cuartiles, los percentiles y las medidas de dispersión solamente se pueden calcular con variables cuantitativas.
+La media, la mediana, los cuartiles, los percentiles y las medidas de dispersión solamente se pueden calcular con variables cuantitativas.
+
+
+Los datos son una serie de valores de la variable.
+
+Serie simple: datos ordenados de menor a mayor.
