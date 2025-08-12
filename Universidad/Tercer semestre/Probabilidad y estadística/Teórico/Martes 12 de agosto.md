@@ -56,3 +56,6 @@ Rango: $R=10-4=6$
 Desvío medio: $D_{m}=2$
 Varianza: 
 Desviación estándar:
+
+
+
