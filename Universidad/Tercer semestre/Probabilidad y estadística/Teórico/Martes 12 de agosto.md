@@ -26,10 +26,10 @@ Variables
 Medidas de resumen
 - Posición
 	- Moda, media, mediana.
-	- Cuartiles
+	- Cuartiles: se divide en 4
 	- Percentiles: 5 y 95
 - Dispersion:
-	- Rango
+	- Rango: restar el menor al mayor.
 	- Desvío medio
 	- Varianza
 	- Desviación estándar
@@ -44,6 +44,12 @@ Serie simple: datos ordenados de menor a mayor.
 ---
 Serie: $10; 10; 4; 7; 8$
 Serie simple: $4; 7; 8; 10; 10$
+
+**Posición:**
 Moda: $Moda=10$
 Media: $\bar{x}=7,8$
 Mediana: $Mediana=8$
+Cuartiles: $Q_{1}=5,5;Q_{2}=Mediana;Q_{3}=10$
+
+**Dispersión**
+Rango: 
