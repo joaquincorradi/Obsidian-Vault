@@ -58,4 +58,7 @@ Varianza:
 Desviación estándar:
 
 
+## Parámetros, estimadores, estadísticos
+Los parametros son valores fijos mientras oos estimadores son lvalores aleatorios porque dependen de la muestra que se toma.
 
+EstadisticoÑ formula matematica donde se relaciona (a traves de la operaciones usuales del algfebra) un parámetro y su estimador. Se usa para inferir.
