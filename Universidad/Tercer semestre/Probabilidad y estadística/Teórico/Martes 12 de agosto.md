@@ -1,0 +1,1 @@
+Estadística descriptiva: necesita un conjunto de datos, sin importar si proviene de una muestra o un pobacion. tecnica que se aplica a un conjunto de datos para analizar 
