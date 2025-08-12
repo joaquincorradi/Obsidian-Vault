@@ -1,5 +1,7 @@
 Parcial 1: unidades 1, 2, 3 y 4.
 
+# Repaso
+
 Estadística descriptiva: necesita un conjunto de datos, sin importar si proviene de una muestra o un población. Técnica que se aplica a un conjunto de datos para analizar ese conjunto de datos.
 
 Hay tres técnicas propias de la estadística descriptiva:
@@ -20,3 +22,16 @@ Variables
 - Cualitativas
 	- Nominales
 	- Ordinales
+
+Medidas de resumen
+- Posición
+	- Moda, media, mediana.
+	- Cuartiles
+	- Percentiles: 5 y 95
+- Dispersion:
+	- Rango
+	- Desvío medio
+	- Varianza
+	- Desviación estándar
+
+La media, los cuartiles, los percentiles y las medidas de dispersión solamente se pueden calcular con variables cuantitativas.
