@@ -40,3 +40,10 @@ La media, la mediana, los cuartiles, los percentiles y las medidas de dispersió
 Los datos son una serie de valores de la variable.
 
 Serie simple: datos ordenados de menor a mayor.
+
+---
+Serie: $10; 10; 4; 7; 8$
+Serie simple: $4; 7; 8; 10; 10$
+Moda: $Moda=10$
+Media: $\bar{x}=7,8$
+Mediana: $Mediana=8$
