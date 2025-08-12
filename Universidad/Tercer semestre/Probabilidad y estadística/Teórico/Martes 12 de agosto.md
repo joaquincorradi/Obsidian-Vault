@@ -30,9 +30,9 @@ Medidas de resumen
 	- Percentiles: 5 y 95
 - Dispersion:
 	- Rango: restar el menor al mayor.
-	- Desvío medio
+	- Desvío medio: media del valor absoluto de las dispersiones.
 	- Varianza
-	- Desviación estándar
+	- Desviación estándar: raíz cuadrada de la varianza.
 
 La media, la mediana, los cuartiles, los percentiles y las medidas de dispersión solamente se pueden calcular con variables cuantitativas.
 
@@ -52,4 +52,7 @@ Mediana: $Mediana=8$
 Cuartiles: $Q_{1}=5,5;Q_{2}=Mediana;Q_{3}=10$
 
 **Dispersión**
-Rango: 
+Rango: $R=10-4=6$
+Desvío medio: $D_{m}=2$
+Varianza: 
+Desviación estándar:
