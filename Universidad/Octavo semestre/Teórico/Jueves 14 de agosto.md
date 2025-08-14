@@ -15,3 +15,7 @@ No todas las energías renovables no contaminan. Por ejemplo la biomasa (como qu
 
 ### Intensidad energética
 Qué tan eficiente es el consumo energético de un país. Divide la cantidad de energía necesaria para generar una unidad de PBI.
+$$I_{e}=\frac{E}{PBI}$$
+No sirve para medir eficiencia en países con economía inestable.
+
+### Tipos de energías convencionales
