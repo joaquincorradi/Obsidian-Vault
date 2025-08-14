@@ -18,4 +18,20 @@ Qué tan eficiente es el consumo energético de un país. Divide la cantidad de 
 $$I_{e}=\frac{E}{PBI}$$
 No sirve para medir eficiencia en países con economía inestable.
 
-### Tipos de energías convencionales
+### Tipos de energía convencionales
+- Petróleo -> diesel,  nafta, fueloil
+- Carbón mineral
+- Carbón vegetal
+- Gas -> gas de red
+- Nuclear
+- Hidráulica (mayor a 50MW)
+
+### Tipos de energía renovables
+- Solar
+- Eólica
+- Hidráulica (menor a 50MW)
+- Biomasa
+- Biocombustible
+- Geotérmica
+- Mareomotriz (con la marea)
+- Undimotriz (con las oals)
