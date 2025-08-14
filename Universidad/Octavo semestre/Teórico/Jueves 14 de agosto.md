@@ -34,4 +34,7 @@ No sirve para medir eficiencia en países con economía inestable.
 - Biocombustible
 - Geotérmica
 - Mareomotriz (con la marea)
-- Undimotriz (con las oals)
+- Undimotriz (con las olas)
+
+Primarias: petróleo, carbón mineral, gas, solar, eólica, mareomotriz, undimotriz, hidráulica
+Secundarias: diesel, nafta, fueloil, carbón vegetal, gas de red, nuclear, biomasa, biocombustible.
