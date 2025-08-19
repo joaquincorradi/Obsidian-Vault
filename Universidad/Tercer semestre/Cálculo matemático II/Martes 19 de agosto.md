@@ -21,6 +21,6 @@ Sean $B=\{e_{1},e_{2\},\dots}$ y $B'=\{ \tilde{e}_{1},\tilde{e}_{2},\dots \}$ la
 Esto indica que la matriz con entradas $\frac{\partial F_{i}}{\partial x_{j}}(x)$ es la matriz de $(dF)_{\mathbf{x}}$ respecto de las bases canónicas de $\mathbf{R}^n$ y $\mathbf{R}^m$ respectivamente. Dicha matriz se denomina jacobiana y la denotamos $J_{F}$, esto es $e_{ij}(J_{F})=\frac{\partial F_{i}}{\partial x_{j}}$.
 
 ### Regla de la cadena
-**Teorema (regla de la cadena)**: sean $F:\mathbf{R}^n\to \mathbf{R}^m$y $G:\mathbf{R}^m\to \mathbf{R}^p$ tal que $Im(F)\subset D(G)$ y asumimos que $F$ y $G$ son diferenciables. Entonces $G\circ F$ es diferenciables y ...
+**Teorema (regla de la cadena)**: sean $F:\mathbf{R}^n\to \mathbf{R}^m$y $G:\mathbf{R}^m\to \mathbf{R}^p$ tal que $Im(F)\subset D(G)$ y asumimos que $F$ y $G$ son diferenciables. Entonces $G\circ F$ es diferenciables y 
 
-**Demostración**: sea $\mathbf{x}\in D(F)$ y $h\neq 0$, entonces $(G\circ F)(\mathbf{x}+h)=G(F(\mathbf{x}+h))=G(F(\mathbf{x})+(dF)_{\mathbf{x}})(h)$
+**Demostración**: sea $\mathbf{x}\in D(F)$ y $h\neq 0$, entonces $(G\circ F)(\mathbf{x}+h)=G(F(\mathbf{x}+h))=G(F(\mathbf{x})+(dF)_{\mathbf{x}})(h)+\varphi_{x}(h)$; si $F(x)=y$ y $(dF)_{x}(h)+\varphi_{x}(h)=k$, tenemos $(G\circ F)(\mathbf{x}+h)=G(y+k)=G(y)+(dG)_{y}(k)+\alpha_{y}(k)=G(F(x))+(dG)_{y}()$ 
