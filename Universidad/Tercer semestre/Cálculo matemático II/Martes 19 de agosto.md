@@ -13,4 +13,7 @@ $(D_{V}F)(x)=(dF)(V)$
 
 ### Derivadas parciales
 Tenemos una función $f:\mathbb{R}^n \to \mathbb{R}$ y $B={e_{11}, e_{2},\dots,e_{n}}$ la base canónica de $\mathbb{R}^n$
-$$(D_{e_{i}})(x)=\lim_{ t \to 0 } \frac{1}{t}(f(x_{1},x_{2},\dots,x_{i}+t))$$
+$$(D_{e_{i}})(x)=\lim_{ t \to 0 } \frac{1}{t}(f(x_{1},x_{2},\dots,x_{i}+t,\dots,x_{n})-f(x_{1,x_{2},\dots,x_{n}}))=\lim_{ t \to 0 } \frac{f(x_{i})}{}$$
+Este límite, cuando existe, se denomina derivada parcial de $f$ respecto de la variable $x$, en el punto $\mathbf{x}=(x_{1},x_{2},\dots)$ y la denotaremos $\frac{\partial f}{\partial x_{i}}$.
+
+Sea $f:\mathbb{R}^n \to \mathbb{R}^m$, esto es, $F=(F_{1},F_{2},\dots)$ y sea $F$ diferenciable, entonces la apliación lineal de F $dF$
