@@ -18,4 +18,9 @@ Este límite, cuando existe, se denomina derivada parcial de $f$ respecto de la 
 
 Sea $f:\mathbb{R}^n \to \mathbb{R}^m$, esto es, $F=(F_{1},F_{2},\dots)$ y sea $F$ diferenciable, entonces la aplicación lineal de F $(dF)_{x}(V)=(D_{V})F(x)$ para todo $\mathbf{x}\in D(F)$.
 Sean $B=\{e_{1},e_{2\},\dots}$ y $B'=\{ \tilde{e}_{1},\tilde{e}_{2},\dots \}$ las bases canónicas de $\mathbf{R}^n$ y $\mathbf{R}^m$ respectivamente, entonces $F=\sum_{i=1}^mF_{i}\tilde{e}_{i}$, de modo que $(dF)_{x}(e_{j})=(D_{e_{j}}F)(\mathbf{x})=\left( D_{e_{j}}\left( \sum_{i=1}^m F_{i}\tilde{e_{i}} \right) \right)(\mathbf{x})$ esto es igual a $\sum_{i=1}^m D_{e_{j}}F_{i}\tilde{e_{i}}(\mathbf{x})=\sum_{i=1}^m(D_{e_{j}}F_{i})(\mathbf{x})\tilde{e}_{i}+\sum_{i=1}^m F_{i}(x)(D_{e_{j}})(x)=\sum_{i=1}^m \frac{\partial F_{i}}{\partial x_{i}}$, ($D_{e_{j}}\tilde{e}_{i}=0$ ya que $\tilde{e}_{i}$ es constante).
-Esto indica que la matriz con entradas $\frac{\partial F_{i}}{\partial x_{j}}(x)$ es la matriz de $(dF)_{\mathbf{x}}$ respecto de las bases canónicas de $\mathbf{R}^n$ y $\mathbf{R}^m$ respectivamente. Dicha matriz se denomina jacobiana y la denotamos $J_{F}$, esto es $e_{ij}(J_{F})=\frac{\partial F_{i}}{\partial x_{j}}$
+Esto indica que la matriz con entradas $\frac{\partial F_{i}}{\partial x_{j}}(x)$ es la matriz de $(dF)_{\mathbf{x}}$ respecto de las bases canónicas de $\mathbf{R}^n$ y $\mathbf{R}^m$ respectivamente. Dicha matriz se denomina jacobiana y la denotamos $J_{F}$, esto es $e_{ij}(J_{F})=\frac{\partial F_{i}}{\partial x_{j}}$.
+
+### Regla de la cadena
+**Teorema (regla de la cadena)**: sean $F:\mathbf{R}^n\to \mathbf{R}^m$y $G:\mathbf{R}^m\to \mathbf{R}^p$ tal que $Im(F)\subset D(G)$ y asumimos que $F$ y $G$ son diferenciables. Entonces $G\circ F$ es diferenciables y ...
+
+**Demostración**: sea $\mathbf{x}\in D(F)$ y $h\neq 0$, entonces $(G\circ F)(\mathbf{x}+h)=G(F(\mathbf{x}+h))=G(F(\mathbf{x})+(dF)_{\mathbf{x}})(h)$
