@@ -16,4 +16,5 @@ Tenemos una función $f:\mathbb{R}^n \to \mathbb{R}$ y $B={e_{11}, e_{2},\dots,e
 $$(D_{e_{i}})(x)=\lim_{ t \to 0 } \frac{1}{t}(f(x_{1},x_{2},\dots,x_{i}+t,\dots,x_{n})-f(x_{1,x_{2},\dots,x_{n}}))=\lim_{ t \to 0 } \frac{f(x_{i})}{}$$
 Este límite, cuando existe, se denomina derivada parcial de $f$ respecto de la variable $x$, en el punto $\mathbf{x}=(x_{1},x_{2},\dots)$ y la denotaremos $\frac{\partial f}{\partial x_{i}}$.
 
-Sea $f:\mathbb{R}^n \to \mathbb{R}^m$, esto es, $F=(F_{1},F_{2},\dots)$ y sea $F$ diferenciable, entonces la apliación lineal de F $dF$
+Sea $f:\mathbb{R}^n \to \mathbb{R}^m$, esto es, $F=(F_{1},F_{2},\dots)$ y sea $F$ diferenciable, entonces la aplicación lineal de F $(dF)_{x}(V)=(D_{V})F(x)$ para todo $\mathbf{x}\in D(F)$.
+Sean $B=\{e_{1},e_{2\},\dots}$ y $B'=\{ \tilde{e}_{1},\tilde{e}_{2},\dots \}$ las bases canónicas de $\mathbf{R}^n$ y $\mathbf{R}^m$ respectivamente, entonces $F=\sum_{i=1}^mF_{i}\tilde{e}_{i}$, de modo que $(dF)_{x}(e_{j})=(D_{e_{j}}F)(\mathbf{x})=\left( D_{e_{j}}\left( \sum_{i=1}^m F_{i}\tilde{e_{i}} \right) \right)(\mathbf{x})$ 
