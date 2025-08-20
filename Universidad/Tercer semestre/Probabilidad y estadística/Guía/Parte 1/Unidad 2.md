@@ -5,5 +5,5 @@
 	3. $P(D,B)=P(PD)\cdot P(SB|PD)=\frac{3}{10}\cdot \frac{7}{9}=\frac{7}{30}=0,233$
 	4. $P(D,D)=P(PD)\cdot P(SD|PD)=\frac{3}{10}\cdot \frac{2}{9}=\frac{1}{15}=0,066$
 	5. $\frac{7}{15}+2\left( \frac{7}{30} \right)+\frac{1}{15}=1$
-	6. 
+	6. $P(B)=\frac{7}{10}=0,7$.
 	7. 
