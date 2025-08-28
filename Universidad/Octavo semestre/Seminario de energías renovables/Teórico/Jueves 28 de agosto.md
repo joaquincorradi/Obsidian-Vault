@@ -30,4 +30,4 @@ $\frac{kWh}{kWp}$ es un indicador de la energía generada anualmente.
 
 Más potencia no necesariamente significa mayor potencia generada, ya que la potencia depende del hardware instalado mientras que la energía depende del recurso, es decir, del sol.
 
-$c_{}$
+$\mathrm{c}_{d}$
