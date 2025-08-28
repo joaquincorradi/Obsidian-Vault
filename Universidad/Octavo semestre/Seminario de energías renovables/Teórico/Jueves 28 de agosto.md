@@ -22,6 +22,8 @@ Las series de paneles se arman de 25 a 27 unidades. Separación entre strings de
 
 ### Diseño de proyecto hogareño
 Lo mejor es consumir de 8 a 17 on grid.
-
-
 $\frac{kWh}{kWp}$ es un indicador de la energía generada anualmente.
+
+### Diseño
+1. Potencia DC pico que es la multiplicación de la potencia de cada panel por la cantidad de paneles.
+	Por ejemplo, para $300$ paneles 
