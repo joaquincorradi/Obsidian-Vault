@@ -1,4 +1,5 @@
 # Energía fotovoltaica
+Las series de paneles se arman de 25 a 27 unidades. Separación entre strings de $6,5$ m
 ### Conceptos al momento de acomodar paneles: ideal para maximizar la energía en el año
 
 **Orientación de la cara activa**: deben estar mirando al ecuador. En el hemisferio norte deben mirar al sur y en el hemisferio sur al norte.
@@ -9,5 +10,6 @@
 **Paneles**
 **Inversores de corriente**
 **Estructura de montaje**
-- Fijas: para hogares. Algunas pueden tener dos posiciones para poder cambiarla en invierno y en verano.
-- Seguidor solar: pueden  ser de uno o dos ejes y trackean al sol.
+- Fijas: para hogares. Algunas pueden tener dos posiciones para poder cambiarla en invierno y en verano. Suelen ser hechas a medida.
+- Seguidor solar: pueden ser de uno o dos ejes y trackean al sol. Las de dos ejes no tienen una aplicación real en parques fotovoltaicos por su precio. Usan algoritmos para seguir al sol. Hay dos puntos que optimizan este seguimiento:
+	- Backtracking: ajusta la posición para evitar sobras. Se testea el $21$ de diciembre y 
