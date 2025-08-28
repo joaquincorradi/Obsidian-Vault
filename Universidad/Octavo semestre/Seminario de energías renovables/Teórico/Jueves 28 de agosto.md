@@ -17,3 +17,6 @@ Las series de paneles se arman de 25 a 27 unidades. Separación entre strings de
 - Seguidor solar: pueden ser de uno o dos ejes y trackean al sol. Las de dos ejes no tienen una aplicación real en parques fotovoltaicos por su precio. Usan algoritmos para seguir al sol. Hay dos puntos que optimizan este seguimiento:
 	- Backtracking: ajusta la posición para evitar sobras. Se testea el $21$ de diciembre y el $21$ de junio. Puede sacar una fila de su posición ideal que disminuye la energía pero es menor la perdida que si tuviese sombra. Es mejor perder esta energía evitando la sombra un mes, por ejemplo, 15 minutos al día.
 	- Optimización de irradiación: para días no perfectamente despejados.
+
+### Actividad evaluativa N° 1
+
