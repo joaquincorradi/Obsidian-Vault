@@ -26,4 +26,6 @@ $\frac{kWh}{kWp}$ es un indicador de la energía generada anualmente.
 
 ### Diseño
 1. Potencia DC pico que es la multiplicación de la potencia de cada panel por la cantidad de paneles.
-	Por ejemplo, para $300$ paneles 
+	Por ejemplo, para $300$ paneles de $700 \ w$ se tiene $120 \ kW_{AC}$. En la teoría $kWp_{AC}=kWp_{DC}$, sin embargo, existe lo llamado capacidad ociosa, entonces se le resta a la capacidad pico entre un $10\%$ o $20\%$ para los inversores que si tiene un pico por encima de esto calculado lo puede liberar en forma de calor. Este porcentaje se indica en la ficha técnica, ya que si se supera la capacidad del inversor este se puede romper.
+
+Más potencia no necesariamente significa mayor potencia generada, ya que la potencia depende del hardware instalado mientras que la energía depende del recurso, es decir, del sol.
