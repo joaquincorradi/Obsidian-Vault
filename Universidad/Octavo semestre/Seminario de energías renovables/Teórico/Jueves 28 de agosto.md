@@ -20,3 +20,8 @@ Las series de paneles se arman de 25 a 27 unidades. Separación entre strings de
 
 ### Actividad evaluativa N° 1
 
+### Diseño de proyecto hogareño
+Lo mejor es consumir de 8 a 17 on grid.
+
+
+$\frac{kWh}{kWp}$ es un indicador de la energía generada anualmente.
