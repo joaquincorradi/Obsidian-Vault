@@ -17,3 +17,4 @@ Siendo:
 - $\omega$: frecuencia angular. $\frac{rad}{segundos}$. ($\omega=2\pi f$)
 
 #### Velocidad de propagación
+$$v_{p}$$
