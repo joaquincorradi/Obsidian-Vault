@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "9f1c532abf6ce3e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "136d7b9ac6682dbb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58082e1059f281e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Universidad/Cuarto semestre/Física III/Fórmulas/Ondas progresivas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ondas progresivas"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b83eb02d3205709b",
+    "type": "split",
+    "children": [
+      {
+        "id": "35925857fc620415",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c65c16b5a2c4c245",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "e847b884eb5e2396",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1423162cfc8c61b8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 228.5
+  },
+  "right": {
+    "id": "ff84284340a38ee6",
+    "type": "split",
+    "children": [
+      {
+        "id": "627d1015d0504be1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a76994421a6f5089",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "9c2275d4f73beaa7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "1bf346236f5bf465",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7b90409334ebfef1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Crear nueva base": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "58082e1059f281e8",
+  "lastOpenFiles": [
+    "Universidad/Tercer semestre/Estadística/Ejemplos.md",
+    "Universidad/Tercer semestre/Análisis Matemático II/Primer parcial.md",
+    "Universidad/Tercer semestre/Análisis Matemático II/Segundo parcial.md",
+    "Universidad/Tercer semestre/Estadística/Primer parcial.md",
+    "Universidad/Tercer semestre/Estadística/Notas de clase/Viernes 9 de mayo (práctico).md",
+    "Universidad/Tercer semestre/Estadística/Notas de clase/Jueves 8 de mayo (teórico).md",
+    "Universidad/Tercer semestre/Análisis Matemático II/Notas de clases/Martes 6 de mayo (teórico).md",
+    "Universidad/Tercer semestre/Análisis Matemático II/Notas de clases/Martes 29 de abril (teórico).md",
+    "Universidad/Tercer semestre/Análisis Matemático II/Notas de clases/Martes 27 de mayo (teórico).md",
+    "Universidad/Tercer semestre/Análisis Matemático II/Notas de clases/Martes 20 de mayo.md",
+    "Universidad/Quinto semestre/Lenguajes formales y autómatas/Notas de clase/Jueves 8 de mayo.md",
+    "Universidad/Quinto semestre/Lenguajes formales y autómatas/Notas de clase/Jueves 10 de abril (teórico).md",
+    "Universidad/Tercer semestre/Análisis Matemático II/Notas de clases/Martes 1 de abril de 2025 (teórico).md",
+    "Universidad/Tercer semestre/Análisis Matemático II/Notas de clases/Martes 8 de abril (teórico).md",
+    "Universidad/Tercer semestre/Análisis Matemático II/Notas de clases/Martes 11 de marzo.md",
+    "Universidad/Tercer semestre/Análisis Matemático II/Notas de clases/Martes 15 de abril (teórico).md",
+    "Universidad/Tercer semestre/Análisis Matemático II/Notas de clases/Martes 18 de marzo.md",
+    "Universidad/Tercer semestre/Análisis Matemático II/Notas de clases/Martes 22 de abril (teórico).md",
+    "Universidad/Tercer semestre/Estadística/Notas de clase/Viernes 4 de abril (teórico).md",
+    "Universidad/Tercer semestre/Estadística/Notas de clase/Jueves 10 de abril (teórico).md",
+    "Universidad/Tercer semestre/Estadística/Notas de clase/Jueves 13 de marzo (teórico).md",
+    "Universidad/Quinto semestre/Sistemas de Información/Clasificación de los sistemas de información.md",
+    "Universidad/Quinto semestre/Sistemas de Información/Recuperatorio de Sistemas de Información.md",
+    "Universidad/Tercer semestre/Estadística/Notas de clase/Viernes 28 de marzo de 2025 (práctico).md",
+    "Universidad/Tercer semestre/Estadística/Notas de clase/Viernes 21 de marzo (práctico).md",
+    "Universidad/Tercer semestre/Estadística/Notas de clase/Viernes 14 de marzo (práctico).md",
+    "Universidad/Tercer semestre/Estadística/Notas de clase/PXL_20250321_133157265.jpg",
+    "Universidad/Tercer semestre/Estadística/Notas de clase/2.52 est.drawio.png",
+    "Universidad/Tercer semestre/Estadística/Notas de clase",
+    "Universidad/Tercer semestre/Análisis Matemático II/Notas de clases",
+    "Universidad/Tercer semestre/Estadística",
+    "Universidad/Tercer semestre/Análisis Matemático II",
+    "Universidad/Tercer semestre",
+    "Universidad/Septimo semestre/Cloud services/Notas de clase",
+    "Universidad/Septimo semestre/Cloud services",
+    "Universidad/Septimo semestre",
+    "Universidad/Quinto semestre/Lenguajes formales y autómatas/Notas de clase",
+    "Universidad/Quinto semestre/Lenguajes formales y autómatas",
+    "Universidad/Quinto semestre/Sistemas de Información/niveles_de_organizacion.png"
+  ]
+}
