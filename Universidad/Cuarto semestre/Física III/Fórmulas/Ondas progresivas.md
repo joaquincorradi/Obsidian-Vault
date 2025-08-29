@@ -17,4 +17,7 @@ Siendo:
 - $\omega$: frecuencia angular. $\frac{rad}{segundos}$. ($\omega=2\pi f$)
 
 #### Velocidad de propagación
-$$v_{p}$$
+$$v_{p}=\sqrt{ \frac{F}{\mu} }$$
+Siendo:
+$F$: tensión de la cuerda. En $N$.
+$\mu$: densidad lineal de masa. $\mu=\frac{m}{l}$.
