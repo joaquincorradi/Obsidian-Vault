@@ -27,3 +27,4 @@ $F$: tensión de la cuerda. En $N$.
 $\mu$: densidad lineal de masa. $\mu=\frac{m}{l}$.
 #### Velocidad transversal de los puntos de la cuerda
 $$v_{t}(x,t)=\frac{\partial x}{\partial t}=\pm A\omega \cos(kx\pm \omega t+\phi)$$
+*(Para $v_{t_{max}}$ el seno se hace $1$)*
