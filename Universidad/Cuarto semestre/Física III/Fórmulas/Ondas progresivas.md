@@ -16,8 +16,14 @@ $$f=\frac{\omega}{2\pi}$$
 Siendo:
 - $\omega$: frecuencia angular. $\frac{rad}{segundos}$. ($\omega=2\pi f$)
 
+#### Periodo
+$$T=\frac{1}{f}$$
+#### Velocidad de la onda
+$$v=\frac{espacio}{tiempo}=\frac{\lambda}{T}$$
 #### Velocidad de propagación
 $$v_{p}=\sqrt{ \frac{F}{\mu} }$$
 Siendo:
 $F$: tensión de la cuerda. En $N$.
 $\mu$: densidad lineal de masa. $\mu=\frac{m}{l}$.
+#### Velocidad transversal de los puntos de la cuerda
+$$a_{t}(x,t)=\frac{\partial x}{\partial t}$$
