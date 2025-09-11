@@ -15,3 +15,4 @@ Se pueden clasificar por
 - Barlovento: viento de frente
 - Sotavento: viento de atrás 
 
+En el mapa eólico se usa m/s
