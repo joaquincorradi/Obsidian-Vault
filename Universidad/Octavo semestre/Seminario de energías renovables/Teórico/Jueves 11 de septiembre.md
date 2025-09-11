@@ -13,5 +13,5 @@ Se pueden clasificar por
 - Activo: activamente midiendo parámetros y rotando, es electrónico.
 
 - Barlovento: viento de frente
-- Sotavento: viento de atrás
+- Sotavento: viento de atrás 
 
