@@ -16,3 +16,11 @@ Se pueden clasificar por
 - Sotavento: viento de atrás 
 
 En el mapa eólico se usa m/s
+
+Para fotovotáilca:
+Pvsyst -> base de datos -> bancable
+
+Para eólica:
+Windpro -> base de datos -> mediciones en sitio -> bancable
+
+En sitio se mide por al menos un año para pasar por todas las estaciones. Se busca encontrar correlación con datos de 10 años para poder decir que se tiene mediciones de 10 años. Se mide usando una torre de medición.
