@@ -16,7 +16,7 @@
     c) La potencia se duplica, si se duplica la amplitud
     d) Ninguna es correcta
     
-4. Una onda cosenoidal sobre una cuerda, viaja en sentido negativo del eje $x$ y tiene una longitud de onda de $20 \ \mathbf{cm}$, frecuencia de $50 \ Hz$, diferencia de fase de π/4, y amplitud de 2 cm. Para el punto ubicado en x = 8 cm y para t = 7 ms, el desplazamiento transversal será de:  
+4. Una onda cosenoidal sobre una cuerda, viaja en sentido negativo del eje $x$ y tiene una longitud de onda de $20 \ \mathrm{cm}$, frecuencia de $50 \ \mathrm{Hz}$, diferencia de fase de π/4, y amplitud de 2 cm. Para el punto ubicado en x = 8 cm y para t = 7 ms, el desplazamiento transversal será de:  
     a) 3,14 cm  
     b) 5,26 cm  
     c) 8,32 cm  
