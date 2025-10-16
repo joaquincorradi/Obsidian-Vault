@@ -15,3 +15,7 @@ La ley modificada en 2016 presentó los siguientes escalones
 | 2023 | 18%        |
 | 2025 | 20%        |
 Hoy el promedio está en el 16%.
+
+La herramienta de fomento original era GenRenX, cuando se modificó la ley se hizo RENOVAR, MATER y PERMER.
+- PERMER: es un proyecto muy chico. Lleva energías renovables en vez de llevar redes de distribución para abastecer viviendas.
+- MATER: permite que un privado le venda energía a otro privado. CAMMESA realiza licitaciones de espacio en nodos, ya que a algunos nodos ya no se les puede inyectar y la energía entre privados se inyecta en el SADI. La prioridad de despacho 
