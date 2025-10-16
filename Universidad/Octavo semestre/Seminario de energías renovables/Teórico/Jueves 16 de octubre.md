@@ -25,3 +25,6 @@ La herramienta de fomento original era GenRenX, cuando se modificó la ley se hi
 Es generar energía a partir de fuentes renovables para su consumo o eventual inyección a la red en el mismo punto de consumo.
 
 La intensión de la ley es que la energía se genere en el mismo punto en donde se genera, no que el objetivo de instalar, por ejemplo, paneles para vender a la red.
+
+- Net billing: lo que se inyecta a la red se compra a precio mayorista, pero lo que se consume de la red se cobra a precio minorista, 2 a 3 veces más caro que el precio mayorista. Es más estable a largo plazo.
+- Net metering: si se da mil y consumo mil se paga cero. Poco estable porque puede quebrar la distribuidora.
