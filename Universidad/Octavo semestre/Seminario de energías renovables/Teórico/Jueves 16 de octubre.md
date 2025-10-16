@@ -19,4 +19,9 @@ Hoy el promedio está en el 16%.
 La herramienta de fomento original era GenRenX, cuando se modificó la ley se hizo RENOVAR, MATER y PERMER.
 - PERMER: es un proyecto muy chico. Lleva energías renovables en vez de llevar redes de distribución para abastecer viviendas. Pequeños parques de renovables para llegar a lugares en donde no había energía.
 - MATER: permite que un privado le venda energía a otro privado. CAMMESA realiza licitaciones de espacio en nodos, ya que a algunos nodos ya no se les puede inyectar y la energía entre privados se inyecta en el SADI. La prioridad de despacho significa que si tengo renovable y va a entrar gas, se despacha la renovable.
-- RENOVAR: licitaciones públicas en el mercado eléctrico mayorista. Hubo rondas de licitación de 1, 1,5 y 2 MW. Después se hizo MiniREN para inyectar a la distribuidora de media tensión y no al SADI porque la infraestructura no lo soportaba. Lo bueno fue cómo se adjudicaron los proyectos, 
+- RENOVAR: licitaciones públicas en el mercado eléctrico mayorista. Hubo rondas de licitación de 1, 1,5 y 2 MW. Después se hizo MiniREN para inyectar a la distribuidora de media tensión y no al SADI porque la infraestructura no lo soportaba. Lo bueno fue cómo se adjudicaron los proyectos,.
+
+## Ley de generación distribuida
+Es generar energía a partir de fuentes renovables para su consumo o eventual inyección a la red en el mismo punto de consumo.
+
+La intensión de la ley es que la energía se genere en el mismo punto en donde se genera, no que el objetivo de instalar, por ejemplo, paneles para vender a la red.
