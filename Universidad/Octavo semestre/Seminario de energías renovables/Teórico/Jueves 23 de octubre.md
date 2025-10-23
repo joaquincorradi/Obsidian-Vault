@@ -9,3 +9,4 @@ Hay más potencia instalada en Buenos Aires y el litoral porque hay más consumo
 
 Saber las tecnologías con las que contamos en Argentina para generar energía eléctrica.
 
+La demanda en Argentina tiene primero el residencial, segundo el comercial y tercero el industrial. Esto dice que Argentina es un país poco industrializado. Nuestra energía es barata por lo tanto hay menos eficiencia en el uso. 
