@@ -8,3 +8,4 @@ Cada provincia tiene su propia distribuidora. Las cooperativas le compran a las 
 Hay más potencia instalada en Buenos Aires y el litoral porque hay más consumo. Hay dos razones por las que puede haber más consumo en algún lugar, por tener más consumo o por tener mucho recurso, por ejemplo, Comahue, que tiene hidráulica.
 
 Saber las tecnologías con las que contamos en Argentina para generar energía eléctrica.
+
