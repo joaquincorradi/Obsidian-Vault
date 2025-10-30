@@ -8,7 +8,7 @@ $$LCOE=\frac{\mathrm{CAPEX}+\sum^{lsp}_{i=1}\left( \frac{\mathrm{OPEX}}{(1+r)^i}
 
 # Potencia eólica
 Cuánta energía puede obtenerse del viento al pasar por un área barrida por las palas del aerogenerador
-$$P=\frac{1}{2}\rho Av^3$$
+$$P=\frac{1}{2}\cdot\rho \cdot A \cdot v^3$$
 Siendo:
 - $P$: potencia del viento en $\mathrm{w}$.
 - $\rho$: densidad del aire en $\frac{kg}{m^3}$.
@@ -34,4 +34,5 @@ El parámetro de forma $k$ determina la forma de la distribución. Cuanto mayor 
 
 # Factor de capacidad
 Mide qué porcentaje de la potencia máxima instalada realmente se produce durante un período de tiempo, es decir, qué tan aprovechada está la capacidad instalada.
-$$FC=$$
+$$FC=\frac{E_{real}}{P_{nominal}\cdot T}=$$
+Siendo $T=24\cdot 365=8760$
