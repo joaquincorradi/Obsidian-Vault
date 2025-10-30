@@ -21,3 +21,5 @@ Cuanto mayor es el área del rotor y la velocidad del viento, más energía pued
 Establece el máximo teórico de eficiencia para un aerogenerador. Un aerogenerador no puede capturar más del $59,3\%$ de la energía cinética del viento.
 
 # Distribución de Weibull
+Permite representar cómo se distribuyen las velocidades del viento en un lugar determinado durante un período.
+El parámetro de forma $k$ determina la forma de la distribución.
