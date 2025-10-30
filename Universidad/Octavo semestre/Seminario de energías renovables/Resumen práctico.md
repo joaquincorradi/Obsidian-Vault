@@ -23,7 +23,7 @@ Establece el máximo teórico de eficiencia para un aerogenerador. Un aerogenera
 # Distribución de Weibull
 Permite representar cómo se distribuyen las velocidades del viento en un lugar determinado durante un período.
 El parámetro de forma $k$ determina la forma de la distribución:
-- $k<1$:
+- $k<1$ (lugar con predominio de vientos muy débiles y pocas ráfagas fuertes):
 	- La curva está muy sesgada hacia la izquierda.
 	- Hay muchas probabilidades de vientos bajos.
 	- La probabilidad cae rápidamente al aumentar la velocidad.
