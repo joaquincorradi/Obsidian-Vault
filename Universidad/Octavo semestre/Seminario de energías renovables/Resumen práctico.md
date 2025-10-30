@@ -31,3 +31,5 @@ El parámetro de forma $k$ determina la forma de la distribución. Cuanto mayor 
 	- La curva se desplaza hacia la **derecha** y se vuelve más simétrica.
 	- Aumenta la probabilidad de vientos moderados o altos.
 	- Disminuye la probabilidad de vientos muy bajos.
+
+# Factor de capacidad
