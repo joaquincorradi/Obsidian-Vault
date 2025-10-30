@@ -18,3 +18,6 @@ Siendo:
 Cuanto mayor es el área del rotor y la velocidad del viento, más energía puede generar el aerogenerador.
 
 # Límite de Betz
+Establece el máximo teórico de eficiencia para un aerogenerador. Un aerogenerador no puede capturar más del $59,3\%$ de la energía cinética del viento.
+
+# Distribución de Weibull
