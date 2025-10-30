@@ -15,3 +15,6 @@ Siendo:
 - $A$: área barrida por las palas en $\mathrm{m}^2$ ($\pi R_{rotor}^2$).
 - Velocidad del viento en $\mathrm{\frac{m}{s}}$.
 
+Cuanto mayor es el área del rotor y la velocidad del viento, más energía puede generar el aerogenerador.
+
+# Límite de Betz
