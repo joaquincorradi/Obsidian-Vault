@@ -1,6 +1,6 @@
 # Costo nivelado de energía (LCOE)
 Permite comparar el costo promedio de producir electricidad durante toda la vida útil de un proyecto. Representa cuánto cuesta generar $1 \ \mathrm{MWh}$ de energía, considerando todos los costos y el total de energía producida en la vida útil del proyecto. Permite comparar diferentes tecnologías en igualdad de condiciones.
-$$\mathrm{LCOE}=\frac{\mathrm{CAPEX}+\sum^{lsp}_{i=1}\left( \frac{\mathrm{OPEX}}{(1+r)^i} \right)}{\sum^{lsp}_{i=1}\left( \frac{\mathrm{MWh}}{(1+r)^i} \right)}$$
+$$LCOE=\frac{\mathrm{CAPEX}+\sum^{lsp}_{i=1}\left( \frac{\mathrm{OPEX}}{(1+r)^i} \right)}{\sum^{lsp}_{i=1}\left( \frac{\mathrm{MWh}}{(1+r)^i} \right)}$$
 - El numerador suma todos los costos: 
 	- $\mathrm{CAPEX}$: inversión inicial
 	- $\mathrm{OPEX}$: gastos operativos
@@ -33,3 +33,5 @@ El parámetro de forma $k$ determina la forma de la distribución. Cuanto mayor 
 	- Disminuye la probabilidad de vientos muy bajos.
 
 # Factor de capacidad
+Mide qué porcentaje de la potencia máxima instalada realmente se produce durante un período de tiempo, es decir, qué tan aprovechada está la capacidad instalada.
+$$FC=$$
