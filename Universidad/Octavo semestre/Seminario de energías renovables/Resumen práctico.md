@@ -7,3 +7,11 @@ $$\mathrm{LCOE}=\frac{\mathrm{CAPEX}+\sum^{lsp}_{i=1}\left( \frac{\mathrm{OPEX}}
 - El denominador suma toda la energía producida durante la vida del proyecto.
 
 # Potencia eólica
+Cuánta energía puede obtenerse del viento al pasar por un área barrida por las palas del aerogenerador
+$$P=\frac{1}{2}\rho Av^3$$
+Siendo:
+- $P$: potencia del viento en $\mathrm{w}$.
+- $\rho$: densidad del aire en $\frac{kg}{m^3}$.
+- $A$: área barrida por las palas en $\mathrm{m}^2$ ($\pi R_{rotor}^2$).
+- Velocidad del viento en $\mathrm{\frac{m}{s}}$.
+
