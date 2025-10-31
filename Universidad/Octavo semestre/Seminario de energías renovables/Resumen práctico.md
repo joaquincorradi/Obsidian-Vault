@@ -38,4 +38,6 @@ $$FC=\frac{E_{real}}{P_{nominal}\cdot T}=$$
 Siendo $T=24\cdot 365=8 760$ para un año.
 Si una planta solar tiene FC = 20% → durante un año produce el equivalente al 20% del tiempo a potencia máxima.
 
-Ejemplo: 
+Ejemplo: planta de $100 \ \mathrm{MW}$ de potencia instalada y genera $350 \ \mathrm{GWh}$ de energía en un año:
+$$FC=\frac{350 000}{100\cdot8 760}=0,399\to 40\%$$
+
