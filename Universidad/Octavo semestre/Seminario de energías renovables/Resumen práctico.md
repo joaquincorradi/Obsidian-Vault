@@ -35,4 +35,7 @@ El parámetro de forma $k$ determina la forma de la distribución. Cuanto mayor 
 # Factor de capacidad
 Mide qué porcentaje de la potencia máxima instalada realmente se produce durante un período de tiempo, es decir, qué tan aprovechada está la capacidad instalada.
 $$FC=\frac{E_{real}}{P_{nominal}\cdot T}=$$
-Siendo $T=24\cdot 365=8760$
+Siendo $T=24\cdot 365=8 760$ para un año.
+Si una planta solar tiene FC = 20% → durante un año produce el equivalente al 20% del tiempo a potencia máxima.
+
+Ejemplo: 
