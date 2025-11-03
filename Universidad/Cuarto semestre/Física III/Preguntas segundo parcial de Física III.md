@@ -427,10 +427,10 @@
     D) Número cuántico magnético (m)
     
 68. **La longitud de onda de un electrón en movimiento es de $1,5\times 10^{-10}\ \mathrm{m}$. Si $h = 6,63 \times 10^{-34} \ \mathrm{J}\cdot \mathrm{s}$ y la masa del electrón es $9,11\times 10^{-31}\ \mathrm{kg}$, ¿cuál es su velocidad?**  
-    A) 4,89 × 10⁶ m/s  
-    B) 2,24 × 10⁶ m/s  
-    C) 1,23 × 10⁶ m/s  
-    D) 3,95 × 10⁶ m/s
+    A) $4,89\times 10^6\ \frac{\mathrm{m}}{\mathrm{s}}$  
+    B) $2,4\times 10^6\ \frac{\mathrm{m}}{\mathrm{s}}$  
+    C) $1,23\times 10^6\ \frac{\mathrm{m}}{\mathrm{s}}$  
+    D) $3,95\times 10^6\ \frac{\mathrm{m}}{\mathrm{s}}$
     
 69. **¿Qué describe mejor el modelo de Bohr aplicado al átomo de hidrógeno?**  
     **==A) El electrón orbita el núcleo en niveles de energía cuantizados==**  
