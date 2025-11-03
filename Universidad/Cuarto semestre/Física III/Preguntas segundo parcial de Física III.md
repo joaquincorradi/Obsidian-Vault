@@ -285,7 +285,7 @@
 	$\sqrt{ \frac{2\times 2,5}{9,11} }$
 	
 45. **Si la constante de Planck es $6,626 \times 10^{-34} \ \mathrm{J}\cdot \mathrm{s}$, ¿qué energía en electronvoltios tiene un fotón de longitud de onda $250\ \mathrm{nm}$? ($1\ \mathrm{eV} = 1,6\times 10^{-19}\ \mathrm{J}$)**  
-    A) $4,96\ \mathrm{eV}$  
+    **==A) $4,96\ \mathrm{eV}$==**  
     B) $5,56\ \mathrm{eV}$ 
     C) $4,32\ \mathrm{eV}$  
     D) $5,10\ \mathrm{eV}$
@@ -398,101 +398,89 @@
     
 63. **En el modelo de Bohr, ¿qué sucede cuando el electrón desciende de un nivel de energía mayor a uno menor?**  
     A) Absorbe energía en forma de radiación  
-    B) Emite energía en forma de radiación  
+    **==B) Emite energía en forma de radiación==**  
     C) Se convierte en un protón  
     D) No cambia su energía
     
-64. **Un electrón es eyectado de una superficie metálica con una energía cinética de 2 eV debido a la incidencia de luz. Si la función de trabajo es de 1 eV, ¿cuál fue la energía del fotón incidente?**  
-    A) 1 eV  
-    B) 3 eV  
-    C) 2 eV  
-    D) 4 eV
-    
-65. **¿Qué partícula es emitida en el decaimiento beta negativo?**  
-    A) Positrón  
-    B) Electrón  
-    C) Neutrón  
-    D) Protón
-    
-66. **¿Qué tipo de energía es liberada en las reacciones de fisión y fusión nuclear?**  
+64. **¿Qué tipo de energía es liberada en las reacciones de fisión y fusión nuclear?**  
     A) Energía térmica  
     B) Energía eléctrica  
-    C) Energía nuclear  
+    **==C) Energía nuclear==**  
     D) Energía potencial
     
-67. **En el efecto fotoeléctrico, ¿qué sucede si aumenta la frecuencia de la luz incidente?**  
-    A) Aumenta la velocidad de los electrones emitidos  
+65. **En el efecto fotoeléctrico, ¿qué sucede si aumenta la frecuencia de la luz incidente?**  
+    **==A) Aumenta la velocidad de los electrones emitidos==**  
     B) Aumenta la cantidad de electrones emitidos  
     C) Disminuye la velocidad de los electrones emitidos  
     D) No afecta a los electrones emitidos
     
-68. **La ecuación de Einstein para el efecto fotoeléctrico se expresa como E = W + K. ¿Qué representa “K” en esa ecuación?**  
+66. **La ecuación de Einstein para el efecto fotoeléctrico se expresa como E = W + K. ¿Qué representa “K” en esa ecuación?**  
     A) Energía potencial del electrón emitido  
-    B) Energía cinética del electrón emitido  
+    **==B) Energía cinética del electrón emitido==**  
     C) Energía de enlace  
     D) Energía de absorción
     
-69. **En el modelo de Bohr, ¿cuál es el número cuántico que define la órbita del electrón en el átomo de hidrógeno?**  
+67. **En el modelo de Bohr, ¿cuál es el número cuántico que define la órbita del electrón en el átomo de hidrógeno?**  
     A) Número cuántico principal (n)  
     B) Número cuántico de espín (s)  
     C) Número cuántico de forma (l)  
     D) Número cuántico magnético (m)
     
-70. **La longitud de onda de un electrón en movimiento es de 1,5 × 10⁻¹⁰ m. Si h = 6,626 × 10⁻³⁴ J·s y la masa del electrón es 9,11 × 10⁻³¹ kg, ¿cuál es su velocidad?**  
+68. **La longitud de onda de un electrón en movimiento es de 1,5 × 10⁻¹⁰ m. Si h = 6,626 × 10⁻³⁴ J·s y la masa del electrón es 9,11 × 10⁻³¹ kg, ¿cuál es su velocidad?**  
     A) 4,89 × 10⁶ m/s  
     B) 2,24 × 10⁶ m/s  
     C) 1,23 × 10⁶ m/s  
     D) 3,95 × 10⁶ m/s
     
-71. **¿Qué describe mejor el modelo de Bohr aplicado al átomo de hidrógeno?**  
+69. **¿Qué describe mejor el modelo de Bohr aplicado al átomo de hidrógeno?**  
     A) El electrón orbita el núcleo en niveles de energía cuantizados  
     B) El electrón está en una nube de probabilidad alrededor del núcleo  
     C) El electrón se comporta de manera aleatoria  
     D) El electrón está compuesto de electrones
     
-72. **Si un isótopo radiactivo emite una partícula alfa, ¿cómo cambia su masa atómica?**  
+70. **Si un isótopo radiactivo emite una partícula alfa, ¿cómo cambia su masa atómica?**  
     A) Aumenta en 2  
     B) Aumenta en 4  
     C) Disminuye en 4  
     D) No cambia
     
-73. **En una reacción de fusión, ¿qué tipo de núcleos se combinan típicamente?**  
+71. **En una reacción de fusión, ¿qué tipo de núcleos se combinan típicamente?**  
     A) Núcleos ligeros  
     B) Núcleos pesados  
     C) Núcleos neutros  
     D) Núcleos estables
     
-74. **¿Qué tipo de radiación es más penetrante?**  
+72. **¿Qué tipo de radiación es más penetrante?**  
     A) Radiación gamma  
     B) Radiación beta  
     C) Radiación alfa  
     D) Rayos ultravioleta
     
-75. **¿Cuál es el valor de la carga del electrón?**  
+73. **¿Cuál es el valor de la carga del electrón?**  
     A) –1,6 × 10⁻¹⁹ C  
     B) 1,6 × 10⁻¹⁹ C  
     C) –9,1 × 10⁻³¹ C  
     D) 9,1 × 10⁻³¹ C
     
-76. **Un núcleo de Uranio-238 decae a través de una serie de emisiones alfa y beta. ¿Qué tipo de elemento se convierte al final de esta cadena de desintegración?**  
+74. **Un núcleo de Uranio-238 decae a través de una serie de emisiones alfa y beta. ¿Qué tipo de elemento se convierte al final de esta cadena de desintegración?**  
     A) Plomo  
     B) Hidrógeno  
     C) Helio  
     D) Carbono
     
-77. **La energía liberada al momento de crearse un núcleo por la fusión de sus partículas se llama:**  
+75. **La energía liberada al momento de crearse un núcleo por la fusión de sus partículas se llama:**  
     A) Función de trabajo  
     B) Energía de activación  
     C) Energía de enlace  
     D) Energía potencial
     
-78. **La cantidad de decaimiento de un isótopo radiactivo se mide en:**  
+76. **La cantidad de decaimiento de un isótopo radiactivo se mide en:**  
     A) Metros  
     B) Segundos  
     C) Becquerel  
     D) Mol
     
-79. **Si el número de Avogadro es 6,022 × 10²³ mol⁻¹, ¿cuántos átomos hay en 1 mol de helio?**  
+77. **Si el número de Avogadro es 6,022 × 10²³ mol⁻¹, ¿cuántos átomos hay en 1 mol de helio?**  
     A) 6,022 × 10²³ átomos  
     B) 1,602 × 10²³ átomos  
     C) 3,011 × 10²³ átomos  
