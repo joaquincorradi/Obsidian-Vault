@@ -28,7 +28,6 @@ Se clasifican según su fuente y modo de generación:
 - La **demanda eléctrica** varía:
     - **Diariamente**: picos matutinos y nocturnos.
     - **Anualmente**: mayor consumo en invierno (por calefacción) y verano (por refrigeración).
-- Sectores de consumo: **industrial, comercial, residencial, rural.**
 ---
 
 ## 🇦🇷 **Energías Renovables en Argentina**
