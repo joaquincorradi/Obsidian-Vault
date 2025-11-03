@@ -277,17 +277,21 @@
     D) $600\ \mathrm{nm}$
     
 44. **Un electrón tiene una energía cinética de $2,5\times 10^{-19}\ \mathrm{J}$. ¿Cuál es su velocidad? (La masa del electrón es $9,11\times 10^{-31}\ \mathrm{kg}$)**  
-    A) $7,42\times 10^5\ \frac{\mathrm{m}}{\mathrm{s}}$  
+    **==A) $7,42\times 10^5\ \frac{\mathrm{m}}{\mathrm{s}}$==**  
     B) $2,35\times 10^{6}\ \frac{\mathrm{m}}{\mathrm{s}}$  
     C) $1,48\times 10^6\ \frac{\mathrm{m}}{\mathrm{s}}$  
     D) $5,94\times 10^5\ \frac{\mathrm{m}}{\mathrm{s}}$
-    
-45. **Si la constante de Planck es 6,626 × 10⁻³⁴ J·s, ¿qué energía en electronvoltios tiene un fotón de longitud de onda 250 nm? (1 eV = 1,6 × 10⁻¹⁹ J)**  
-    A) 4,96 eV  
-    B) 5,56 eV  
-    C) 4,32 eV  
-    D) 5,10 eV
-    
+	
+	$\sqrt{ \frac{2\times 2,5}{9,11} }$
+	
+45. **Si la constante de Planck es $6,626 \times 10^{-34} \ \mathrm{J}\cdot \mathrm{s}$, ¿qué energía en electronvoltios tiene un fotón de longitud de onda $250\ \mathrm{nm}$? ($1\ \mathrm{eV} = 1,6\times 10^{-19}\ \mathrm{J}$)**  
+    A) $4,96\ \mathrm{eV}$  
+    B) $5,56\ \mathrm{eV}$ 
+    C) $4,32\ \mathrm{eV}$  
+    D) $5,10\ \mathrm{eV}$
+	
+	$\frac{hc}{250n}$
+	
 46. **¿Qué frecuencia debe tener un fotón para que su energía sea 3 × 10⁻¹⁹ J? (Use h = 6,626 × 10⁻³⁴ J·s)**  
     A) 4,5 × 10¹⁴ Hz  
     B) 3,2 × 10¹⁴ Hz  
