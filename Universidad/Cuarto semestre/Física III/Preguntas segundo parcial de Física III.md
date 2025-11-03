@@ -386,12 +386,12 @@
 	
 61. **¿Qué propiedad del fotón cambia en el efecto Compton?**  
     A) Su carga  
-    B) Su frecuencia  
+    **==B) Su frecuencia==**  
     C) Su masa  
     D) Su número de fotones
     
 62. **¿Qué describe la hipótesis de Planck?**  
-    A) Que la energía de la luz se emite en cuantos discretos  
+    **==A) Que la energía de la luz se emite en cuantos discretos==**  
     B) Que la energía de la luz es continua  
     C) Que la luz no tiene energía  
     D) Que la luz no tiene masa
