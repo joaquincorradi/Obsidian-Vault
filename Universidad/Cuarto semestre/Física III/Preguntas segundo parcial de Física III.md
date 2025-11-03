@@ -290,7 +290,7 @@
     C) $4,32\ \mathrm{eV}$  
     D) $5,10\ \mathrm{eV}$
 	
-	$\frac{hc}{250n}$
+	$\frac{hc}{250n}\times 6,24\times 10^{18}$
 	
 46. **¿Qué frecuencia debe tener un fotón para que su energía sea 3 × 10⁻¹⁹ J? (Use h = 6,626 × 10⁻³⁴ J·s)**  
     A) 4,5 × 10¹⁴ Hz  
