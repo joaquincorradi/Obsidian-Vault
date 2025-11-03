@@ -268,225 +268,225 @@
     C) $400\ \mathrm{nm}$  
     **==D) $496\ \mathrm{nm}$==**
 	
-	$\frac{nc}{\frac{2,5}{6,24\times 10^{18}}}$
+	$\frac{hc}{\frac{2,5}{6,24\times 10^{18}}}$
     
-44. **¿Qué longitud de onda tiene un fotón con una energía de 3,5 × 10⁻¹⁹ J? (Use h = 6,626 × 10⁻³⁴ J·s y c = 3 × 10⁸ m/s)**  
-    A) 567 nm  
-    B) 470 nm  
-    C) 430 nm  
-    D) 600 nm
+1. **¿Qué longitud de onda tiene un fotón con una energía de $3,5 \times 10^{-19}\ \mathrm{J}$? ($h = 6,63 \times 10^{-34} \ \mathrm{J}\cdot \mathrm{s}$ y $c = 3 \times 10^8\ \frac{\mathrm{m}}{\mathrm{s}}$)**  
+    **==A) $567\ \mathrm{nm}$==**  
+    B) $470\ \mathrm{nm}$  
+    C) $430\ \mathrm{nm}$
+    D) $600\ \mathrm{nm}$
     
-45. **Un electrón tiene una energía cinética de 2,5 × 10⁻¹⁹ J. ¿Cuál es su velocidad? (La masa del electrón es 9,11 × 10⁻³¹ kg)**  
-    A) 7,42 × 10⁵ m/s  
+2. **Un electrón tiene una energía cinética de $2,5\times 10^{-19}\ \mathrm{J}$. ¿Cuál es su velocidad? (La masa del electrón es $9,11\times 10^{-31}\ \mathrm{kg}$)**  
+    A) $7,42\times 10^5 m/s$  
     B) 2,35 × 10⁶ m/s  
     C) 1,85 × 10⁶ m/s  
     D) 5,94 × 10⁵ m/s
     
-46. **Si la constante de Planck es 6,626 × 10⁻³⁴ J·s, ¿qué energía en electronvoltios tiene un fotón de longitud de onda 250 nm? (1 eV = 1,6 × 10⁻¹⁹ J)**  
+3. **Si la constante de Planck es 6,626 × 10⁻³⁴ J·s, ¿qué energía en electronvoltios tiene un fotón de longitud de onda 250 nm? (1 eV = 1,6 × 10⁻¹⁹ J)**  
     A) 4,96 eV  
     B) 5,56 eV  
     C) 4,32 eV  
     D) 5,10 eV
     
-47. **¿Qué frecuencia debe tener un fotón para que su energía sea 3 × 10⁻¹⁹ J? (Use h = 6,626 × 10⁻³⁴ J·s)**  
+4. **¿Qué frecuencia debe tener un fotón para que su energía sea 3 × 10⁻¹⁹ J? (Use h = 6,626 × 10⁻³⁴ J·s)**  
     A) 4,5 × 10¹⁴ Hz  
     B) 3,2 × 10¹⁴ Hz  
     C) 7,2 × 10¹⁴ Hz  
     D) 1,0 × 10¹⁵ Hz
     
-48. **Según el modelo de Bohr, ¿qué tipo de radiación se emite cuando un electrón pasa del nivel n = 3 al nivel n = 2 en un átomo de hidrógeno?**  
+5. **Según el modelo de Bohr, ¿qué tipo de radiación se emite cuando un electrón pasa del nivel n = 3 al nivel n = 2 en un átomo de hidrógeno?**  
     A) Ultravioleta  
     B) Infrarroja  
     C) Visible  
     D) Rayos X
     
-49. **¿Cuál de las siguientes afirmaciones describe mejor el efecto fotoeléctrico?**  
+6. **¿Cuál de las siguientes afirmaciones describe mejor el efecto fotoeléctrico?**  
     A) La emisión de electrones de una superficie metálica debido a la radiación electromagnética  
     B) La absorción de electrones por una superficie metálica  
     C) La descomposición de electrones por luz ultravioleta  
     D) La creación de electrones a partir de fotones
     
-50. **La energía mínima necesaria para liberar un electrón de una superficie de metal se conoce como:**  
+7. **La energía mínima necesaria para liberar un electrón de una superficie de metal se conoce como:**  
     A) Función de trabajo  
     B) Energía de ionización  
     C) Energía cinética  
     D) Energía de enlace
     
-51. **Según el modelo de Bohr, ¿qué fuerza mantiene al electrón en su órbita alrededor del núcleo en el átomo de hidrógeno?**  
+8. **Según el modelo de Bohr, ¿qué fuerza mantiene al electrón en su órbita alrededor del núcleo en el átomo de hidrógeno?**  
     A) Fuerza centrífuga  
     B) Fuerza nuclear  
     C) Fuerza electrostática  
     D) Fuerza de atracción gravitacional
     
-52. **En el efecto Compton, ¿qué ocurre cuando un fotón incide sobre un electrón libre?**  
+9. **En el efecto Compton, ¿qué ocurre cuando un fotón incide sobre un electrón libre?**  
     A) El fotón pierde energía y el electrón es eyectado  
     B) El fotón gana energía y el electrón se mantiene en su posición  
     C) El fotón gana energía  
     D) El fotón gana energía y el electrón es expulsado
     
-53. **¿Qué describe la longitud de onda de De Broglie para una partícula en movimiento?**  
+10. **¿Qué describe la longitud de onda de De Broglie para una partícula en movimiento?**  
     A) La frecuencia de la partícula  
     B) La energía cinética de la partícula  
     C) La dualidad onda-partícula  
     D) La longitud de onda de emisión
     
-54. **La energía en reposo de una partícula se describe mediante la ecuación E = m·c². ¿Cuál es la energía en reposo de un electrón si su masa es 9,11 × 10⁻³¹ kg y c = 3 × 10⁸ m/s?**  
+11. **La energía en reposo de una partícula se describe mediante la ecuación E = m·c². ¿Cuál es la energía en reposo de un electrón si su masa es 9,11 × 10⁻³¹ kg y c = 3 × 10⁸ m/s?**  
     A) 9,11 × 10⁻¹³ J  
     B) 8,19 × 10⁻¹⁴ J  
     C) 1,22 × 10⁻¹³ J  
     D) 2,73 × 10⁻¹³ J
     
-55. **¿Qué nombre se le da al proceso en el que un núcleo inestable emite una partícula alfa para convertirse en un núcleo más estable?**  
+12. **¿Qué nombre se le da al proceso en el que un núcleo inestable emite una partícula alfa para convertirse en un núcleo más estable?**  
     A) Fisión nuclear  
     B) Emisión beta  
     C) Emisión alfa  
     D) Emisión gamma
     
-56. **¿Cuál es la diferencia principal entre la fisión y la fusión nuclear?**  
+13. **¿Cuál es la diferencia principal entre la fisión y la fusión nuclear?**  
     A) La fisión divide núcleos mientras que la fusión une núcleos  
     B) La fusión libera menos energía que la fisión  
     C) La fusión ocurre en estrellas mientras que la fisión ocurre en la Tierra  
     D) La fusión une núcleos mientras que la fisión los divide
     
-57. **Un fotón tiene una longitud de onda de 400 nm. ¿Cuál es su energía en Joules? (Use h = 6,626 × 10⁻³⁴ J·s y c = 3 × 10⁸ m/s)**  
+14. **Un fotón tiene una longitud de onda de 400 nm. ¿Cuál es su energía en Joules? (Use h = 6,626 × 10⁻³⁴ J·s y c = 3 × 10⁸ m/s)**  
     A) 4,97 × 10⁻¹⁹ J  
     B) 6,63 × 10⁻¹⁹ J  
     C) 3,11 × 10⁻¹⁹ J  
     D) 5,10 × 10⁻¹⁹ J
     
-58. **¿Qué tipo de radiación se emite en el decaimiento beta?**  
+15. **¿Qué tipo de radiación se emite en el decaimiento beta?**  
     A) Electrones o positrones  
     B) Rayos gamma  
     C) Partículas alfa  
     D) Neutrones
     
-59. **¿Cuál de las siguientes afirmaciones es verdadera para la radiación gamma?**  
+16. **¿Cuál de las siguientes afirmaciones es verdadera para la radiación gamma?**  
     A) Tiene carga negativa  
     B) Es de naturaleza electromagnética  
     C) Consiste en partículas masivas  
     D) Puede ser desviada por campos eléctricos
     
-60. **¿Qué partículas son emitidas en el proceso de decaimiento alfa?**  
+17. **¿Qué partículas son emitidas en el proceso de decaimiento alfa?**  
     A) 2 protones y 2 neutrones  
     B) 1 electrón  
     C) 1 neutrón y 1 protón  
     D) 1 fotón
     
-61. **¿Cuál es la energía de un fotón con una longitud de onda de 700 nm? (Use h = 6,626 × 10⁻³⁴ J·s y c = 3 × 10⁸ m/s)**  
+18. **¿Cuál es la energía de un fotón con una longitud de onda de 700 nm? (Use h = 6,626 × 10⁻³⁴ J·s y c = 3 × 10⁸ m/s)**  
     A) 2,824 × 10⁻¹⁹ J  
     B) 4,75 × 10⁻¹⁹ J  
     C) 1,77 × 10⁻¹⁹ J  
     D) 3,15 × 10⁻¹⁹ J
     
-62. **¿Qué propiedad del fotón cambia en el efecto Compton?**  
+19. **¿Qué propiedad del fotón cambia en el efecto Compton?**  
     A) Su carga  
     B) Su frecuencia  
     C) Su masa  
     D) Su número de fotones
     
-63. **¿Qué describe la hipótesis de Planck?**  
+20. **¿Qué describe la hipótesis de Planck?**  
     A) Que la energía de la luz se emite en cuantos discretos  
     B) Que la energía de la luz es continua  
     C) Que la luz no tiene energía  
     D) Que la luz no tiene masa
     
-64. **En el modelo de Bohr, ¿qué sucede cuando el electrón desciende de un nivel de energía mayor a uno menor?**  
+21. **En el modelo de Bohr, ¿qué sucede cuando el electrón desciende de un nivel de energía mayor a uno menor?**  
     A) Absorbe energía en forma de radiación  
     B) Emite energía en forma de radiación  
     C) Se convierte en un protón  
     D) No cambia su energía
     
-65. **Un electrón es eyectado de una superficie metálica con una energía cinética de 2 eV debido a la incidencia de luz. Si la función de trabajo es de 1 eV, ¿cuál fue la energía del fotón incidente?**  
+22. **Un electrón es eyectado de una superficie metálica con una energía cinética de 2 eV debido a la incidencia de luz. Si la función de trabajo es de 1 eV, ¿cuál fue la energía del fotón incidente?**  
     A) 1 eV  
     B) 3 eV  
     C) 2 eV  
     D) 4 eV
     
-66. **¿Qué partícula es emitida en el decaimiento beta negativo?**  
+23. **¿Qué partícula es emitida en el decaimiento beta negativo?**  
     A) Positrón  
     B) Electrón  
     C) Neutrón  
     D) Protón
     
-67. **¿Qué tipo de energía es liberada en las reacciones de fisión y fusión nuclear?**  
+24. **¿Qué tipo de energía es liberada en las reacciones de fisión y fusión nuclear?**  
     A) Energía térmica  
     B) Energía eléctrica  
     C) Energía nuclear  
     D) Energía potencial
     
-68. **En el efecto fotoeléctrico, ¿qué sucede si aumenta la frecuencia de la luz incidente?**  
+25. **En el efecto fotoeléctrico, ¿qué sucede si aumenta la frecuencia de la luz incidente?**  
     A) Aumenta la velocidad de los electrones emitidos  
     B) Aumenta la cantidad de electrones emitidos  
     C) Disminuye la velocidad de los electrones emitidos  
     D) No afecta a los electrones emitidos
     
-69. **La ecuación de Einstein para el efecto fotoeléctrico se expresa como E = W + K. ¿Qué representa “K” en esa ecuación?**  
+26. **La ecuación de Einstein para el efecto fotoeléctrico se expresa como E = W + K. ¿Qué representa “K” en esa ecuación?**  
     A) Energía potencial del electrón emitido  
     B) Energía cinética del electrón emitido  
     C) Energía de enlace  
     D) Energía de absorción
     
-70. **En el modelo de Bohr, ¿cuál es el número cuántico que define la órbita del electrón en el átomo de hidrógeno?**  
+27. **En el modelo de Bohr, ¿cuál es el número cuántico que define la órbita del electrón en el átomo de hidrógeno?**  
     A) Número cuántico principal (n)  
     B) Número cuántico de espín (s)  
     C) Número cuántico de forma (l)  
     D) Número cuántico magnético (m)
     
-71. **La longitud de onda de un electrón en movimiento es de 1,5 × 10⁻¹⁰ m. Si h = 6,626 × 10⁻³⁴ J·s y la masa del electrón es 9,11 × 10⁻³¹ kg, ¿cuál es su velocidad?**  
+28. **La longitud de onda de un electrón en movimiento es de 1,5 × 10⁻¹⁰ m. Si h = 6,626 × 10⁻³⁴ J·s y la masa del electrón es 9,11 × 10⁻³¹ kg, ¿cuál es su velocidad?**  
     A) 4,89 × 10⁶ m/s  
     B) 2,24 × 10⁶ m/s  
     C) 1,23 × 10⁶ m/s  
     D) 3,95 × 10⁶ m/s
     
-72. **¿Qué describe mejor el modelo de Bohr aplicado al átomo de hidrógeno?**  
+29. **¿Qué describe mejor el modelo de Bohr aplicado al átomo de hidrógeno?**  
     A) El electrón orbita el núcleo en niveles de energía cuantizados  
     B) El electrón está en una nube de probabilidad alrededor del núcleo  
     C) El electrón se comporta de manera aleatoria  
     D) El electrón está compuesto de electrones
     
-73. **Si un isótopo radiactivo emite una partícula alfa, ¿cómo cambia su masa atómica?**  
+30. **Si un isótopo radiactivo emite una partícula alfa, ¿cómo cambia su masa atómica?**  
     A) Aumenta en 2  
     B) Aumenta en 4  
     C) Disminuye en 4  
     D) No cambia
     
-74. **En una reacción de fusión, ¿qué tipo de núcleos se combinan típicamente?**  
+31. **En una reacción de fusión, ¿qué tipo de núcleos se combinan típicamente?**  
     A) Núcleos ligeros  
     B) Núcleos pesados  
     C) Núcleos neutros  
     D) Núcleos estables
     
-75. **¿Qué tipo de radiación es más penetrante?**  
+32. **¿Qué tipo de radiación es más penetrante?**  
     A) Radiación gamma  
     B) Radiación beta  
     C) Radiación alfa  
     D) Rayos ultravioleta
     
-76. **¿Cuál es el valor de la carga del electrón?**  
+33. **¿Cuál es el valor de la carga del electrón?**  
     A) –1,6 × 10⁻¹⁹ C  
     B) 1,6 × 10⁻¹⁹ C  
     C) –9,1 × 10⁻³¹ C  
     D) 9,1 × 10⁻³¹ C
     
-77. **Un núcleo de Uranio-238 decae a través de una serie de emisiones alfa y beta. ¿Qué tipo de elemento se convierte al final de esta cadena de desintegración?**  
+34. **Un núcleo de Uranio-238 decae a través de una serie de emisiones alfa y beta. ¿Qué tipo de elemento se convierte al final de esta cadena de desintegración?**  
     A) Plomo  
     B) Hidrógeno  
     C) Helio  
     D) Carbono
     
-78. **La energía liberada al momento de crearse un núcleo por la fusión de sus partículas se llama:**  
+35. **La energía liberada al momento de crearse un núcleo por la fusión de sus partículas se llama:**  
     A) Función de trabajo  
     B) Energía de activación  
     C) Energía de enlace  
     D) Energía potencial
     
-79. **La cantidad de decaimiento de un isótopo radiactivo se mide en:**  
+36. **La cantidad de decaimiento de un isótopo radiactivo se mide en:**  
     A) Metros  
     B) Segundos  
     C) Becquerel  
     D) Mol
     
-80. **Si el número de Avogadro es 6,022 × 10²³ mol⁻¹, ¿cuántos átomos hay en 1 mol de helio?**  
+37. **Si el número de Avogadro es 6,022 × 10²³ mol⁻¹, ¿cuántos átomos hay en 1 mol de helio?**  
     A) 6,022 × 10²³ átomos  
     B) 1,602 × 10²³ átomos  
     C) 3,011 × 10²³ átomos  
