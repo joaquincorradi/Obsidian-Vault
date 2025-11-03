@@ -341,7 +341,7 @@
 54. **¿Qué nombre se le da al proceso en el que un núcleo inestable emite una partícula alfa para convertirse en un núcleo más estable?**  
     A) Fisión nuclear  
     B) Emisión beta  
-    C) Emisión alfa  
+    **==C) Emisión alfa==**  
     D) Emisión gamma
     
 55. **¿Cuál es la diferencia principal entre la fisión y la fusión nuclear?**  
@@ -351,30 +351,32 @@
     D) La fusión une núcleos mientras que la fisión los divide
     
 56. **Un fotón tiene una longitud de onda de $400\ \mathrm{nm}$. ¿Cuál es su energía en Joules? ($h = 6,63 \times 10^{-34} \ \mathrm{J}\cdot \mathrm{s}$ y $c = 3 \times 10^8\ \frac{\mathrm{m}}{\mathrm{s}}$)**  
-    A) $4,97\times 10^{-19}\ \mathrm{J}$  
+    **==A) $4,97\times 10^{-19}\ \mathrm{J}$==**  
     B) $6,02\times 10^{-19}\ \mathrm{J}$  
     C) $3,11\times 10^{-19}\ \mathrm{J}$  
     D) $5,10\times 10^{-19}\ \mathrm{J}$
-    
+	
+	$\frac{hc}{400n}$
+	
 57. **¿Qué tipo de radiación se emite en el decaimiento beta?**  
-    A) Electrones o positrones  
+    **==A) Electrones o positrones==**  
     B) Rayos gamma  
     C) Partículas alfa  
     D) Neutrones
     
 58. **¿Cuál de las siguientes afirmaciones es verdadera para la radiación gamma?**  
     A) Tiene carga negativa  
-    B) Es de naturaleza electromagnética  
+    **==B) Es de naturaleza electromagnética==**  
     C) Consiste en partículas masivas  
     D) Puede ser desviada por campos eléctricos
     
 59. **¿Qué partículas son emitidas en el proceso de decaimiento alfa?**  
-    A) 2 protones y 2 neutrones  
+    **==A) 2 protones y 2 neutrones==**  
     B) 1 electrón  
     C) 1 neutrón y 1 protón  
     D) 1 fotón
     
-60. **¿Cuál es la energía de un fotón con una longitud de onda de 700 nm? (Use h = 6,626 × 10⁻³⁴ J·s y c = 3 × 10⁸ m/s)**  
+60. **¿Cuál es la energía de un fotón con una longitud de onda de $700\ \mathrm{nm}$? ($h = 6,63 \times 10^{-34} \ \mathrm{J}\cdot \mathrm{s}$ y $c = 3 \times 10^8\ \frac{\mathrm{m}}{\mathrm{s}}$)**  
     A) 2,824 × 10⁻¹⁹ J  
     B) 4,75 × 10⁻¹⁹ J  
     C) 1,77 × 10⁻¹⁹ J  
