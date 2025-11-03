@@ -426,7 +426,7 @@
     C) Número cuántico de forma (l)  
     D) Número cuántico magnético (m)
     
-68. **La longitud de onda de un electrón en movimiento es de $1,5\times 10^{-10}\ \mathrm{m}$. Si h = 6,626 × 10⁻³⁴ J·s y la masa del electrón es 9,11 × 10⁻³¹ kg, ¿cuál es su velocidad?**  
+68. **La longitud de onda de un electrón en movimiento es de $1,5\times 10^{-10}\ \mathrm{m}$. Si $h = 6,63 \times 10^{-34} \ \mathrm{J}\cdot \mathrm{s}$ y la masa del electrón es $9,11\times 10^{-31}\ \mathrm{kg}$, ¿cuál es su velocidad?**  
     A) 4,89 × 10⁶ m/s  
     B) 2,24 × 10⁶ m/s  
     C) 1,23 × 10⁶ m/s  
