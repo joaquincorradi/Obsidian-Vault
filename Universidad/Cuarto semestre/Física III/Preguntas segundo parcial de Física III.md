@@ -465,13 +465,13 @@
 74. **La energía liberada al momento de crearse un núcleo por la fusión de sus partículas se llama:**  
     A) Función de trabajo  
     B) Energía de activación  
-    C) Energía de enlace  
+    **==C) Energía de enlace==**  
     D) Energía potencial
     
 75. **La cantidad de decaimiento de un isótopo radiactivo se mide en:**  
     A) Metros  
     B) Segundos  
-    C) Becquerel  
+    **==C) Becquerel==**  
     D) Mol
     
 76. **Si el número de Avogadro es 6,022 × 10²³ mol⁻¹, ¿cuántos átomos hay en 1 mol de helio?**  
