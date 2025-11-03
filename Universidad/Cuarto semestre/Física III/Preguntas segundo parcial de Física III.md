@@ -292,17 +292,13 @@
 	
 	$\frac{hc}{250n}\times 6,24\times 10^{18}$
 	
-46. **¿Qué frecuencia debe tener un fotón para que su energía sea 3 × 10⁻¹⁹ J? (Use h = 6,626 × 10⁻³⁴ J·s)**  
-    A) 4,5 × 10¹⁴ Hz  
-    B) 3,2 × 10¹⁴ Hz  
-    C) 7,2 × 10¹⁴ Hz  
-    D) 1,0 × 10¹⁵ Hz
-    
-47. **Según el modelo de Bohr, ¿qué tipo de radiación se emite cuando un electrón pasa del nivel n = 3 al nivel n = 2 en un átomo de hidrógeno?**  
-    A) Ultravioleta  
-    B) Infrarroja  
-    C) Visible  
-    D) Rayos X
+46. **¿Qué frecuencia debe tener un fotón para que su energía sea $3\times 10^{-19}\ \mathrm{J}$? ($h = 6,63 \times 10^{-34} \ \mathrm{J}\cdot \mathrm{s}$)**  
+    **==A) $4,53\times 10^{14}\ \mathrm{Hz}$==**  
+    B) $2,74\times 10^{15}\ \mathrm{Hz}$ 
+    C) $3,12\times 10^{14}\ \mathrm{Hz}$  
+    D) $7,2\times 10^{14}\ \mathrm{Hz}$
+	
+	$\frac{3}{h}$
     
 48. **¿Cuál de las siguientes afirmaciones describe mejor el efecto fotoeléctrico?**  
     A) La emisión de electrones de una superficie metálica debido a la radiación electromagnética  
