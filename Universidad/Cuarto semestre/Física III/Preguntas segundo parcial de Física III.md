@@ -377,11 +377,13 @@
     D) 1 fotón
     
 60. **¿Cuál es la energía de un fotón con una longitud de onda de $700\ \mathrm{nm}$? ($h = 6,63 \times 10^{-34} \ \mathrm{J}\cdot \mathrm{s}$ y $c = 3 \times 10^8\ \frac{\mathrm{m}}{\mathrm{s}}$)**  
-    A) 2,824 × 10⁻¹⁹ J  
-    B) 4,75 × 10⁻¹⁹ J  
-    C) 1,77 × 10⁻¹⁹ J  
-    D) 3,15 × 10⁻¹⁹ J
-    
+    **==A) $2,84\times 10^{-19}\ \mathrm{J}$==**  
+    B) $4,75\times 10^{-19}\ \mathrm{J}$  
+    C) $1,77\times 10^{-19}\ \mathrm{J}$  
+    D) $3,15\times 10^{-19}\ \mathrm{J}$
+	
+	$\frac{hc}{700n}$
+	
 61. **¿Qué propiedad del fotón cambia en el efecto Compton?**  
     A) Su carga  
     B) Su frecuencia  
