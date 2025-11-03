@@ -476,8 +476,8 @@
     **==C) Becquerel==**  
     D) Mol
     
-76. **Si el número de Avogadro es 6,022 × 10²³ mol⁻¹, ¿cuántos átomos hay en 1 mol de helio?**  
-    A) 6,022 × 10²³ átomos  
-    B) 1,602 × 10²³ átomos  
-    C) 3,011 × 10²³ átomos  
-    D) 1,204 × 10²³ átomos
+76. **Si el número de Avogadro es $6,022\times 10^{23}\ \mathrm{mol}^{-1}$, ¿cuántos átomos hay en $1\ \mathrm{mol}$ de helio?**  
+    **==A) $6,022\times 10^{23}$ átomos==**  
+    B) $1,602\times 10^{23}$ átomos  
+    C) $3,011\times 10^{23}$ átomos  
+    D) $1,204\times 10^{23}$ átomos
