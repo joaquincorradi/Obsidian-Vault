@@ -301,13 +301,13 @@
 	$\frac{3}{h}$
     
 48. **¿Cuál de las siguientes afirmaciones describe mejor el efecto fotoeléctrico?**  
-    A) La emisión de electrones de una superficie metálica debido a la radiación electromagnética  
+    **==A) La emisión de electrones de una superficie metálica debido a la radiación electromagnética==**  
     B) La absorción de electrones por una superficie metálica  
     C) La descomposición de electrones por luz ultravioleta  
     D) La creación de electrones a partir de fotones
     
 49. **La energía mínima necesaria para liberar un electrón de una superficie de metal se conoce como:**  
-    A) Función de trabajo  
+    **==A) Función de trabajo==**  
     B) Energía de ionización  
     C) Energía cinética  
     D) Energía de enlace
@@ -315,23 +315,23 @@
 50. **Según el modelo de Bohr, ¿qué fuerza mantiene al electrón en su órbita alrededor del núcleo en el átomo de hidrógeno?**  
     A) Fuerza centrífuga  
     B) Fuerza nuclear  
-    C) Fuerza electrostática  
+    **==C) Fuerza electrostática==**  
     D) Fuerza de atracción gravitacional
     
-51. **En el efecto Compton, ¿qué ocurre cuando un fotón incide sobre un electrón libre?**  
-    A) El fotón pierde energía y el electrón es eyectado  
+51. **En el efecto Compton, ¿qué ocurre cuando un fotón incide sobre un electrón libre?** 
+    **==A) El fotón pierde energía y el electrón es eyectado==**  
     B) El fotón gana energía y el electrón se mantiene en su posición  
     C) El fotón gana energía  
     D) El fotón gana energía y el electrón es expulsado
     
-52. **¿Qué describe la longitud de onda de De Broglie para una partícula en movimiento?**  
+52. **¿Qué describe la longitud de onda de De Broglie para una partícula en movimiento?**
     A) La frecuencia de la partícula  
     B) La energía cinética de la partícula  
     C) La dualidad onda-partícula  
     D) La longitud de onda de emisión
     
-53. **La energía en reposo de una partícula se describe mediante la ecuación E = m·c². ¿Cuál es la energía en reposo de un electrón si su masa es 9,11 × 10⁻³¹ kg y c = 3 × 10⁸ m/s?**  
-    A) 9,11 × 10⁻¹³ J  
+53. **La energía en reposo de una partícula se describe mediante la ecuación $E = m\cdot c^2$. ¿Cuál es la energía en reposo de un electrón si su masa es $9,11\times 10^{-31}\ \mathrm{kg}$ y $c=3\times 10^8\ \frac{\mathrm{m}}{\mathrm{s}}$?**  
+    A) $8,19\times 10^{-14}\ \mathrm{J}$ 
     B) 8,19 × 10⁻¹⁴ J  
     C) 1,22 × 10⁻¹³ J  
     D) 2,73 × 10⁻¹³ J
