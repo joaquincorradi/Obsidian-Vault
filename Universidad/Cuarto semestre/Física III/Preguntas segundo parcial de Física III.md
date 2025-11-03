@@ -327,15 +327,17 @@
 52. **¿Qué describe la longitud de onda de De Broglie para una partícula en movimiento?**
     A) La frecuencia de la partícula  
     B) La energía cinética de la partícula  
-    C) La dualidad onda-partícula  
+    **==C) La dualidad onda-partícula==**  
     D) La longitud de onda de emisión
     
 53. **La energía en reposo de una partícula se describe mediante la ecuación $E = m\cdot c^2$. ¿Cuál es la energía en reposo de un electrón si su masa es $9,11\times 10^{-31}\ \mathrm{kg}$ y $c=3\times 10^8\ \frac{\mathrm{m}}{\mathrm{s}}$?**  
-    A) $8,19\times 10^{-14}\ \mathrm{J}$ 
-    B) 8,19 × 10⁻¹⁴ J  
-    C) 1,22 × 10⁻¹³ J  
-    D) 2,73 × 10⁻¹³ J
-    
+    **==A) $8,19\times 10^{-14}\ \mathrm{J}$==** 
+    B) $9,11\times 10^{-13}\ \mathrm{J}$  
+    C) $1,22\times 10^{-14}\ \mathrm{J}$  
+    D) $2,73\times 10^{-13}\ \mathrm{J}$
+	
+	$9,11\times c^2$
+	
 54. **¿Qué nombre se le da al proceso en el que un núcleo inestable emite una partícula alfa para convertirse en un núcleo más estable?**  
     A) Fisión nuclear  
     B) Emisión beta  
@@ -343,16 +345,16 @@
     D) Emisión gamma
     
 55. **¿Cuál es la diferencia principal entre la fisión y la fusión nuclear?**  
-    A) La fisión divide núcleos mientras que la fusión une núcleos  
+    **==A) La fisión divide núcleos mientras que la fusión une núcleos==**  
     B) La fusión libera menos energía que la fisión  
     C) La fusión ocurre en estrellas mientras que la fisión ocurre en la Tierra  
     D) La fusión une núcleos mientras que la fisión los divide
     
-56. **Un fotón tiene una longitud de onda de 400 nm. ¿Cuál es su energía en Joules? (Use h = 6,626 × 10⁻³⁴ J·s y c = 3 × 10⁸ m/s)**  
-    A) 4,97 × 10⁻¹⁹ J  
-    B) 6,63 × 10⁻¹⁹ J  
-    C) 3,11 × 10⁻¹⁹ J  
-    D) 5,10 × 10⁻¹⁹ J
+56. **Un fotón tiene una longitud de onda de $400\ \mathrm{nm}$. ¿Cuál es su energía en Joules? ($h = 6,63 \times 10^{-34} \ \mathrm{J}\cdot \mathrm{s}$ y $c = 3 \times 10^8\ \frac{\mathrm{m}}{\mathrm{s}}$)**  
+    A) $4,97\times 10^{-19}\ \mathrm{J}$  
+    B) $6,02\times 10^{-19}\ \mathrm{J}$  
+    C) $3,11\times 10^{-19}\ \mathrm{J}$  
+    D) $5,10\times 10^{-19}\ \mathrm{J}$
     
 57. **¿Qué tipo de radiación se emite en el decaimiento beta?**  
     A) Electrones o positrones  
