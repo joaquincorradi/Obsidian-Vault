@@ -16,3 +16,9 @@ $$\hbar=\frac{h}{2\pi}$$
 ## Efecto Compton
 #### Desplazamiento de Compton (cambio en la longitud de onda del fotón)
 $$\Delta \lambda=\frac{h}{m_{e}c}(1-\cos \theta)$$
+
+---
+
+## Conversión de unidades
+#### $eV\longrightarrow Joules$
+$$\frac{eV}{6,24\times 10^{18}}$$
