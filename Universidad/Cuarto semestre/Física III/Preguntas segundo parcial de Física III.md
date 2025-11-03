@@ -421,7 +421,7 @@
     D) Energía de absorción
     
 67. **En el modelo de Bohr, ¿cuál es el número cuántico que define la órbita del electrón en el átomo de hidrógeno?**  
-    A) Número cuántico principal (n)  
+    **==A) Número cuántico principal (n)==**  
     B) Número cuántico de espín (s)  
     C) Número cuántico de forma (l)  
     D) Número cuántico magnético (m)
@@ -433,7 +433,7 @@
     D) 3,95 × 10⁶ m/s
     
 69. **¿Qué describe mejor el modelo de Bohr aplicado al átomo de hidrógeno?**  
-    A) El electrón orbita el núcleo en niveles de energía cuantizados  
+    **==A) El electrón orbita el núcleo en niveles de energía cuantizados==**  
     B) El electrón está en una nube de probabilidad alrededor del núcleo  
     C) El electrón se comporta de manera aleatoria  
     D) El electrón está compuesto de electrones
@@ -441,46 +441,40 @@
 70. **Si un isótopo radiactivo emite una partícula alfa, ¿cómo cambia su masa atómica?**  
     A) Aumenta en 2  
     B) Aumenta en 4  
-    C) Disminuye en 4  
+    **==C) Disminuye en 4==**  
     D) No cambia
     
 71. **En una reacción de fusión, ¿qué tipo de núcleos se combinan típicamente?**  
-    A) Núcleos ligeros  
+    **==A) Núcleos ligeros==**  
     B) Núcleos pesados  
     C) Núcleos neutros  
     D) Núcleos estables
     
-72. **¿Qué tipo de radiación es más penetrante?**  
-    A) Radiación gamma  
-    B) Radiación beta  
-    C) Radiación alfa  
-    D) Rayos ultravioleta
+72. **¿Cuál es el valor de la carga del electrón?**  
+    **==A) $–1,6\times 10^{-19}\ \mathrm{C}$==**  
+    B) $1,6\times 10^{-19}\ \mathrm{C}$  
+    C) $–9,1\times 10^{-31}\ \mathrm{C}$  
+    D) $9,1\times 10^{-31}\ \mathrm{C}$
     
-73. **¿Cuál es el valor de la carga del electrón?**  
-    A) –1,6 × 10⁻¹⁹ C  
-    B) 1,6 × 10⁻¹⁹ C  
-    C) –9,1 × 10⁻³¹ C  
-    D) 9,1 × 10⁻³¹ C
-    
-74. **Un núcleo de Uranio-238 decae a través de una serie de emisiones alfa y beta. ¿Qué tipo de elemento se convierte al final de esta cadena de desintegración?**  
-    A) Plomo  
+73. **Un núcleo de Uranio-238 decae a través de una serie de emisiones alfa y beta. ¿Qué tipo de elemento se convierte al final de esta cadena de desintegración?**  
+    **==A) Plomo==**  
     B) Hidrógeno  
     C) Helio  
     D) Carbono
     
-75. **La energía liberada al momento de crearse un núcleo por la fusión de sus partículas se llama:**  
+74. **La energía liberada al momento de crearse un núcleo por la fusión de sus partículas se llama:**  
     A) Función de trabajo  
     B) Energía de activación  
     C) Energía de enlace  
     D) Energía potencial
     
-76. **La cantidad de decaimiento de un isótopo radiactivo se mide en:**  
+75. **La cantidad de decaimiento de un isótopo radiactivo se mide en:**  
     A) Metros  
     B) Segundos  
     C) Becquerel  
     D) Mol
     
-77. **Si el número de Avogadro es 6,022 × 10²³ mol⁻¹, ¿cuántos átomos hay en 1 mol de helio?**  
+76. **Si el número de Avogadro es 6,022 × 10²³ mol⁻¹, ¿cuántos átomos hay en 1 mol de helio?**  
     A) 6,022 × 10²³ átomos  
     B) 1,602 × 10²³ átomos  
     C) 3,011 × 10²³ átomos  
