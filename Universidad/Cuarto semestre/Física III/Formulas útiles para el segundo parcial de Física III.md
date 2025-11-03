@@ -19,6 +19,11 @@ $$\Delta \lambda=\frac{h}{m_{e}c}(1-\cos \theta)$$
 
 ---
 
+## Energía cinética
+$$E_{k}=\frac{1}{2}mv^2$$
+
+---
+
 ## Conversión de unidades
 #### $eV\longrightarrow Joules$
 $$\frac{eV}{6,24\times 10^{18}}$$
