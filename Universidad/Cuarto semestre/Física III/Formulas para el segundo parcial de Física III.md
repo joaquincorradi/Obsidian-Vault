@@ -1,12 +1,12 @@
 ## Efecto fotoeléctrico
-$$E_{fotón}=W+E_{cinética}$$
+$$E_{f}=W+E_{k}$$
 
 ---
 ## Constante de Planck
 #### Energía de un fotón
-$$E=hf$$
+$$E_{f}=hf$$
 #### Relación entre la energía de un fotón y su longitud de onda
-$$E=\frac{hc}{\lambda}$$
+$$E_{f}=\frac{hc}{\lambda}$$
 #### Constante de Planck reducida
 $$\hbar=\frac{h}{2\pi}$$
 
@@ -21,4 +21,4 @@ $$E_{k}=\frac{1}{2}mv^2$$
 
 ---
 ## Conversión de unidades
-$$eV\longrightarrow Joules: \frac{eV}{6,24\times 10^{18}}$$
+$$\mathrm{eV}\longrightarrow \mathrm{Joules}: \mathrm{eV}\cdot 1,6\times 10^{-19}$$
