@@ -1,0 +1,71 @@
+#### Bloque 1: Cuerpo Negro y Hipótesis de Planck
+- Pregunta 1: ¿La radiación absorbida por un cuerpo negro depende de la frecuencia? - Respuesta: B) Absorbe todo el espectro electromagnético. (Razón: Un cuerpo negro ideal absorbe toda la radiación incidente, sin importar la frecuencia, actuando como absorbedor perfecto.)
+- Pregunta 2: ¿Cómo se emite o absorbe la energía en un cuerpo negro según Planck? - Respuesta: C) En cuantos discretos. (Razón: Planck propuso que la energía no es continua, sino en paquetes discretos llamados cuantos, resolviendo el problema de la catástrofe ultravioleta.)
+- Pregunta 61: ¿Qué describe la hipótesis de Planck? - Respuesta: A) Que la energía de la luz se emite en cuantos discretos. (Razón: Introduce la idea de cuantización para explicar la radiación de cuerpo negro, opuesto a la visión clásica continua.)
+
+#### Bloque 2: Efecto Fotoeléctrico
+- Pregunta 4: ¿Qué describe el efecto fotoeléctrico? - Respuesta: B) La emisión de electrones de una superficie al ser iluminada. (Razón: Involucra fotones incidentes que liberan electrones de metales si la energía supera la función de trabajo.)
+- Pregunta 5: ¿Qué propiedad del fotón determina la energía del electrón expulsado en el efecto fotoeléctrico? - Respuesta: C) Su frecuencia. (Razón: La energía cinética del electrón depende de hf - φ, donde f es clave; intensidad afecta cantidad, no energía individual.)
+- Pregunta 22: En el efecto fotoeléctrico, si la energía del fotón es menor que la función de trabajo... - Respuesta: B) No se emite ningún electrón. (Razón: Hay un umbral de frecuencia; por debajo, no hay emisión, independientemente de la intensidad.)
+- Pregunta 33: ¿Cuál expresión describe el efecto fotoeléctrico? - Respuesta: B) E = hf - φ. (Razón: Energía del fotón = función de trabajo + energía cinética del electrón; base de la explicación cuántica de Einstein.)
+- Pregunta 37: En el efecto fotoeléctrico, la energía máxima depende de... - Respuesta: A) La frecuencia de la luz incidente. (Razón: Mayor frecuencia = mayor energía cinética; amplitud afecta solo el número de electrones.)
+- Pregunta 47: ¿Qué describe mejor el efecto fotoeléctrico? - Respuesta: A) La emisión de electrones de una superficie metálica debido a la radiación electromagnética. (Razón: Enfatiza la interacción luz-materia, con electrones liberados por fotones.)
+- Pregunta 48: La energía mínima para liberar un electrón de un metal se conoce como... - Respuesta: A) Función de trabajo. (Razón: Es la barrera energética que el fotón debe superar para eyectar el electrón.)
+- Pregunta 64: ¿Qué sucede si aumenta la frecuencia de la luz incidente en el efecto fotoeléctrico? - Respuesta: A) Aumenta la velocidad de los electrones emitidos. (Razón: Mayor hf = mayor K_max, ya que velocidad está ligada a energía cinética.)
+- Pregunta 65: En la ecuación E = W + K del efecto fotoeléctrico, ¿qué representa K? - Respuesta: B) Energía cinética del electrón emitido. (Razón: Es lo que sobra después de superar la función de trabajo W.)
+
+#### Bloque 3: Efecto Compton
+- Pregunta 6: ¿Qué sucede en el efecto Compton cuando un fotón incide sobre un electrón? - Respuesta: B) El fotón pierde energía y cambia de dirección. (Razón: Es una colisión elástica; fotón transfiere energía al electrón, aumentando su λ.)
+- Pregunta 7: La longitud de onda del fotón dispersado en el efecto Compton es... - Respuesta: A) Mayor que la longitud de onda incidente. (Razón: El cambio Δλ = h/mc (1 - cosθ) siempre positivo, por conservación de energía/momento.)
+- Pregunta 27: ¿Qué tipo de decaimiento no cambia la masa del núcleo? - Respuesta: C) Decaimiento gamma. (Razón: Solo emite fotón, sin pérdida de partículas masivas; alfa y beta sí cambian masa.)
+- Pregunta 28: En el efecto Compton, al aumentar el ángulo de dispersión, ¿qué sucede con λ? - Respuesta: B) Aumenta. (Razón: Δλ depende de (1 - cosθ); mayor θ = mayor cambio, hasta 180° máximo.)
+- Pregunta 50: En el efecto Compton, ¿qué ocurre cuando un fotón incide sobre un electrón libre? - Respuesta: A) El fotón pierde energía y el electrón es eyectado. (Razón: El electrón gana momento, fotón se desvía con menor energía.)
+- Pregunta 60: ¿Qué propiedad del fotón cambia en el efecto Compton? - Respuesta: B) Su frecuencia. (Razón: Pierde energía, así que f disminuye, ya que E = hf; longitud de onda aumenta.)
+
+#### Bloque 4: Modelo Atómico de Bohr
+- Pregunta 8: ¿Qué describe el modelo atómico de Bohr para el átomo de hidrógeno? - Respuesta: B) El electrón se encuentra en órbitas estacionarias. (Razón: Órbitas discretas con energías fijas; no irradia mientras está en ellas.)
+- Pregunta 9: ¿Qué ocurre cuando el electrón en hidrógeno cambia a una órbita inferior según Bohr? - Respuesta: B) Emite un fotón. (Razón: Transición libera energía como radiación; absorbe al subir.)
+- Pregunta 18: En el modelo de Bohr, el electrón solo puede existir en órbitas donde el momento angular es múltiplo entero de... - Respuesta: A) h/2π. (Razón: Condición de cuantización L = n ħ, donde ħ = h/2π.)
+- Pregunta 29: ¿Qué tipo de radiación se emite cuando un electrón pasa de n=3 a n=2 en hidrógeno? - Respuesta: C) Visible. (Razón: Serie de Balmer, visible; Lyman UV, Paschen IR.)
+- Pregunta 31: En el modelo de Bohr, ¿qué determina el radio de la órbita de un electrón en hidrógeno? - Respuesta: D) El número cuántico principal. (Razón: r ∝ n²; mayor n = órbita más grande.)
+- Pregunta 39: Según Bohr, ¿qué debe suceder para que un electrón pase a una órbita de mayor energía? - Respuesta: A) Debe ganar energía. (Razón: Absorbe fotón para saltar a n mayor; emite al bajar.)
+- Pregunta 49: ¿Qué fuerza mantiene al electrón en su órbita en el átomo de hidrógeno según Bohr? - Respuesta: C) Fuerza electrostática. (Razón: Atracción Coulomb entre núcleo y electrón equilibra fuerza centrífuga.)
+- Pregunta 62: En el modelo de Bohr, ¿qué sucede cuando el electrón desciende de un nivel mayor a menor? - Respuesta: B) Emite energía en forma de radiación. (Razón: Diferencia de energía se libera como fotón.)
+- Pregunta 66: En el modelo de Bohr, ¿cuál es el número cuántico que define la órbita del electrón en hidrógeno? - Respuesta: A) Número cuántico principal (n). (Razón: n determina energía y radio; otros como l, m son para modelos más avanzados.)
+- Pregunta 68: ¿Qué describe mejor el modelo de Bohr aplicado al átomo de hidrógeno? - Respuesta: A) El electrón orbita el núcleo en niveles de energía cuantizados. (Razón: Combina mecánica clásica con cuantización para explicar espectros.)
+
+#### Bloque 5: Decaimiento Radiactivo (Alfa, Beta, Gamma)
+- Pregunta 10: ¿Qué tipo de radiación es emitida en un decaimiento alfa? - Respuesta: A) Núcleo de helio. (Razón: Alfa = ²He⁴, 2 protones + 2 neutrones.)
+- Pregunta 11: ¿Cómo se representa el decaimiento beta negativo? - Respuesta: A) Emisión de un electrón. (Razón: Neutrón → protón + e⁻ + antineutrino.)
+- Pregunta 12: En el decaimiento gamma, ¿qué partícula es emitida? - Respuesta: C) Un fotón. (Razón: Transición nuclear excitado a base, emite γ sin cambiar Z o A.)
+- Pregunta 13: ¿Qué tipo de radiación tiene la mayor capacidad de penetración? - Respuesta: C) Gamma. (Razón: Ondas EM de alta energía; alfa y beta se detienen fácilmente.)
+- Pregunta 19: ¿Qué es una constante de desintegración en radiactividad? - Respuesta: A) La probabilidad de desintegración de un núcleo. (Razón: λ en N = N₀ e^{-λt}; mide tasa de decaimiento.)
+- Pregunta 20: ¿Cómo se define la vida media de un elemento radiactivo? - Respuesta: B) Tiempo en que se desintegra la mitad de los núcleos presentes. (Razón: τ = ln2/λ; estadístico, no para un núcleo individual.)
+- Pregunta 32: ¿Qué efecto de radiación está involucrado en el decaimiento beta? - Respuesta: C) Emisión de electrones. (Razón: Beta = e⁻ o e⁺; cambia Z sin cambiar A mucho.)
+- Pregunta 40: ¿Qué significa "vida media" en radioactividad? - Respuesta: A) Tiempo para que la mitad de los núcleos se desintegren. (Razón: Promedio estadístico; no predictivo para uno solo.)
+- Pregunta 53: ¿Qué nombre se le da al proceso donde un núcleo inestable emite una partícula alfa? - Respuesta: C) Emisión alfa. (Razón: Reduce A en 4, Z en 2; hacia estabilidad.)
+- Pregunta 56: ¿Qué tipo de radiación se emite en el decaimiento beta? - Respuesta: A) Electrones o positrones. (Razón: Beta- e⁻, beta+ e⁺; involucra neutrinos.)
+- Pregunta 57: ¿Cuál afirmación es verdadera para la radiación gamma? - Respuesta: B) Es de naturaleza electromagnética. (Razón: Sin carga ni masa; no desviada por campos, alta penetración.)
+- Pregunta 58: ¿Qué partículas son emitidas en el decaimiento alfa? - Respuesta: A) 2 protones y 2 neutrones. (Razón: Equivalente a núcleo de helio.)
+- Pregunta 69: Si un isótopo emite una partícula alfa, ¿cómo cambia su masa atómica? - Respuesta: C) Disminuye en 4. (Razón: Pierde 4 unidades de masa; Z baja en 2.)
+- Pregunta 72: Un núcleo de Uranio-238 decae por alfa y beta, ¿en qué elemento se convierte al final? - Respuesta: A) Plomo. (Razón: Cadena de desintegración natural termina en Pb estable.)
+- Pregunta 74: La cantidad de decaimiento de un isótopo radiactivo se mide en... - Respuesta: C) Becquerel. (Razón: Unidad de actividad: desintegraciones por segundo.)
+
+#### Bloque 6: Fisión y Fusión Nuclear
+- Pregunta 14: ¿Qué sucede durante una reacción de fisión nuclear? - Respuesta: B) Un núcleo pesado se divide en dos o más núcleos ligeros. (Razón: Libera energía por defecto de masa; cadena en reactores.)
+- Pregunta 15: ¿Qué reacción nuclear se produce en una fusión? - Respuesta: B) La unión de núcleos ligeros para formar uno más pesado. (Razón: Como en estrellas; requiere alta T para superar repulsión.)
+- Pregunta 35: ¿Qué sucede en la fusión nuclear? - Respuesta: B) Se combinan núcleos ligeros para formar uno más pesado. (Razón: Opuesto a fisión; libera más energía por nucleón.)
+- Pregunta 54: ¿Cuál es la diferencia principal entre fisión y fusión nuclear? - Respuesta: A) La fisión divide núcleos mientras que la fusión une núcleos. (Razón: Fisión: pesados → ligeros; fusión: ligeros → pesados; ambas liberan energía.)
+- Pregunta 63: ¿Qué tipo de energía es liberada en fisión y fusión nuclear? - Respuesta: C) Energía nuclear. (Razón: De enlaces nucleares fuertes; convertida en térmica/kinética.)
+- Pregunta 70: En una reacción de fusión, ¿qué tipo de núcleos se combinan típicamente? - Respuesta: A) Núcleos ligeros. (Razón: Como H → He en estrellas; pesados prefieren fisión.)
+- Pregunta 73: La energía liberada al crearse un núcleo por fusión de partículas se llama... - Respuesta: C) Energía de enlace. (Razón: Defecto de masa convertido en energía; mide estabilidad nuclear.)
+
+#### Bloque 7: Ondas de Materia (De Broglie) y Dualidad
+- Pregunta 38: ¿Qué representa el símbolo λ en la ecuación de De Broglie? - Respuesta: A) La longitud de onda de una partícula. (Razón: λ = h/p; aplica a electrones, etc., no solo luz.)
+- Pregunta 51: ¿Qué describe la longitud de onda de De Broglie para una partícula en movimiento? - Respuesta: C) La dualidad onda-partícula. (Razón: Extiende cuantización a materia; explica difracción de electrones.)
+
+#### Bloque 8: Misceláneos (Constantes, Partículas, Otros Conceptos)
+- Pregunta 24: ¿Qué describe la fórmula E = h·f? - Respuesta: B) La energía de un fotón. (Razón: Base cuántica; f determina E, no masa o velocidad.)
+- Pregunta 36: ¿Qué tipo de radiación tiene más carga? - Respuesta: A) Alfa. (Razón: +2e; beta -1e o +1e, gamma 0, neutrón 0.)
+- Pregunta 41: ¿Cuál es la constante de Planck en J·s? - Respuesta: A) 6,626 × 10^{-34} J·s. (Razón: Valor estándar; usada en E = hf.)
+- Pregunta 71: ¿Cuál es el valor de la carga del electrón? - Respuesta: A) -1,6 × 10^{-19} C. (Razón: Carga elemental negativa.)
