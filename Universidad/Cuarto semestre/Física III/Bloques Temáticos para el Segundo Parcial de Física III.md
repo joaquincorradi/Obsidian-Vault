@@ -5,18 +5,18 @@
 
 #### Bloque 2: Efecto Fotoeléctrico
 - Pregunta 4: ¿Qué describe el efecto fotoeléctrico? - Respuesta: B) La emisión de electrones de una superficie al ser iluminada. (Razón: Involucra fotones incidentes que liberan electrones de metales si la energía supera la función de trabajo.)
-- Pregunta 5: ¿Qué propiedad del fotón determina la energía del electrón expulsado en el efecto fotoeléctrico? - Respuesta: C) Su frecuencia. (Razón: La energía cinética del electrón depende de hf - φ, donde f es clave; intensidad afecta cantidad, no energía individual.)
+- Pregunta 5: ¿Qué propiedad del fotón determina la energía del electrón expulsado en el efecto fotoeléctrico? - Respuesta: C) Su frecuencia. (Razón: La energía cinética del electrón depende de $hf - \phi$, donde $f$ es clave; intensidad afecta cantidad, no energía individual.)
 - Pregunta 22: En el efecto fotoeléctrico, si la energía del fotón es menor que la función de trabajo... - Respuesta: B) No se emite ningún electrón. (Razón: Hay un umbral de frecuencia; por debajo, no hay emisión, independientemente de la intensidad.)
-- Pregunta 33: ¿Cuál expresión describe el efecto fotoeléctrico? - Respuesta: B) E = hf - φ. (Razón: Energía del fotón = función de trabajo + energía cinética del electrón; base de la explicación cuántica de Einstein.)
+- Pregunta 33: ¿Cuál expresión describe el efecto fotoeléctrico? - Respuesta: B) $E = hf - \phi$. (Razón: Energía del fotón = función de trabajo + energía cinética del electrón; base de la explicación cuántica de Einstein.)
 - Pregunta 37: En el efecto fotoeléctrico, la energía máxima depende de... - Respuesta: A) La frecuencia de la luz incidente. (Razón: Mayor frecuencia = mayor energía cinética; amplitud afecta solo el número de electrones.)
 - Pregunta 47: ¿Qué describe mejor el efecto fotoeléctrico? - Respuesta: A) La emisión de electrones de una superficie metálica debido a la radiación electromagnética. (Razón: Enfatiza la interacción luz-materia, con electrones liberados por fotones.)
 - Pregunta 48: La energía mínima para liberar un electrón de un metal se conoce como... - Respuesta: A) Función de trabajo. (Razón: Es la barrera energética que el fotón debe superar para eyectar el electrón.)
-- Pregunta 64: ¿Qué sucede si aumenta la frecuencia de la luz incidente en el efecto fotoeléctrico? - Respuesta: A) Aumenta la velocidad de los electrones emitidos. (Razón: Mayor hf = mayor K_max, ya que velocidad está ligada a energía cinética.)
-- Pregunta 65: En la ecuación E = W + K del efecto fotoeléctrico, ¿qué representa K? - Respuesta: B) Energía cinética del electrón emitido. (Razón: Es lo que sobra después de superar la función de trabajo W.)
+- Pregunta 64: ¿Qué sucede si aumenta la frecuencia de la luz incidente en el efecto fotoeléctrico? - Respuesta: A) Aumenta la velocidad de los electrones emitidos. (Razón: Mayor $hf$ = mayor $K_{max}$, ya que velocidad está ligada a energía cinética.)
+- Pregunta 65: En la ecuación $E = W + K$ del efecto fotoeléctrico, ¿qué representa $K$? - Respuesta: B) Energía cinética del electrón emitido. (Razón: Es lo que sobra después de superar la función de trabajo W.)
 
 #### Bloque 3: Efecto Compton
-- Pregunta 6: ¿Qué sucede en el efecto Compton cuando un fotón incide sobre un electrón? - Respuesta: B) El fotón pierde energía y cambia de dirección. (Razón: Es una colisión elástica; fotón transfiere energía al electrón, aumentando su λ.)
-- Pregunta 7: La longitud de onda del fotón dispersado en el efecto Compton es... - Respuesta: A) Mayor que la longitud de onda incidente. (Razón: El cambio Δλ = h/mc (1 - cosθ) siempre positivo, por conservación de energía/momento.)
+- Pregunta 6: ¿Qué sucede en el efecto Compton cuando un fotón incide sobre un electrón? - Respuesta: B) El fotón pierde energía y cambia de dirección. (Razón: Es una colisión elástica; fotón transfiere energía al electrón, aumentando su $λ$.)
+- Pregunta 7: La longitud de onda del fotón dispersado en el efecto Compton es... - Respuesta: A) Mayor que la longitud de onda incidente. (Razón: El cambio $Δ\lambda$ siempre positivo, por conservación de energía/momento.)
 - Pregunta 27: ¿Qué tipo de decaimiento no cambia la masa del núcleo? - Respuesta: C) Decaimiento gamma. (Razón: Solo emite fotón, sin pérdida de partículas masivas; alfa y beta sí cambian masa.)
 - Pregunta 28: En el efecto Compton, al aumentar el ángulo de dispersión, ¿qué sucede con λ? - Respuesta: B) Aumenta. (Razón: Δλ depende de (1 - cosθ); mayor θ = mayor cambio, hasta 180° máximo.)
 - Pregunta 50: En el efecto Compton, ¿qué ocurre cuando un fotón incide sobre un electrón libre? - Respuesta: A) El fotón pierde energía y el electrón es eyectado. (Razón: El electrón gana momento, fotón se desvía con menor energía.)
