@@ -18,7 +18,7 @@
 - Pregunta 6: ¿Qué sucede en el efecto Compton cuando un fotón incide sobre un electrón? - Respuesta: B) El fotón pierde energía y cambia de dirección. (Razón: Es una colisión elástica; fotón transfiere energía al electrón, aumentando su $λ$.)
 - Pregunta 7: La longitud de onda del fotón dispersado en el efecto Compton es... - Respuesta: A) Mayor que la longitud de onda incidente. (Razón: El cambio $Δ\lambda$ siempre positivo, por conservación de energía/momento.)
 - Pregunta 27: ¿Qué tipo de decaimiento no cambia la masa del núcleo? - Respuesta: C) Decaimiento gamma. (Razón: Solo emite fotón, sin pérdida de partículas masivas; alfa y beta sí cambian masa.)
-- Pregunta 28: En el efecto Compton, al aumentar el ángulo de dispersión, ¿qué sucede con λ? - Respuesta: B) Aumenta. (Razón: Δλ depende de (1 - cosθ); mayor θ = mayor cambio, hasta 180° máximo.)
+- Pregunta 28: En el efecto Compton, al aumentar el ángulo de dispersión, ¿qué sucede con λ? - Respuesta: B) Aumenta. (Razón: $Δ\lambda$ depende de ($1 - \cos\theta)$; mayor $\theta$ = mayor cambio, hasta 180° máximo.)
 - Pregunta 50: En el efecto Compton, ¿qué ocurre cuando un fotón incide sobre un electrón libre? - Respuesta: A) El fotón pierde energía y el electrón es eyectado. (Razón: El electrón gana momento, fotón se desvía con menor energía.)
 - Pregunta 60: ¿Qué propiedad del fotón cambia en el efecto Compton? - Respuesta: B) Su frecuencia. (Razón: Pierde energía, así que f disminuye, ya que E = hf; longitud de onda aumenta.)
 
