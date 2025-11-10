@@ -16,6 +16,11 @@ $$\hbar=\frac{h}{2\pi}$$
 $$\Delta \lambda=\frac{h}{m_{e}c}(1-\cos \theta)$$
 
 ---
+## De Broglie
+#### Relación entre longitud de onda con el momento
+$$\lambda=\frac{h}{p}$$
+Siendo $p=mv$.
+
 ## Energía cinética
 $$E_{k}=\frac{1}{2}mv^2$$
 
