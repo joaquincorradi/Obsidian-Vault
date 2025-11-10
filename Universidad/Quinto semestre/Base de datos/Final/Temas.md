@@ -1,0 +1,7 @@
+- [[SQL]]
+- [[Modelo ER]]
+- [[Álgebra relacional]]
+- [[RAID]]
+- [[Procesamiento de consultas]]
+- [[Transacciones]]
+- 
