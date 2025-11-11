@@ -1,6 +1,10 @@
 Es un lenguaje estructurado de consultas utilizado para administrar y manipular bases de datos relacionales.
-El lenguaje SQL está conformado por:
-### LDD: lenguaje de definición de datos
+### Componentes
+#### LDD: lenguaje de definición de datos
 Es un subconjunto que proporciona comandos para la **definición**, **borrado**, **modificación** de relaciones. Su propósito es establecer cómo se organizan los datos, sin manipular el contenido en sí.
-### LMD: lenguaje de manipulación de datos
-Es un subconjunto del lenguaje utilizado para **manipular** los datos almacenados en una base de datos relacional. Se centra en la gestión del contenido, es decir, los registros o filas dentro de las tablas.
+#### LMD: lenguaje de manipulación de datos
+Es un subconjunto del lenguaje utilizado para **manipular** los datos almacenados en una base de datos relacional. Se centra en la gestión del contenido, es decir, los registros o filas dentro de las tablas. Sus comando principales son:
+- SELECT: recupera datos de una o más tablas (debe tener el `FROM` o `WHERE` para no ser DQL). Ejemplo: `SELECT nombre, edad FROM usuarios WHERE edad > 18;`
+- INSERT
+- UPDATE
+- DELETE
