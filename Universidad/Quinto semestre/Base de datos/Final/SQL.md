@@ -8,3 +8,5 @@ Es un subconjunto del lenguaje utilizado para **manipular** los datos almacenado
 - INSERT: **añade** nuevos registros a una tabla. Ejemplo: `INSERT INTO usuarios (nombre, edad) VALUES ('Ana', 30);`
 - UPDATE: **modifica** registros existentes en una tabla. Ejemplo: `UPDATE usuarios SET edad = 31 WHERE nombre = 'Ana';`
 - DELETE: **elimina** registros de una tabla según una condición. No afecta la estructura de la tabla, solo los datos. Ejemplo: `DELETE FROM usuarios WHERE edad < 18;`
+### Funciones de agregación
+Son funciones que **procesan** un conjunto de valores en una columna y **devuelven un único valor** resumido.
