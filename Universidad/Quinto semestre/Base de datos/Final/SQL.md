@@ -4,7 +4,7 @@ Es un lenguaje estructurado de consultas utilizado para administrar y manipular 
 Es un subconjunto que proporciona comandos para la **definición**, **borrado**, **modificación** de relaciones. Su propósito es establecer cómo se organizan los datos, sin manipular el contenido en sí.
 #### LMD: lenguaje de manipulación de datos
 Es un subconjunto del lenguaje utilizado para **manipular** los datos almacenados en una base de datos relacional. Se centra en la gestión del contenido, es decir, los registros o filas dentro de las tablas. Sus comando principales son:
-- SELECT: **recupera** datos de una o más tablas (debe tener el `FROM` o `WHERE` para no ser DQL). Ejemplo: `SELECT nombre, edad FROM usuarios WHERE edad > 18;`
+- SELECT: sirve para **consultar** y **recuperar** datos de una o más tablas en una base de datos. Permite especificar qué columnas deseas obtener, filtrar resultados, ordenarlos y combinar datos de múltiples tablas. (debe tener el `FROM` o `WHERE` para no ser DQL). Ejemplo: `SELECT nombre, edad FROM usuarios WHERE edad > 18;`
 - INSERT: **añade** nuevos registros a una tabla. Ejemplo: `INSERT INTO usuarios (nombre, edad) VALUES ('Ana', 30);`
 - UPDATE: **modifica** registros existentes en una tabla. Ejemplo: `UPDATE usuarios SET edad = 31 WHERE nombre = 'Ana';`
-- DELETE
+- DELETE: 
