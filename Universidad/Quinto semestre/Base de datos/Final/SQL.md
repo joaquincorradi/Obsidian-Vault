@@ -9,4 +9,6 @@ Es un subconjunto del lenguaje utilizado para **manipular** los datos almacenado
 - UPDATE: **modifica** registros existentes en una tabla. Ejemplo: `UPDATE usuarios SET edad = 31 WHERE nombre = 'Ana';`
 - DELETE: **elimina** registros de una tabla según una condición. No afecta la estructura de la tabla, solo los datos. Ejemplo: `DELETE FROM usuarios WHERE edad < 18;`
 ### Funciones de agregación
-Son funciones que **procesan** un conjunto de valores en una columna y **devuelven un único valor** resumido.
+Son funciones que **procesan** un conjunto de valores en una columna y **devuelven un único valor** resumido. Las funciones de agregación son `COUNT`, `SUM`, `AVG`, `MAX`, `MIN`.
+### Valores nulos
+Los valores nulos indican la **ausencia** de un valor en una columna de una tabla. Un valor `NULL` no es lo mismo que un valor vacío (como una cadena vacía ''), cero ($0$), o un espacio en blanco; representa que el dato es desconocido, no aplicable o simplemente no está definido.
