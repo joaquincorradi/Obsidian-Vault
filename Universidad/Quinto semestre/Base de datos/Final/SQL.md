@@ -7,4 +7,4 @@ Es un subconjunto del lenguaje utilizado para **manipular** los datos almacenado
 - SELECT: sirve para **consultar** y **recuperar** datos de una o más tablas en una base de datos. Permite especificar qué columnas deseas obtener, filtrar resultados, ordenarlos y combinar datos de múltiples tablas. (debe tener el `FROM` o `WHERE` para no ser DQL). Ejemplo: `SELECT nombre, edad FROM usuarios WHERE edad > 18;`
 - INSERT: **añade** nuevos registros a una tabla. Ejemplo: `INSERT INTO usuarios (nombre, edad) VALUES ('Ana', 30);`
 - UPDATE: **modifica** registros existentes en una tabla. Ejemplo: `UPDATE usuarios SET edad = 31 WHERE nombre = 'Ana';`
-- DELETE: Ejemplo: `DELETE FROM usuarios WHERE edad < 18;`
+- DELETE: **elimina** registros de una tabla según una condición. No afecta la estructura de la tabla, solo los datos. Ejemplo: `DELETE FROM usuarios WHERE edad < 18;`
