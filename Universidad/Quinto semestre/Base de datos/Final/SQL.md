@@ -12,3 +12,4 @@ Es un subconjunto del lenguaje utilizado para **manipular** los datos almacenado
 Son funciones que **procesan** un conjunto de valores en una columna y **devuelven un único valor** resumido. Las funciones de agregación son `COUNT`, `SUM`, `AVG`, `MAX`, `MIN`.
 ### Valores nulos
 Los valores nulos indican la **ausencia** de un valor en una columna de una tabla. Un valor `NULL` no es lo mismo que un valor vacío (como una cadena vacía ''), cero ($0$), o un espacio en blanco; representa que el dato es desconocido, no aplicable o simplemente no está definido.
+### 
