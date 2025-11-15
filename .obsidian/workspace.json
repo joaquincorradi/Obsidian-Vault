@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Universidad/Cuarto semestre/Física III/Preguntas segundo parcial de Física III.md",
+                "file": "Universidad/Quinto semestre/Base de datos/Final/SQL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Preguntas segundo parcial de Física III"
+              "title": "SQL"
             }
           },
           {
@@ -177,8 +177,13 @@
   },
   "active": "b705a57001bea3fa",
   "lastOpenFiles": [
-    "Universidad/Cuarto semestre/Física III/Formulas útiles para el segundo parcial de Física III.md",
+    "Universidad/Quinto semestre/Base de datos/Final/Temas del final.md",
+    "Universidad/Quinto semestre/Base de datos/Final/SQL.md",
     "Universidad/Cuarto semestre/Física III/Preguntas segundo parcial de Física III.md",
+    "Universidad/Quinto semestre/Base de datos/Final",
+    "Universidad/Cuarto semestre/Física III/Formulas para el segundo parcial de Física III.md",
+    "Universidad/Cuarto semestre/Física III/Bloques Temáticos para el Segundo Parcial de Física III.md",
+    "Universidad/Cuarto semestre/Física III/Formulas útiles para el segundo parcial de Física III.md",
     "Universidad/Cuarto semestre/Física III/Primer parcial de Física III.md",
     "Universidad/Cuarto semestre/Física III/Fórmulas/Ondas progresivas.md",
     "Universidad/Octavo semestre/Seminario de energías renovables/Teórico/Jueves 9 de octubre.md",
@@ -199,10 +204,6 @@
     "Universidad/Tercer semestre/Análisis Matemático II/Notas de clases/Martes 27 de mayo (teórico).md",
     "Universidad/Tercer semestre/Análisis Matemático II/Notas de clases/Martes 20 de mayo.md",
     "Universidad/Quinto semestre/Lenguajes formales y autómatas/Notas de clase/Jueves 8 de mayo.md",
-    "Universidad/Quinto semestre/Lenguajes formales y autómatas/Notas de clase/Jueves 10 de abril (teórico).md",
-    "Universidad/Tercer semestre/Análisis Matemático II/Notas de clases/Martes 1 de abril de 2025 (teórico).md",
-    "Universidad/Tercer semestre/Análisis Matemático II/Notas de clases/Martes 8 de abril (teórico).md",
-    "Universidad/Tercer semestre/Análisis Matemático II/Notas de clases/Martes 11 de marzo.md",
     "Universidad/Tercer semestre/Estadística/Notas de clase/PXL_20250321_133157265.jpg",
     "Universidad/Tercer semestre/Estadística/Notas de clase/2.52 est.drawio.png",
     "Universidad/Tercer semestre/Estadística/Notas de clase",
@@ -214,7 +215,6 @@
     "Universidad/Septimo semestre/Cloud services",
     "Universidad/Septimo semestre",
     "Universidad/Quinto semestre/Lenguajes formales y autómatas/Notas de clase",
-    "Universidad/Quinto semestre/Lenguajes formales y autómatas",
     "Universidad/Quinto semestre/Sistemas de Información/niveles_de_organizacion.png"
   ]
 }
