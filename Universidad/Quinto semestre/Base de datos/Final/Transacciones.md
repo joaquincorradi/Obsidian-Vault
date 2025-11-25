@@ -8,4 +8,4 @@ Para asegurar la integridad de los datos se necesita que el sistema de base de d
 ### Comando básicos
 - `START TRANSACTION`: inicia la transacción.
 - `COMMIT`: guarda todos los cambios realizados durante una transacción, los hace permanentes y finaliza la transacción.
-- `ROLLBACK`: 
+- `ROLLBACK`: restaura la base de datos a su estado antes de que se iniciara la transacción.
