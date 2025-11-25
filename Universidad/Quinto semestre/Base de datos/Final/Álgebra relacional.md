@@ -17,6 +17,6 @@ $$\sigma_{P}(R)$$
 Por ejemplo $\sigma_{apellido=xy}(alumnos)$ selecciona todas las tuplas que contengan "xy" como apellido en la relación "alumnos".
 Una condición puede ser una combinación booleana, donde se pueden usar operadores como $\land$, $\lor$, combinándolos con operadores $<$, $>$, $\leqslant$, $\geqslant$, $=$, $\neq$.
 #### Proyección ($\Pi$)
-
+Permite extraer columnas (atributos) de una relación, dando como resultado un subconjunto vertical de atributos de la relación
 
 
