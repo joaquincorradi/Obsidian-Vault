@@ -5,3 +5,7 @@ Para asegurar la integridad de los datos se necesita que el sistema de base de d
 - Consistencia: la base de datos pasa de un estado consistente a otro estado consistente, nunca queda en estado inválido. Se garantiza con restricciones (PK, FK, CHECK), triggers y reglas de integridad.
 - Aislamiento: cada transacción ve el mundo *"como si fuera la única que está corriendo"*. No ve cambios a medio hacer de otras transacciones.
 - Durabilidad: una vez confirmada la transacción (COMMIT), los cambios permanecen aunque ocurran fallos del sistema.
+### Comando básicos
+- `START TRANSACTION`: inicia la transacción.
+- `COMMIT`: confirma todos los cambios → se vuelven permanentes y visibles.
+- 
