@@ -17,6 +17,13 @@ $$\sigma_{P}(R)$$
 Por ejemplo $\sigma_{apellido=xy}(alumnos)$ selecciona todas las tuplas que contengan "xy" como apellido en la relación "alumnos".
 Una condición puede ser una combinación booleana, donde se pueden usar operadores como $\land$, $\lor$, combinándolos con operadores $<$, $>$, $\leqslant$, $\geqslant$, $=$, $\neq$.
 #### Proyección ($\Pi$)
-Permite extraer columnas (atributos) de una relación, dando como resultado un subconjunto vertical de atributos de la relación
+Permite extraer atributos $A_n$ de una relación $R$, dando como resultado un subconjunto vertical de atributos de la relación pero eliminando valores duplicados.
+$$\Pi_{A_{n}}(R)$$
+Por ejemplo $\Pi_{nombre, apellido}(alumno)$ muestra las columnas nombre y apellido completas sin los duplicados.
+#### Unión ($\cup$)
+Se utiliza para combinar los resultados de dos consultas en un único resultado. La única condición es que ambas consultas deben devolver el mismo número de columnas con el mismo tipos de datos.
+Por ejemplo $R\cup S$ retorna el conjunto de tuplas que están en $R$, o en $S$, o en ambas.
+#### Diferencia ($-$)
+
 
 
