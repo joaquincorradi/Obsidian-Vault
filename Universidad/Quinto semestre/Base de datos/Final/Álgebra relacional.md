@@ -24,6 +24,11 @@ Por ejemplo $\Pi_{nombre, apellido}(alumno)$ muestra las columnas nombre y apell
 Se utiliza para combinar los resultados de dos consultas en un único resultado. La única condición es que ambas consultas deben devolver el mismo número de columnas con el mismo tipos de datos.
 Por ejemplo $R\cup S$ retorna el conjunto de tuplas que están en $R$, o en $S$, o en ambas.
 #### Diferencia ($-$)
+Proporciona las filas que están presentes en una tabla, pero no en otras tablas.
+#### Producto cartesiano ($\times$)
+Combina cada fila de una tabla con cada fila de otra tabla, produciendo todas las combinaciones posibles.
+#### Renombramiento ($\rho$)
+Permite dar un nombre temporal a una relacional específica o a sus atributos.
 
 
 
