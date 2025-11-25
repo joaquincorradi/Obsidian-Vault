@@ -12,5 +12,11 @@
 
 ### Operaciones fundamentales
 #### Selección ($\sigma$)
-Permite filtrar un subconjunto de tuplas que cumplan una condición $P$ de una relación ($R$).
+Permite filtrar un subconjunto de tuplas que cumplan una condición $P$ de una relación $R$.
+$$\sigma_{P}(R)$$
+Por ejemplo $\sigma_{apellido=xy}(alumnos)$ selecciona todas las tuplas que contengan "xy" como apellido en la relación "alumnos".
+Una condición puede ser una combinación booleana, donde se pueden usar operadores como $\land$, $\lor$, combinándolos con operadores $<$, $>$, $\leqslant$, $\geqslant$, $=$, $\neq$.
+#### Proyección ($\Pi$)
+
+
 
