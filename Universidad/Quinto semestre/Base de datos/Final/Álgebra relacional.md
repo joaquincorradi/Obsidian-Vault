@@ -28,7 +28,7 @@ Proporciona las filas que están presentes en una tabla, pero no en otras tablas
 #### Producto cartesiano ($\times$)
 Combina cada fila de una tabla con cada fila de otra tabla, produciendo todas las combinaciones posibles.
 #### Renombramiento ($\rho$)
-Permite dar un nombre temporal a una relacional específica o a sus atributos.
+Permite dar un nombre temporal a una relación específica o a sus atributos.
 
 
 
