@@ -8,4 +8,8 @@ $$\vec{F_{B}}=I\mathbf{\vec{L}}\times \mathbf{\vec{B}}=I\mathscr{l}B\sin \theta$
 ---
 # Fuentes de campo magnético
 #### Flujo magnético
-$$\Phi_{B}=\int \mathbf{\vec{B}}\cdot d\mathbf{\vec{A}}$$
+$$\Phi_{B}=\int \mathbf{\vec{B}}\cdot d\mathbf{\vec{A}}=BA\cos \theta$$
+#### Campo magnético adentro de un solenoide
+$$B=\mu_{0}\frac{N}{\mathscr{l}}I=\mu_{0}nI$$
+- $N$: vueltas del solenoide.
+#### FEM inducida en una espira
