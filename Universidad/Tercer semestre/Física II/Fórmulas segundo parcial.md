@@ -4,4 +4,8 @@ $$\vec{F_{B}}=q\mathbf{\vec{v}}\times \mathbf{\vec{B}}=|q|vB\sin \theta$$
 ##### Radio de la trayectoria circular de la carga
 $$r=\frac{mv}{qB}$$
 #### Fuerza sobre un conductor portador de corriente en un campo magnético
-$$\vec{F_{B}}=I\mathbf{\vec{L}}\times \mathbf{\vec{B}}$$
+$$\vec{F_{B}}=I\mathbf{\vec{L}}\times \mathbf{\vec{B}}=I\mathscr{l}B\sin \theta$$
+---
+# Fuentes de campo magnético
+#### Flujo magnético
+$$\Phi_{B}=\int \mathbf{\vec{B}}\cdot d\mathbf{\vec{A}}$$
