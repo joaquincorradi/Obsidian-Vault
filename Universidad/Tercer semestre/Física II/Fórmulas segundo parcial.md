@@ -13,7 +13,17 @@ $$\Phi_{B}=\int \mathbf{\vec{B}}\cdot d\mathbf{\vec{A}}=BA\cos \theta$$
 #### Campo magnético adentro de un solenoide
 $$B=\mu_{0}\frac{N}{\mathscr{l}}I=\mu_{0}nI$$
 - $N$: vueltas del solenoide.
+
+#### Campo debido a un hilo conductor corto
+$$B=\frac{\mu_{0}I}{4\pi d}(\cos \theta_{1}-\cos \theta_{2})$$
+- $d$: distancia al punto.
+#### Campo debido a un hilo conductor largo
+$$B=\frac{\mu_{0}I}{2\pi d}$$
+#### Campo debido a un arco conductor
+$$B=\frac{\mu_{0}I}{4\pi R}\theta$$
+
 ---
 # Ley de Faraday
 #### Fem inducida en una espira
 $$\mathcal {E}=-N'\frac{d}{dt}\Phi_{B}$$
+- $N'$: vueltas de la espira.
