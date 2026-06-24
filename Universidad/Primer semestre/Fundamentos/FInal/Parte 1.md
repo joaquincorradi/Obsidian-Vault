@@ -19,24 +19,31 @@
 
 5. -$f(x)$ presenta un máximo en $x = 2$ ¿Se verifica el teorema de Fermat? Justificar. ___.
 
-6. ¿Presenta $f(x)$ asíntota vertical? En caso afirmativo, ¿cuál es su ecuación y cómo se calcula? ***Sí, su ecuación es $x=0$. Se calcula tomando limite cuando $x\to 0$ y viendo si tiende a infinito. En este caso sí y por eso presenta A. V.***
+6. ¿Presenta $f(x)$ asíntota vertical? En caso afirmativo, ¿cuál es su ecuación y cómo se calcula? ***Sí, su ecuación es $x=0$. Se calcula tomando limite cuando $x\to 0$ y viendo si tiende a infinito. En este caso sí y por eso presenta A. V.:***
 $$
 \begin{gather*}
-  \lim_{ x \to \infty^+ }f(x)=+\infty\\
-  \lim_{ x \to \infty^- }f(x)=-\infty 
+  \lim_{ x \to 0^+ }f(x)=+\infty\\
+  \lim_{ x \to 0^- }f(x)=-\infty 
 \end{gather*}
 $$
 
 7. ¿En qué valores de $x$ la función es discontinua? Clasifique las discontinuidades que observa.
-	- $x=0$. Discontinuidad inevitable de salto infinito.
-	- $x=1$. Discontinuidad evitable.
-	- $x=3$. Discontinuidad inevitable de salto finito.
-	- $x=5$. Discontinuidad inevitable de salto finito.
+	- ***$x=0$. Discontinuidad inevitable de salto infinito.***
+	- ***$x=1$. Discontinuidad evitable.***
+	- ***$x=3$. Discontinuidad inevitable de salto finito.***
+	- ***$x=5$. Discontinuidad inevitable de salto finito.***
 
-8. ¿Presenta f(x) asíntota horizontal? En caso afirmativo, ¿cuál es su ecuación y cómo se calcula? ___.
+8. ¿Presenta $f(x)$ asíntota horizontal? En caso afirmativo, ¿cuál es su ecuación y cómo se calcula? ***Sí, su ecuación es $y=0$. Se calcula con los límites al infinito:***
+$$
+\begin{gather*}
+  \lim_{ x \to \infty^+ }f(x)=0\\
+  \lim_{ x \to \infty^- }f(x)=0 
+\end{gather*}
+$$
 
-9. ¿Existe límite en x = 3? ___. En caso afirmativo, ¿cuál es su valor? ___. En caso contrario justifique la no existencia del mismo. ___.
+9. ¿Existe límite en $x = 3$? ***No***. En caso afirmativo, ¿cuál es su valor?. En caso contrario justifique la no existencia del mismo. ***Porque los límites lateral en el punto son distintos:***
+$$\lim_{ x \to 3^+ }f(x)\neq \lim_{ x \to 3^- }f(x)$$
 
-10. ¿Existe límite en x = 1? ___. En caso afirmativo, ¿cuál es su valor? ___. 
+10. ¿Existe límite en $x = 1$? ***Sí***. En caso afirmativo, ¿cuál es su valor? ***Su valor aproximado es $\lim_{ x \to 1 }f(x)=1$***. 
 
- 11. Analice la derivabilidad en x = 2 y x = 3.
+ 11. Analice la derivabilidad en $x = 2$ y $x = 3$.
