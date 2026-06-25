@@ -2,7 +2,7 @@
 ### Teorema del valor intermedio (TVI)
 *Idea clave: una función continua no salta valores.*
 
-Si una función $f(x)$ es continua en un intervalo cerrado $[a,b]$ 
+Si una función $f(x)$ es continua en un intervalo cerrado $[a,b]$, toma todos los valores entre $f(a)$ y $f(b)$. 
 
 ### Teorema de Bolzano
 *Idea clave: caso particular de TVI*
