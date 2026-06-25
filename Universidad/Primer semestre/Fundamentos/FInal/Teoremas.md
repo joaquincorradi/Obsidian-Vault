@@ -1,4 +1,4 @@
-# Continuidad
+# Continuidad:
 ### Teorema del valor intermedio (TVI)
 *Idea clave: una función continua no salta valores.*
 
@@ -9,7 +9,7 @@ Si una función $f$ es **continua** en un intervalo cerrado $[a,b]$, entonces **
 
 ---
 
-# Derivada
+# Derivada:
 ### Teorema "derivabilidad implica continuidad”
 ### Teorema de Fermat
 ### Teorema de Rolle
