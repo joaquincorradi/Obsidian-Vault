@@ -17,6 +17,9 @@
 **Enunciado:** si $f$ es derivable en $x=a$, entonces $f$ es continua en $x=a$. 
 
 **Demostración:** 
+$f$ es derivable en $x=a$, entonces
+$$f'(a)=\frac{f(x)-f(a)}{x-a}$$
+
 ### Teorema de Fermat
 ### Teorema de Rolle
 ### Teorema de Lagrange
