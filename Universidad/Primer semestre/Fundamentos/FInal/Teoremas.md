@@ -14,6 +14,9 @@
 ### Regla de la cadena
 
 ### Teorema "derivabilidad implica continuidad”
+**Enunciado:** si $f$ es derivable en $x=a$, entonces $f$ es continua en $x=a$. 
+
+**Demostración:** 
 ### Teorema de Fermat
 ### Teorema de Rolle
 ### Teorema de Lagrange
