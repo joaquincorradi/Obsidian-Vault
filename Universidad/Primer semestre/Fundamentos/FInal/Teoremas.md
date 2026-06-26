@@ -11,6 +11,8 @@
 ---
 
 # Derivada:
+### Regla de la cadena
+
 ### Teorema "derivabilidad implica continuidad”
 ### Teorema de Fermat
 ### Teorema de Rolle
