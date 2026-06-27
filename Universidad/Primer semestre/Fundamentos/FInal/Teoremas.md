@@ -41,7 +41,11 @@ $$\boxed{\lim_{ x \to a }f(x)=f(a)}$$
 Es decir, $f$ es continua en $a$.
 
 ### Teorema de Fermat
-Enunciado
+**Enunciado:** Si $f$ tiene un máximo o un mínimo local en $x=c$, **y además** $f'(c)$ existe, entonces $f'(c)=0$.
+
+**Demostración:**
+$f$ presenta un máximo local en $c$ y es derivable en $x=c$, entonces
+$$$$
 ### Teorema de Rolle
 ### Teorema de Lagrange
 ### Teorema de Cauchy
