@@ -28,9 +28,17 @@ f(x)-f(a)=\frac{f(x)-f(a)}{x-a}({x-a}),\qquad x\neq a
 De este modo, si usamos la ley del producto:
 $$\begin{align}
 \lim_{ x \to a }[f(x)-f(a)]&=\lim_{ x \to a }\frac{f(x)-f(a)}{x-a}\lim_{ x \to a }({x-a}) \\
-&=f'(a)\cdot 0
+&=f'(a)\cdot 0 \\
 \end{align}$$
-Entonces,
+$$\boxed{\lim_{ x \to a }[f(x)-f(a)]=0}$$
+Para utilizar lo que acabo de demostrar, comienzo con $f(x)$ y sumo y resto $f(a)$:
+$$\begin{align}
+\lim_{ x \to a }f(x)&=\lim_{ x \to a }[f(x)-f(a)]+f(a) \\
+&=\lim_{ x \to a }[f(x)-f(a)]+\lim_{ x \to a }f(a) \\
+&=0+f(a)
+\end{align}$$
+$$\boxed{\lim_{ x \to a }f(x)=f(a)}$$
+Es decir, $f$ es continua en $a$.
 
 
 ### Teorema de Fermat
