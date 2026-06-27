@@ -46,7 +46,7 @@ Es decir, $f$ es continua en $a$.
 **Demostración:**
 $f$ presenta un máximo local en $c$ y suponemos que es derivable en $x=c$, entonces
 $$f'(c)=\lim_{ h \to 0^+ } \frac{f(c+h)-f(c)}{h}=\lim_{ h \to 0^- } \frac{f(c+h)-f(c)}{h}$$
-Pero $f(c)$ es un máximo local y es más grande que cualquier valor de la cercanía. Entonces,
+Pero $f(c)$ es un máximo local y es más grande que cualquier valor de la cercanía, es decir, $f(x)\geqslant f(x)+h$ y, por consiguiente $f(c+h)-f(c)\leqslant$. Entonces,
 $$\lim_{ h \to 0^+ } \frac{f(c+h)-f(c)\to\leqslant 0}{h\to\geqslant 0}\to\leqslant 0$$
 y,
 $$\lim_{ h \to 0^+ } \frac{f(c+h)-f(c)\to\leqslant 0}{h\to\leqslant 0}\to\geqslant 0$$
