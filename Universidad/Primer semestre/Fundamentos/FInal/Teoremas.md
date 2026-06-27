@@ -40,8 +40,8 @@ $$\begin{align}
 $$\boxed{\lim_{ x \to a }f(x)=f(a)}$$
 Es decir, $f$ es continua en $a$.
 
-
 ### Teorema de Fermat
+Enunciado
 ### Teorema de Rolle
 ### Teorema de Lagrange
 ### Teorema de Cauchy
