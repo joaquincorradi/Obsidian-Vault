@@ -19,7 +19,19 @@
 **Demostración:** 
 Queremos demostrar que $\lim_{ x \to a }f(x)=f(a)$.
 $f$ es derivable en $x=a$, entonces
-$$f'(a)=\frac{f(x)-f(a)}{x-a}$$
+$$f'(a)=\lim_{ x \to a } \frac{f(x)-f(a)}{x-a}$$
+Para relacionar lo dado con lo desconocido, divido y multiplico $f(x)-f(a)$ por $x-a$:
+$$\begin{gather}
+\frac{f(x)-f(a)}{x-a}=\frac{f(x)-f(a)}{x-a},\qquad x\neq a \\
+f(x)-f(a)=\frac{f(x)-f(a)}{x-a}({x-a}),\qquad x\neq a
+\end{gather}$$
+De este modo, si usamos la ley del producto:
+$$\begin{align}
+\lim_{ x \to a }[f(x)-f(a)]&=\lim_{ x \to a }\frac{f(x)-f(a)}{x-a}\lim_{ x \to a }({x-a}) \\
+&=f'(a)\cdot 0
+\end{align}$$
+Entonces,
+
 
 ### Teorema de Fermat
 ### Teorema de Rolle
