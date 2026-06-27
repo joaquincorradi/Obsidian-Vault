@@ -44,19 +44,18 @@ Es decir, $f$ es continua en $a$.
 **Enunciado:** Si $f$ tiene un máximo o un mínimo local en $x=c$, **y además** $f'(c)$ existe, entonces $f'(c)=0$.
 
 **Demostración:**
-$f$ presenta un máximo local en $c$ y suponemos que es derivable en $x=c$, entonces
+Suponemos $f$ definida en $(a,b)$ presenta un máximo local en $c\in(a,b)$ y suponemos que existe $f'(c)$, entonces
 $$f'(c)=\lim_{ h \to 0^+ } \frac{f(c+h)-f(c)}{h}=\lim_{ h \to 0^- } \frac{f(c+h)-f(c)}{h}$$
-Pero $f(c)$ es un máximo local y es más grande que cualquier valor de la cercanía, es decir, $f(x)\geqslant f(x)+h$ y, por consiguiente $f(c+h)-f(c)\leqslant$. Entonces,
-$$\lim_{ h \to 0^+ } \frac{f(c+h)-f(c)\to\leqslant 0}{h\to\geqslant 0}\to\leqslant 0$$
+Pero $f(c)$ es un máximo local y es más grande que cualquier valor de la cercanía, es decir, $f(x)\geqslant f(x)+h$ y, por consiguiente, $f(c+h)-f(c)\leqslant 0$. Entonces,
+$$\lim_{ h \to 0^+ } \frac{f(c+h)-f(c)}{h}\leqslant 0$$
 y,
-$$\lim_{ h \to 0^+ } \frac{f(c+h)-f(c)\to\leqslant 0}{h\to\leqslant 0}\to\geqslant 0$$
+$$\lim_{ h \to 0^+ } \frac{f(c+h)-f(c)}{h}\geqslant 0$$
 Entonces,
 $$\begin{gather}
 f'(c)\leqslant 0 \\
 f'(c)\geqslant 0
 \end{gather}$$
 Por lo tanto $f'(c)=0$, es decir, la derivada en $c$ vale cero.
-
 ### Teorema de Rolle
 ### Teorema de Lagrange
 ### Teorema de Cauchy
