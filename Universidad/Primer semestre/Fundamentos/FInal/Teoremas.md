@@ -67,8 +67,13 @@ entonces hay un número $c$ en $(a, b)$ tal que $f'(c)=0$.
 
 ![[Captura de pantalla 2026-06-27 a la(s) 7.48.18 p. m..png]]
 
-**Demostración:** hay tres casos:
-1. $f(x)=k$ [a)]: entonces $f(x)=0$, por lo que el número $c$ puede tomar cualquier número en $(a, b)$.
-2. 
-### Teorema de Lagrange
+**Demostración:** *pendiente*
+### Teorema de Lagrange (*dos hipótesis*)
+*Idea clave: una tangente interior tiene la misma pendiente que la secante del intervalo.*
+
+**Enunciado:** si $f$ es una función que satisface las siguientes dos hipótesis:
+1. $f$ es continua sobre el intervalo cerrado $[a,b]$.
+2. $f$ es derivable sobre el intervalo abierto $(a, b)$.
+entonces existe un número $x=c$ en $(a, b)$ tal que
+$$f'(c)= \frac{f(b)-f(a)}{b-a}$$
 ### Teorema de Cauchy
