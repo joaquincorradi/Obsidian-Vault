@@ -56,7 +56,7 @@ f'(c)\leqslant 0 \\
 f'(c)\geqslant 0
 \end{gather}$$
 Por lo tanto $\boxed{f'(c)=0}$, es decir, la derivada en $c$ vale cero.
-### Teorema de Rolle
+### Teorema de Rolle (*tres hipótesis*)
 *Idea clave: si empieza y termina a la misma altura, alguna tangente interior tiene que ser horizontal.*
 
 **Enunciado:** si $f$ es una función que satisface las siguientes tres hipótesis:
