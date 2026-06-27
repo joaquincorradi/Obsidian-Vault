@@ -76,4 +76,5 @@ entonces hay un número $c$ en $(a, b)$ tal que $f'(c)=0$.
 2. $f$ es derivable sobre el intervalo abierto $(a, b)$.
 entonces existe un número $x=c$ en $(a, b)$ tal que
 $$f'(c)= \frac{f(b)-f(a)}{b-a}$$
+**Demostración:**
 ### Teorema de Cauchy
