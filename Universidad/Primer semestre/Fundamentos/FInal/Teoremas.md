@@ -55,7 +55,18 @@ $$\begin{gather}
 f'(c)\leqslant 0 \\
 f'(c)\geqslant 0
 \end{gather}$$
-Por lo tanto $f'(c)=0$, es decir, la derivada en $c$ vale cero.
+Por lo tanto $\boxed{f'(c)=0}$, es decir, la derivada en $c$ vale cero.
 ### Teorema de Rolle
+*Idea clave: si empieza y termina a la misma altura, alguna tangente interior tiene que ser horizontal.*
+
+**Enunciado:** si $f$ es una función que satisface las siguientes tres hipótesis:
+1. $f$ es continua sobre el intervalo cerrado $[a,b]$.
+2. $f$ es derivable sobre el intervalo abierto $(a, b)$.
+3. $f(a)=f(b)$
+entonces hay un número $c$ en $(a, b)$ tal que $f'(c)=0$.
+
+**Demostración:** hay tres casos:
+1. $f(x)=k$: entonces $f(x)=0$, por lo que el número $c$ puede tomar cualquier número en $(a, b)$.
+2. 
 ### Teorema de Lagrange
 ### Teorema de Cauchy
