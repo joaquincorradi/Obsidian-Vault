@@ -17,6 +17,7 @@
 **Enunciado:** si $f$ es derivable en $x=a$, entonces $f$ es continua en $x=a$. 
 
 **Demostración:** 
+Queremos demostrar que $\lim_{ x \to a }f(x)=f(a)$.
 $f$ es derivable en $x=a$, entonces
 $$f'(a)=\frac{f(x)-f(a)}{x-a}$$
 
