@@ -65,8 +65,10 @@ Por lo tanto $\boxed{f'(c)=0}$, es decir, la derivada en $c$ vale cero.
 3. $f(a)=f(b)$
 entonces hay un número $c$ en $(a, b)$ tal que $f'(c)=0$.
 
+![[Captura de pantalla 2026-06-27 a la(s) 7.48.18 p. m..png]]
+
 **Demostración:** hay tres casos:
-1. $f(x)=k$: entonces $f(x)=0$, por lo que el número $c$ puede tomar cualquier número en $(a, b)$.
+1. $f(x)=k$ [a)]: entonces $f(x)=0$, por lo que el número $c$ puede tomar cualquier número en $(a, b)$.
 2. 
 ### Teorema de Lagrange
 ### Teorema de Cauchy
