@@ -47,9 +47,15 @@ Es decir, $f$ es continua en $a$.
 $f$ presenta un máximo local en $c$ y suponemos que es derivable en $x=c$, entonces
 $$f'(c)=\lim_{ h \to 0^+ } \frac{f(c+h)-f(c)}{h}=\lim_{ h \to 0^- } \frac{f(c+h)-f(c)}{h}$$
 Pero $f(c)$ es un máximo local y es más grande que cualquier valor de la cercanía. Entonces,
-$$\lim_{ h \to 0^+ } \frac{f(c+h)-f(c)}{h}=$$
+$$\lim_{ h \to 0^+ } \frac{f(c+h)-f(c)\to\leqslant 0}{h\to\geqslant 0}\to\leqslant 0$$
 y,
-$$\lim_{ h \to 0^+ } \frac{f(c+h)-f(c)}{h}\leqslant 0$$
+$$\lim_{ h \to 0^+ } \frac{f(c+h)-f(c)\to\leqslant 0}{h\to\leqslant 0}\to\geqslant 0$$
+Entonces,
+$$\begin{gather}
+f'(c)\leqslant 0 \\
+f'(c)\geqslant 0
+\end{gather}$$
+Por lo tanto $f'(c)=0$, es decir, la derivada en $c$ vale cero.
 
 ### Teorema de Rolle
 ### Teorema de Lagrange
