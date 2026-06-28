@@ -91,4 +91,11 @@ h(a)=f(a)-\left[ f(a)+\cancelto{0}{\frac{f(b)-f(a)}{b-a}(a-a)} \right]=0 \\
 h(b)=f(b)-\left[ f(a)+\frac{f(b)-f(a)}{\cancel{b-a}}(\cancel{b-a}) \right]=0
 \end{gather}$$
 por lo tanto, $h(a)=h(b)$.
+Dado que $h$ satisface las tres hipótesis del teorema de Rolle entonces existe un número $x=c$ en $(a, b)$ tal que $h'(c)=0$, entonces se tiene:
+$$
+\begin{gather}
+h'(x)=f(x)-\frac{f(b)-f(a)}{b-a} \\
+
+\end{gather}
+$$
 ### Teorema de Cauchy
