@@ -13,6 +13,7 @@
 # Derivada:
 ### Regla de la cadena
 
+
 ### Teorema "derivabilidad implica continuidad”
 **Enunciado:** si $f$ es derivable en $x=a$, entonces $f$ es continua en $x=a$. 
 
@@ -133,6 +134,15 @@ por lo tanto, $h(a)=h(b)$.
 Dado que $h$ satisface las tres hipótesis del teorema de Rolle entonces existe un número $x=c$ en $(a, b)$ tal que $h'(c)=0$, entonces se tiene:
 $$
 \begin{gather}
-h'(x)=[g(b)-g(a)] \cdot f'(x) - [f(b)-f(a)] \cdot [g(x)-g(a)]
+h'(x)=[g(b)-g(a)] \cdot f'(x) - [f(b)-f(a)] \cdot g'(x) \\
+h'(c)=[g(b)-g(a)] \cdot f'(c) - [f(b)-f(a)] \cdot g'(c)=0
 \end{gather}
 $$
+Así que
+$$
+\begin{gather}
+[g(b)-g(a)] \cdot f'(c) = [f(b)-f(a)] \cdot g'(c) \\
+\boxed{\frac{f'(c)}{g'(b)}=\frac{f(b)-f(a)}{g(b)-g(a)}}
+\end{gather}
+$$
+Q.E.D.
