@@ -79,4 +79,6 @@ entonces hay un número $c$ en $(a, b)$ tal que $f'(c)=0$.
 entonces existe un número $x=c$ en $(a, b)$ tal que
 $$f'(c)= \frac{f(b)-f(a)}{b-a}$$
 **Demostración:**
+Sea $h$ definida como la diferencia entre $f$ y la función cuya gráfica es la recta secante AB:
+$$h(x)=f(x)-\left[ f(a)+\frac{f(a)-f(b)}{a-b} \right]$$
 ### Teorema de Cauchy
