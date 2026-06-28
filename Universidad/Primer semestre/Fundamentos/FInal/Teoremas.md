@@ -1,3 +1,19 @@
+# Límite:
+### Teorema de la compresión
+*Idea clave: si una función está “apretada” entre otras dos que van al mismo límite, entonces la función del medio también va a ese mismo límite.*
+
+**Enunciado:** si $f(x)\leqslant g(x)\leqslant h(x)$ cuando $x$ tiende a $a$ (excepto posiblemente en $a$) y
+$$\lim_{ x \to a } f(x)=\lim_{ h \to a } h(x)=L$$
+entonces
+$$\lim_{ x \to a } g(x)=L$$
+
+![[Captura de pantalla 2026-06-28 a la(s) 7.24.26 p. m..png|346]]
+
+**Demostración:**
+
+
+---
+
 # Continuidad:
 ### Teorema del valor intermedio (TVI)
 *Idea clave: una función continua no salta valores.*
@@ -7,12 +23,6 @@
 *Idea clave: caso particular de TVI*
 
 **Enunciado:** Si $f$ es continua en $[a,b]$ y $f(a)<0<f(b)$ entonces existe al menos un $c\in[a,b]$ tal que $f(c)=0$. 
-
----
-
-# Límite:
-### Teorema de la compresión
-Idea clave: 
 
 ---
 
