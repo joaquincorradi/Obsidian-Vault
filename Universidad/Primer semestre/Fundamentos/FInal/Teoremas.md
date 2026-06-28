@@ -107,9 +107,9 @@ $$\boxed{f'(c)=\frac{f(b)-f(a)}{b-a}}$$
 ### Teorema de Cauchy (*tres hipótesis*)
 *Idea clave: es una generalización de Lagrange.*
 
-**Enunciado:** si $f$ es una función que satisface las siguientes tres hipótesis:
-1. $f$ es continua sobre el intervalo cerrado $[a,b]$.
-2. $f$ es derivable sobre el intervalo abierto $(a, b)$.
+**Enunciado:** si $f$ y $g$ son funciones que satisface las siguientes tres hipótesis:
+1. $f$ y $g$ son continuas sobre el intervalo cerrado $[a,b]$.
+2. $f$ y $g$ son derivables sobre el intervalo abierto $(a, b)$.
 3. $g'(x)\neq 0$ en $(a,b)$.
 entonces hay un número $x=c$ en $(a, b)$ tal que
 $$\frac{f'(c)}{g'(b)}=\frac{f(b)-f(a)}{g(b)-g(a)}$$
@@ -118,3 +118,13 @@ $$\frac{f'(c)}{g'(b)}=\frac{f(b)-f(a)}{g(b)-g(a)}$$
 Sea $h$
 $$h(x)=[g(b)-g(a)] \cdot [f(x)-f(a)] - [f(b)-f(a)] \cdot [g(x)-g(a)]$$
 
+Primero, debemos verificar que h satisface las tres hipótesis del teorema de Rolle. 
+1. La función $h$ **es continua** sobre $[a,b]$ porque es la suma de dos funciones continuas multiplicadas por una constante.
+2. La función $h$ **es derivable** sobre $(a, b)$ porque es la suma de dos funciones diferenciables multiplicadas por una constante.
+3. Y
+$$
+\begin{gather}
+h(a)=\cancelto{0}{[g(b)-g(a)] \cdot [f(a)-f(a)]} - \cancelto{0}{[f(b)-f(a)] \cdot [g(a)-g(a)]}=0 \\
+h(a)=\cancelto{0}{[g(b)-g(a)] \cdot [f(a)-f(a)]} - \cancelto{0}{[f(b)-f(a)] \cdot [g(a)-g(a)]}=0
+\end{gather}
+$$
