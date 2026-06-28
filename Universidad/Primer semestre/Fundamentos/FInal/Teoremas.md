@@ -79,6 +79,8 @@ entonces hay un número $c$ en $(a, b)$ tal que $f'(c)=0$.
 entonces existe un número $x=c$ en $(a, b)$ tal que
 $$f'(c)= \frac{f(b)-f(a)}{b-a}$$
 
+![[Captura de pantalla 2026-06-28 a la(s) 5.57.48 p. m..png|552]]
+
 **Demostración:**
 Sea $h$ definida como la diferencia entre $f$ y la función cuya gráfica es la recta secante AB:
 $$h(x)=f(x)-\left[ f(a)+\frac{f(b)-f(a)}{b-a}(x-a) \right]$$
@@ -94,8 +96,12 @@ por lo tanto, $h(a)=h(b)$.
 Dado que $h$ satisface las tres hipótesis del teorema de Rolle entonces existe un número $x=c$ en $(a, b)$ tal que $h'(c)=0$, entonces se tiene:
 $$
 \begin{gather}
-h'(x)=f(x)-\frac{f(b)-f(a)}{b-a} \\
-
+h'(x)=f'(x)-\frac{f(b)-f(a)}{b-a} \\
+h'(c)=f'(c)-\frac{f(b)-f(a)}{b-a}=0
 \end{gather}
 $$
+Así que
+$$\boxed{f'(c)=\frac{f(b)-f(a)}{b-a}}$$
+
+![[Captura de pantalla 2026-06-28 a la(s) 5.55.48 p. m..png|286]]
 ### Teorema de Cauchy
