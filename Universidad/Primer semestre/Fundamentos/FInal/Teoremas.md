@@ -38,7 +38,7 @@ $$\begin{align}
 &=0+f(a)
 \end{align}$$
 $$\boxed{\lim_{ x \to a }f(x)=f(a)}$$
-Es decir, $f$ es continua en $a$.
+Es decir, $f$ es continua en $a$. Q.E.D.
 
 ### Teorema de Fermat
 **Enunciado:** Si $f$ tiene un máximo o un mínimo local en $x=c$, **y además** $f'(c)$ existe, entonces $f'(c)=0$.
@@ -57,7 +57,7 @@ $$\begin{gather}
 f'(c)\leqslant 0 \\
 f'(c)\geqslant 0
 \end{gather}$$
-Por lo tanto $\boxed{f'(c)=0}$, es decir, la derivada en $c$ vale cero.
+Por lo tanto $\boxed{f'(c)=0}$, es decir, la derivada en $c$ vale cero. Q.E.D.
 ### Teorema de Rolle (*a la misma altura / tres hipótesis*)
 *Idea clave: si empieza y termina a la misma altura, alguna tangente interior tiene que ser horizontal.*
 
@@ -102,6 +102,7 @@ h'(c)=f'(c)-\frac{f(b)-f(a)}{b-a}=0
 $$
 Así que
 $$\boxed{f'(c)=\frac{f(b)-f(a)}{b-a}}$$
+Q.E.D.
 
 ![[Captura de pantalla 2026-06-28 a la(s) 5.55.48 p. m..png|286]]
 ### Teorema de Cauchy (*tres hipótesis*)
@@ -125,6 +126,13 @@ Primero, debemos verificar que h satisface las tres hipótesis del teorema de Ro
 $$
 \begin{gather}
 h(a)=\cancelto{0}{[g(b)-g(a)] \cdot [f(a)-f(a)]} - \cancelto{0}{[f(b)-f(a)] \cdot [g(a)-g(a)]}=0 \\
-h(a)=\cancelto{0}{[g(b)-g(a)] \cdot [f(a)-f(a)]} - \cancelto{0}{[f(b)-f(a)] \cdot [g(a)-g(a)]}=0
+h(b)=\cancel{[g(b)-g(a)] \cdot [f(b)-f(a)]} \cancel{- [f(b)-f(a)] \cdot [g(b)-g(a)]}=0
+\end{gather}
+$$
+por lo tanto, $h(a)=h(b)$.
+Dado que $h$ satisface las tres hipótesis del teorema de Rolle entonces existe un número $x=c$ en $(a, b)$ tal que $h'(c)=0$, entonces se tiene:
+$$
+\begin{gather}
+h'(x)=[g(b)-g(a)] \cdot f'(x) - [f(b)-f(a)] \cdot [g(x)-g(a)]
 \end{gather}
 $$
