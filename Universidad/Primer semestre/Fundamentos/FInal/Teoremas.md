@@ -78,7 +78,17 @@ entonces hay un número $c$ en $(a, b)$ tal que $f'(c)=0$.
 2. $f$ es derivable sobre el intervalo abierto $(a, b)$.
 entonces existe un número $x=c$ en $(a, b)$ tal que
 $$f'(c)= \frac{f(b)-f(a)}{b-a}$$
+
 **Demostración:**
 Sea $h$ definida como la diferencia entre $f$ y la función cuya gráfica es la recta secante AB:
-$$h(x)=f(x)-\left[ f(a)+\frac{f(a)-f(b)}{a-b} \right]$$
+$$h(x)=f(x)-\left[ f(a)+\frac{f(b)-f(a)}{b-a}(x-a) \right]$$
+Primero, debemos verificar que h satisface las tres hipótesis del teorema de Rolle. 
+1. La función $h$ **es continua** sobre $[a,b]$ porque es la suma de $f$ y una función polinomial de primer grado, ambas continuas.
+2. La función $h$ **es derivable** sobre $(a, b)$ porque $f$ y la función polinomial de primer grado son derivables.
+3. Y
+$$\begin{gather}
+h(a)=f(a)-\left[ f(a)+\cancelto{0}{\frac{f(b)-f(a)}{b-a}(a-a)} \right]=0 \\
+h(b)=f(b)-\left[ f(a)+\frac{f(b)-f(a)}{\cancel{b-a}}(\cancel{b-a}) \right]=0
+\end{gather}$$
+por lo tanto, $h(a)=h(b)$.
 ### Teorema de Cauchy
