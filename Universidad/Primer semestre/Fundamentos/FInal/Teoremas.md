@@ -105,11 +105,15 @@ $$\boxed{f'(c)=\frac{f(b)-f(a)}{b-a}}$$
 
 ![[Captura de pantalla 2026-06-28 a la(s) 5.55.48 p. m..png|286]]
 ### Teorema de Cauchy (*tres hipótesis*)
+*Idea clave: es una generalización de Lagrange.*
+
 **Enunciado:** si $f$ es una función que satisface las siguientes tres hipótesis:
 1. $f$ es continua sobre el intervalo cerrado $[a,b]$.
 2. $f$ es derivable sobre el intervalo abierto $(a, b)$.
 3. $g'(x)\neq 0$ en $(a,b)$.
 entonces hay un número $x=c$ en $(a, b)$ tal que
 $$\frac{f'(c)}{g'(b)}=\frac{f(b)-f(a)}{g(b)-g(a)}$$
+
+**Demostración:**
 
 
