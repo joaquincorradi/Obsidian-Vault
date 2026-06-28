@@ -115,5 +115,6 @@ entonces hay un número $x=c$ en $(a, b)$ tal que
 $$\frac{f'(c)}{g'(b)}=\frac{f(b)-f(a)}{g(b)-g(a)}$$
 
 **Demostración:**
-
+Sea $h$
+$$h(x)=[g(b)-g(a)] \cdot [f(x)-f(a)] - [f(b)-f(a)] \cdot [g(x)-g(a)]$$
 
