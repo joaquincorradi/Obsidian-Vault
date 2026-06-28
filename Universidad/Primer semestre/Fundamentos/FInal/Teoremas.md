@@ -65,7 +65,7 @@ Por lo tanto $\boxed{f'(c)=0}$, es decir, la derivada en $c$ vale cero.
 1. $f$ es continua sobre el intervalo cerrado $[a,b]$.
 2. $f$ es derivable sobre el intervalo abierto $(a, b)$.
 3. $f(a)=f(b)$
-entonces hay un número $c$ en $(a, b)$ tal que $f'(c)=0$.
+entonces hay un número $x=c$ en $(a, b)$ tal que $f'(c)=0$.
 
 ![[Captura de pantalla 2026-06-27 a la(s) 7.48.18 p. m..png]]
 
@@ -104,4 +104,12 @@ Así que
 $$\boxed{f'(c)=\frac{f(b)-f(a)}{b-a}}$$
 
 ![[Captura de pantalla 2026-06-28 a la(s) 5.55.48 p. m..png|286]]
-### Teorema de Cauchy
+### Teorema de Cauchy (*tres hipótesis*)
+**Enunciado:** si $f$ es una función que satisface las siguientes tres hipótesis:
+1. $f$ es continua sobre el intervalo cerrado $[a,b]$.
+2. $f$ es derivable sobre el intervalo abierto $(a, b)$.
+3. $g'(x)\neq 0$ en $(a,b)$.
+entonces hay un número $x=c$ en $(a, b)$ tal que
+$$\frac{f'(c)}{g'(b)}=\frac{f(b)-f(a)}{g(b)-g(a)}$$
+
+
