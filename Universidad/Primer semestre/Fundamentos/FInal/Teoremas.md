@@ -43,6 +43,8 @@ Es decir, $f$ es continua en $a$.
 ### Teorema de Fermat
 **Enunciado:** Si $f$ tiene un máximo o un mínimo local en $x=c$, **y además** $f'(c)$ existe, entonces $f'(c)=0$.
 
+![[Captura de pantalla 2026-06-27 a la(s) 9.00.22 p. m..png|348]]
+
 **Demostración:**
 Suponemos $f$ definida en $(a,b)$ presenta un máximo local en $c\in(a,b)$ y suponemos que existe $f'(c)$, entonces
 $$f'(c)=\lim_{ h \to 0^+ } \frac{f(c+h)-f(c)}{h}=\lim_{ h \to 0^- } \frac{f(c+h)-f(c)}{h}$$
@@ -56,7 +58,7 @@ f'(c)\leqslant 0 \\
 f'(c)\geqslant 0
 \end{gather}$$
 Por lo tanto $\boxed{f'(c)=0}$, es decir, la derivada en $c$ vale cero.
-### Teorema de Rolle (*tres hipótesis*)
+### Teorema de Rolle (*a la misma altura / tres hipótesis*)
 *Idea clave: si empieza y termina a la misma altura, alguna tangente interior tiene que ser horizontal.*
 
 **Enunciado:** si $f$ es una función que satisface las siguientes tres hipótesis:
