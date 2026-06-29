@@ -33,4 +33,4 @@ si para todo número $\varepsilon>0$ existe un $\delta > 0$ tal que, si
 $$0<|x-a|<\delta$$
 entonces
 $$|f(x)-L|<\varepsilon$$
-
+![[Pasted image 20260629195401.png|393]]
