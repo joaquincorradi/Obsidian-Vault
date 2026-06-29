@@ -17,6 +17,14 @@
 ![[Captura de pantalla 2026-06-29 a la(s) 6.42.47 p. m..png|400]]
 
 #### Inyectividad
+Una función se dice inyectiva si nunca toma el mismo valor dos veces:
+$$f(x_{1})=f(x_{2})\implies x_{1}=x_{2}$$
+
+#### Sobreyectividad
+Una función sobreyectiva es una función cuya imagen es igual a su codominio.
+
+#### Biyectividad
+Una función es biyectiva si es a la vez inyectiva y sobreyectiva.
 
 ---
 ### Derivada
