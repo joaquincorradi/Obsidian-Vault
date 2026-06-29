@@ -27,4 +27,10 @@ Una función sobreyectiva es una función cuya imagen es igual a su codominio.
 Una función es biyectiva si es a la vez inyectiva y sobreyectiva.
 
 ---
-### Derivada
+### Límite
+$$\lim_{ x \to c } f(x)=L$$
+si para todo número $\varepsilon>0$ existe un $\delta > 0$ tal que, si
+$$0<|x-a|<\delta$$
+entonces
+$$|f(x)-L|<\varepsilon$$
+
