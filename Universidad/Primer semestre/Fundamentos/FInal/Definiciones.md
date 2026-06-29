@@ -28,6 +28,11 @@ Una función es biyectiva si es a la vez inyectiva y sobreyectiva.
 
 ---
 ### Límite
+#### Entorno reducido
+Es el conjunto de puntos del intervalo abierto $(a-\delta,a+\delta)$ del cual se **excluye** el punto $a$.
+
+#### Punto de acumul
+
 $$\lim_{ x \to c } f(x)=L$$
 si para todo número $\varepsilon>0$ existe un $\delta > 0$ tal que, si
 $$0<|x-a|<\delta$$
