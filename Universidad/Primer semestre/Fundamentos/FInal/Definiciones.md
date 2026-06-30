@@ -134,4 +134,10 @@ Existen dos criterios para determinar la existencia de extremos relativos:
 	- Si $f'$cambia de positiva a negativa en $c$, entonces $f$ tiene un máximo local en $c$.
 	- Si $f'$cambia de negativa a positiva en $c$, entonces $f$ tiene un mínimo local en $c$.
 	- Si $f'$ no cambia de signo en $c$, entonces $f$ no tiene ningún máximo o mínimo local en $c$.
-2. Criterio de la derivada segunda: 
+2. Criterio de la derivada segunda: supongamos que $f''$ es continua cerca de $x =c$
+	- Si $f'(c)=0$ y $f''(c)>0$, entonces $f$ tiene un mínimo local en $x=c$.
+	- Si $f'(c)=0$ y $f''(c)<0$, entonces $f$ tiene un máximo local en $x=c$
+	- Si $f'(c)=0$ y $f''(c)=0$, la prueba falla.
+#### Punto de inflexión
+Un punto $P$ sobre una curva se llama punto de inflexión si $f$ es allí continua y la curva cambia de cóncava hacia arriba a cóncava hacia abajo o de cóncava hacia abajo a cóncava hacia arriba en $P$.
+#### Concavidad
