@@ -133,4 +133,5 @@ Existen dos criterios para determinar la existencia de extremos relativos:
 1. Criterio de la derivada primera: supongamos que $x=c$ es un número crítico de una función continua $f$.
 	- Si $f'$cambia de positiva a negativa en $c$, entonces $f$ tiene un máximo local en $c$.
 	- Si $f'$cambia de negativa a positiva en $c$, entonces $f$ tiene un mínimo local en $c$.
-	- 
+	- Si $f'$ no cambia de signo en $c$, entonces $f$ no tiene ningún máximo o mínimo local en $c$.
+2. Criterio de la derivada segunda: 
