@@ -104,4 +104,9 @@ $$
 ### Derivada
 #### Recta tangente
 La tangente a una curva en un punto $P(a,f(a))$ es una recta que toca a la curva solo en dicho punto con pendiente
-$$m=\lim_{ x \to a } \frac{f(x)}{}$$
+$$m=\lim_{ x \to a } \frac{f(x)-f(a)}{x-a}$$
+Si $h=x-a$, en este caso $x=a+h$. Y si $x\to a$, $h\to a-a$, es decir, $h\to 0$, entonces
+$$m=\lim_{ h \to 0 } \frac{f(a+h)-f(a)}{h}$$
+#### Derivada
+La derivada de una función $f$ en un número $x=a$, denotada por $f '(a)$, es
+$$f'(a)=\lim_{ h \to 0 } \frac{f(a+h)-f(a)}{h}$$
