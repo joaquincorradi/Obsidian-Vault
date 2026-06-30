@@ -124,3 +124,7 @@ El número $f(c)$ es un
 - valor **mínimo local** de $f$ si $f(c)\leqslant f(x)$ cuando $x$ está cerca de $c$.
 
 ![[Extrema_example_es.svg|361]]
+
+#### Punto crítico
+Un número crítico de una función $f$ es un número $x=c$ en el dominio de $f$ tal que $f'(c)=0$ o $f'(c)$ no existe.
+Suele ser un lugar donde la función puede tener un máximo, un mínimo o un cambio de comportamiento, **es una condición necesaria para la existencia de extremos relativos, aunque no suficiente**.
