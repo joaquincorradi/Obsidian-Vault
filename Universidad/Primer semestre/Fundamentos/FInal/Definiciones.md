@@ -41,3 +41,8 @@ $$0<|x-a|<\delta$$
 entonces
 $$|f(x)-L|<\varepsilon$$
 ![[Pasted image 20260629195401.png|393]]
+La condición $0<|x-a|<\delta$ (notación de entorno reducido de centro en $a$ y radio $\delta$) significa que $x$ está a distancia menor que $\delta$ de $a$, pero distinto de $a$ ($x$ se acerca a $a$, pero no lo toca).
+$a$ **debe ser un punto de acumulación**, si no lo fuera, no habría puntos del dominio arbitrariamente cerca de $a$, y entonces no podrías "acercarte" a $a$.
+
+#### Indeterminación
+Se entiende por **indeterminación de un límite** una forma algebraica que, por sí sola, **no permite saber cuál es el valor del límite**. No quiere decir automáticamente que el límite no exista; quiere decir que hay que **transformar la expresión** para poder decidirlo.
