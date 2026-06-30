@@ -41,6 +41,21 @@ $$|f(x)-L|<\varepsilon$$
 - $a$ **debe ser un punto de acumulación**, si no lo fuera, no habría puntos del dominio arbitrariamente cerca de $a$, y entonces no podrías "acercarte" a $a$.
 #### Indeterminación
 Se entiende por **indeterminación de un límite** una forma algebraica que, por sí sola, **no permite saber cuál es el valor del límite**. No quiere decir automáticamente que el límite no exista; quiere decir que hay que **transformar la expresión** para poder decidirlo.
+#### Límites notables
+**Trigonométricos:**
+$$
+\begin{gather}
+\lim_{ x \to 0 } \frac{\sin(x)}{x}=1 \\
+\lim_{ x \to 0 } \frac{\tan(x)}{x}=1
+\end{gather}
+$$
+
+**Exponenciales:**
+$$
+\begin{gather}
+
+\end{gather}
+$$
 ### Continuidad
 #### Definición
 Una función $f$ es continua en un punto $a$ perteneciente a su dominio si y sólo si:
