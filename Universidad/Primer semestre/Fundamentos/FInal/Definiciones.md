@@ -141,3 +141,10 @@ Existen dos criterios para determinar la existencia de extremos relativos:
 #### Punto de inflexión
 Un punto $P$ sobre una curva se llama punto de inflexión si $f$ es allí continua y la curva cambia de cóncava hacia arriba a cóncava hacia abajo o de cóncava hacia abajo a cóncava hacia arriba en $P$.
 #### Concavidad
+Una función es cóncava hacia arriba en un intervalo si las rectas tangentes quedan por debajo de la gráfica, y cóncava hacia abajo si las rectas tangentes quedan por encima de la gráfica.
+
+![[Captura de pantalla 2026-06-30 a la(s) 8.36.24 p. m..png|598]]
+
+#### Prueba de concavidad
+- Si $f''(x)>0$ para toda $x$ en  el intervalo $I$, entonces la gráfica de $f$ es cóncava hacia arriba sobre $I$. 
+- Si $f''(x)<0$ para toda $x$ en  el intervalo $I$, entonces la gráfica de $f$ es cóncava hacia abajo sobre $I$. 
