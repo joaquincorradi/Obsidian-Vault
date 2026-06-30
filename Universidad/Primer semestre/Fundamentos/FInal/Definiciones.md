@@ -32,6 +32,7 @@ Una función es biyectiva si es a la vez inyectiva y sobreyectiva.
 Es el conjunto de puntos del intervalo abierto $(a-\delta,a+\delta)$ del cual se **excluye** el punto $a$ (el centro).
 
 #### Punto de acumulación
+Si $S$ es un conjunto de puntos de la recta real, un punto $a$ es de acumulación si y sólo si a todo entorno reducido de centro $a$ pertenece por lo menos un elemento de $S$ (el entorno reducido debe tener un elemento que sea de $S$).
 
 
 $$\lim_{ x \to c } f(x)=L$$
