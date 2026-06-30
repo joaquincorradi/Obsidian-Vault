@@ -116,9 +116,11 @@ $$f'(a)=\lim_{ h \to 0 } \frac{f(a+h)-f(a)}{h}$$
 ### Aplicaciones de la derivada
 #### Máximo/mínimo global
 Sea $c$ un número en el dominio $D$ de una función $f$. Entonces $f(c)$ es el 
-- valor máximo global de $f$ sobre $D$ si $f(c)\geqslant f(x)$ para toda $x$ en $D$. 
-- valor mínimo absoluto de f sobre D si f (c) v f (x) para toda x en D.
+- valor **máximo global** de $f$ sobre $D$ si $f(c)\geqslant f(x)$ para toda $x$ en $D$. 
+- valor **mínimo global** de $f$ sobre $D$ si $f(c)\leqslant f(x)$ para toda $x$ en $D$.
 #### Máximo/mínimo local
-
+El número $f(c)$ es un 
+- valor **máximo local** de $f$ si $f(c)\geqslant f(x)$ cuando $x$ está cerca de $c$. 
+- valor **mínimo local** de $f$ si $f(c)\leqslant f(x)$ cuando $x$ está cerca de $c$.
 
 ![[Extrema_example_es.svg|361]]
