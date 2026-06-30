@@ -128,3 +128,9 @@ El número $f(c)$ es un
 #### Punto crítico
 Un número crítico de una función $f$ es un número $x=c$ en el dominio de $f$ tal que $f'(c)=0$ o $f'(c)$ no existe.
 Suele ser un lugar donde la función puede tener un máximo, un mínimo o un cambio de comportamiento, **es una condición necesaria para la existencia de extremos relativos, aunque no suficiente**.
+#### Condición suficiente para la existencia de extremos relativos
+Existen dos criterios para determinar la existencia de extremos relativos:
+1. Criterio de la derivada primera: supongamos que $x=c$ es un número crítico de una función continua $f$.
+	- Si $f'$cambia de positiva a negativa en $c$, entonces $f$ tiene un máximo local en $c$.
+	- Si $f'$cambia de negativa a positiva en $c$, entonces $f$ tiene un mínimo local en $c$.
+	- 
