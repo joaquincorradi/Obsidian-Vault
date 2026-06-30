@@ -53,9 +53,13 @@ $$
 **Exponenciales:**
 $$
 \begin{gather}
-
+\lim_{ x \to \infty } \left( 1+\frac{1}{x} \right)^x=e \\
+\lim_{ x \to 0 } (1+x)^{\frac{1}{x}}=e
 \end{gather}
 $$
+
+---
+
 ### Continuidad
 #### Definición
 Una función $f$ es continua en un punto $a$ perteneciente a su dominio si y sólo si:
@@ -94,3 +98,10 @@ $$
       \end{array}
    \right .
 $$
+
+---
+
+### Derivada
+#### Recta tangente
+La tangente a una curva en un punto $P(a,f(a))$ es una recta que toca a la curva solo en dicho punto con pendiente
+$$m=\lim_{ x \to a } \frac{f(x)}{}$$
