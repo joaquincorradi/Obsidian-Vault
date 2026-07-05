@@ -9,8 +9,6 @@ $$\lim_{ x \to a } g(x)=L$$
 
 ![[Captura de pantalla 2026-06-28 a la(s) 7.24.26 p. m..png|346]]
 
-**Demostración:**
-
 
 ---
 
@@ -83,7 +81,6 @@ entonces hay un número $x=c$ en $(a, b)$ tal que $f'(c)=0$.
 
 ![[Captura de pantalla 2026-06-27 a la(s) 7.48.18 p. m..png]]
 
-**Demostración:** *pendiente*
 ### Teorema de Lagrange (*dos hipótesis*)
 *Idea clave: una tangente interior tiene la misma pendiente que la secante del intervalo.*
 

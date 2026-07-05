@@ -111,6 +111,8 @@ $$m=\lim_{ h \to 0 } \frac{f(a+h)-f(a)}{h}$$
 La derivada de una función $f$ en un número $x=a$, denotada por $f '(a)$, es
 $$f'(a)=\lim_{ h \to 0 } \frac{f(a+h)-f(a)}{h}$$
 
+![[Pasted image 20260630205319.png|418]]
+
 ---
 
 ### Aplicaciones de la derivada
