@@ -46,11 +46,7 @@ Q.E.D.
 ## Teorema del coseno
 **Enunciado:** dado un triángulo $ABC$ cualquiera, siendo $\alpha$, $\beta$, $\gamma$ los ángulos, y $a$, $b$, $c$ los lados respectivamente opuestos a estos ángulos entonces:
 $$
-\begin{align}
-a^2 &= b^2 + c^2 - 2bc\cos(\alpha) \\
-b^2 &= a^2 + c^2 - 2ac\cos(\beta) \\
-c^2 &= a^2 + b^2 - 2ab\cos(\gamma)
-\end{align}
+c^2 = a^2 + b^2 - 2ab\cos(\gamma)
 $$
 
 ![[svgviewer-png-output.png|305]]
@@ -100,9 +96,19 @@ El teorema de Pitágoras establece nuevamente
 $$c^2=h^2+u^2\to h^2=c^2-u^2\tag{1}$$
 Pero en este caso
 $$
-\begin{in}
-
-\end{in}
+\begin{align}
+a^2&=h^2+(b+u)^2 \\
+a^2-(b+u)^2&=h^2\tag{2}
+\end{align}
+$$
+E igualando $(1)$ y $(2)$:
+$$$$
+Por otro lado, por definición de coseno, se tiene:
+$$
+\begin{align}
+\cos(\gamma)&=\frac{a+u}{b} \\
+b\cos(\gamma)&=a+u
+\end{align}
 $$
 
 ---
