@@ -4,7 +4,7 @@ $$\frac{a}{\sin(\alpha)} =\frac{b}{\sin(\beta)} =\frac{c}{\sin(\gamma)}$$
 ![[Ley_de_los_senos.svg|292]]
 
 
-**Demostración:** ddd
+**Demostración:** primero trazo una altura que llamare $h_1$ 
  
 ---
 ## Teorema del coseno
