@@ -5,7 +5,7 @@ $$\frac{a}{\sin(\alpha)} =\frac{b}{\sin(\beta)} =\frac{c}{\sin(\gamma)}$$
 
 
 **Demostración:** dado un triangulo $ABC$ con lados $a$, $b$, $c$ y ángulos internos opuestos $\alpha$, $\beta$, $\gamma$, trazo dos alturas: $h_{b}$ desde el vértice $B$ hasta el lado opuesto $b$ y $h_{c}$ desde el vértice $C$ hasta el lado opuesto $c$. De esta forma divido al triángulo principal en dos triángulos rectángulos más pequeños.
-	1. Análisis con la altura $h_{b}$
+	1. Análisis con la altura $h_{b}$: obtengo dos triángulos,
  
 ---
 ## Teorema del coseno
