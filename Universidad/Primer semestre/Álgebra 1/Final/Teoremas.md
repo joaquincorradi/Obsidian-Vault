@@ -1,5 +1,5 @@
 ## Teorema del seno
-**Enunciado:** si en un triángulo $ABC$, con respectivos ángulos internos $\alpha$, $\beta$, $\gamma$, cuyas medidas de los lados opuestos son $a$, $b$, $c$, entonces:
+**Enunciado:** dado un triángulo $ABC$ cualquiera, siendo $\alpha$, $\beta$, $\gamma$ los ángulos, y $a$, $b$, $c$ los lados respectivamente opuestos a estos ángulos entonces:
 $$\frac{a}{\sin(\alpha)} =\frac{b}{\sin(\beta)} =\frac{c}{\sin(\gamma)}$$
 ![[Ley_de_los_senos.svg|292]]
 
@@ -44,7 +44,14 @@ Q.E.D.
 
 ---
 ## Teorema del coseno
-
+**Enunciado:** dado un triángulo $ABC$ cualquiera, siendo $\alpha$, $\beta$, $\gamma$ los ángulos, y $a$, $b$, $c$ los lados respectivamente opuestos a estos ángulos entonces:
+$$
+\begin{gather}
+a^2 = b^2 + c^2 - 2bc\cos(\alpha) \\
+b^2 = a^2 + c^2 - 2ac\cos(\beta) \\
+c^2 = a^2 + b^2 - 2ab\cos(\gamma)
+\end{gather}
+$$
 
 ---
 
