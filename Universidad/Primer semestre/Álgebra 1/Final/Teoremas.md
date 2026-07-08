@@ -66,16 +66,18 @@ $$
 \begin{align}
 c^2-u^2&=b^2+(a-u)^2 \\
 c^2\cancel{-u^2}&=b^2+a^2-2au\cancel{+u^2} \\
-c^2&=a^2+b^2-2au
 \end{align}
 $$
 Por otro lado, por definición de seno, se tiene:
 $$
 \begin{align}
-\cos(\gamma)=\frac{a-u}{b}\to u&=(\cos(\gamma)\cdot b)-a \\
-&=
+\cos(\gamma)&=\frac{a-u}{b} \\
+b\cos(\gamma)&=a-u \\
+-a+b\cos(\gamma)&=-u \\
+u&=a-b\cos(\gamma)
 \end{align}
 $$
+
 
 
 ---
