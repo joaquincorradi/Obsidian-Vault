@@ -53,10 +53,15 @@ c^2 &= a^2 + b^2 - 2ab\cos(\gamma)
 \end{align}
 $$
 
-![[svgviewer-png-output.png|318]]
+![[svgviewer-png-output.png|305]]
 
 **Demostración:** dado un triangulo $ABC$ con lados $a$, $b$, $c$ y ángulos internos opuestos $\alpha$, $\beta$, $\gamma$.
 - Caso 1: triangulo actuángulo
+Por el teorema de Pitágoras, la longitud $c$ es calculada así:
+$$c^2=h^2+u^2\to h^2=c^2-u^2$$
+Pero, la longitud $h$ también se calcula así:
+$$h^2=b^2+(a-u)^2$$
+
 
 
 ---
