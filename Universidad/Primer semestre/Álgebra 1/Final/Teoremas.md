@@ -15,7 +15,7 @@ $$
 \sin(\gamma)=\frac{h_{b}}{a}\to \sin(\gamma)\cdot a=h_{b}
 \end{gather}
 $$
-Entonces
+Entonces,
 $$
 \begin{gather}
 \sin(\alpha)\cdot c=\sin(\gamma)\cdot a \\
@@ -29,15 +29,24 @@ $$
 \sin(\alpha)=\frac{h_{c}}{b}\to \sin(\alpha)\cdot b=h_{c}
 \end{gather}
 $$
-Entonces
+Entonces,
 $$
 \begin{gather}
-\sin(\bet)\cdot c=\sin(\gamma)\cdot a \\
-\boxed{\frac{a}{\sin(\alpha)}=\frac{c}{\sin(\gamma)}}
+\sin(\beta)\cdot a=\sin(\alpha)\cdot b \\
+\boxed{\frac{a}{\sin(\alpha)}=\frac{b}{\sin(\beta)}}
 \end{gather}
 $$
+Es decir,
+$$
+\boxed{\frac{a}{\sin(\alpha)} =\frac{b}{\sin(\beta)} =\frac{c}{\sin(\gamma)}}
+$$
+Q.E.D.
 
 ---
 ## Teorema del coseno
+
+
+---
+
 ## Teorema de Rouché–Frobenius
 ## Unicidad de la inversa de una matriz
