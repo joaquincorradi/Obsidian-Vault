@@ -60,15 +60,21 @@ $$
 Por el teorema de Pitágoras, la longitud $c$ es calculada así:
 $$c^2=h^2+u^2\to h^2=c^2-u^2$$
 Pero, la longitud $h$ también se calcula así:
-$$h^2=b^2+(a-u)^2$$
+$$
+\begin{align}
+b^2&=h^2+(a-u)^2 \\
+b^2-(a-u)^2&=h^2
+\end{align}
+$$
 Sumando ambas ecuaciones obtengo:
 $$
 \begin{align}
-c^2-u^2&=b^2+(a-u)^2 \\
-c^2\cancel{-u^2}&=b^2+a^2-2au\cancel{+u^2} \\
+c^2-u^2&=b^2-(a-u)^2 \\
+c^2-u^2&=b^2-(a^2-2au+u^2) \\
+c^2\cancel{-u^2}&=b^2-a^2+2au\cancel{-u^2}
 \end{align}
 $$
-$$\boxed{c^2=a^2+b^2-2au}\tag{1}$$
+$$\boxed{c^2=b^2-a^2+2au}\tag{1}$$
 Por otro lado, por definición de seno, se tiene:
 $$
 \begin{align}
@@ -79,7 +85,13 @@ b\cos(\gamma)&=a-u \\
 $$
 $$\boxed{u=a-b\cos(\gamma)}\tag{2}$$
 Ahora sustituyo $(2)$ en $(1)$ y obtengo:
-$$\boxed{c^2 = a^2 + b^2 - 2ab\cos(\gamma)}$$
+$$
+\begin{align}
+c^2&=b^2-a^2+2a(a-b\cos(\gamma)) \\
+c^2&=b^2-a^2+2a^2-2ab\cos(\gamma) \\
+c^2&=a^2+b^2-2ab\cos
+\end{align}
+$$
 Q.E.D.
 
 
