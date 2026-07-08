@@ -9,7 +9,19 @@ $$\frac{a}{\sin(\alpha)} =\frac{b}{\sin(\beta)} =\frac{c}{\sin(\gamma)}$$
 ![[tds.png|440]]
 
 - Con $h_{b}$ obtengo: 
-	- $\sin(\alpha)=\frac{h_{b}}{c}\to \sin(\alpha)$
+$$
+\begin{gather}
+\sin(\alpha)=\frac{h_{b}}{c}\to \sin(\alpha)\cdot c=h_{b} \\
+\sin(\gamma)=\frac{h_{b}}{b}\to \sin(\gamma)\cdot b=h_{b}
+\end{gather}
+$$
+Entonces
+$$
+\begin{gather}
+
+\end{gather}
+$$
+$$$$
  
 ---
 ## Teorema del coseno
