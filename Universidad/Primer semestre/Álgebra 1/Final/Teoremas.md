@@ -122,9 +122,11 @@ Ahora sustituyo $(4)$ en $(3)$ y obtengo:
 $$
 \begin{align}
 c^2&=b^2-a^2-2a(b\cos(\gamma)-a) \\
-c^2&=b^2
+c^2&=b^2-a^2-2ab\cos(\gamma)+2a^2
 \end{align}
 $$
+$$\boxed{c^2=a^2+b^2-2ab\cos(\gamma)}$$
+Q.E.D.
 
 ---
 
