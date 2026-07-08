@@ -55,7 +55,9 @@ $$
 
 ![[svgviewer-png-output.png|318]]
 
-**Demostración:** dado un triangulo $ABC$ con lados $a$, $b$, $c$ y ángulos internos opuestos $\alpha$, $\beta$, $\gamma$, trazo una alt
+**Demostración:** dado un triangulo $ABC$ con lados $a$, $b$, $c$ y ángulos internos opuestos $\alpha$, $\beta$, $\gamma$.
+- Caso 1: triangulo actuángulo
+
 
 ---
 
