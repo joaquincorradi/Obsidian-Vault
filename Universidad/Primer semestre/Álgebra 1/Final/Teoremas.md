@@ -56,17 +56,17 @@ $$
 ![[svgviewer-png-output.png|305]]
 
 **Demostración:** dado un triangulo $ABC$ con lados $a$, $b$, $c$ y ángulos internos opuestos $\alpha$, $\beta$, $\gamma$.
-- Caso 1: triangulo actuángulo
+- Caso 1: triángulo acutángulo
 Por el teorema de Pitágoras, la longitud $c$ es calculada así:
-$$c^2=h^2+u^2\to h^2=c^2-u^2$$
+$$c^2=h^2+u^2\to h^2=c^2-u^2\tag{1}$$
 Pero, la longitud $h$ también se calcula así:
 $$
 \begin{align}
 b^2&=h^2+(a-u)^2 \\
-b^2-(a-u)^2&=h^2
+b^2-(a-u)^2&=h^2\tag{2}
 \end{align}
 $$
-Sumando ambas ecuaciones obtengo:
+E igualando $(1)$ y $(2)$:
 $$
 \begin{align}
 c^2-u^2&=b^2-(a-u)^2 \\
@@ -74,8 +74,8 @@ c^2-u^2&=b^2-(a^2-2au+u^2) \\
 c^2\cancel{-u^2}&=b^2-a^2+2au\cancel{-u^2}
 \end{align}
 $$
-$$\boxed{c^2=b^2-a^2+2au}\tag{1}$$
-Por otro lado, por definición de seno, se tiene:
+$$\boxed{c^2=b^2-a^2+2au}\tag{3}$$
+Por otro lado, por definición de coseno, se tiene:
 $$
 \begin{align}
 \cos(\gamma)&=\frac{a-u}{b} \\
@@ -83,15 +83,15 @@ b\cos(\gamma)&=a-u \\
 -a+b\cos(\gamma)&=-u \\
 \end{align}
 $$
-$$\boxed{u=a-b\cos(\gamma)}\tag{2}$$
-Ahora sustituyo $(2)$ en $(1)$ y obtengo:
+$$\boxed{u=a-b\cos(\gamma)}\tag{4}$$
+Ahora sustituyo $(4)$ en $(3)$ y obtengo:
 $$
 \begin{align}
 c^2&=b^2-a^2+2a(a-b\cos(\gamma)) \\
 c^2&=b^2-a^2+2a^2-2ab\cos(\gamma) \\
-c^2&=a^2+b^2-2ab\cos
 \end{align}
 $$
+$$\boxed{c^2=a^2+b^2-2ab\cos(\gamma)}$$
 Q.E.D.
 
 
