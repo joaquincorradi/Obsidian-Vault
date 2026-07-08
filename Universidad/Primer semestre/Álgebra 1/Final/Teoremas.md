@@ -97,17 +97,32 @@ $$c^2=h^2+u^2\to h^2=c^2-u^2\tag{1}$$
 Pero en este caso
 $$
 \begin{align}
-a^2&=h^2+(b+u)^2 \\
-a^2-(b+u)^2&=h^2\tag{2}
+b^2&=h^2+(a+u)^2 \\
+b^2-(a+u)^2&=h^2\tag{2}
 \end{align}
 $$
 E igualando $(1)$ y $(2)$:
-$$$$
+$$
+\begin{align}
+c^2-u^2&=b^2-(a+u)^2 \\
+c^2-u^2&=b^2-(a^2+2au+u^2) \\
+c^2\cancel{-u^2}&=b^2-a^2-2au\cancel{-u^2}
+\end{align}
+$$
+$$\boxed{c^2=b^2-a^2-2au} \tag{3}$$
 Por otro lado, por definición de coseno, se tiene:
 $$
 \begin{align}
 \cos(\gamma)&=\frac{a+u}{b} \\
-b\cos(\gamma)&=a+u
+b\cos(\gamma)&=a+u \\
+\end{align}
+$$
+$$\boxed{u=b\cos(\gamma)-a}$$
+Ahora sustituyo $(4)$ en $(3)$ y obtengo:
+$$
+\begin{align}
+c^2&=b^2-a^2-2a(b\cos(\gamma)-a) \\
+c^2&=b^2
 \end{align}
 $$
 
