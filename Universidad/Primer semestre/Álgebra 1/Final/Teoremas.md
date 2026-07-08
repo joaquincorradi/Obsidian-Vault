@@ -61,7 +61,21 @@ Por el teorema de Pitágoras, la longitud $c$ es calculada así:
 $$c^2=h^2+u^2\to h^2=c^2-u^2$$
 Pero, la longitud $h$ también se calcula así:
 $$h^2=b^2+(a-u)^2$$
-
+Sumando ambas ecuaciones obtenemos:
+$$
+\begin{align}
+c^2-u^2&=b^2+(a-u)^2 \\
+c^2\cancel{-u^2}&=b^2+a^2-2au\cancel{+u^2} \\
+c^2&=a^2+b^2-2au
+\end{align}
+$$
+Por otro lado, por definición de seno, se tiene:
+$$
+\begin{align}
+\cos(\gamma)=\frac{a-u}{b}\to u&=(\cos(\gamma)\cdot b)-a \\
+&=
+\end{align}
+$$
 
 
 ---
