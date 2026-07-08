@@ -95,6 +95,16 @@ $$\boxed{c^2=a^2+b^2-2ab\cos(\gamma)}$$
 Q.E.D.
 
 
+- Caso 2: triángulo obtusángulo
+El teorema de Pitágoras establece nuevamente
+$$c^2=h^2+u^2\to h^2=c^2-u^2\tag{1}$$
+Pero en este caso
+$$
+\begin{in}
+
+\end{in}
+$$
+
 ---
 
 ## Teorema de Rouché–Frobenius
