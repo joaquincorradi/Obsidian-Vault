@@ -153,10 +153,13 @@ Por lo tanto $B=C$. Q.E.D.
 
 ---
 
-## Teorema inversa del producto
+## Inversa del producto
 **Enunciado:** si $A$ y $B$ dos matrices invertibles de $n\times n$ entonces $AB$ es invertible y
 $$(AB)^{-1}=B^{-1}A^{-1}$$
 **Demostración:** $B^{-1}A^{-1}=(AB)^{-1}$ si y sólo si 
 $$(B^{-1}A^{-1})(AB)=(AB)(B^{-1}A^{-1})=I$$
 Verifico que es inversa de $AB$:
-$$(B^{-1}A^{-1})(AB)=B^{-1}(A^{-1}A)B=B^{-1}$$
+$$(B^{-1}A^{-1})(AB)=B^{-1}(A^{-1}A)B=B^{-1}IB=B^{-1}B=I$$
+y
+$$(AB)(B^{-1}A^{-1})=A(BB^{-1})A^{-1}=AIA^{-1}=AA^{-1}=I$$
+Entonces $B^{-1}A^{-1}$ es inversa de $AB$.
