@@ -169,8 +169,10 @@ Además, si $n$ es el número de incógnitas, entonces:
 - si $\operatorname{rg}(A)=\operatorname{rg}(A\mid H)<n$, hay infinitas soluciones (compatible indeterminado).
 - si $\operatorname{rg}(A)\neq \operatorname{rg}(A\mid H)$, el sistema no tiene soluciones (incompatible).
 
-**Demostración:** sea $Ax=H$ un sistema lineal y consideremos su matriz ampliada $(A\mid H)$. Mediante operaciones elementales por fila podemos llevar $(A\mid H)$ a forma escalonada reducida. Estas operaciones elementales por filas no modifican el conjunto de soluciones ni los rangos de las matrices porque transforman el sistema en otro equivalente, y cada una es reversible.
+**Demostración:** sea $Ax=H$ un sistema lineal y consideremos su matriz ampliada $(A\mid H)$. **Mediante operaciones elementales por fila** podemos llevar $(A\mid H)$ a forma escalonada reducida. **Estas operaciones elementales por filas no modifican** el conjunto de soluciones ni los rangos de las matrices porque **transforman el sistema en otro equivalente**, y cada una es **reversible**.
 
 En una matriz escalonada, el rango equivale a la cantidad de filas no nulas. Al comparar los rangos, tenemos dos escenarios:
-1. Si $\operatorname{rg}(A)\neq \operatorname{rg}(A\mid H)$, entonces la única forma de que los rangos difieran es que exista una fila en la matriz escalonada de la forma $\left[\begin{array}{ccc|c} 0 & \cdots & 0 & k \end{array}\right]$ con $k\neq 0$, que representa la ecuación $0=k$, lo cual es un absurdo. Por lo tanto, el sistema no tiene solución.
-2. En cambio, si $\operatorname{rg}(A)=\operatorname{rg}(A\mid H)$, no aparece ninguna contradicción y el sistema es compatible.
+1. Si $\operatorname{rg}(A)\neq \operatorname{rg}(A\mid H)$, entonces **la única forma de que los rangos difieran** es que exista una fila en la matriz escalonada de la forma $\left[\begin{array}{ccc|c} 0 & \cdots & 0 & k \end{array}\right]$ con $k\neq 0$, que representa la ecuación $0=k$, lo cual es un absurdo. Por lo tanto, el sistema es incompatible.
+2. En cambio, si $\operatorname{rg}(A)=\operatorname{rg}(A\mid H)$ significa que **la columna de los términos independientes de la matriz reducida no tiene pivote**. Al no haber ecuaciones absurdas del tipo ‭$0 = k$ con $k\neq_{0}$‬‭‬, el sistema se puede resolver despejando las variables. Por lo tanto, el sistema es compatible.
+
+Q.E.D.
