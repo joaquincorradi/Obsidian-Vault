@@ -136,11 +136,6 @@ Q.E.D.
 
 ---
 
-## Teorema de Rouché–Frobenius
-
-
----
-
 ## Unicidad de la inversa de una matriz
 **Enunciado:** si una matriz $A$ es invertible, entonces su inversa es única.
 **Demostración:** supongamos que $B$ y $C$ son inversas de $A$. Por definición se tiene:
@@ -163,3 +158,7 @@ $$(B^{-1}A^{-1})(AB)=B^{-1}(A^{-1}A)B=B^{-1}IB=B^{-1}B=I$$
 y
 $$(AB)(B^{-1}A^{-1})=A(BB^{-1})A^{-1}=AIA^{-1}=AA^{-1}=I$$
 Entonces $B^{-1}A^{-1}$ es inversa de $AB$.
+
+---
+
+## Teorema de Rouché–Frobenius
