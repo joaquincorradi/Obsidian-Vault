@@ -169,4 +169,4 @@ Además, si $n$ es el número de incógnitas, entonces:
 - si $rg(A)=rg(A|H)<n$, hay infinitas soluciones (compatible indeterminado).
 - si $rg(A)\neq rg(A|H)$, el sistema no tiene soluciones (incompatible).
 
-**Demostración:**
+**Demostración:** 
