@@ -162,3 +162,11 @@ Entonces $B^{-1}A^{-1}$ es inversa de $AB$.
 ---
 
 ## Teorema de Rouché–Frobenius
+**Enunciado:** sea el sistema lineal $Ax=H$, con matriz de coeficientes $A$ y matriz ampliada $(A|H)$. Entonces el sistema tiene solución si y sólo si 
+$$rg(A)=rg(A|H)$$
+Además, si $n$ es el número de incógnitas, entonces:
+- si $rg(A)=rg(A|H)=n$, la solución es única (compatible determinado).
+- si $rg(A)=rg(A|H)<n$, hay infinitas soluciones (compatible indeterminado).
+- si $rg(A)\neq rg(A|H)$, el sistema non tiene soluciones (incompatible).
+
+**Demostración:**
