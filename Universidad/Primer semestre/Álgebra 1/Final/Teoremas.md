@@ -95,6 +95,9 @@ Q.E.D.
 
 
 - Caso 2: triángulo obtusángulo
+
+![[tdc2.png|509]]
+
 El teorema de Pitágoras establece nuevamente
 $$c^2=h^2+u^2\to h^2=c^2-u^2\tag{1}$$
 Pero en este caso
