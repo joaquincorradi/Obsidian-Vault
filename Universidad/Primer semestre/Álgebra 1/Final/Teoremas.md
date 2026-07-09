@@ -142,3 +142,5 @@ Q.E.D.
 ---
 
 ## Unicidad de la inversa de una matriz
+**Enunciado:** si una matriz $A$ es invertible, entonces su inversa es única.
+**Demostración:** supongamos que $B$ y $C$ son inversas de $A$
