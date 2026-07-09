@@ -143,4 +143,7 @@ Q.E.D.
 
 ## Unicidad de la inversa de una matriz
 **Enunciado:** si una matriz $A$ es invertible, entonces su inversa es única.
-**Demostración:** supongamos que $B$ y $C$ son inversas de $A$
+**Demostración:** supongamos que $B$ y $C$ son inversas de $A$. Por definición se tiene:
+$$AB=BA=I,\quad\text{y} \quad AC=CA=I$$
+Multiplico ambas relaciones por $C$
+$$(BA)C=IC=C, \quad\text{y} \quad (BA)C=B(AC)=BI=B $$
