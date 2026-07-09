@@ -1,4 +1,5 @@
-## * Matriz
+*$\star$: aparecen en finales.*
+## $\star$ Matriz
 Una matriz $A$ de $m\times n$ es un arreglo rectangular de $mn$ números dispuestos en $m$ filas y $n$ columnas.
 $$
 A = \begin{bmatrix}
@@ -38,17 +39,28 @@ I_n = \begin{bmatrix}
 0 & 0 & \cdots & 1 \\\end{bmatrix}
 $$
 #### Matriz traspuesta
-Dada una matriz cualquiera $A\in M_{m\times n}$, su traspuesta es otra matriz $A^t\in M_{n\times m}$ cuyas filas son las columnas de $A$ dispuestas en el mismo orden.
+Dada una matriz cualquiera $A\in M_{m\times n}$, su traspuesta es otra matriz $A^\textsf{t}\in M_{n\times m}$ cuyas filas son las columnas de $A$ dispuestas en el mismo orden.
 $$
 \begin{bmatrix}
       a & b  \\
       c & d  \\
       e & f  \\
-   \end{bmatrix}^t
+   \end{bmatrix}^\textsf{t}
    =
    \begin{bmatrix}
       a & c & e \\
       b & d & f \\
 \end{bmatrix}
 $$
-#### * Matriz simétrica
+#### $\star$ Matriz simétrica
+Una matriz es simétrica si es una matriz cuadrada, la cual tiene la característica de ser igual a su traspuesta.
+$$A \text{ es simétrica} \iff A = A^\textsf{t}$$
+Por ejemplo:
+$$
+\begin{bmatrix}
+    1 & 7 & 3 \\
+    7 & 4 & 5 \\
+    3 & 5 & 2
+  \end{bmatrix}
+$$
+#### $\star$ Matriz triangular superior/inferior
