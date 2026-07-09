@@ -67,8 +67,18 @@ $$
 Una matriz triangular superior es una matriz cuadrada donde todos los elementos situados por debajo de su diagonal principal son cero.
 $$
 A = \begin{bmatrix}
-a_{11} & a_{12} & \cdots & a_{1n} \\
-a_{21} & a_{22} & \cdots & a_{2n} \\
-
-a_{m1} & a_{m2} & \cdots & a_{mn} \\ \end{bmatrix}
+a_{11} & a_{12} & a_{13} \\
+0 & a_{22} & a_{23} \\
+0 & 0 & a_{33} \\ \end{bmatrix}
 $$
+#### $\star$ Matriz triangular inferior
+Una matriz triangular superior es una matriz cuadrada donde todos los elementos situados por encima de su diagonal principal son cero.
+$$
+A = \begin{bmatrix}
+a_{11} & 0 & 0 \\
+a_{21} & a_{22} & 0\\
+a_{31} & a_{32} & a_{33} \\ \end{bmatrix}
+$$
+
+
+
