@@ -169,8 +169,8 @@ Además, si $n$ es el número de incógnitas, entonces:
 - si $\operatorname{rg}(A)=\operatorname{rg}(A\mid H)<n$, hay infinitas soluciones (compatible indeterminado).
 - si $\operatorname{rg}(A)\neq \operatorname{rg}(A\mid H)$, el sistema no tiene soluciones (incompatible).
 
-**Demostración:** sea $Ax=H$ un sistema lineal y consideremos su matriz ampliada $(A\mid H)$. Mediante eliminación gaussiana podemos llevar $(A\mid H)$ a forma escalonada reducida. Estas operaciones elementales por filas no modifican el conjunto de soluciones ni los rangos de las matrices porque transforman el sistema en otro equivalente, y cada una es reversible..
+**Demostración:** sea $Ax=H$ un sistema lineal y consideremos su matriz ampliada $(A\mid H)$. Mediante operaciones elementales por fila podemos llevar $(A\mid H)$ a forma escalonada reducida. Estas operaciones elementales por filas no modifican el conjunto de soluciones ni los rangos de las matrices porque transforman el sistema en otro equivalente, y cada una es reversible.
 
-En la forma escalonada reducida, el rango de una matriz coincide con el número de filas no nulas. Si $\operatorname{rg}(A)\neq \operatorname{rg}(A\mid H)$, entonces aparece una fila de la forma $\left[\begin{array}{ccc|c} 0 & \cdots & 0 & 1 \end{array}\right]$, que representa la ecuación imposible $0=1$. Por lo tanto, el sistema no tiene solución.
-
-En cambio, si $\operatorname{rg}(A)=\operatorname{rg}(A\mid H)$, no aparece ninguna contradicción y el sistema es compatible.
+En una matriz escalonada, el rango equivale a la cantidad de filas no nulas. Al comparar los rangos, tenemos dos escenarios:
+1. Si $\operatorname{rg}(A)\neq \operatorname{rg}(A\mid H)$, entonces la única forma de que los rangos difieran es que exista una fila en la matriz escalonada de la forma $\left[\begin{array}{ccc|c} 0 & \cdots & 0 & k \end{array}\right]$ con $k\neq 0$, que representa la ecuación $0=k$, lo cual es un absurdo. Por lo tanto, el sistema no tiene solución.
+2. En cambio, si $\operatorname{rg}(A)=\operatorname{rg}(A\mid H)$, no aparece ninguna contradicción y el sistema es compatible.
