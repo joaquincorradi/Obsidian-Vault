@@ -53,6 +53,9 @@ $$
 
 **Demostración:** dado un triangulo $ABC$ con lados $a$, $b$, $c$ y ángulos internos opuestos $\alpha$, $\beta$, $\gamma$.
 - Caso 1: triángulo acutángulo
+
+![[tdc1.png]]
+
 Por el teorema de Pitágoras, la longitud $c$ es calculada así:
 $$c^2=h^2+u^2\to h^2=c^2-u^2\tag{1}$$
 Pero, la longitud $h$ también se calcula así:
