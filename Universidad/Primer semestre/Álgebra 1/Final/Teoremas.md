@@ -147,3 +147,11 @@ Q.E.D.
 $$AB=BA=I,\quad\text{y} \quad AC=CA=I$$
 Multiplico ambas relaciones por $C$
 $$(BA)C=IC=C, \quad\text{y} \quad (BA)C=B(AC)=BI=B $$
+Por lo tanto $B=C$. Q.E.D.
+
+---
+
+## Teorema $AB$ es invertible
+**Enunciado:** sean $A$ y $B$ dos matrices invertibles de $n\times n$. Entonces $AB$ es invertible y
+$$(AB)^{-1}=B^{-1}A^{-1}$$
+**Demostración:** 
