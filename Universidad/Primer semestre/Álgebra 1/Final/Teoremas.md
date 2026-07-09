@@ -145,13 +145,15 @@ Q.E.D.
 **Enunciado:** si una matriz $A$ es invertible, entonces su inversa es única.
 **Demostración:** supongamos que $B$ y $C$ son inversas de $A$. Por definición se tiene:
 $$AB=BA=I,\quad\text{y} \quad AC=CA=I$$
-Multiplico ambas relaciones por $C$
-$$(BA)C=IC=C, \quad\text{y} \quad (BA)C=B(AC)=BI=B $$
+Por la ley asociativa de la multiplicación de matrices se tiene que:
+$$B(AC)=(BA)C$$
+Entonces
+$$B=BI=B(AC)=(BA)C=IC=C$$
 Por lo tanto $B=C$. Q.E.D.
 
 ---
 
 ## Teorema inversa del producto
-**Enunciado:** sean $A$ y $B$ dos matrices invertibles de $n\times n$. Entonces $AB$ es invertible y
+**Enunciado:** si $A$ y $B$ dos matrices invertibles de $n\times n$ entonces $AB$ es invertible y
 $$(AB)^{-1}=B^{-1}A^{-1}$$
 **Demostración:** 
