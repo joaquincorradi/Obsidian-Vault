@@ -180,4 +180,5 @@ donde $\theta$ es el ángulo entre ambos vectores. El resultado es un **número 
 En coordenadas, si $\vec{u}=(u_1, \ldots, u_n)$ y $\vec{v}=(v_1, \ldots, v_n)$,
 $$\vec{u}\cdot \vec{v}=u_{1}v_{1}+\cdots+u_{n}v_{n}$$
 #### Producto cruz (producto vectorial)
+El producto punto de dos vectores $\vec{u},\vec{v}\in \mathbb{R}^3$, se define por:
 
