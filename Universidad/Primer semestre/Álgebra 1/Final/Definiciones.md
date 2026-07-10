@@ -169,6 +169,7 @@ Si está determinado por dos puntos $P$ y $Q$, se lo denota $\vec v=\overrightar
 - $\star$ **Vector libre:** segmento dirigido que puede ubicarse en cualquier punto del plano o del espacio, manteniendo siempre su módulo, dirección y sentido.
 - **Vector unitario/versor:** vector cuyo módulo es igual a $1$. Se utiliza para representar únicamente la dirección y el sentido de un vector. Si $\vec{v}\neq \vec{0}$, el versor asociado se obtiene dividiendo el vector por su módulo (normalizar):
 $$\hat{v}=\frac{\vec{v}}{\left\|\vec{v}\right\|}$$
+- **Vector nulo:** vector cuyo módulo es igual a $0$ y se representa como $\vec{0}$. También $\vec{v}+\vec{0}=\vec{0}+\vec{v}=\vec{v}$.
 #### Modulo de un vector
 Sea $\vec{v}=(v_{1}, v_{2}, v_{3})$, su módulo es el número real dado por la expresión:
 $$\left\|\vec{v}\right\|=\sqrt {v_{1}^2+v_{2}^2+v_{3}^2}$$
@@ -200,5 +201,9 @@ $$
 ![[Cross_product_parallelogram.svg|371]]
 
 #### Vectores paralelos
-Dos vectores son paralelos si y sólo si uno de ellos es múltiplo escalar del otro
+Dos vectores son paralelos si y sólo si uno de ellos es múltiplo escalar del otro. Es decir, existen $\vec{u}$ y $\vec{v}$ tales que
+$$\vec{u}=k\vec{v}$$
+para algún $k\in \mathbb{R}$. Se denota $\vec{u}\parallel \vec{v}$.
+*(nota: el vector nulo es paralelo a todo vector)*
+
 
