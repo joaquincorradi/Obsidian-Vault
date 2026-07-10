@@ -84,11 +84,14 @@ Las operaciones elementales por filas son transformaciones matemáticas que se a
 1. Intercambiar las posiciones de dos filas: $R_{i}\leftrightarrow R_{j}$.
 2. Multiplicar una fila por un escalar distinto de cero: $R_{i}\to kR_{i}$.
 3. Sumar un múltiplo de una fila a otra fila: $R_{i}\to kR_{i}+R_{j}$
+#### $\star$ Matriz elemental
+Una matriz elemental es una matriz cuadrada $n\times n$ obtenida al aplicar una única operación elemental por filas a la matriz identidad.
 #### $\star$ Matrices equivalentes por fila
 Dos matrices son equivalentes si es posible transformar una en la otra aplicando una cantidad finita de operaciones elementales de fila.
 #### Matriz escalonada por filas (MEF)
 Una matriz se dice escalonada por filas si:
 1. Todas las filas nulas (si los hay) están en la parte inferior de la matriz.
+2. El primer número distinto de cero de cada fila (pivote) tiene que estar estrictamente a la derecha del pivote de la fila de arriba.
 #### $\star$ Matriz escalonada reducida por filas (MERF)
 
 
