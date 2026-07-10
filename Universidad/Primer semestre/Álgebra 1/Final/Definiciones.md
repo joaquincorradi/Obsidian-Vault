@@ -39,7 +39,7 @@ I_n = \begin{bmatrix}
 0 & 0 & \cdots & 1 \\\end{bmatrix}
 $$
 #### Matriz traspuesta
-Dada una matriz cualquiera $A\in M_{m\times n}$, su traspuesta es otra matriz $A^\textsf{t}\in M_{n\times m}$ cuyas filas son las columnas de $A$ dispuestas en el mismo orden.
+Dada una matriz cualquiera $A$ de ${m\times n}$, su traspuesta es otra matriz $A^\textsf{t}$ de ${n\times m}$ cuyas filas son las columnas de $A$ dispuestas en el mismo orden.
 $$
 \begin{bmatrix}
       a & b  \\
@@ -85,7 +85,7 @@ Las operaciones elementales por filas son transformaciones matemáticas que se a
 2. Multiplicar una fila por un escalar distinto de cero: $R_{i}\to kR_{i}$.
 3. Sumar un múltiplo de una fila a otra fila: $R_{i}\to kR_{i}+R_{j}$
 #### $\star$ Matriz elemental
-Una matriz elemental es una matriz cuadrada $n\times n$ obtenida al aplicar una única operación elemental por filas a la matriz identidad.
+Una matriz elemental es una matriz cuadrada de $n\times n$ obtenida al aplicar una única operación elemental por filas a la matriz identidad.
 #### $\star$ Matrices equivalentes por fila
 Dos matrices son equivalentes si es posible transformar una en la otra aplicando una cantidad finita de operaciones elementales de fila.
 #### Matriz escalonada por filas (MEF)
@@ -116,3 +116,7 @@ $$
 \end{bmatrix}
 $$
 #### $\star$ Matrix invertible
+Una matriz cuadrada $A$ de $n\times n$ se dice invertible si existe otra matriz cuadrada $B$ de $n\times n$ tal que
+$$AB=BA=I$$
+Entonces $B$ se llama inversa de $A$ y se denota por $A^{-1}$. Entonces se tiene
+$$AA^{-1}=A^{-1}A=I$$
