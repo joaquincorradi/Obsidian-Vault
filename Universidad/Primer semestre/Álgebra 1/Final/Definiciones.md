@@ -123,3 +123,11 @@ $$AB=BA=I$$
 Entonces $B$ se llama inversa de $A$ y se denota por $A^{-1}$. Entonces se tiene
 $$AA^{-1}=A^{-1}A=I$$
 #### Determinante de una matriz
+El determinante es un valor numérico asociado a una matriz cuadrada.
+Para una matriz de $2\times 2$
+$$A=
+\begin{pmatrix}
+    a_{11} & a_{12} \\
+    a_{21} & a_{22}
+\end{pmatrix}$$
+el determinante es
