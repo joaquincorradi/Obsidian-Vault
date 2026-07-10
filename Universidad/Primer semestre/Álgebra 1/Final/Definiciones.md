@@ -155,3 +155,4 @@ $$
 ---
 
 ## $\star$ Vector
+Un vector es un segmento de recta dirigido que cuenta con dirección, sentido, módulo y punto de aplicación.
