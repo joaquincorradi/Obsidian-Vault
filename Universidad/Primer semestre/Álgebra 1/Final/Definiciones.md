@@ -167,8 +167,10 @@ Si está determinado por dos puntos $P$ y $Q$, se lo denota $\vec v=\overrightar
 - **Vectores equipolentes:** dos vectores fijos se consideran equipolentes si tienen igual módulo, dirección y sentido.
 - **Vector fijo:** tienen un determinado punto de aplicación (punto inicial del segmento orientado).
 - $\star$ **Vector libre:** segmento dirigido que puede ubicarse en cualquier punto del plano o del espacio, manteniendo siempre su módulo, dirección y sentido.
-- **Vector unitario:** es aquel que tiene módulo de exactamente $1$.
+- **Vector unitario/versor:** es aquel que tiene módulo de exactamente $1$. Su única función es indicar una dirección y un sentido, sin aportar el módulo.
 #### Modulo de un vector
 Sea $\vec{v}=\begin{pmatrix}v_{1} & v_{2} & v_{3}\end{pmatrix}$, su módulo es el número real dado por la expresión:
 $$\lvert \vec{v}\rvert=\sqrt {v_{1}^2+v_{2}^2+v_{3}^2}$$
+
+#### $\star$ Producto punto (producto escalar, producto interno)
 
