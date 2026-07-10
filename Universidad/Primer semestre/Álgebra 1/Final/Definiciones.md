@@ -170,13 +170,14 @@ Si está determinado por dos puntos $P$ y $Q$, se lo denota $\vec v=\overrightar
 - **Vector unitario/versor:** vector cuyo módulo es igual a $1$. Se utiliza para representar únicamente la dirección y el sentido de un vector. Si $\vec{v}\neq \vec{0}$, el versor asociado se obtiene dividiendo el vector por su módulo (normalizar):
 $$\hat{v}=\frac{\vec{v}}{\left\|\vec{v}\right\|}$$
 #### Modulo de un vector
-Sea $\vec{v}=\begin{pmatrix}v_{1} & v_{2} & v_{3}\end{pmatrix}$, su módulo es el número real dado por la expresión:
+Sea $\vec{v}=(v_{1}, v_{2}, v_{3})$, su módulo es el número real dado por la expresión:
 $$\left\|\vec{v}\right\|=\sqrt {v_{1}^2+v_{2}^2+v_{3}^2}$$
 
 #### $\star$ Producto punto (producto escalar, producto interno)
 El producto punto de dos vectores $\vec{u}$ y $\vec{v}$, se define por:
 $$\vec{u}\cdot \vec{v}=\left\|\vec{u}\right\|\left\|\vec{v}\right\|\cos(\theta)$$
 donde $\theta$ es el ángulo entre ambos vectores. El resultado es un **número real**.
-En coordenadas, si $\vec{u}=$
+En coordenadas, si $\vec{u}=(u_1, \ldots, u_n)$ y $\vec{v}=(v_1, \ldots, v_n)$,
+$$\vec{u}\cdot \vec{v}=u_{1}v_{1}+\cdots+u_{n}v_{n}$$
 #### Producto cruz (producto vectorial)
 
