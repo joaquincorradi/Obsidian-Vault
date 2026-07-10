@@ -106,4 +106,12 @@ Una matriz se dice escalonada reducida por filas si:
 1. Todas las filas nulas (si los hay) están en la parte inferior de la matriz.
 2. En cada fila no nulo, el primer número distinto de cero es 1.
 3. El pivote en cualquier fila está a la derecha del pivote de la fila anterior.
-4. 
+4. Cada columna que contiene un pivote tiene ceros en todas sus demás entradas.
+$$
+\begin{bmatrix}
+1 & a_0 & 0 & 0 & a_3 \\
+0 & 0 & 1 & 0 & a_5 \\
+0 & 0 & 0 & 1 & a_6 \\
+0 & 0 & 0 & 0 & 0
+\end{bmatrix}
+$$
