@@ -158,7 +158,7 @@ $$
 Un vector es un segmento de recta dirigido que cuenta con módulo, dirección y sentido. 
 Si está determinado por dos puntos $P$ y $Q$, se lo denota $\vec v=\overrightarrow{PQ}$​, donde $P$ es el punto inicial y $Q$ el punto final.
 
-![[Vector_00.svg|437]]
+![[Vector_00.svg|375]]
 
 - **Modulo (o magnitud):** es la longitud del vector, y se expresa mediante un número no negativo.
 - **Dirección:** es la recta de soporte del vector, o sea, la recta sobre la cual se encuentra el segmento. (horizontal, vertical o un ángulo específico).
@@ -179,6 +179,9 @@ $$\vec{u}\cdot \vec{v}=\left\|\vec{u}\right\|\left\|\vec{v}\right\|\cos(\theta)$
 donde $\theta$ es el ángulo entre ambos vectores. El resultado es un **número real**.
 En coordenadas, si $\vec{u}=(u_1, \ldots, u_n)$ y $\vec{v}=(v_1, \ldots, v_n)$,
 $$\vec{u}\cdot \vec{v}=u_{1}v_{1}+\cdots+u_{n}v_{n}$$
+
+![[Pasted image 20260710194924.png|331]]
+
 #### Producto cruz (producto vectorial)
 El producto punto de dos vectores $\vec{u},\vec{v}\in \mathbb{R}^3$, se define como un vector $\vec{u}\times \vec{v}$ que es perpendicular a ambos, cuyo módulo es:
 $$\left\|\vec{u}\times \vec{v}\right\|=\left\|\vec{u}\right\|\left\|\vec{v}\right\|\sin(\theta)$$
@@ -191,6 +194,11 @@ $$\vec{u}\times \vec{v}=
     v_1 & v_2 & v_3
 \end{vmatrix}
 =
-(a_2 b_3 - a_3 b_2) {\mathbf e}_1 + (a_3 b_1 - a_1 b_3) {\mathbf e}_2 + (a_1 b_2 - a_2 b_1) {\mathbf e}_3
+(u_2 v_3 - u_3 v_2) \hat{i} + (u_3 v_1 - u_1 v_3) \hat{j} + (u_1 v_2 - u_2 v_1) \hat{k}
 $$
+
+![[Cross_product_parallelogram.svg|371]]
+
+#### Vectores paralelos
+Dos vectores son paralelos si y sólo si uno de ellos es múltiplo escalar del otro
 
