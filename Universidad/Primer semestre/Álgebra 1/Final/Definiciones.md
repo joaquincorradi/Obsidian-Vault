@@ -115,8 +115,11 @@ $$
 0 & 0 & 0 & 0 & 0
 \end{bmatrix}
 $$
+#### $\star$ Rango de una matriz
+El rango de una matriz es el número máximo de filas que son linealmente independientes.
 #### $\star$ Matrix invertible
 Una matriz cuadrada $A$ de $n\times n$ se dice invertible si existe otra matriz cuadrada $B$ de $n\times n$ tal que
 $$AB=BA=I$$
 Entonces $B$ se llama inversa de $A$ y se denota por $A^{-1}$. Entonces se tiene
 $$AA^{-1}=A^{-1}A=I$$
+#### Determinante de una matriz
