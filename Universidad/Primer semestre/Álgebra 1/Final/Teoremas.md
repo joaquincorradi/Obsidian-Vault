@@ -189,4 +189,5 @@ Q.E.D.
 matriz del mismo tipo. 
 **Demostración:** una matriz elemental $E$ se obtiene a partir de la matriz identidad aplicándole una sola operación elemental por filas. Analizando cada caso:
 1. **Intercambio de filas:** Si $E$ se obtiene intercambiando las filas $i$ y $j$, al aplicar el mismo intercambio otra vez se vuelve a la identidad. Luego $E^{-1}=E$, y por tanto es elemental del mismo tipo.
-2. **Multiplicación de una fila por un escalar $k\neq 0$:** 
+2. **Multiplicación de una fila por un escalar $k\neq 0$:** si $E$ se obtiene multiplicando la fila $i$ por $k$, entonces al multiplicarla por $\frac{1}{k}$ se recupera la identidad. Por eso $E$ es invertible y $E^{-1}$ es la matriz elemental que multiplica esa misma fila por $\frac{1}{k}$, del mismo tipo.
+3. **Suma de un múltiplo de una fila a otra:** si $E$ se obtiene sumando $k$ veces la fila $j$ a la fila $i$, entonces la operación inversa es sumar $-k$ veces la fila $j$ a la fila $i$. Al aplicarla se vuelve a la identidad. Así, $E^{-1}$ también es elemental del mismo tipo.
