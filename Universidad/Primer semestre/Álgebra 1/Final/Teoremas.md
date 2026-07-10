@@ -176,3 +176,8 @@ En una matriz escalonada, el rango equivale a la cantidad de filas no nulas. Al 
 2. En cambio, si $\operatorname{rg}(A)=\operatorname{rg}(A\mid H)$ significa que **la columna de los términos independientes de la matriz reducida no tiene pivote**. Al no haber ecuaciones absurdas del tipo ‭$0 = k$ con $k\neq_{0}$‬‭‬, el sistema se puede resolver despejando las variables. Por lo tanto, el sistema es compatible.
 
 Q.E.D.
+
+---
+
+## Teorema de equivalencia de sistemas lineales
+**Enunciado:** si una matriz ampliada se obtiene de otra mediante operaciones elementales por filas, entonces ambos sistemas son equivalentes, es decir, tienen exactamente las mismas soluciones.

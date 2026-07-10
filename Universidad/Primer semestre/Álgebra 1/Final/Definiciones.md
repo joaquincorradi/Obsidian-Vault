@@ -115,3 +115,4 @@ $$
 0 & 0 & 0 & 0 & 0
 \end{bmatrix}
 $$
+#### $\star$ Matrix invertible
