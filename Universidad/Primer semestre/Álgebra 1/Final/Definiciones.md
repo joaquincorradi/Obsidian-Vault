@@ -155,4 +155,10 @@ $$
 ---
 
 ## $\star$ Vector
-Un vector es un segmento de recta dirigido que cuenta con dirección, sentido, módulo y punto de aplicación.
+Un vector es un segmento de recta dirigido que cuenta con módulo, dirección y sentido.
+
+![[Vector_00.svg|437]]
+
+- **Modulo (o magnitud):** es la longitud del segmento expresado mediante un número no negativo.
+- **Dirección:** la recta que contiene al segmento (horizontal, vertical o un ángulo específico).
+- **Sentido:** hacia qué extremo de la línea apunta la flecha (positivo o negativo).
