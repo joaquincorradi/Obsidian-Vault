@@ -91,7 +91,16 @@ Dos matrices son equivalentes si es posible transformar una en la otra aplicando
 #### Matriz escalonada por filas (MEF)
 Una matriz se dice escalonada por filas si:
 1. Todas las filas nulas (si los hay) están en la parte inferior de la matriz.
-2. El primer número distinto de cero de cada fila (pivote) tiene que estar estrictamente a la derecha del pivote de la fila de arriba.
+2. El primer número distinto de cero de cada fila (se le dice pivote) tiene que estar estrictamente a la derecha del pivote de la fila de arriba.
+3. El pivote en cualquier fila está a la derecha del pivote de la fila anterior.
+$$
+\begin{bmatrix}
+2 & a_0 & a_1 & a_2 & a_3 \\
+0 & 0 & 2 & a_4 & a_5 \\
+0 & 0 & 0 & 1 & a_6 \\
+0 & 0 & 0 & 0 & 0
+\end{bmatrix}
+$$
 #### $\star$ Matriz escalonada reducida por filas (MERF)
 
 
