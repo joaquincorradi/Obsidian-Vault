@@ -157,7 +157,7 @@ Verifico que es inversa de $AB$:
 $$(B^{-1}A^{-1})(AB)=B^{-1}(A^{-1}A)B=B^{-1}IB=B^{-1}B=I$$
 y
 $$(AB)(B^{-1}A^{-1})=A(BB^{-1})A^{-1}=AIA^{-1}=AA^{-1}=I$$
-Entonces $B^{-1}A^{-1}$ es inversa de $AB$.
+Entonces $B^{-1}A^{-1}$ es inversa de $AB$. Q.E.D.
 
 ---
 
@@ -181,6 +181,13 @@ Q.E.D.
 
 ## Teorema de equivalencia de sistemas lineales
 **Enunciado:** si una matriz ampliada se obtiene de otra mediante operaciones elementales por filas, entonces ambos sistemas son equivalentes, es decir, tienen exactamente las mismas soluciones.
+**Demostración:** sea un sistema representado por su matriz ampliada. Basta ver que cada operación elemental por filas no cambia el conjunto de soluciones.
+1. **Intercambio de filas:** solo cambia el orden de las ecuaciones, no cambia las soluciones.
+2. **Multiplicación de una fila por un escalar $k\neq 0$:** no cambia la ecuación, porque
+$$Ax=H\iff kAx=kH,\quad k\neq 0$$
+3. **Suma de un múltiplo de una fila a otra:** tampoco cambia las soluciones. Si una solución verifica las ecuaciones originales, entonces también verifica cualquier combinación lineal de ellas. Y recíprocamente, como la operación es reversible, de la nueva ecuación y las demás originales se recupera la anterior.
+
+Como cada operación elemental conserva el conjunto solución, una secuencia de ellas también lo conserva. Por lo tanto, dos matrices ampliadas relacionadas por operaciones elementales por filas representan sistemas con las mismas soluciones. Q.E.D.
 
 ---
 
@@ -191,3 +198,5 @@ matriz del mismo tipo.
 1. **Intercambio de filas:** Si $E$ se obtiene intercambiando las filas $i$ y $j$, al aplicar el mismo intercambio otra vez se vuelve a la identidad. Luego $E^{-1}=E$, y por tanto es elemental del mismo tipo.
 2. **Multiplicación de una fila por un escalar $k\neq 0$:** si $E$ se obtiene multiplicando la fila $i$ por $k$, entonces al multiplicarla por $\frac{1}{k}$ se recupera la identidad. Por eso $E$ es invertible y $E^{-1}$ es la matriz elemental que multiplica esa misma fila por $\frac{1}{k}$, del mismo tipo.
 3. **Suma de un múltiplo de una fila a otra:** si $E$ se obtiene sumando $k$ veces la fila $j$ a la fila $i$, entonces la operación inversa es sumar $-k$ veces la fila $j$ a la fila $i$. Al aplicarla se vuelve a la identidad. Así, $E^{-1}$ también es elemental del mismo tipo.
+
+Q.E.D.
