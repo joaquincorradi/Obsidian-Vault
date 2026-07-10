@@ -200,3 +200,15 @@ matriz del mismo tipo.
 3. **Suma de un múltiplo de una fila a otra:** si $E$ se obtiene sumando $k$ veces la fila $j$ a la fila $i$, entonces la operación inversa es sumar $-k$ veces la fila $j$ a la fila $i$. Al aplicarla se vuelve a la identidad. Así, $E^{-1}$ también es elemental del mismo tipo.
 
 Q.E.D.
+
+---
+
+## Teorema determinate e inversa
+**Enunciado:** sea $A$ una matriz de $2\times 2$. Entonces:
+1. $A$ es invertible si y sólo si $\operatorname{\det}A\neq 0$.
+2. Si $\operatorname{\det}A\neq 0$, entonces
+$$A^{-1}=\frac{1}{\operatorname{\det}A}
+\begin{bmatrix}
+    a_{22} & -a_{12} \\
+    a_{21} & -a_{11}
+\end{bmatrix}$$

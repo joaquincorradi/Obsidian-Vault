@@ -152,4 +152,6 @@ $$
    + a_{33} a_{21} a_{12})
 $$
 
-- A es invertible si y sólo si det A Z 0.
+---
+
+## $\star$ Vector
