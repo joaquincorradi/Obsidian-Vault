@@ -83,6 +83,8 @@ $$
 Las operaciones elementales por filas son transformaciones matemáticas que se aplican a las filas de una matriz. Hay tres tipos de operaciones elementales de fila:
 1. Intercambiar las posiciones de dos filas: $R_{i}\leftrightarrow R_{j}$.
 2. Multiplicar una fila por un escalar distinto de cero: $R_{i}\to kR_{i}$.
-3. Añadir a una fila un múltiplo escalar de otra
+3. Sumar un múltiplo de una fila a otra fila: $R_{i}\to kR_{i}+R_{j}$
+#### $\star$ Matrices equivalentes
+Dos matrices son equivalentes si es posible transformar una en la otra aplicando una cantidad finita de operaciones elementales de fila.
 
 
