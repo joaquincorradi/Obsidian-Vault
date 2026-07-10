@@ -164,6 +164,6 @@ Si está determinado por dos puntos $P$ y $Q$, se lo denota $\vec v=\overrightar
 - **Dirección:** es la recta de soporte del vector, o sea, la recta sobre la cual se encuentra el segmento. (horizontal, vertical o un ángulo específico).
 - **Sentido:** indica hacia cuál de los dos extremos de la dirección apunta el vector. (positivo o negativo).
 #### Clasificación de vectores
-- **Vectores equipolentes:** Dos vectores fijos se consideran equipolentes si tienen igual módulo, dirección y sentido.
+- **Vectores equipolentes:** dos vectores fijos se consideran equipolentes si tienen igual módulo, dirección y sentido.
 - **Vector fijo:** tienen un determinado punto de aplicación (punto inicial del segmento orientado).
-- $\star$ **Vector libre:** 
+- $\star$ **Vector libre:** segmento dirigido que puede ubicarse en cualquier punto del plano o del espacio, manteniendo siempre su módulo, dirección y sentido.
