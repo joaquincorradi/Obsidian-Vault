@@ -181,3 +181,10 @@ Q.E.D.
 
 ## Teorema de equivalencia de sistemas lineales
 **Enunciado:** si una matriz ampliada se obtiene de otra mediante operaciones elementales por filas, entonces ambos sistemas son equivalentes, es decir, tienen exactamente las mismas soluciones.
+
+---
+
+## Teorema toda matriz elemental es inversible
+**Enunciado:** toda matriz elemental es invertible. El inverso de una matriz elemental es una
+matriz del mismo tipo. 
+
