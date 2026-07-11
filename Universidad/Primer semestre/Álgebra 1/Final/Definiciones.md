@@ -206,7 +206,7 @@ $$\vec{u}=k\vec{v}$$
 para algún $k\in \mathbb{R}$. Se denota $\vec{u}\parallel \vec{v}$.
 *(nota: el vector nulo es paralelo a todo vector)*
 ## Recta
-#### Ecuaciones de la recta en el plano
+#### Ecuaciones de la recta
 - **Ecuación vectorial:**
 Si una recta pasa por el punto 
 $$(x,y,z)=(x_{1},y_{1}, z_{1})+t(v_{x}, v_{y}, v_{z})$$
