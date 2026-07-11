@@ -207,6 +207,7 @@ para algún $k\in \mathbb{R}$. Se denota $\vec{u}\parallel \vec{v}$.
 *(nota: el vector nulo es paralelo a todo vector)*
 ## Recta
 #### Ecuaciones de la recta
+Una recta en $\mathbb{R}^3$ queda determinada por un punto de la recta $P¿$
 - **Ecuación vectorial:**
 Si una recta pasa por el punto 
 $$(x,y,z)=(x_{1},y_{1}, z_{1})+t(v_{x}, v_{y}, v_{z})$$
