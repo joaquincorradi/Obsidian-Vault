@@ -208,6 +208,7 @@ para algún $k\in \mathbb{R}$. Se denota $\vec{u}\parallel \vec{v}$.
 ## Recta
 #### Ecuaciones de la recta en el plano
 - **Ecuación vectorial:**
+Si una recta pasa por el punto 
 $$(x,y,z)=(x_{1},y_{1}, z_{1})+t(v_{x}, v_{y}, v_{z})$$
 - **Ecuaciones paramétricas:**
 $$\left\{\begin{array}{ll} x=x_{1}+tv_{x} \\ y=y_{1}+tv_{y} \\ z=z_{1}+tv_{z} \end{array}\right.$$
