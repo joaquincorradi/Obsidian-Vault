@@ -292,7 +292,9 @@ $$
 Dos rectas son paralelas si y sólo sí sus vectores directores lo son, es decir, si estos son **linealmente dependientes**:
 $$r_{1}\parallel r_{2}\iff \vec{u}\parallel \vec{v}\iff \vec{u}=k\cdot\vec{v}$$
 y se pueden presentar los siguientes casos
-- **Coincidentes:**
+- **Paralelas coincidentes:**
 	
-![[coincidentes.png|354]]
+![[coincidentes.png|358]]
+
+- **Paralelas no coincidentes:**
 
