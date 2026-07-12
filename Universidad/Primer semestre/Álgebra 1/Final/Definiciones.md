@@ -218,10 +218,12 @@ $$(x,y,z)=(x_{1},y_{1}, z_{1})+t(v_{x}, v_{y}, v_{z})$$
 	- $t$ es el parámetro que cambia y genera todos los puntos de la recta.
 2. **Ecuaciones paramétricas:**
 	Si conocemos la ecuación vectorial de la recta, operando en el segundo miembro queda
-	$$
+	$$(x,y,z)=(x_{1}+tv_{x}, y_{1}+tv_{y}, z_{1}+tv_{z})$$
+	Y aplicando el concepto de igualdad de vectores obtenemos las ecuaciones paramétricas de la recta:
 $$\left\{\begin{array}{ll} x=x_{1}+tv_{x} \\ y=y_{1}+tv_{y} \\ z=z_{1}+tv_{z} \end{array}\right.$$
 3. **Ecuación simétrica (despejando $t$):**
+	Si $v_{x}$, $v_{y}$, y $v_{z}$ son distintos de cero, se despeja el parámetro $t$ en las ecuaciones paramétricas obtenemos la ecuación simétrica de la recta:
 $$\frac{x-x_{1}}{v_{x}}=\frac{y-y_{1}}{v_{y}}=\frac{z-z_{1}}{v_{z}}$$
-4. **Ecuación general (implícita):**
+5. **Ecuación general (implícita):**
 $$\left\{\begin{array}{ll} Ax+By+Cz+D=0 \\ A'x+B'y+C'z+D'=0  \end{array}\right.$$
 
