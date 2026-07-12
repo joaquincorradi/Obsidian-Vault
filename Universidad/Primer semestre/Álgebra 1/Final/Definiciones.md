@@ -292,9 +292,19 @@ $$
 Dos rectas son paralelas si y sólo sí sus vectores directores lo son, es decir, si estos son **linealmente dependientes**:
 $$r_{1}\parallel r_{2}\iff \vec{u}\parallel \vec{v}\iff \vec{u}=k\cdot\vec{v}$$
 y se pueden presentar los siguientes casos
-- **Paralelas coincidentes:**
-	
-![[coincidentes.png|358]]
+- **Paralelas coincidentes:** sistema compatible indeterminado
 
-- **Paralelas no coincidentes:**
+![[coincidentes.png|323]]
+
+- **Paralelas no coincidentes:** sistema incompatible
+
+![[nc.png|348]]
+
+- **No paralelas concurrentes:** sistema compatible determinado
+
+![[concurrentes.png|340]]
+
+- **No paralelas alabeadas:** sistema incompatible
+
+![[alabeadas.png|345]]
 
