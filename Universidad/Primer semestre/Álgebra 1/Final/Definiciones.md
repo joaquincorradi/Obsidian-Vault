@@ -292,19 +292,24 @@ $$
 Dos rectas son paralelas si y sólo sí sus vectores directores lo son, es decir, si estos son **linealmente dependientes**:
 $$r_{1}\parallel r_{2}\iff \vec{u}\parallel \vec{v}\iff \vec{u}=k\cdot\vec{v}$$
 y se pueden presentar los siguientes casos
-- **Paralelas coincidentes:** sistema compatible indeterminado
+- **Paralelas coincidentes:** 
+	Las dos rectas tienen la misma dirección y además pasan por los mismos puntos, o sea, en realidad son la misma recta. Geométricamente son una sola recta escrita de dos formas y algebraicamente el sistema tiene infinitas soluciones (**compatible indeterminado**).
 
 ![[coincidentes.png|323]]
 
-- **Paralelas no coincidentes:** sistema incompatible
+- **Paralelas no coincidentes:**
+	Tienen la misma dirección, pero están “corridas” una respecto de la otra. Geométricamente nunca se cortan y algebraicamente el sistema no tiene solución (**incompatible**).
 
 ![[nc.png|348]]
 
-- **No paralelas concurrentes:** sistema compatible determinado
+- **No paralelas concurrentes:**
+	No tienen la misma dirección y sí se cortan en un punto. Geométricamente: se intersectan en un único punto y algebraicamente el sistema tiene una sola solución (**compatible determinado**).
 
 ![[concurrentes.png|340]]
 
-- **No paralelas alabeadas:** sistema incompatible
+- **No paralelas alabeadas:**
+	Esto pasa solo en $\mathbb{R}^3$. Son rectas que no son paralelas y tampoco se cortan. Entonces no están en un mismo plano. Geométricamente: están “cruzadas” en el espacio y algebraicamente el sistema no tiene solución (**incompatible**).
 
 ![[alabeadas.png|345]]
-
+#### Paralelismo e intersección entre planos
+Dos planos son paralelos si y solo si sus vectores normales son linealmente dependientes:
