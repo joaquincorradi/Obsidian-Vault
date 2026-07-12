@@ -207,13 +207,13 @@ para algún $k\in \mathbb{R}$. Se denota $\vec{u}\parallel \vec{v}$.
 *(nota: el vector nulo es paralelo a todo vector)*
 ## Recta
 #### Ecuaciones de la recta
-Una recta en $\mathbb{R}^3$ queda determinada por un punto de la recta $P¿$
-- **Ecuación vectorial:**
-Si una recta pasa por el punto 
+Una recta en $\mathbb{R}^3$ queda determinada por un punto de la recta $P=(x_{1}, y_{1}, z_{1})$ y un vector director $\vec{v}=(v_{x}, v_{y}, v_{z})$, que indica la dirección de la recta.
+1. **Ecuación vectorial:**
+	Si $P=(x_{1}, y_{1}, z_{1})$ pertenece a la recta y $\vec{v}=(v_{x}, v_{y}, v_{z})$ es un vector director, entonces la recta se escribe como:
 $$(x,y,z)=(x_{1},y_{1}, z_{1})+t(v_{x}, v_{y}, v_{z})$$
-- **Ecuaciones paramétricas:**
+2. **Ecuaciones paramétricas:**
 $$\left\{\begin{array}{ll} x=x_{1}+tv_{x} \\ y=y_{1}+tv_{y} \\ z=z_{1}+tv_{z} \end{array}\right.$$
-- **Ecuación simétrica (despejando $t$):**
+3. **Ecuación simétrica (despejando $t$):**
 $$\frac{x-x_{1}}{v_{x}}=\frac{y-y_{1}}{v_{y}}=\frac{z-z_{1}}{v_{z}}$$
 - **Ecuación general (implícita):**
 $$\left\{\begin{array}{ll} Ax+By+Cz+D=0 \\ A'x+B'y+C'z+D'=0  \end{array}\right.$$
