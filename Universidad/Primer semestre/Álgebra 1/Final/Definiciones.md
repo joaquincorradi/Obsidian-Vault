@@ -202,7 +202,7 @@ $$
 
 #### Vectores paralelos
 Dos vectores son paralelos si y sólo si uno de ellos es múltiplo escalar del otro. Es decir, existen $\vec{u}$ y $\vec{v}$ tales que
-$$\vec{u}=k\vec{v}$$
+$$\vec{u}=k\cdot\vec{v}$$
 para algún $k\in \mathbb{R}$. Se denota $\vec{u}\parallel \vec{v}$.
 *(nota: el vector nulo es paralelo a todo vector)*
 ## Recta
@@ -246,7 +246,7 @@ $$
 \frac{x-x_{1}}{v_{x}}=\frac{y-y_{1}}{v_{y}}=\frac{z-z_{1}}{v_{z}}
 }
 $$
-1. **Ecuación general (implícita):**
+4. **Ecuación general (implícita):**
 	A partir de la ecuación simétrica podemos igualar dos a dos, y de ahí salen dos ecuaciones
 	$$
 	\frac{x-x_{1}}{v_{x}}=\frac{y-y_{1}}{v_{y}}  
@@ -285,4 +285,10 @@ A'x+B'y+C'z+D'&=0
 }
 $$
 
-
+	donde, en este caso,
+	- $A=v_y,\qquad B=-v_x,\qquad C=0,\qquad D=-v_yx_1+v_xy_1$
+	- $A'=v_z,\qquad B'=0,\qquad C'=-v_x,\qquad D'=-v_zx_1+v_xz_1$
+#### Paralelismos e intersección entre rectas
+Dos rectas son paralelas si y sólo sí sus vectores directores lo son, es decir, si estos son **linealmente dependientes**:
+$$r_{1}\parallel r_{2}\iff \vec{u}\parallel \vec{v}\iff \vec{u}=k\cdot\vec{v}$$
+y se pueden presentar los siguientes casos
