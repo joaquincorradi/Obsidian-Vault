@@ -235,17 +235,29 @@ $$\frac{x-x_{1}}{v_{x}}=\frac{y-y_{1}}{v_{y}}=\frac{z-z_{1}}{v_{z}}$$
 4. **Ecuación general (implícita):**
 	A partir de la ecuación simétrica podemos igualar dos a dos, y de ahí salen dos ecuaciones
 	$$
-	\frac{x-x_{1}}{v_{x}}=\frac{y-y_{1}}{v_{y}}\qquad \text{y} \qquad \frac{y-y_{1}}{v_{y}}=\frac{z-z_{1}}{v_{z}}
+	\frac{x-x_{1}}{v_{x}}=\frac{y-y_{1}}{v_{y}}  
+\qquad \text{y} \qquad  
+\frac{x-x_{1}}{v_{x}}=\frac{z-z_{1}}{v_{z}}
 	$$
 	Ahora se cruzan multiplicando:
 $$
-\begin{align}
-(x-x_{1})\cdot v_{x}-v_{y}\cdot(y-y_{1})&=0 \\
-(y-y_{1})\cdot v_{y}-v_{z}\cdot(z-z_{1})&=0
-\end{align}
+\begin{cases}  
+v_y(x-x_1)-v_x(y-y_1)=0\  
+v_z(x-x_1)-v_x(z-z_1)=0  
+\end{cases}
 $$
 
 	Operando:
-	$$$$
-$$\left\{\begin{array}{ll} Ax+By+Cz+D=0 \\ A'x+B'y+C'z+D'=0  \end{array}\right.$$
+$$
+\begin{cases}
+xv_{x}-x_{1}v_{x}-yv_{y}+v_{y}y_{1}&=0 \\
+yv_{y}-y_{1}v_{y}-zv_{z}+v_{z}z_{1}&=0
+\end{cases}
+$$
+Y ahora?
+$$
+\begin{cases}
+Ax+By+Cz+D=0 \\ A'x+B'y+C'z+D'=0
+\end{cases}
+$$
 
