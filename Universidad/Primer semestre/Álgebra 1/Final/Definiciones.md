@@ -221,9 +221,31 @@ $$(x,y,z)=(x_{1},y_{1}, z_{1})+t(v_{x}, v_{y}, v_{z})$$
 	$$(x,y,z)=(x_{1}+tv_{x}, y_{1}+tv_{y}, z_{1}+tv_{z})$$
 	Y aplicando el concepto de igualdad de vectores obtenemos las ecuaciones paramétricas de la recta:
 $$\left\{\begin{array}{ll} x=x_{1}+tv_{x} \\ y=y_{1}+tv_{y} \\ z=z_{1}+tv_{z} \end{array}\right.$$
-3. **Ecuación simétrica (despejando $t$):**
-	Si $v_{x}$, $v_{y}$, y $v_{z}$ son distintos de cero, se despeja el parámetro $t$ en las ecuaciones paramétricas obtenemos la ecuación simétrica de la recta:
+3. **Ecuación simétrica:**
+	Si $v_{x}$, $v_{y}$, y $v_{z}$ son distintos de cero, se despeja el parámetro $t$ en las ecuaciones paramétricas, por ejemplo,
+	$$
+	\begin{align}
+x&=x_{1}+tv_{x} \\
+x-x_{1}&=tv_{x} \\
+\frac{x-x_{1}}{v_{x}}&=t
+\end{align}
+	$$
+	 Todas las ecuaciones quedan igualadas a $t$ y obtenemos la ecuación simétrica de la recta:
 $$\frac{x-x_{1}}{v_{x}}=\frac{y-y_{1}}{v_{y}}=\frac{z-z_{1}}{v_{z}}$$
-5. **Ecuación general (implícita):**
+4. **Ecuación general (implícita):**
+	A partir de la ecuación simétrica podemos igualar dos a dos, y de ahí salen dos ecuaciones
+	$$
+	\frac{x-x_{1}}{v_{x}}=\frac{y-y_{1}}{v_{y}}\qquad \text{y} \qquad \frac{y-y_{1}}{v_{y}}=\frac{z-z_{1}}{v_{z}}
+	$$
+	Ahora se cruzan multiplicando:
+$$
+\begin{align}
+(x-x_{1})\cdot v_{x}-v_{y}\cdot(y-y_{1})&=0 \\
+(y-y_{1})\cdot v_{y}-v_{z}\cdot(z-z_{1})&=0
+\end{align}
+$$
+
+	Operando:
+	$$$$
 $$\left\{\begin{array}{ll} Ax+By+Cz+D=0 \\ A'x+B'y+C'z+D'=0  \end{array}\right.$$
 
