@@ -210,7 +210,11 @@ para algún $k\in \mathbb{R}$. Se denota $\vec{u}\parallel \vec{v}$.
 Una recta en $\mathbb{R}^3$ queda determinada por un punto de la recta $P=(x_{1}, y_{1}, z_{1})$ y un vector director $\vec{v}=(v_{x}, v_{y}, v_{z})$, que indica la dirección de la recta.
 1. **Ecuación vectorial:**
 	Si $P=(x_{1}, y_{1}, z_{1})$ pertenece a la recta y $\vec{v}=(v_{x}, v_{y}, v_{z})$ es un vector director, entonces la recta se escribe como:
-$$(x,y,z)=(x_{1},y_{1}, z_{1})+t(v_{x}, v_{y}, v_{z})$$
+$$
+\boxed{
+(x,y,z)=(x_{1},y_{1}, z_{1})+t(v_{x}, v_{y}, v_{z})
+}
+$$
 	Donde
 	- $(x,y,z)$ son las coordenadas de un punto cualquiera de la recta.
 	- $(x_{1},y_{1}, z_{1})$ son las coordenadas del punto conocido.
@@ -220,7 +224,13 @@ $$(x,y,z)=(x_{1},y_{1}, z_{1})+t(v_{x}, v_{y}, v_{z})$$
 	Si conocemos la ecuación vectorial de la recta, operando en el segundo miembro queda
 	$$(x,y,z)=(x_{1}+tv_{x}, y_{1}+tv_{y}, z_{1}+tv_{z})$$
 	Y aplicando el concepto de igualdad de vectores obtenemos las ecuaciones paramétricas de la recta:
-$$\left\{\begin{array}{ll} x=x_{1}+tv_{x} \\ y=y_{1}+tv_{y} \\ z=z_{1}+tv_{z} \end{array}\right.$$
+$$
+\boxed{
+\begin{cases}
+x=x_{1}+tv_{x} \\ y=y_{1}+tv_{y} \\ z=z_{1}+tv_{z} 
+\end{cases}
+}
+$$
 3. **Ecuación simétrica:**
 	Si $v_{x}$, $v_{y}$, y $v_{z}$ son distintos de cero, se despeja el parámetro $t$ en las ecuaciones paramétricas, por ejemplo,
 	$$
@@ -231,8 +241,12 @@ x-x_{1}&=tv_{x} \\
 \end{align}
 	$$
 	 Todas las ecuaciones quedan igualadas a $t$ y obtenemos la ecuación simétrica de la recta:
-$$\frac{x-x_{1}}{v_{x}}=\frac{y-y_{1}}{v_{y}}=\frac{z-z_{1}}{v_{z}}$$
-4. **Ecuación general (implícita):**
+$$
+\boxed{
+\frac{x-x_{1}}{v_{x}}=\frac{y-y_{1}}{v_{y}}=\frac{z-z_{1}}{v_{z}}
+}
+$$
+1. **Ecuación general (implícita):**
 	A partir de la ecuación simétrica podemos igualar dos a dos, y de ahí salen dos ecuaciones
 	$$
 	\frac{x-x_{1}}{v_{x}}=\frac{y-y_{1}}{v_{y}}  
@@ -242,22 +256,33 @@ $$\frac{x-x_{1}}{v_{x}}=\frac{y-y_{1}}{v_{y}}=\frac{z-z_{1}}{v_{z}}$$
 	Ahora se cruzan multiplicando:
 $$
 \begin{cases}  
-v_y(x-x_1)-v_x(y-y_1)=0\  
-v_z(x-x_1)-v_x(z-z_1)=0  
+v_y(x-x_1)-v_x(y-y_1)&=0 \\  
+v_z(x-x_1)-v_x(z-z_1)&=0  
 \end{cases}
 $$
 
 	Operando:
 $$
-\begin{cases}
-xv_{x}-x_{1}v_{x}-yv_{y}+v_{y}y_{1}&=0 \\
-yv_{y}-y_{1}v_{y}-zv_{z}+v_{z}z_{1}&=0
+\begin{cases}  
+v_yx-v_yx_1-v_xy+v_xy_1&=0 \\  
+v_zx-v_zx_1-v_xz+v_xz_1&=0  
 \end{cases}
 $$
-Y ahora?
+	Y ahora se agrupan los términos en $x$, $y$, $z$ y el término independiente:
 $$
-\begin{cases}
-Ax+By+Cz+D=0 \\ A'x+B'y+C'z+D'=0
+\begin{cases}  
+v_yx-v_xy+0z+(-v_yx_1+v_xy_1)&=0 \\  
+v_zx+0y-v_xz+(-v_zx_1+v_xz_1)&=0  
 \end{cases}
 $$
+	Por lo tanto, la recta queda escrita en forma implícita como la intersección de dos planos:
+$$
+\boxed{
+\begin{cases}
+Ax+By+Cz+D&=0 \\
+A'x+B'y+C'z+D'&=0
+\end{cases}
+}
+$$
+
 
