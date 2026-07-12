@@ -211,10 +211,16 @@ Una recta en $\mathbb{R}^3$ queda determinada por un punto de la recta $P=(x_{1}
 1. **Ecuación vectorial:**
 	Si $P=(x_{1}, y_{1}, z_{1})$ pertenece a la recta y $\vec{v}=(v_{x}, v_{y}, v_{z})$ es un vector director, entonces la recta se escribe como:
 $$(x,y,z)=(x_{1},y_{1}, z_{1})+t(v_{x}, v_{y}, v_{z})$$
+	Donde
+	- $(x,y,z)$ son las coordenadas de un punto cualquiera de la recta.
+	- $(x_{1},y_{1}, z_{1})$ son las coordenadas del punto conocido.
+	- $(v_{x}, v_{y}, v_{z})$ son las componentes del vector director.
+	- $t$ es el parámetro que cambia y genera todos los puntos de la recta.
 2. **Ecuaciones paramétricas:**
+	Si conocemos la ecuación vectorial de la recta
 $$\left\{\begin{array}{ll} x=x_{1}+tv_{x} \\ y=y_{1}+tv_{y} \\ z=z_{1}+tv_{z} \end{array}\right.$$
 3. **Ecuación simétrica (despejando $t$):**
 $$\frac{x-x_{1}}{v_{x}}=\frac{y-y_{1}}{v_{y}}=\frac{z-z_{1}}{v_{z}}$$
-- **Ecuación general (implícita):**
+4. **Ecuación general (implícita):**
 $$\left\{\begin{array}{ll} Ax+By+Cz+D=0 \\ A'x+B'y+C'z+D'=0  \end{array}\right.$$
 
