@@ -54,7 +54,7 @@ $$
 $$
 #### $\star$ Matriz simétrica
 Una matriz es simétrica si es una matriz cuadrada, la cual tiene la característica de ser igual a su traspuesta.
-$$A \text{ es simétrica} \iff A = A^\textsf{t}$$
+$$\boxed{A \text{ es simétrica} \iff A = A^\textsf{t}}$$
 Por ejemplo:
 $$
 \begin{bmatrix}
@@ -121,7 +121,7 @@ El rango de una matriz es el número máximo de filas que son linealmente indepe
 Una matriz cuadrada $A$ de $n\times n$ se dice invertible si existe otra matriz cuadrada $B$ de $n\times n$ tal que
 $$AB=BA=I$$
 Entonces $B$ se llama inversa de $A$ y se denota por $A^{-1}$. Entonces se tiene
-$$AA^{-1}=A^{-1}A=I$$
+$$\boxed{AA^{-1}=A^{-1}A=I}$$
 #### Determinante de una matriz
 El determinante es un valor numérico asociado a una matriz cuadrada.
 - El determinante de una matriz de $2\times 2$:
@@ -168,15 +168,15 @@ Si está determinado por dos puntos $P$ y $Q$, se lo denota $\vec v=\overrightar
 - **Vector fijo:** tienen un determinado punto de aplicación (punto inicial del segmento orientado).
 - $\star$ **Vector libre:** segmento dirigido que puede ubicarse en cualquier punto del plano o del espacio, manteniendo siempre su módulo, dirección y sentido.
 - **Vector unitario/versor:** vector cuyo módulo es igual a $1$. Se utiliza para representar únicamente la dirección y el sentido de un vector. Si $\vec{v}\neq \vec{0}$, el versor asociado se obtiene dividiendo el vector por su módulo (normalizar):
-$$\hat{v}=\frac{\vec{v}}{\left\|\vec{v}\right\|}$$
+$$\boxed{\hat{v}=\frac{\vec{v}}{\left\|\vec{v}\right\|}}$$
 - **Vector nulo:** vector cuyo módulo es igual a $0$ y se representa como $\vec{0}$. También $\vec{v}+\vec{0}=\vec{0}+\vec{v}=\vec{v}$.
 #### Modulo de un vector
 Sea $\vec{v}=(v_{1}, v_{2}, v_{3})$, su módulo es el número real dado por la expresión:
-$$\left\|\vec{v}\right\|=\sqrt {v_{1}^2+v_{2}^2+v_{3}^2}$$
+$$\boxed{\left\|\vec{v}\right\|=\sqrt {v_{1}^2+v_{2}^2+v_{3}^2}}$$
 
 #### $\star$ Producto punto (producto escalar, producto interno)
 El producto punto de dos vectores $\vec{u}$ y $\vec{v}$, se define por:
-$$\vec{u}\cdot \vec{v}=\left\|\vec{u}\right\|\left\|\vec{v}\right\|\cos(\theta)$$
+$$\boxed{\vec{u}\cdot \vec{v}=\left\|\vec{u}\right\|\left\|\vec{v}\right\|\cos(\theta)}$$
 donde $\theta$ es el ángulo entre ambos vectores. El resultado es un **número real**.
 En coordenadas, si $\vec{u}=(u_1, \ldots, u_n)$ y $\vec{v}=(v_1, \ldots, v_n)$,
 $$\vec{u}\cdot \vec{v}=u_{1}v_{1}+\cdots+u_{n}v_{n}$$
@@ -185,7 +185,7 @@ $$\vec{u}\cdot \vec{v}=u_{1}v_{1}+\cdots+u_{n}v_{n}$$
 
 #### Producto cruz (producto vectorial)
 El producto punto de dos vectores $\vec{u},\vec{v}\in \mathbb{R}^3$, se define como un vector $\vec{u}\times \vec{v}$ que es perpendicular a ambos, cuyo módulo es:
-$$\left\|\vec{u}\times \vec{v}\right\|=\left\|\vec{u}\right\|\left\|\vec{v}\right\|\sin(\theta)$$
+$$\boxed{\left\|\vec{u}\times \vec{v}\right\|=\left\|\vec{u}\right\|\left\|\vec{v}\right\|\sin(\theta)}$$
 y cuyo sentido se determina por la **regla de la mano derecha**.
 En coordenadas,
 $$\vec{u}\times \vec{v}=
@@ -202,7 +202,7 @@ $$
 
 #### Vectores paralelos
 Dos vectores son paralelos si y sólo si uno de ellos es múltiplo escalar del otro. Es decir, existen $\vec{u}$ y $\vec{v}$ tales que
-$$\vec{u}=k\cdot\vec{v}$$
+$$\boxed{\vec{u}=k\cdot\vec{v}}$$
 para algún $k\in \mathbb{R}$. Se denota $\vec{u}\parallel \vec{v}$.
 *(nota: el vector nulo es paralelo a todo vector)*
 ## Recta
@@ -290,7 +290,7 @@ $$
 	- $A'=v_z,\qquad B'=0,\qquad C'=-v_x,\qquad D'=-v_zx_1+v_xz_1$
 #### Paralelismos e intersección entre rectas
 Dos rectas son paralelas si y sólo si sus vectores directores lo son, es decir, si estos son **linealmente dependientes**:
-$$r_{1}\parallel r_{2}\iff \vec{u}\parallel \vec{v}\iff \vec{u}=k\cdot\vec{v}$$
+$$\boxed{r_{1}\parallel r_{2}\iff \vec{u}\parallel \vec{v}\iff \vec{u}=k\cdot\vec{v}}$$
 y se pueden presentar los siguientes casos:
 - **Paralelas coincidentes:** 
 	Las dos rectas tienen la misma dirección y además pasan por los mismos puntos, o sea, en realidad son la misma recta. Geométricamente son una sola recta escrita de dos formas y algebraicamente el sistema tiene infinitas soluciones (**compatible indeterminado**).
@@ -312,9 +312,7 @@ y se pueden presentar los siguientes casos:
 
 ![[alabeadas.png|345]]
 ## Plano
-Un plano en $\mathbb{R}^3$ es una superficie “plana” e infinita que queda determinada, por ejemplo, por:
+Un plano en $\mathbb{R}^3$ es **una superficie bidimensional infinita que carece de grosor y se extiende en todas las direcciones**. Contiene un número infinito de puntos y rectas, y para definirlo de manera única se requieren al menos tres puntos no alineados, dos rectas que se cortan o un punto y una recta.
 #### Paralelismo e intersección entre planos
 Dos planos son paralelas si y sólo si sus vectores normales lo son, es decir, si estos son **linealmente dependientes**:
-$$\pi_{1}\parallel \pi_{2}\iff \vec{n_{1}}\parallel \vec{n_{2}}\iff \vec{n_{1}}=k\cdot\vec{n_{2}}$$
-y se pueden presentar los siguientes casos:
-- 
+$$\boxed{\pi_{1}\parallel \pi_{2}\iff \vec{n_{1}}\parallel \vec{n_{2}}\iff \vec{n_{1}}=k\cdot\vec{n_{2}}}$$
