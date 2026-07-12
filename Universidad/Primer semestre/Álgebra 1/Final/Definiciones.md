@@ -289,9 +289,9 @@ $$
 	- $A=v_y,\qquad B=-v_x,\qquad C=0,\qquad D=-v_yx_1+v_xy_1$
 	- $A'=v_z,\qquad B'=0,\qquad C'=-v_x,\qquad D'=-v_zx_1+v_xz_1$
 #### Paralelismos e intersección entre rectas
-Dos rectas son paralelas si y sólo sí sus vectores directores lo son, es decir, si estos son **linealmente dependientes**:
+Dos rectas son paralelas si y sólo si sus vectores directores lo son, es decir, si estos son **linealmente dependientes**:
 $$r_{1}\parallel r_{2}\iff \vec{u}\parallel \vec{v}\iff \vec{u}=k\cdot\vec{v}$$
-y se pueden presentar los siguientes casos
+y se pueden presentar los siguientes casos:
 - **Paralelas coincidentes:** 
 	Las dos rectas tienen la misma dirección y además pasan por los mismos puntos, o sea, en realidad son la misma recta. Geométricamente son una sola recta escrita de dos formas y algebraicamente el sistema tiene infinitas soluciones (**compatible indeterminado**).
 
@@ -311,5 +311,10 @@ y se pueden presentar los siguientes casos
 	Esto pasa solo en $\mathbb{R}^3$. Son rectas que no son paralelas y tampoco se cortan. Entonces no están en un mismo plano. Geométricamente: están “cruzadas” en el espacio y algebraicamente el sistema no tiene solución (**incompatible**).
 
 ![[alabeadas.png|345]]
+## Plano
+Un plano en $\mathbb{R}^3$ es una superficie “plana” e infinita que queda determinada, por ejemplo, por:
 #### Paralelismo e intersección entre planos
-Dos planos son paralelos si y solo si sus vectores normales son linealmente dependientes:
+Dos planos son paralelas si y sólo si sus vectores normales lo son, es decir, si estos son **linealmente dependientes**:
+$$\pi_{1}\parallel \pi_{2}\iff \vec{n_{1}}\parallel \vec{n_{2}}\iff \vec{n_{1}}=k\cdot\vec{n_{2}}$$
+y se pueden presentar los siguientes casos:
+- 
