@@ -29,6 +29,13 @@ $$
 8. $B$ es equivalente por filas a $A$ cuando $A$ y $B$ son cuadradas.
 	**FALSO.** Ser cuadradas no implica equivalencia por filas. La equivalencia por filas requiere que tengan el mismo tamaño y que una se obtenga de la otra por operaciones elementales por filas.
 9. La razón trigonométrica que relaciona un ángulo con los dos catetos es el coseno.
-	
+	**FALSO.** La razón que relaciona los dos catetos es la tangente:
+$$\tan(\theta)=\frac{\text{cateto opuesto}}{\text{cateto adyacente}}$$
+	El coseno relaciona cateto adyacente e hipotenusa.
 10. La longitud de un arco se obtiene multiplicando el radio por el ángulo en radianes.
+	**VERDADERO.** Si el ángulo $\theta$ está expresado en radianes, la longitud $L$ del arco es
+	$$L=r\cdot \theta$$
 11. Un radian es la medida del radio.
+	**FALSO.** Un radian no mide un radio; es una unidad de medida de ángulos. Un ángulo de 1 radián es el que subtiende un arco cuya longitud es igual al radio de la circunferencia.
+	
+	![[Radian_cropped_color.svg|257]]
