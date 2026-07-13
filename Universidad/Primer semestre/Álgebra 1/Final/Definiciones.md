@@ -322,9 +322,14 @@ $$
 	- $A'=v_z,\qquad B'=0,\qquad C'=-v_x,\qquad D'=-v_zx_1+v_xz_1$
 5. **Ecuación segmentaria (canónica):**
 	La ecuación segmentaria de una recta es la forma que expresa la recta a partir de sus cortes con los ejes.
+	En $\mathbb{R}^2$, si la recta corta al eje $x$ en $(a,0)$ y al eje $y$ en $(0,b)$, entonces se escribe:
+	$$\boxed{\frac{x}{a}+\frac{y}{b}=1}$$
+	donde
+	- $a$: es la abscisa del corte con el eje $x$.
+	- $b$: es la ordenada del corte con el eje $y$.
 6. **Ecuación explícita:**
 	La ecuación explícita de la recta sirve para describir una recta usando directamente la coordenada $x$ y la coordenada $y$:
-	$$y=mx+b$$
+	$$\boxed{y=mx+b}$$
 	donde
 	- $m$: es la pendiente de la recta.
 	- $b$: es la ordenada al origen.
