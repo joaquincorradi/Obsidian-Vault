@@ -55,9 +55,19 @@ $$
 #### $\star$ Matriz simétrica
 Una matriz simétrica es una matriz cuadrada la cual tiene la característica de ser igual a su traspuesta.
 $$\boxed{A \text{ es simétrica} \iff A = A^\textsf{t}}$$
-Por ejemplo:
+Por ejemplo, la matriz
 $$
+A=
 \begin{bmatrix}
+    1 & 7 & 3 \\
+    7 & 4 & 5 \\
+    3 & 5 & 2
+  \end{bmatrix}
+$$
+es simétrica, ya que
+$$
+A^\textsf{t} =
+  \begin{bmatrix}
     1 & 7 & 3 \\
     7 & 4 & 5 \\
     3 & 5 & 2
@@ -66,6 +76,24 @@ $$
 #### Matriz antisimétrica
 Una matriz antisimétrica es una matriz cuadrada $A$ cuya traspuesta es igual a su opuesta.
 $$\boxed{A \text{ es antisimétrica} \iff A^\textsf{t}=-A}$$
+Por ejemplo, la matriz
+$$
+A=
+\begin{bmatrix}
+      0 & -2 & 4\\
+  2 & 0 & 2\\
+  -4 & -2 & 0
+\end{bmatrix}
+$$
+es antisimétrica, ya que
+$$
+A^\textsf{t}=\begin{bmatrix}
+    0 & 2 & -4 \\
+    -2 & 0 & -2 \\
+    4 & 2 & 0
+\end{bmatrix}
+= -A
+$$
 #### $\star$ Matriz triangular superior
 Una matriz triangular superior es una matriz cuadrada donde todos los elementos situados por debajo de su diagonal principal son cero.
 $$
