@@ -28,7 +28,7 @@ C(x-x_1)-A(z-z_1)=0
 \end{cases}}$$
 En resumen, a partir de dos puntos de una recta se puede dar, al menos, estas representaciones equivalentes:
 
-1. **Vectorial:** $\vec r=\vec r_1+t\vec v$
-2. **Paramétrica:** sistema en $(x,y,z)$
-3. **Continua o simétrica:** igualdad de fracciones
-4. **Implícita:** intersección de dos planos
+-  **Vectorial:** $\vec r=\vec r_1+t\vec v$
+- **Paramétrica:** sistema en $(x,y,z)$
+- **Simétrica:** igualdad de fracciones
+- **Implícita:** intersección de dos planos
