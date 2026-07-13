@@ -17,9 +17,18 @@ $$
 4. Si se conocen los tres lados, los ángulos se obtienen por el teorema del seno.
 	**FALSO.** Con los tres lados, el método directo **es el teorema del coseno**, no el del seno. El teorema del seno relaciona lados y ángulos opuestos, pero para aplicarlo hace falta conocer al menos un ángulo o algún dato adicional. 
 5. Si el coseno de un ángulo es negativo, el ángulo pertenece al primer o segundo cuadrante.
+	**FALSO.** El coseno es negativo en el segundo y tercer cuadrante, no en el primero y segundo.”
+	
+	![[Pasted image 20260713190700.png|376]]
+	
 6. Dada una matriz $A\in K^{m\times n}$, el $\operatorname{rg}(A)>m$.
+	**FALSO.** El rango de una matriz nunca puede superar el número de filas, ni el número de columnas. Siempre se cumple:
+	$$\operatorname{rg}(A)\leqslant m\qquad y \qquad \operatorname{rg}(A)\leqslant n$$
 7. En un sistema de ecuaciones lineales una incógnita principal es aquella que corresponde a una columna principal en la matriz de coeficientes.
+	**VERDADERO.** Las incógnitas principales corresponden a las columnas principales o pivote de la matriz de coeficientes
 8. $B$ es equivalente por filas a $A$ cuando $A$ y $B$ son cuadradas.
+	**FALSO.** Ser cuadradas no implica equivalencia por filas. La equivalencia por filas requiere que tengan el mismo tamaño y que una se obtenga de la otra por operaciones elementales por filas.
 9. La razón trigonométrica que relaciona un ángulo con los dos catetos es el coseno.
+	
 10. La longitud de un arco se obtiene multiplicando el radio por el ángulo en radianes.
 11. Un radian es la medida del radio.
