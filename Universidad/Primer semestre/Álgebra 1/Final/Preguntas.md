@@ -32,3 +32,7 @@ En resumen, a partir de dos puntos de una recta se puede dar, al menos, estas re
 - **Paramétrica:** sistema en $(x,y,z)$
 - **Simétrica:** igualdad de fracciones
 - **Implícita:** intersección de dos planos
+
+---
+
+2. 
