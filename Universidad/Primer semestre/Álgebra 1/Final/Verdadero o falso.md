@@ -36,6 +36,6 @@ $$\tan(\theta)=\frac{\text{cateto opuesto}}{\text{cateto adyacente}}$$
 	**VERDADERO.** Si el ángulo $\theta$ está expresado en radianes, la longitud $L$ del arco es
 	$$L=r\cdot \theta$$
 11. Un radian es la medida del radio.
-	**FALSO.** Un radian no mide un radio; es una unidad de medida de ángulos. Un ángulo de 1 radián es el que subtiende un arco cuya longitud es igual al radio de la circunferencia.
+	**FALSO.** Un radian no mide un radio; es una unidad de medida de ángulos. Un ángulo de $1\operatorname{rad}$ es el que subtiende un arco cuya longitud es igual al radio de la circunferencia.
 	
 	![[Radian_cropped_color.svg|257]]
