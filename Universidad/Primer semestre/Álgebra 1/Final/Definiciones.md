@@ -72,6 +72,7 @@ A^\textsf{t} =
     7 & 4 & 5 \\
     3 & 5 & 2
   \end{bmatrix}
+  =A
 $$
 #### Matriz antisimétrica
 Una matriz antisimétrica es una matriz cuadrada $A$ cuya traspuesta es igual a su opuesta.
