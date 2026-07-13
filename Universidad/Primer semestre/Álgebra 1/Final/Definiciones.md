@@ -322,6 +322,12 @@ $$
 	- $A'=v_z,\qquad B'=0,\qquad C'=-v_x,\qquad D'=-v_zx_1+v_xz_1$
 5. **Ecuación segmentaria (canónica):**
 	La ecuación segmentaria de una recta es la forma que expresa la recta a partir de sus cortes con los ejes.
+6. **Ecuación explícita:**
+	La ecuación explícita de la recta sirve para describir una recta usando directamente la coordenada $x$ y la coordenada $y$:
+	$$y=mx+b$$
+	donde
+	- $m$: es la pendiente de la recta.
+	- $b$: es la ordenada al origen.
 #### Paralelismos e intersección entre rectas
 Dos rectas son paralelas si y sólo si sus vectores directores lo son, es decir, si estos son **linealmente dependientes**:
 $$\boxed{r_{1}\parallel r_{2}\iff \vec{u}\parallel \vec{v}\iff \vec{u}=k\cdot\vec{v}}$$
