@@ -4,4 +4,9 @@ Determinar si las siguientes afirmaciones son verdaderas o falsas. Justificar en
 3. Si un sistema de ecuaciones lineales tiene dos soluciones diferentes entonces el sistema tiene infinitas soluciones.
 4. Si se conocen los tres lados, los ángulos se obtienen por el teorema del seno.
 5. Si el coseno de un ángulo es negativo, el ángulo pertenece al primer o segundo cuadrante.
-6. Dada una matriz $A\in K^{m\times n}$, el $\operatorname{rg}(A)$
+6. Dada una matriz $A\in K^{m\times n}$, el $\operatorname{rg}(A)>m$.
+7. En un sistema de ecuaciones lineales una incógnita principal es aquella que corresponde a una columna principal en la matriz de coeficientes.
+8. $B$ es equivalente por filas a $A$ cuando $A$ y $B$ son cuadradas.
+9. La razón trigonométrica que relaciona un ángulo con los dos catetos es el coseno.
+10. La longitud de un arco se obtiene multiplicando el radio por el ángulo en radianes.
+11. Un radian es la medida del radio.
