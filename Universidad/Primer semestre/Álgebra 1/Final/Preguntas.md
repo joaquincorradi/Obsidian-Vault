@@ -39,3 +39,27 @@ C(x-x_1)-A(z-z_1)=0
 
 ![[ecuacion_vectorial.png|352]]
 
+---
+
+3. ¿Cómo se relaciona la pendiente de una recta con el ángulo que forma con el eje x?
+	La relación es
+	$$\boxed{m=\tan(\alpha)}$$
+	donde
+	- $m$: es la pendiente de la recta.
+	- $\alpha$: es el ángulo que forma la recta con el semieje positivo $x$, medido en sentido antihorario.
+	También se puede escribir
+	$$\alpha=\arctan(m)$$
+
+---
+
+4. Dadas las ecuaciones explícitas de dos rectas en en plano: $y_{1}=a_{1}x+b_{1}$ y $y_{2}=a_{2}x+b_{2}$, ¿Qué condiciones deben cumplirse para que las dos rectas: se intersequen; sean paralelas; sean coincidentes?
+	- **Se intersecan:** se cortan en un único punto si y solo si tienen pendientes distintas:
+	$$\boxed{a_{1}\neq a_{2}}$$
+	Porque al igualarlas,
+	$$a_{1}x+b_{1}=a_{2}x+b_{2}$$
+	queda una ecuación con una sola solución para $x$ cuando $a_{1}\neq a_{2}$.
+	- Son paralelas
+
+---
+
+5. 
