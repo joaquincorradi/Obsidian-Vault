@@ -6,7 +6,7 @@ $$\vec v=\overrightarrow{P_1P_2}=(x_2-x_1,;y_2-y_1,;z_2-z_1).$$
 
 Esto tiene sentido porque el vector que va de $(P_1)$ a $(P_2)$ indica la dirección de la recta.
 Entonces, una ecuación vectorial de la recta es
-$\boxed{\vec r=\vec r_1+t\vec v,\qquad t\in\mathbb R}$
+$\boxed{\vec r=\vec a+t\vec v,\qquad t\in\mathbb R}$
 donde $\vec r_1=(x_1,y_1,z_1)$ es el vector posición de $P_1$ y $\vec v$ es el vector director.
 Desarrollando coordenada a coordenada, se obtiene la forma paramétrica:
 $$\boxed{
