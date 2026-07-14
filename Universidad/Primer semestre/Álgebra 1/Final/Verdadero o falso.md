@@ -45,7 +45,16 @@ $$\tan(\theta)=\frac{\text{cateto opuesto}}{\text{cateto adyacente}}$$
 13. Si dos matrices ampliadas son equivalentes por filas, entonces los sistemas lineales que representan tienen el mismo conjunto de soluciones.
 	**VERDADERO.** Las operaciones elementales por filas no cambian el conjunto solución del sistema. Por eso, matrices ampliadas equivalentes por filas representan sistemas equivalentes.
 14. Si $\operatorname{rg}(A)=\operatorname{rg}(A∣H)=n$, entonces el sistema $AX=H$ es compatible determinado.
-	Por el teorema de Rouché-Frobenius, si el rango de la matriz de coeficientes coincide con el de la ampliada y además es igual al número de incógnitas, el sistema tiene solución única.
+	**VERDADERO.** Por el teorema de Rouché-Frobenius, si el rango de la matriz de coeficientes coincide con el de la ampliada y además es igual al número de incógnitas, el sistema tiene solución única.
 15. Si $\operatorname{rg}(A)=\operatorname{rg}(A∣H)<n$, entonces el sistema tiene infinitas soluciones.
-	**VERDADERO:** el sistema es compatible y el rango es menor que el número de incógnitas, entonces tiene infinitas soluciones.
-16. 
+	**VERDADERO.** el sistema es compatible y el rango es menor que el número de incógnitas, entonces tiene infinitas soluciones.
+16. Si una matriz cuadrada tiene determinante distinto de cero, entonces no es invertible.
+	**FALSO.** Ocurre lo contrario: una matriz cuadrada $A$ es invertible si y solo si $\operatorname{\det}(A)\neq 0$.
+17. Toda matriz cuadrada triangular tiene determinante igual al producto de los elementos de la diagonal principal.
+	**VERDADERO.** En toda matriz triangular el determinante es el producto de los elementos de la diagonal principal.
+18. Toda recta del plano puede escribirse en forma implícita $Ax+By+C=0$, con $a$ y $b$ no ambos nulos.
+	**VERDADERO.** Esa es la ecuación general de la recta en $\mathbb{R}^2$. Si $a$ y $b$ fueran ambos cero, la ecuación no definiría una recta.
+19. Si dos vectores son perpendiculares, entonces su producto escalar es distinto de cero.
+	**FALSO.** Dos vectores perpendiculares tienen producto escalar igual a cero, ya que:
+	$$\vec{u}\cdot \vec{v}=\left\|\vec{u}\right\|\left\|\vec{v}\right\|\cancelto{0}{\cos(90°)}=0$$
+20. 
