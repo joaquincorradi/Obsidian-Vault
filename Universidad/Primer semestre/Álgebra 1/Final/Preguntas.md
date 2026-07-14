@@ -58,8 +58,9 @@ C(x-x_1)-A(z-z_1)=0
 	Porque al igualarlas,
 	$$a_{1}x+b_{1}=a_{2}x+b_{2}$$
 	queda una ecuación con una sola solución para $x$ cuando $a_{1}\neq a_{2}$.
-	- Son paralelas
-
----
-
-5. 
+	- **Son paralelas:** son paralelas si tienen la misma pendiente y distinto término independiente:
+	$$a_{1}=a_{2}\qquad \text{y} \qquad b_{1}\neq b_{2}$$
+	Tienen la misma inclinación, pero están en distintas alturas, así que no se cortan.
+	- **Son coincidentes:** son la misma recta si tienen la misma pendiente y el mismo término independiente:
+	$$\boxed{a_{1}=a_{2}\qquad \text{y} \qquad b_{1}=b_{2}}$$
+	En ese caso, las dos ecuaciones representan exactamente el mismo conjunto de puntos.

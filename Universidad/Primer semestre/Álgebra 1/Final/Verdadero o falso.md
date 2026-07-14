@@ -39,3 +39,13 @@ $$\tan(\theta)=\frac{\text{cateto opuesto}}{\text{cateto adyacente}}$$
 	**FALSO.** Un radian no mide un radio; es una unidad de medida de ángulos. Un ángulo de $1\operatorname{rad}$ es el que subtiende un arco cuya longitud es igual al radio de la circunferencia.
 	
 	![[Radian_cropped_color.svg|257]]
+
+12. Si un sistema homogéneo tiene matriz de coeficientes invertible, entonces tiene una única solución.
+	**VERDADERO.** Si $A$ es invertible, entonces en el sistema homogéneo $AX=0$ se puede multiplicar por $A^{−1}$ y queda $X=A^{-1}0=0$. Por lo tanto, la única solución es la trivial.
+13. Si dos matrices ampliadas son equivalentes por filas, entonces los sistemas lineales que representan tienen el mismo conjunto de soluciones.
+	**VERDADERO.** Las operaciones elementales por filas no cambian el conjunto solución del sistema. Por eso, matrices ampliadas equivalentes por filas representan sistemas equivalentes.
+14. Si $\operatorname{rg}(A)=\operatorname{rg}(A∣H)=n$, entonces el sistema $AX=H$ es compatible determinado.
+	Por el teorema de Rouché-Frobenius, si el rango de la matriz de coeficientes coincide con el de la ampliada y además es igual al número de incógnitas, el sistema tiene solución única.
+15. Si $\operatorname{rg}(A)=\operatorname{rg}(A∣H)<n$, entonces el sistema tiene infinitas soluciones.
+	**VERDADERO:** el sistema es compatible y el rango es menor que el número de incógnitas, entonces tiene infinitas soluciones.
+16. 
