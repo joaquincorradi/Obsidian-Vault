@@ -28,4 +28,4 @@ Para que una ecuación sea considerada lineal en múltiples variables, **todas l
 	No es lineal porque las variables ‭$x, y, z$‬‭‬ ‭‬‭‬ ‭‬se encuentran dentro de una raíz cuadrada, lo cual representa exponentes fraccionarios (‭$(x+y-z)^{\frac{1}{2}}$‬‭‬‭‬‭‬‭‬).
 ## Completar
 1. Una matriz es un ___ dispuestos en filas y ___ . Si una matriz $A$ se representa como $A_{2\times 3}$ significa que tiene ____.
-2. 
+2. Sea la matriz $A = \begin{bmatrix}a_{11} & a_{12} & \cdots & a_{1n} \\a_{21} & a_{22} & \cdots & a_{2n} \\ \vdots  & \vdots  & \ddots & \vdots \\ a_{m1} & a_{m2} & \cdots & a_{mn} \\ \end{bmatrix}$ 
