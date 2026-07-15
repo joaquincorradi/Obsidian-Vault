@@ -18,3 +18,14 @@ Diferencias:
 2. $\frac{x+y-z}{w}=2$
 3. $\sqrt{ x+y-z }=2w$
 4. $\frac{x+y-z}{2}=w$
+**Respuesta correcta: 4**
+Para que una ecuación sea considerada lineal en múltiples variables, **todas las incógnitas deben estar elevadas a la primera potencia**, **no deben multiplicarse ni dividirse entre sí**, y **no pueden estar sujetas a operaciones como raíces, logaritmos o funciones trigonométricas**.
+- **Ecuación 1:** ‭$x+y-z=w^2$‬‭‬‭‬‭‬
+	No es lineal porque la variable ‭$w$‬ está elevada a una potencia distinta de uno (al cuadrado).
+-  **Ecuación 2:** ‭$\frac{x+y-z}{w}=2$‬‭‬
+	No es lineal porque la variable ‭$w$‬ se encuentra en el denominador, lo que implica una división por una variable (equivalente a ‭$w^{-1}$‬).
+- **Ecuación 3:** ‭$\sqrt{x+y-z}=2w$‬‭‬
+	No es lineal porque las variables ‭$x, y, z$‬‭‬ ‭‬‭‬ ‭‬se encuentran dentro de una raíz cuadrada, lo cual representa exponentes fraccionarios (‭$(x+y-z)^{\frac{1}{2}}$‬‭‬‭‬‭‬‭‬).
+## Completar
+1. Una matriz es un ___ dispuestos en filas y ___ . Si una matriz $A$ se representa como $A_{2\times 3}$ significa que tiene ____.
+2. 
