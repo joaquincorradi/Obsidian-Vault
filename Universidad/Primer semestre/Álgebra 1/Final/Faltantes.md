@@ -33,7 +33,9 @@ donde
 - **Amplitud ($A$):** es la altura máxima y mínima que alcanza la onda.
 - **Periodo ($T$):** es la longitud que tarda la onda en completar un ciclo completo y comenzar a repetirse. Se calcula como:
 	$$T=\frac{2\pi}{|B|}$$
-- 
+- **Desfase ($\phi$):** indica cuánto se desplaza la gráfica **horizontalmente** respecto a su posición original. Se calcula como:
+	$$\phi=-\frac{C}{B}$$
+- **Desplazamiento vertical ($D$):** indica cuánto se desplaza la gráfica **verticalmente** respecto a su posición original.
 ## Completar
 1. Una matriz es un <u>arreglo rectangular de números</u> dispuestos en filas y ___ . Si una matriz $A$ se representa como $A_{2\times 3}$ significa que tiene ____.
 2. Sea la matriz $\left[\begin{array}{@{}cccccc|c@{}} a_{11} & a_{12} & \cdots & a_{1r} & \cdots & a_{1n} & b_1 \\ 0 & a_{22} & \cdots & a_{2r} & \cdots & a_{2n} & b_2 \\ \vdots & \vdots & \vdots & \vdots & \ddots & \vdots & \vdots \\ 0 & 0 & \cdots & a_{rr} & \cdots & a_{rn} & b_r \end{array}\right]$ asociada al sistema resolvente, se concluye que el sistema es ___ . Las variables (o incógnitas) principales corresponden a las ___ en la matriz ___ . Las variables que pueden tomar valores arbitrarios se llaman ___ .
