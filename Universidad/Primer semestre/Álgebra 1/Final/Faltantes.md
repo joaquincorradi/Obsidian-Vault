@@ -28,4 +28,6 @@ Para que una ecuación sea considerada lineal en múltiples variables, **todas l
 	No es lineal porque las variables ‭$x, y, z$‬‭‬ ‭‬‭‬ ‭‬se encuentran dentro de una raíz cuadrada, lo cual representa exponentes fraccionarios (‭$(x+y-z)^{\frac{1}{2}}$‬‭‬‭‬‭‬‭‬).
 ## Completar
 1. Una matriz es un ___ dispuestos en filas y ___ . Si una matriz $A$ se representa como $A_{2\times 3}$ significa que tiene ____.
-2. Sea la matriz $\left[\begin{array}{@{}cccccc|c@{}} a_{11} & a_{12} & \cdots & a_{1r} & \cdots & a_{1n} & b_1 \\ 0 & a_{22} & \cdots & a_{2r} & \cdots & a_{2n} & b_2 \\ \vdots & \vdots & \vdots & \vdots & \vdots & \ddots & \vdots \\ 0 & 0 & \cdots & a_{rr} & \cdots & a_{rn} & b_r \end{array}\right]$ 
+2. Sea la matriz $\left[\begin{array}{@{}cccccc|c@{}} a_{11} & a_{12} & \cdots & a_{1r} & \cdots & a_{1n} & b_1 \\ 0 & a_{22} & \cdots & a_{2r} & \cdots & a_{2n} & b_2 \\ \vdots & \vdots & \vdots & \vdots & \ddots & \vdots & \vdots \\ 0 & 0 & \cdots & a_{rr} & \cdots & a_{rn} & b_r \end{array}\right]$ asociada al sistema resolvente, se concluye que el sistema es ___ . Las variables (o incógnitas) principales corresponden a las ___ en la matriz ___ . Las variables que pueden tomar valores arbitrarios se llaman ___ .
+3. En el ___ las funciones trigonométricas son positivas. En particular la función $4\sin(2\theta-1)+3$, el $4$ representa la ___ ___ , el $3$ representa el ___ , el periodo es ___ y el ángulo de fase vale ___ .
+4. Un vector es 
