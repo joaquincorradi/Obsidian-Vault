@@ -57,4 +57,10 @@ $$\tan(\theta)=\frac{\text{cateto opuesto}}{\text{cateto adyacente}}$$
 19. Si dos vectores son perpendiculares, entonces su producto escalar es distinto de cero.
 	**FALSO.** Dos vectores perpendiculares tienen producto escalar igual a cero, ya que:
 	$$\vec{u}\cdot \vec{v}=\left\|\vec{u}\right\|\left\|\vec{v}\right\|\cancelto{0}{\cos(90°)}=0$$
-20. 
+20. Si una matriz cuadrada tiene una fila nula, entonces su determinante es cero.
+	**VERDADERO.** Una fila nula implica dependencia lineal entre las filas, y por eso el determinante se anula, siendo esta una de las propiedades del determinantes:
+	1. **Matriz traspuesta:** el determinante de una matriz es igual al determinante de su matriz traspuesta $\det(A) = \det(A^t)$.
+	2. **Matriz triangular/diagonal:** si una matriz es triangular superior, inferior o diagonal, su determinante es simplemente el producto de los elementos de su diagonal principal.
+	3. **Ceros:** si todos los elementos de una fila o una columna son ceros, el determinante es cero.
+	4. Intercambio de líneas: si se intercambian dos filas o dos columnas entre sí, el determinante cambia de signo, pero conserva su valor absoluto.
+	5. Determinante del producto: el determinante del producto de dos matrices cuadradas del mismo orden es igual al producto de sus determinantes: $\det(A \cdot B) = \det(A) \cdot \det(B)$.
