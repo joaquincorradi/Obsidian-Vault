@@ -26,9 +26,11 @@ Para que una ecuación sea considerada lineal en múltiples variables, **todas l
 	No es lineal porque la variable ‭$w$‬ se encuentra en el denominador, lo que implica una división por una variable (equivalente a ‭$w^{-1}$‬).
 - **Ecuación 3:** ‭$\sqrt{x+y-z}=2w$‬‭‬
 	No es lineal porque las variables ‭$x, y, z$‬‭‬ ‭‬‭‬ ‭‬se encuentran dentro de una raíz cuadrada, lo cual representa exponentes fraccionarios (‭$(x+y-z)^{\frac{1}{2}}$‬‭‬‭‬‭‬‭‬).
-## Función seno
-Su fórmula general es:
+## Función seno y coseno
+La fórmula general del seno es:
 $$A\cdot \sin(Bx-C)+D$$
+Y la fórmula general del coseno es:
+$$A\cdot \cos(Bx-C)+D$$
 donde
 - **Amplitud ($A$):** es la altura máxima y mínima que alcanza la onda.
 - **Periodo ($T$):** es la longitud que tarda la onda en completar un ciclo completo y comenzar a repetirse. Se calcula como:
@@ -37,7 +39,7 @@ donde
 	$$\phi=-\frac{C}{B}$$
 - **Desplazamiento vertical ($D$):** indica cuánto se desplaza la gráfica **verticalmente** respecto a su posición original.
 ## Completar
-1. Una matriz es un <u>arreglo rectangular de números</u> dispuestos en filas y ___ . Si una matriz $A$ se representa como $A_{2\times 3}$ significa que tiene ____.
+1. Una matriz es un <u>arreglo rectangular de números</u> dispuestos en filas y <u>columnas</u> . Si una matriz $A$ se representa como $A_{2\times 3}$ significa que tiene <u>dos filas y tres columnas</u>.
 2. Sea la matriz $\left[\begin{array}{@{}cccccc|c@{}} a_{11} & a_{12} & \cdots & a_{1r} & \cdots & a_{1n} & b_1 \\ 0 & a_{22} & \cdots & a_{2r} & \cdots & a_{2n} & b_2 \\ \vdots & \vdots & \vdots & \vdots & \ddots & \vdots & \vdots \\ 0 & 0 & \cdots & a_{rr} & \cdots & a_{rn} & b_r \end{array}\right]$ asociada al sistema resolvente, se concluye que el sistema es ___ . Las variables (o incógnitas) principales corresponden a las ___ en la matriz ___ . Las variables que pueden tomar valores arbitrarios se llaman ___ .
 3. En el ___ las funciones trigonométricas son positivas. En particular la función $4\sin(2\theta-1)+3$, el $4$ representa la ___ ___ , el $3$ representa el ___ , el periodo es ___ y el ángulo de fase vale ___ .
 4. Un vector es ___ . El origen de coordenadas da lugar al vector ___ . Hay dos operaciones fundamentales a tener en cuenta durante el trabajo con vectores: ___ . Estas dos operaciones dan lugar a la ___ .
