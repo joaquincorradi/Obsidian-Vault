@@ -8,3 +8,4 @@ $$d(P,L)=\frac{Ax_{0}+By_{0}+C}{\sqrt{ A^2+B^2 }}$$
 ### Punto y plano
 $$d(P, \pi)=\frac{Ax_{0}+By_{0}+Cz_{0}+D}{\sqrt{ A^2+B^2+C^2 }}$$
 - $A,B,C$: componentes del vector normal.
+- $(x_{0}, y_{0}, z_{0})$: coordenadas del punto.
