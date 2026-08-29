@@ -1,5 +1,5 @@
 # Tabla de contenidos
-- [[#Unidad 2]] ([[Parcial 1]])
+- [[#Unidad 2]] ([[Notas/Universidad/Quinto semestre/Sistemas de Información/Parcial 1]])
 	- [[#Información]]
 		- [[#Concepto de información]]
 		- [[#Tipos]]
