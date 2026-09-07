@@ -13,10 +13,20 @@ $$
 \end{align}
 	$$
 	$$
-	W=\langle(-2,1,0),(-1,0,1)\rangle
+	\boxed{W=\langle(-2,1,0),(-1,0,1)\rangle}
 	$$
 2. **Base:**
 	$$
 	\alpha(-2,1,0)+\beta(-1,0,1)=(0,0,0)
 	$$
-	
+	 $$
+	 \begin{gather}
+\left[\begin{array}{@{}cc|c@{}} -2 & -1 & 0 \\ 1 & 0 & 0 \\ 0 & 1 & 0 \end{array}\right] \\
+\vdots \\
+\left[\begin{array}{@{}cc|c@{}} 1 & 0 & 0 \\ 0 & 1 & 0 \\ 0 & 0 & 0 \end{array}\right]
+\end{gather}
+	 $$
+	 Se puede observar entonces que el conjunto generador hallado ya es **linearmente independiente**, por lo tanto también es una base: 
+	 $$
+	 \boxed{\mathcal{B}_{W}=\{  \}}
+	 $$
