@@ -61,7 +61,6 @@ z=-2+\left( \frac{7}{9} \right)=-\frac{11}{9}
 	$$
 	\boxed{\operatorname{dist}(P,L)=\operatorname{dist}(P,Q)=\frac{\sqrt{ 221 }}{3}\ \mathrm{u}\approx 4,96\ \mathrm{u}}
 	$$
-
 ## El punto del plano $\pi$ más próximo al punto $P$
 $$
 \begin{gather}
@@ -114,6 +113,18 @@ z=1+\left( \frac{1}{3} \right)=\frac{2}{3}
 	$$
 	\boxed{\operatorname{dist}(P,\pi)=\operatorname{dist}(P,Q)=\frac{\sqrt{ 6 }}{3}\ \mathrm{u}\approx 0,82\ \mathrm{u}}
 	$$
-
 ## Ángulo entre vectores
-$$\cos(\theta)=\frac{\vec{u}\cdot \vec{u}}{}$$
+$$
+\begin{align}
+\cos(\theta)&=\frac{\vec{u}\cdot \vec{v}}{\lvert \vec{u} \rvert\lvert \vec{v} \rvert} \\
+\theta&=\arccos\left( \frac{\vec{u}\cdot \vec{v}}{\lvert \vec{u} \rvert\lvert \vec{v} \rvert} \right)
+\end{align}
+$$
+
+## Ángulo agudo entre rectas
+$$
+\begin{align}
+\cos(\theta)&=\frac{\lvert\vec{u}\cdot \vec{v}\rvert}{\lvert \vec{u} \rvert\lvert \vec{v} \rvert} \\
+\theta&=\arccos\left( \frac{\lvert\vec{u}\cdot \vec{v}\rvert}{\lvert \vec{u} \rvert\lvert \vec{v} \rvert} \right)
+\end{align}
+$$
