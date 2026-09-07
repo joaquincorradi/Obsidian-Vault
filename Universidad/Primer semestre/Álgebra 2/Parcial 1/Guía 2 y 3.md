@@ -37,8 +37,25 @@ $$
 $$
 \begin{gather}
 V=\mathbb{R}^3 \\
-W=\langle (-1,2,-2),(2,-1,-1),(3,-3,1) \rangle=\{ \alpha(-1,2,-2),\beta(2,-1,-1),\gamma(3,-3,1)mid \}
+W=\langle (-1,2,-2),(2,-1,-1),(3,-3,1) \rangle=\{ \alpha(-1,2,-2),\beta(2,-1,-1),\gamma(3,-3,1)\mid \alpha,\beta,\gamma \in \mathbb{R} \}
 \end{gather}
 $$
 1. **Caracterizar:** 
+	$$
+	\alpha(-1,2,-2),\beta(2,-1,-1),\gamma(3,-3,1)=(x,y,z)
+	$$
+	$$
+	\begin{gather}
+\left[\begin{array}{@{}ccc|c@{}} -1 & 2 & 3 & x \\ 2 & -1 & 3 & y \\ -2 & -1 & 1 & z \end{array}\right] \\
+\vdots \\
+\left[\begin{array}{@{}ccc|c@{}} 1 & -2 & -3 & -x \\ 0 & 3 & 3 & 2x+y \\ 0 & 0 & 0 & 5x+5y+3z=0 \end{array}\right]
+\end{gather}
+	$$
+	$$
+	\boxed{W=\{ (x,y,z)\mid 5x+5y+3z=0 \}}
+	$$
+2. **Base:**
+		$$
+	\alpha(-1,2,-2),\beta(2,-1,-1),\gamma(3,-3,1)=(0,0,0)
+	$$
 	
