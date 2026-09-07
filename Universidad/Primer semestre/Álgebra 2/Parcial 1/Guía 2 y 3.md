@@ -26,14 +26,14 @@ $$
 \left[\begin{array}{@{}cc|c@{}} 1 & 0 & 0 \\ 0 & 1 & 0 \\ 0 & 0 & 0 \end{array}\right]
 \end{gather}
 	 $$
-	 Se puede observar entonces que el conjunto generador hallado ya es **linearmente independiente**, por lo tanto también es una base: 
+	 Se puede observar entonces que el conjunto generador hallado ya es **linealmente independiente**, por lo tanto también es una base: 
 	 $$
 	 \boxed{\mathcal{B}_{W}=\{ (-2,1,0),(-1,0,1) \}}
 	 $$
 	 $$
 	 \boxed{\operatorname{dim}(W)=2}
 	 $$
-## Subespacios presentados de forma paramétrica
+## Subespacios presentados de forma paramétrica (1)
 $$
 \begin{gather}
 V=\mathbb{R}^3 \\
@@ -55,7 +55,27 @@ $$
 	\boxed{W=\{ (x,y,z)\mid 5x+5y+3z=0 \}}
 	$$
 2. **Base:**
-		$$
+	$$
 	\alpha(-1,2,-2),\beta(2,-1,-1),\gamma(3,-3,1)=(0,0,0)
 	$$
-	
+	$$
+	\begin{gather}
+\left[\begin{array}{@{}ccc|c@{}} 1 & -2 & -3 & 0\\ 0 & 3 & 3 & 0 \\ 0 & 0 & 0 & 0 \end{array}\right] \\
+\vdots \\
+\left[\begin{array}{@{}ccc|c@{}} 1 & 0 & 5 & 0\\ 0 & 1 & 1 & 0 \\ 0 & 0 & 0 & 0 \end{array}\right]
+\end{gather}
+	$$
+	El generador dado es **linealmente dependiente** por lo tanto no es base.
+	$$
+	\boxed{\mathcal{B}_{W}=\{ (-1,2,-2),(2,-1,-1) \}}
+	$$
+	$$
+	\boxed{\operatorname{dim}(W)=2}
+	$$
+## Subespacios presentados de forma paramétrica (2)
+$$
+\begin{gather}
+V=\mathbb{R}^3 \\
+W=\{  \}
+\end{gather}
+$$
