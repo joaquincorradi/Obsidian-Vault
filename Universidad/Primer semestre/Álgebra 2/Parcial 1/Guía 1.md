@@ -86,4 +86,34 @@ z=1+t
 \end{cases}
 	$$
 3. Calcular la intersección entre el plano $\pi$ y la recta $L$ que será el punto $Q$:
-	
+	Reemplazar $x$, $y$ y $z$ por los valores de las ecuaciones paramétricas de la recta $L$:
+	$$
+	\begin{align}
+2(1+2t)-(1-t)+(1+t)&=0 \\
+t&=-\frac{1}{3}
+\end{align}
+	$$
+	Reemplazo el valor de $t$ en las ecuaciones paramétrica de $L$:
+	$$
+	\begin{cases}
+x=1+2\left( \frac{1}{3} \right)=\frac{1}{3} \\
+y=1-\left( \frac{1}{3} \right)=\frac{4}{3} \\
+z=1+\left( \frac{1}{3} \right)=\frac{2}{3}
+\end{cases}
+	$$
+	$$
+	\boxed{Q=\left( \frac{1}{3}, \frac{4}{3}, \frac{2}{3} \right)}
+	$$
+4. Calcular la distancia entre el punto $P$ y el plano $\pi$:
+	$$
+	\begin{align}
+\operatorname{dist}(P,\pi)&=\operatorname{dist}(P,Q) \\
+&=\sqrt{ \left( 1-\frac{1}{3} \right)^2+\left( 1-\frac{4}{3} \right)^2+\left( 1-\frac{2}{3} \right)^2 }
+\end{align}
+	$$
+	$$
+	\boxed{\operatorname{dist}(P,\pi)=\operatorname{dist}(P,Q)=\frac{\sqrt{ 6 }}{3}\ \mathrm{u}\approx 0,82\ \mathrm{u}}
+	$$
+
+## Ángulo entre vectores
+
