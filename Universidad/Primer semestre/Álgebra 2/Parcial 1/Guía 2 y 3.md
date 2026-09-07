@@ -33,7 +33,7 @@ $$
 	 $$
 	 \boxed{\operatorname{dim}(W)=2}
 	 $$
-## Subespacios presentados de forma paramétrica (1)
+## Subespacios presentados de forma paramétrica (caso 1)
 $$
 \begin{gather}
 V=\mathbb{R}^3 \\
@@ -72,7 +72,7 @@ $$
 	$$
 	\boxed{\operatorname{dim}(W)=2}
 	$$
-## Subespacios presentados de forma paramétrica (2)
+## Subespacios presentados de forma paramétrica (caso 2)
 $$
 \begin{gather}
 V=\mathbb{R}^3 \\
@@ -91,5 +91,20 @@ $$
 	\alpha(1,0,0,0)+\beta(0,1,0,0)+\gamma(0,0,1,0)=(0,0,0,0)
 	$$
 	$$
-	\left[\begin{array}{@{}ccc|c@{}} 1 & 0 & 0 & 0\\ 0 & 3 & 3 & 0 \\ 0 & 0 & 0 & 0 \\ 0 & 0 & 0 & 0 \end{array}\right]
+	\left[\begin{array}{@{}ccc|c@{}} 1 & 0 & 0 & 0\\ 0 & 1 & 0 & 0 \\ 0 & 0 & 1 & 0 \\ 0 & 0 & 0 & 0 \end{array}\right]
 	$$
+	El generador es **linealmente independiente** así que también es base:
+	$$
+	\boxed{\mathcal{B}_{W}=\{ (1,0,0,0),(0,1,0,0),(0,0,1,0) \}}
+	$$
+## Intersección y suma de subespacios
+$$
+\begin{gather}
+V=\mathbb{R}^3 \\
+W_{1}=\{ (x,y,z)\mid 5x+5y+3z=0 \}, \quad \mathcal{B}_{W_{1}}=\{ (-1,2,-2),(2,-1,-1) \} \\
+ \quad \mathcal{B}_{W_{2}}=\{ (-2,1,0),(-1,0,1)
+\end{gather}
+$$
+$$
+
+$$
