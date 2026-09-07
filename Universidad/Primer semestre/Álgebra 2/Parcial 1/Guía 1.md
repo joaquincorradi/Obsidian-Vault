@@ -116,4 +116,4 @@ z=1+\left( \frac{1}{3} \right)=\frac{2}{3}
 	$$
 
 ## Ángulo entre vectores
-
+$$\cos(\theta)=\frac{\vec{u}\cdot \vec{u}}{}$$
