@@ -5,7 +5,7 @@ P=(2,-1,3) \\
 L:\frac{x}{2}=\frac{y+2}{-2}=z+2
 \end{gather}
 $$
-1. Pasar la recta $L$ a la ecuación vectorial y paramétricas para obtener el vector director $\vec{v}$:
+1. Pasar la recta $L$ a la ecuación vectorial y paramétricas y obtener el vector director $\vec{v}$:
 $$L:
 \begin{cases}
 x=2t \\ y=-2-2t \\ z=-2+t
@@ -17,7 +17,7 @@ $$
 $$
 \vec{v}=(2,-2,1)
 $$
-2. Construir un plano $\pi$ perpendicular a la recta $L$ que contiene al punto $P$. El vector normal $\vec{n}$ de $\pi$ va ser el vector $\vec{v}$.
+2. Construir un plano $\pi$ perpendicular a la recta $L$ que contiene al punto $P$. El vector normal $\vec{n}$ de $\pi$ va ser el vector $\vec{v}$:
 $$
 \begin{align}
 \pi:Ax+By+Cz&=D \\
@@ -30,7 +30,30 @@ $$
 	$$
 	Y así obtenemos el plano $\pi$:
 	$$
-	\pi:2x'
+	\pi:2x-2y+z=9
 	$$
-1. Calcular la intersección entre el plano $\pi$ y la recta $L$ que será el punto $Q$.
-2. Calcular la distancia entre el punto $P$ y la recta $L$.
+3. Calcular la intersección entre el plano $\pi$ y la recta $L$ que será el punto $Q$:
+	Reemplazar $x$, $y$ y $z$ por los valores de las ecuaciones paramétricas de la recta $L$:
+	$$
+	\begin{align}
+2(2t)-2(-2-2t)+(-2+t)&=9 \\
+t&=\frac{7}{9}
+\end{align}
+	$$
+	Reemplazo el valor de $t$ en las ecuaciones paramétrica de $L$:
+	$$
+	\begin{cases}
+x=2\left( \frac{7}{9} \right)=\frac{14}{9} \\
+y=-2-2\left( \frac{7}{9} \right)=-\frac{32}{9} \\
+z=-2+\left( \frac{7}{9} \right)=-\frac{11}{9}
+\end{cases}
+	$$
+	$$
+	\boxed{Q=\left( \frac{14}{9},-\frac{32}{9},-\frac{11}{9} \right)}
+	$$
+4. Calcular la distancia entre el punto $P$ y la recta $L$:
+	$$
+	\begin{align}
+\operatorname{dist}(P,L)=\operatorname{dist}(P,Q)
+\end{align}
+	$$
