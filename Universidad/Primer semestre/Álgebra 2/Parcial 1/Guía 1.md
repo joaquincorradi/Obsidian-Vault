@@ -65,8 +65,25 @@ z=-2+\left( \frac{7}{9} \right)=-\frac{11}{9}
 ## El punto del plano $\pi$ más próximo al punto $P$
 $$
 \begin{gather}
-P=()
+P=(1,1,1) \\
+\pi:2x-y+z=0
 \end{gather}
 $$
 1. Obtener el vector $\vec{n}$ del plano $\pi$:
+	$$
+	\vec{n}=(2,-1,1)
+	$$
+2. Construir una recta $L$ perpendicular al plano $\pi$ que contiene al punto $P$. El vector normal $\vec{n}$ de $\pi$ va a ser igual al vector director $\vec{v}$ de la recta $L$:
+	$$
+	L:(x,y,z)=(1,1,1)+t(2,-1,1)
+	$$
+	$$
+	L:
+	\begin{cases}
+x=1+2t \\
+y=1-t \\
+z=1+t
+\end{cases}
+	$$
+3. Calcular la intersección entre el plano $\pi$ y la recta $L$ que será el punto $Q$:
 	
