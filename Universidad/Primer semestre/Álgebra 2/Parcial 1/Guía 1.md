@@ -15,8 +15,22 @@ $$
 L:(x,y,z)=(0,-2,-2)+t(2,-2,1)
 $$
 $$
-\vec{v}=
+\vec{v}=(2,-2,1)
 $$
-1. Construir un plano $\pi$ perpendicular a la recta $L$ que contiene al punto $P$. El vector normal $\vec{n}$ de $\pi$ va ser el vector $\vec{v}$.
-2. Calcular la intersección entre el plano $\pi$ y la recta $L$ que será el punto $Q$.
-3. Calcular la distancia entre el punto $P$ y la recta $L$.
+2. Construir un plano $\pi$ perpendicular a la recta $L$ que contiene al punto $P$. El vector normal $\vec{n}$ de $\pi$ va ser el vector $\vec{v}$.
+$$
+\begin{align}
+\pi:Ax+By+Cz&=D \\
+2x-2y+z&=D \\
+\end{align}
+$$
+	Reemplazar $x$, $y$ y $z$ por el punto $P$:
+	$$
+	2(2)-2(-1)+(3)=D=9
+	$$
+	Y así obtenemos el plano $\pi$:
+	$$
+	\pi:2x'
+	$$
+1. Calcular la intersección entre el plano $\pi$ y la recta $L$ que será el punto $Q$.
+2. Calcular la distancia entre el punto $P$ y la recta $L$.
