@@ -54,6 +54,19 @@ z=-2+\left( \frac{7}{9} \right)=-\frac{11}{9}
 4. Calcular la distancia entre el punto $P$ y la recta $L$:
 	$$
 	\begin{align}
-\operatorname{dist}(P,L)=\operatorname{dist}(P,Q)
+\operatorname{dist}(P,L)&=\operatorname{dist}(P,Q) \\
+&=\sqrt{ \left( 2-\frac{14}{9} \right)^2+\left( -1+\frac{32}{9} \right)^2+\left( 3+\frac{11}{9} \right)^2 }
 \end{align}
 	$$
+	$$
+	\boxed{\operatorname{dist}(P,L)=\operatorname{dist}(P,Q)=\frac{\sqrt{ 221 }}{3}\ \mathrm{u}\approx 4,96\ \mathrm{u}}
+	$$
+
+## El punto del plano $\pi$ más próximo al punto $P$
+$$
+\begin{gather}
+P=()
+\end{gather}
+$$
+1. Obtener el vector $\vec{n}$ del plano $\pi$:
+	
