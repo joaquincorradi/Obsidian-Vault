@@ -76,6 +76,20 @@ $$
 $$
 \begin{gather}
 V=\mathbb{R}^3 \\
-W=\{  \}
+W=\{ (x_{1},x_{2},x_{3},0)\mid x_{1},x_{2},x_{3} \in \mathbb{R} \}
 \end{gather}
 $$
+1. **Conjunto generador:** usar los parámetros libres
+	$$
+	\alpha(1,0,0,0)+\beta(0,1,0,0)+\gamma(0,0,1,0)
+	$$
+	$$
+	W=\langle (1,0,0,0),(0,1,0,0),(0,0,1,0) \rangle
+	$$
+2. **Base:**
+	$$
+	\alpha(1,0,0,0)+\beta(0,1,0,0)+\gamma(0,0,1,0)=(0,0,0,0)
+	$$
+	$$
+	\left[\begin{array}{@{}ccc|c@{}} 1 & 0 & 0 & 0\\ 0 & 3 & 3 & 0 \\ 0 & 0 & 0 & 0 \\ 0 & 0 & 0 & 0 \end{array}\right]
+	$$
