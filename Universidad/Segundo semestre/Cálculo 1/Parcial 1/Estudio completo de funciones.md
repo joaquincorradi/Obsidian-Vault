@@ -3,11 +3,12 @@
 3. Ordenada al origen: $f(0)$
 4. Signos: excepciones del dominio y raíces.
 5. Asíntotas
-	- Vertical: tender $x$ a excepción del dominio por izquierda y derecha.
+	- Vertical: tender $x$ a excepción del dominio por izquierda y derecha. Debe dar como resultado $\pm \infty$
 	- Horizontal: tender $x$ a $\pm \infty$ y, en homográficas
 		- $\operatorname{deg}(P)<\operatorname{deg}(Q)\to y=0$
 		- $\operatorname{deg}(P)=\operatorname{deg}(Q)\to y=\frac{\text{coeficiente principal de }P}{\text{coeficiente principal de }Q}$
 		- $\operatorname{deg}(P)>\operatorname{deg}(Q)\to\nexists\ A.H.$
+		Debe dar como resultado un número real.
 	- Oblicua: para homográficas cuando $\operatorname{deg}(P)=\operatorname{deg}(Q)+1$. Tiene la forma de $y=mx+b$:
 		$$
 		\begin{gather}
