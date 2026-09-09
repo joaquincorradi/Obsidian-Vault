@@ -102,9 +102,10 @@ $$
 \begin{gather}
 V=\mathbb{R}^3 \\
 W_{1}=\{ (x,y,z)\mid 5x+5y+3z=0 \}, \quad \mathcal{B}_{W_{1}}=\{ (-1,2,-2),(2,-1,-1) \} \\
- \quad \mathcal{B}_{W_{2}}=\{ (-2,1,0),(-1,0,1)
+W_{2}=\{(x,y,z)\mid x+2y+z=0\}, \quad \mathcal{B}_{W_{2}}=\{ (-2,1,0),(-1,0,1)\}
 \end{gather}
 $$
+
 $$
 
 $$
