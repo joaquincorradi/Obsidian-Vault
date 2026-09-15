@@ -10,3 +10,10 @@
 10. $\int \frac{dx}{\sqrt{ x }(3+\sqrt{ x })}$
 11. $\int x^2\arctan(x)dx$
 12. $\int \frac{x+2}{x^3-11x^2+24x+36}dx$
+
+### L.I.A.T.E
+1. Logarítmicas: $\ln(x)$
+2. Inversa trigonométrica: $\arctan$, $\arcsin$
+3. Algebraica (polinomios): $x^2+1$
+4. Trigonométrica: $\cos$, $\sin$, $\tan$
+5. Exponencial: $e^x$
