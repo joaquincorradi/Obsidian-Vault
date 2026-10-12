@@ -2,5 +2,3 @@
 Sean las bases $B=\{v_{1}, v_{2}, \dots, v_{n}\}$ y $B'=\{v'_{1}, v'_{2}, \dots, v'_{n}\}$.
 - Matriz cambio de base de $B$ a $B'$:
 	$$[v]_{B'}=P_{B\to B'} \cdot [v]_{B}$$
-	$$P_{B\to B'}=[v]_{B'}\cdot [v]_{B}^{-1}$$
-	
