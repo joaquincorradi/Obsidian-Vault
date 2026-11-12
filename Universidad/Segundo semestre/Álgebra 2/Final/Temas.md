@@ -8,7 +8,7 @@ Definiciones:
 - Producto vectorial
 - Base espacio vectorial
 - Dimensión espacio vectorial
-- Conjunto generador
+
 - Subespacio generado
 - Núcleo espacio vectorial
 - Imagen espacio vectorial
