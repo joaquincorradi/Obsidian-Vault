@@ -6,6 +6,4 @@ Teoremas:
 Definiciones:
 - Suma directa
 - Producto vectorial
-- Núcleo espacio vectorial
-- Imagen espacio vectorial
 - Coordenadas de un vector respecto a una base
